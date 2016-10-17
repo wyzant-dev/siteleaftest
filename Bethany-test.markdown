@@ -1,7 +1,7 @@
 ---
 title: Bethany Test
 date: 2016-08-23 23:37:00 Z
-layout: page
+layout: post
 ---
 
 This is Bethany's test article. I want to show how easy it is to create a post, add an image, hyperlink.
