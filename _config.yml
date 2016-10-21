@@ -2,9 +2,6 @@
 title: WyzAnt Prod CMS
 timezone: UTC
 collections:
-  embeds:
-    title: Embeds
-    output: true
   posts:
     title: Posts
     output: true
