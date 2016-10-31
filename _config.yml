@@ -16,6 +16,4 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 baseurl: 
 url: https://www.wyzant.com
-twitter_username: jekyllrb
-github_username: jekyll
 markdown: kramdown
