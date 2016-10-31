@@ -2,6 +2,9 @@
 title: WyzAnt Prod CMS
 timezone: UTC
 collections:
+  authors:
+    title: Authors
+    output: true
   posts:
     title: Posts
     output: true
