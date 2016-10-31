@@ -1,6 +1,6 @@
 ---
 title: WyzAnt Prod CMS
-timezone: UTC
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
