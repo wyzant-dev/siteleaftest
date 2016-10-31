@@ -12,7 +12,8 @@ git clone repos.wyzdev.com/wyz-marketing/whitelabel-sites
 ```
 Navigate to your project via Terminal and install the `Jeykll` gem.
 ```
-gem install jekyll bundler
+$ gem install jekyll bundler
+$ bundle install
 ```
 Run the project.
 ```
