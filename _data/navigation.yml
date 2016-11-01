@@ -1,0 +1,11 @@
+header:
+  - title: Nav Link One
+    url: /nav-link-one/
+  - title: Nav Link Two
+    url: /nav-link-two/
+
+footer:
+  - title: Footer Link One
+    url: /footer-link-one/
+  - title: Link Two
+    url: /footer-link-two/
