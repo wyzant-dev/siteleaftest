@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+{% assign author = site.authors | where: 'title', post.author | first %}
+{% if author %}
+  <a href="{{ author.url }}">{{ author.title }}</a>
+{% endif %}
