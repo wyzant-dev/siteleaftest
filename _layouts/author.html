@@ -7,6 +7,7 @@ layout: default
 {% for author in site.authors %}
 	<img src={{author.profile-image}} />
 	<h1>{{author.author}}</h1>
-	
+	<p>Expertise: {{author.expertise}}</p>
+	<p>About me: {{author.bio}}</p>
 {% endfor %}
 
