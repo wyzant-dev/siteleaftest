@@ -13,12 +13,19 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
+    path: ""
     type: posts
   values:
     permalink: "/blog/:title/"
     layout: post
-    author: 
+    author:
+- scope:
+    path: ""
+    type: post-by-author
+  values:
+    Title:
+    Author:
+    Profile image:
 email: your-email@domain.com
 sass:
   sass_dir: styles/
