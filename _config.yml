@@ -2,11 +2,14 @@
 title: Wyzant Prod CMS
 timezone: America/Chicago
 collections:
+  authors:
+    title: Authors
+    output: true
   posts:
     title: Posts
     output: true
-  authors:
-    title: Authors
+  uploads:
+    title: Uploads
     output: true
 defaults:
 - scope:
@@ -15,7 +18,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: 
 email: your-email@domain.com
 sass:
   sass_dir: styles/
@@ -23,6 +26,6 @@ sass:
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
+baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown
