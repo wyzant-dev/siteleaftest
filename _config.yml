@@ -23,8 +23,8 @@ defaults:
     path: ''
     type: post-by-author
   values:
-    Author: 
-    Profile image: 
+    author: 
+    profile-image: 
 email: your-email@domain.com
 sass:
   sass_dir: styles/
