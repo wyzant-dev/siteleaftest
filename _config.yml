@@ -2,7 +2,7 @@
 title: Wyzant Prod CMS
 timezone: America/Chicago
 collections:
-  authors:
+  post-by-author:
     title: Authors
     output: true
   posts:
