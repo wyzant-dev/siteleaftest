@@ -18,8 +18,8 @@ defaults:
   values:
     permalink: "/blog/authors/"
     layout: author
-    expertise:
-    bio:
+    expertise: 
+    bio: 
 - scope:
     path: ''
     type: posts
