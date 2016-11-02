@@ -23,7 +23,6 @@ defaults:
     path: ''
     type: post-by-author
   values:
-    Title: 
     Author: 
     Profile image: 
 email: your-email@domain.com
