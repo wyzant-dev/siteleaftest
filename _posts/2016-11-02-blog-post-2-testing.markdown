@@ -1,5 +1,5 @@
 ---
-title: Blog Post 2 Testing
+title: Post 2 Testing
 date: 2016-11-02 13:08:00 -05:00
 tags:
 - wyzant

@@ -1,5 +1,5 @@
 ---
-title: Jessey Lobel
+title: Jessy Lobel
 expertise: writing
 bio: Hi I'm Jessy. And I am a copy writer here at Wyzant. Read my posts to learn more
   about lorem ipsume m Ipsum has been the industry's standard dummy text ever since
@@ -9,3 +9,4 @@ profile-image: "/uploads/Screen%20Shot%202016-11-02%20at%2011.29.34%20AM.png"
 author: Jessey Lobel
 ---
 
+This is just a little content I can drop on the page for Jessy. It can say whatever we want.
