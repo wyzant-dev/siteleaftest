@@ -8,9 +8,10 @@ layout: default
 	Published: {{ page.date }}<br />
 	Expertise: {{ data.expertise }} <br />
 	<img src={{ data.profile-image }} >
+	{{ data.url | prepend: site.baseurl }}
 	<h4>Content:</h4>
 	{{ content }}
 	<a href="/">Back to all articles</a><br /><br />
-	<a href="">See all articles from {{ page.author }}</a><br /><br />
+	<a href="{{ data.url | prepend: site.baseurl }}">See all articles from {{ page.author }}</a><br /><br />
 	<a href="">See Similar Articles</a>
 {% endfor %}
