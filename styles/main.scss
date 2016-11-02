@@ -8,3 +8,12 @@ body {
 	background: $blue;
 }
 
+header,
+footer {
+	text-align: center;
+
+	li {
+		list-style: none;
+	}
+}
+
