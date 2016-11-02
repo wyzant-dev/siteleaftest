@@ -5,18 +5,13 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
 email: your-email@domain.com
 sass:
   sass_dir: styles/
   style: compressed
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
-baseurl: 
+  results) and in your feed.xml site description.'
+baseurl:
 url: https://www.wyzant.com
 markdown: kramdown
