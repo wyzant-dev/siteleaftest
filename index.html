@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="home">
-  <header>
     <h1>Posts</h1>
     <p>This is the homepage of the Wyzant blog.</p>
-  </header>
+    <br />
+    <br />
   <ul>
     {% for post in site.posts %}
       <li>
@@ -15,7 +15,7 @@ layout: default
         <p>Post by: {{ post.author }}</p>
         <p>Post Content: {{post.content}}</p>
         <hr />
-      </li>
+      </li><br /><br /><br /><br />
     {% endfor %}
   </ul>
 

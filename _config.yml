@@ -14,14 +14,9 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
-  values:
-    permalink: "/blog/authors/:title/"
-- scope:
-    path: ''
     type: authors
   values:
-    permalink: "/blog/authors/"
+    permalink: "/authors/:title/"
     layout: author
     expertise: 
     bio: 
@@ -29,7 +24,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: blog/:title/
+    permalink: "/:title/"
     layout: post
     author: 
 email: your-email@domain.com
