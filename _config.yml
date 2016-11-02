@@ -16,9 +16,10 @@ defaults:
     path: ''
     type: authors
   values:
-    permalink: "/blog/authors/:title/"
+    permalink: "/blog/authors/"
     layout: author
-    author: 
+    expertise:
+    bio:
 - scope:
     path: ''
     type: posts
@@ -26,7 +27,6 @@ defaults:
     permalink: "blog/:title/"
     layout: post
     author: 
-    profile-image: 
 email: your-email@domain.com
 sass:
   sass_dir: styles/

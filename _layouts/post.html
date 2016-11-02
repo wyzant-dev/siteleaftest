@@ -4,11 +4,13 @@ layout: default
 
 {% assign author = site.authors | where: 'title', post.author %}
 {% if author %}
+	<img src={{ page["profile-image"] }} />
 	<h4>Author:</h4>
 	{{ page["author"] }}
+
 	<h4>Content:</h4>
 	{{ content }}
-	<a href="">Back to all articles</a><br />
+	<a href="/">Back to all articles</a><br />
 	<a href="">See all articles from {{ page["author"] }}</a><br />
 	<a href="">See Similar Articles</a>
 {% endif %}

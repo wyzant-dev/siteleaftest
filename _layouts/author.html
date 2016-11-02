@@ -2,7 +2,10 @@
 layout: default
 ---
 <h1>Author Page</h1>
-<p>This page contains all the posts for each author.</p>
-<h1 class="name">{{ page.author }}</h1>
-<div class="bio">{{ page.content }}</div>
+<p>This page contains a list of each author and a small bio about them.</p>
+{% for author in site.authors %}
+	<img src={{author.profile-image}} />
+	<h1>{{author.author}}</h1>
+	
+{% endfor %}
 
