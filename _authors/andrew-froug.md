@@ -1,6 +1,6 @@
 ---
 title: Andrew Froug
-Profile image:
+Profile image: 
 Author: Andrew Froug
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Jessy Lobel
-Profile image:
+Profile image: 
 Author: Jessy Lobel
 ---
 
