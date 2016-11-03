@@ -27,6 +27,7 @@ defaults:
     permalink: "/:title/"
     layout: post
     author: 
+    hero-image:
 email: your-email@domain.com
 sass:
   sass_dir: styles/
