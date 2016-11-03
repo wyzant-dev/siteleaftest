@@ -2,21 +2,30 @@
 layout: default
 ---
 
-<div class="home">
-    <h1>Posts</h1>
-    <p>This is the homepage of the Wyzant blog.</p>
-    <br />
-    <br />
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        <p>Post by: {{ post.author }}</p>
-        <p>Post Content: {{post.content}}</p>
-        <hr />
-      </li><br /><br /><br /><br />
-    {% endfor %}
-  </ul>
-
-</div>
+<main class="home">
+  <section class="row">
+    <div class="column">
+      <h1>Wyzant Blog Title</h1>
+      <p>This is a very imformative Wyzant blog description. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five</p>
+      <ul class="reset">
+        {% for post in site.posts %}
+          <li>
+            {% if post.hero-image %}
+              <figure style='background-image: url("{{ post.hero-image }}");'></figure>
+            {% else %}
+              <figure style='background-image: url("https://placekitten.com/200/300");'></figure>
+            {% endif %}
+            <section>
+              <span>{{ post.author }}</span>
+              <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+            </section>
+            <h1>{{ post.title | escape }}</h1>
+            <p>{{ post.description }}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-small btn-wide">Read This Article</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <a href="/authors/">See all authors</a>
+    </div>
+  </section>
+</main>

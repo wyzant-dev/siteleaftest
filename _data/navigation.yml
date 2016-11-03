@@ -1,8 +1,14 @@
 header:
-  - title: Nav Link One
-    url: /nav-link-one/
-  - title: Nav Link Two
-    url: /nav-link-two/
+  - title: Find a  Tutor
+    url: /#/
+  - title: How it Works
+    url: /#/
+  - title: Content
+    url: /#/
+  - title: Tutors
+    url: /#/
+  - title: About Wyzant
+    url: /#/
 
 footer:
   - title: Footer Link One

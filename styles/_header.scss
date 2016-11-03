@@ -1,0 +1,46 @@
+header {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    background: rgba(32,32,32,.5);
+    color: #fff;
+    nav {
+    	display: inline-block;
+    }
+	ul {
+		list-style: none;
+		display: inline-block;
+	}
+	li {
+		display: inline-block;
+	}
+	a {
+		color: #fff;
+	}
+	img {
+		position: absolute;
+	    left: 50%;
+	    width: 110px;
+	    margin-left: -55px;
+	}
+}
+
+@media #{$queryMedium} {
+	header {
+		min-height: 80px;
+		padding: 20px 0;
+
+		nav {
+			padding: .7em 0;
+		}
+		img {
+		    width: 164px;
+		    margin: 0 20px 0 0;
+		    vertical-align: top;
+		    position: static;
+		}
+		li {
+		    padding: .3em 1em 0 0;
+		}
+	}
+}
