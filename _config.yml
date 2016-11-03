@@ -27,6 +27,7 @@ defaults:
     permalink: "/:title/"
     layout: post
     author: 
+    sub-headline:
     hero-image: 
     description: 
 email: your-email@domain.com
