@@ -2,15 +2,36 @@
 layout: default
 ---
 
-{% assign author = site.authors | where: "title", page.author %}
-{% for data in author %}
-	Author: {{ data.author }} <br />
-	Published: {{ page.date }}<br />
-	Expertise: {{ data.expertise }} <br />
-	<img src={{ data.profile-image }} >
-	<h4>Content:</h4>
-	{{ content }}
-	<a href="/">Back to all articles</a><br /><br />
-	<a href="{{ data.url | prepend: site.baseurl }}">See all articles from {{ page.author }}</a><br /><br />
-	<a href="">See Similar Articles</a>
-{% endfor %}
+<main class="post">
+	{% assign author = site.authors | where: "title", page.author %}
+	{% for data in author %}
+		{% if page.hero-image %}
+		<figure style='background-image: url("{{ page.hero-image }}");'></figure>
+		{% else %}
+		<figure style='background-image: url("http://img.bleacherreport.net/img/images/photos/003/637/116/hi-res-e752178f4dc1e29870c6f68379ad18b4_crop_north.jpg?w=630&h=420&q=75");'></figure>
+		{% endif %}
+		<article>
+			<section class="row">
+				<div class="column">
+					<section class="profile-image-container">
+						<img src={{ data.profile-image }} >
+					</section>
+					<header>
+						<h1>{{ page.title }}</h1>
+						{% if page.sub-headline %}
+							<h2 class="light-header">{{ page.sub-headline }}</h2>
+						{% endif %}
+					</header>
+					<section class="author-container">
+						<span>{{ data.author }}</span>
+						<span>{{ page.date | date: "%b %-d, %Y" }}</span>
+					</section>
+					{{ content }}
+					<a href="/">Back to all articles</a><br /><br />
+					<a href="{{ data.url | prepend: site.baseurl }}">See all articles from {{ page.author }}</a><br /><br />
+					<a href="">See Similar Articles</a>
+				</div>
+			</section>
+		</article>
+	{% endfor %}
+</main>

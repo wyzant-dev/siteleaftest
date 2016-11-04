@@ -23,6 +23,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 2. List Item Number Two
 3. List Item Number Three
 
-> Super Good Pull Quote. Lorem Ipsum has been the industry's standard dummy text ever since the 
+### Super Good Pull Quote. Lorem Ipsum has been the industry's standard dummy text ever since the 
 
 ![Neighborhoods.jpg](/uploads/Neighborhoods.jpg)
