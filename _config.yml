@@ -1,9 +1,6 @@
 ---
 title: Wyzant Blog Name
 timezone: America/Chicago
-pagination:
-  limit: false
-  per_page: 4
 collections:
   authors:
     title: Authors
@@ -23,7 +20,7 @@ defaults:
     layout: author
     expertise: 
     bio: 
-    profile-image:
+    profile-image: 
 - scope:
     path: ''
     type: posts
@@ -34,6 +31,9 @@ defaults:
     sub-headline: 
     hero-image: 
     description: 
+pagination:
+  limit: false
+  per_page: 4
 sub-headline: Sub headline goes here
 hero-image: 
 email: your-email@domain.com
