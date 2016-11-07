@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: true
+  home-page-content:
+    title: Home Page Content
+    output: true
   posts:
     title: Posts
     output: true
