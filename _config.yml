@@ -1,6 +1,9 @@
 ---
 title: Wyzant Blog Name
 timezone: America/Chicago
+pagination:
+  limit: false
+  per_page: 2
 collections:
   authors:
     title: Authors

@@ -153,6 +153,9 @@ b,
 .text-noselect {
     user-select: none;
 }
+.text-center {
+    text-align: center !important;
+}
 
 //========== Text color classes ==========
 // These should only be used when the design calls for colored text
