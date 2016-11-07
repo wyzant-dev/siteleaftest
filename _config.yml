@@ -31,6 +31,7 @@ defaults:
     hero-image: 
     description: 
 sub-headline: Sub headline goes here
+hero-image: 
 email: your-email@domain.com
 sass:
   sass_dir: styles/
@@ -41,4 +42,3 @@ description: Write an awesome description for your new site here. You can edit t
 baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown
-hero-image: 
