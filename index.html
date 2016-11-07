@@ -27,17 +27,25 @@ paginate: true
                 <div>
                   <section class="profile-image-container">
                     <div>
-                    {% assign author = site.authors | where: "title", post.author %}
-                    {% for data in author %}
-                      {% assign photo = data.profile-image %}
-                      {% if photo %}
-                        <img src="{{ photo }}" alt="author image">
-                      {% else %}
-                        <h1>Paige</h1>
-                      {% endif %}
-                    {% endfor %}
+                    {% if post.author %}
+                      {% assign author = site.authors | where: "author", post.author %}
+                      {% for data in author %}
+                        {% assign photo = data.profile-image %}
+                        {% if photo %}
+                          <img src="{{ photo }}" alt="author image">
+                        {% else %}
+                          <img src="/uploads/author-icon-default.png" alt="default author image">
+                        {% endif %}
+                      {% endfor %}
+                    {% else %}
+                      <img src="/uploads/author-icon-default.png" alt="default author image">
+                    {% endif %}
                   </section>
-                  <span>{{ post.author }}</span>
+                  {% if post.author %}
+                    <span>{{ post.author }}</span>
+                  {% else %}
+                    <span>A Wyzant Staff Staff Member</span>
+                  {% endif %}
                 </div>
                 <span>{{ post.date | date: "%-m/%-d/%Y" }}</span>
               </section>

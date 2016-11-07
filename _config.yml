@@ -34,9 +34,6 @@ defaults:
     sub-headline: 
     hero-image: 
     description: 
-pagination:
-  limit: false
-  per_page: 2
 sub-headline: Sub headline goes here
 hero-image: 
 email: your-email@domain.com
