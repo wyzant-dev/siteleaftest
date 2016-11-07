@@ -5,8 +5,8 @@ layout: default
 <main class="home">
   <section class="row">
     <div class="column">
-      <h1>Wyzant Blog Title</h1>
-      <p>This is a very imformative Wyzant blog description. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five</p>
+      <h1>{{ site.title }}</h1>
+      <h2>{{ site.markdown }}</h2>
       <ul class="reset">
         {% for post in site.posts %}
           <li>
