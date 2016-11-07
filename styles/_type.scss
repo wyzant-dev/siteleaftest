@@ -143,7 +143,7 @@ b,
     color: $textColorDisabled;
 }
 .text-caps {
-    text-transform: uppercase !important;
+    text-transform: uppercase;
 }
 .text-error {
     color: $poppy;
@@ -154,7 +154,7 @@ b,
     user-select: none;
 }
 .text-center {
-    text-align: center !important;
+    text-align: center;
 }
 
 //========== Text color classes ==========

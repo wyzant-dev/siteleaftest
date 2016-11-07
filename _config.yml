@@ -3,7 +3,7 @@ title: Wyzant Blog Name
 timezone: America/Chicago
 pagination:
   limit: false
-  per_page: 2
+  per_page: 4
 collections:
   authors:
     title: Authors
@@ -23,6 +23,7 @@ defaults:
     layout: author
     expertise: 
     bio: 
+    profile-image:
 - scope:
     path: ''
     type: posts

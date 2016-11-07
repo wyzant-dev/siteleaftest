@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum
 date: 2016-11-04 00:22:00 -05:00
-author: Jessy Lobel
+author: Paige Keenan
 sub-headline: 'Lorem Ipsum is simply dummy text of the printing '
 hero-image: "/uploads/team-hero-footer.jpg"
 description: Small description about what is going on in this article. Little more.

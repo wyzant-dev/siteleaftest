@@ -9,7 +9,7 @@ paginate: true
   {% else %}
     <figure style='background-image: url("/uploads/homepage-hero-default.png");'>
   {% endif %}
-      <h1 class="text-caps text-white">{{ site.title }}</h1>
+      <h1 class="text-caps text-white spc-zero-s">{{ site.title }}</h1>
       <h2 class="text-caps text-green">{{ site.sub-headline }}</h2>
   </figure>
   <section class="row">
@@ -17,20 +17,28 @@ paginate: true
       <ul class="reset">
         {% for post in paginator.posts %}
           <li>
-            <article class="text-center">
+            <article class="text-center medium-text-left">
               {% if post.hero-image %}
                 <figure style='background-image: url("{{ post.hero-image }}");'></figure>
               {% else %}
                 <figure style='background-image: url("http://img.bleacherreport.net/img/images/photos/003/637/116/hi-res-e752178f4dc1e29870c6f68379ad18b4_crop_north.jpg?w=630&h=420&q=75");'></figure>
               {% endif %}
               <section class="spc-tiny-n">
-                <section class="profile-image-container">
-                  {% assign author = site.authors | where: "title", post.author %}
-                  {% for data in author %}
-                    <img src="{{ data.profile-image }}" alt="author image">
-                  {% endfor %}
-                </section>
-                <span>{{ post.author }}</span>
+                <div>
+                  <section class="profile-image-container">
+                    <div>
+                    {% assign author = site.authors | where: "title", post.author %}
+                    {% for data in author %}
+                      {% assign photo = data.profile-image %}
+                      {% if photo %}
+                        <img src="{{ photo }}" alt="author image">
+                      {% else %}
+                        <h1>Paige</h1>
+                      {% endif %}
+                    {% endfor %}
+                  </section>
+                  <span>{{ post.author }}</span>
+                </div>
                 <span>{{ post.date | date: "%-m/%-d/%Y" }}</span>
               </section>
               <h1 class="text-green spc-n spc-zero-s">{{ post.title | escape }}</h1>
