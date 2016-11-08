@@ -21,7 +21,7 @@ defaults:
     expertise: 
     bio: 
     profile-image: 
-    author: "A Wyzant Staff Member"
+    author: A Wyzant Staff Member
 - scope:
     path: ''
     type: posts
