@@ -30,7 +30,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 3. List Item Number Three
 
-> Here is a pull quote. Lorem ipsum pull quotes goes here. summy text of the printing pull quotes.
+> Here is a pull quote. Lorem ipsum pull quotes goes here. summy text of the printing pull quotes. Here is a pull quote. Lorem ipsum pull quotes goes here. summy text of the printing pull quotes.
 
 
 ### Super Good Pull Quote. Lorem Ipsum has been the industry's standard dummy text ever since the
