@@ -11,6 +11,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+gems:
+- octopress-paginate
 defaults:
 - scope:
     path: ''
