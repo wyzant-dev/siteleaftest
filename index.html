@@ -17,7 +17,7 @@ paginate: true
       <ul class="reset">
         {% for post in paginator.posts %}
           <li>
-            <article class="text-center medium-text-left">
+            <article>
               {% if post.hero-image %}
                 <figure style='background-image: url("{{ post.hero-image }}");'></figure>
               {% else %}
@@ -53,7 +53,11 @@ paginate: true
               {% if post.sub-headline %}
                 <h2 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h2>
               {% endif %}
-              <p>{{ post.description }}</p>
+              {% if post.description %}
+                <p>{{ post.description }}</p>
+              {% else %}
+                <p>{{ post.content | truncate: 150 }}</p>
+              {% endif %}
               <a href="{{ post.url | prepend: site.baseurl }}" class="btn">Read More</a>
             </article>
           </li>
