@@ -11,8 +11,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-gems:
-- octopress-paginate
 defaults:
 - scope:
     path: ''
@@ -34,6 +32,8 @@ defaults:
     sub-headline: 
     hero-image: 
     description: 
+gems:
+- octopress-paginate
 pagination:
   limit: false
   per_page: 4
