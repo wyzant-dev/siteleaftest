@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main class="post">
-	{% assign author = site.authors | where: "title", page.author %}
+	{% assign author = site.authors | where: "author", page.author %}
 	{% for data in author %}
 		{% if page.hero-image %}
 		<figure style='background-image: url("{{ page.hero-image }}");'></figure>
@@ -14,16 +14,26 @@ layout: default
 			<section class="row">
 				<div class="column">
 					<section class="profile-image-container">
-						<img src={{ data.profile-image }} >
+						{% if data.profile-image %}
+							<img src="{{ data.profile-image }}" alt="author profile">
+						{% else %}
+							<img src="/uploads/author-icon-default.png" alt="default author profile">
+						{% endif %}
 					</section>
 					<header>
-						<h1>{{ page.title }}</h1>
+						{% if page.title %}
+							<h1>{{ page.title }}</h1>
+						{% endif %}
 						{% if page.sub-headline %}
 							<h2 class="light-header">{{ page.sub-headline }}</h2>
 						{% endif %}
 					</header>
 					<section class="author-container">
-						<span>{{ data.author }}</span>
+						{% if data.author %}
+							<span>{{ data.author }}</span>
+						{% else %}
+							<span>A Wyzant Staff Member</span>
+						{% endif %}
 						<span>{{ page.date | date: "%b %-d, %Y" }}</span>
 					</section>
 					{{ content }}
