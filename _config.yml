@@ -28,7 +28,7 @@ defaults:
   values:
     permalink: "/:title/"
     layout: post
-    author:
+    author: 
     sub-headline: 
     hero-image: 
     description: 
