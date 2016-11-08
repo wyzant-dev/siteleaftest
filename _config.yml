@@ -21,13 +21,14 @@ defaults:
     expertise: 
     bio: 
     profile-image: 
+    author: A Wyzant Staff Member
 - scope:
     path: ''
     type: posts
   values:
     permalink: "/:title/"
     layout: post
-    author: A Wyzant Staff Member
+    author:
     sub-headline: 
     hero-image: 
     description: 
