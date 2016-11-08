@@ -6,6 +6,7 @@ tags:
 - howto
 author: Andrew Froug
 sub-headline: This is space for the sub title
+description: Here is a description for this post that will appear on the index.
 ---
 
 Here is my post. It's pretty lovely.
