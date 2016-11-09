@@ -28,7 +28,7 @@ defaults:
   values:
     permalink: "/:title/"
     layout: post
-    page-title:
+    page-title: 
     author: A Wyzant Staff Member
     sub-headline: 
     hero-image: 
