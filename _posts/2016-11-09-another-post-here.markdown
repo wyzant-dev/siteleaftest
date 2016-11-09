@@ -1,6 +1,9 @@
 ---
 title: Another Post here
 date: 2016-11-09 13:11:00 -06:00
+tags:
+- seo
+- art
 page-title: Tab Title here
 author: Katie Cooper
 sub-headline: Sub headline here
