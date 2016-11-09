@@ -2,19 +2,38 @@
     <head>
         {% if page.page-title %}
             <title>{{ page.page-title }}</title>
+            <meta property="og:title" content="{{ page.page-title }}">
+            <meta name="twitter:title" content="{{ page.page-title }}">
         {% elsif page.title %}
             <title>{{ page.title }}</title>
+            <meta property="og:title" content="{{ page.title }}">
+            <meta name="twitter:title" content="{{ page.title }}">
         {% else %}
             <title>{{ site.page-title }}</title>
+            <meta property="og:title" content="{{ site.page-title }}">
+            <meta name="twitter:title" content="{{ site.page-title }}">
         {% endif %}
 
         {% if page.path == "index.html" %}
             <meta name="description" content="{{ site.description }}">
+            <meta property="og:description" content="{{ site.description }}">
+            <meta name="twitter:description" content="{{ site.description }}">
         {% elsif page.description %}
             <meta name="description" content="{{ page.description }}">
+            <meta property="og:description" content="{{ page.description }}">
+            <meta name="twitter:description" content="{{ page.description }}">
         {% else %}
             <meta name="description" content="{{ page.content | truncate: 150 | strip_html }}">
+            <meta property="og:description" content="{{ page.content | truncate: 150 | strip_html }}">
+            <meta name="twitter:description" content="{{ page.content | truncate: 150 | strip_html }}">
         {% endif %}
+
+
+       
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="https://wyzant.com">
+       
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta charset="utf-8">

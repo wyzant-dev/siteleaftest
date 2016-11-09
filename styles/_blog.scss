@@ -234,6 +234,9 @@ blockquote {
 		}
 	}
 }
+.recent-articles ul {
+	margin: 0 auto;
+}
 
 @media #{$queryMedium} {
 	.post {

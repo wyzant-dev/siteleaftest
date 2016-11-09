@@ -66,6 +66,7 @@ body {
 }
 @media #{$queryMedium} {
     .show-medium {
-        display: block;
+        display: inline-block;
+        width: 100%;
     }
 }

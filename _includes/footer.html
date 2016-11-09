@@ -28,35 +28,37 @@
 		</section>
 	</div>
 	<div class="hide show-medium footer-row-2">
-		<div class="row flex-medium">
-			<section>
-				<h2 class="text-small text-caps text-white text-semibold spc-sm-s">Tutors By Subject</h2>
-				<div class="flex-medium">
-					{% for category in site.data.navigation.footer-bottom.column-one %}
-						<ul class="reset">
-							{% for list-item in category.items %}
-								<li>
-									<a href="{{ list-item.url }}" class="text-white text-small">{{ list-item.title }}</a>
-								</li>
-							{% endfor %}
-						</ul>
-					{% endfor %}
-				</div>
-			</section>
-			<section>
-				<h2 class="text-small text-caps text-white text-semibold spc-sm-s">Tutors By Location</h2>
-				<div class="flex-medium">
-					{% for category in site.data.navigation.footer-bottom.column-two %}
-						<ul class="reset">
-							{% for list-item in category.items %}
-								<li>
-									<a href="{{ list-item.url }}" class="text-white text-small">{{ list-item.title }}</a>
-								</li>
-							{% endfor %}
-						</ul>
-					{% endfor %}
-				</div>
-			</section>
+		<div class="row">
+			<div class="flex-medium column">
+				<section>
+					<h2 class="text-small text-caps text-white text-semibold spc-sm-s">Tutors By Subject</h2>
+					<div class="flex-medium">
+						{% for category in site.data.navigation.footer-bottom.column-one %}
+							<ul class="reset">
+								{% for list-item in category.items %}
+									<li>
+										<a href="{{ list-item.url }}" class="text-white text-small">{{ list-item.title }}</a>
+									</li>
+								{% endfor %}
+							</ul>
+						{% endfor %}
+					</div>
+				</section>
+				<section>
+					<h2 class="text-small text-caps text-white text-semibold spc-sm-s">Tutors By Location</h2>
+					<div class="flex-medium">
+						{% for category in site.data.navigation.footer-bottom.column-two %}
+							<ul class="reset">
+								{% for list-item in category.items %}
+									<li>
+										<a href="{{ list-item.url }}" class="text-white text-small">{{ list-item.title }}</a>
+									</li>
+								{% endfor %}
+							</ul>
+						{% endfor %}
+					</div>
+				</section>
+			</div>
 		</div>
 	</div>
 </footer>
