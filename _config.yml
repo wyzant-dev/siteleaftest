@@ -32,7 +32,7 @@ defaults:
     sub-headline: 
     hero-image: 
     description: 
-Title: Title here
+page-title: Title here
 gems:
 - octopress-paginate
 pagination:
