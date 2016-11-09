@@ -1,8 +1,11 @@
 <header>
 	<section class="row">
 		<div class="column">
+			<a href="#" id="menu" class="left">
+				<i class="wc-menu"></i>
+			</a>
 			<img src="/uploads/wyzant-logo.png" alt="logo">
-			<nav>
+			<nav id="nav" data-expanded="false">
 			    <ul class="text-caps reset">
 			      {% for item in site.data.navigation.header %}
 			      <li class="text-small">

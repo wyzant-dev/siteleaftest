@@ -1,4 +1,6 @@
 header:
+  - title: Sign Up
+    url: /#/
   - title: Find a  Tutor
     url: /#/
   - title: How it Works
@@ -10,8 +12,50 @@ header:
   - title: About Wyzant
     url: /#/
 
-footer:
-  - title: Footer Link One
-    url: /footer-link-one/
-  - title: Link Two
-    url: /footer-link-two/
+footer-top:
+  subcategories:
+    - title: Get To Know Us
+      id: get-to-know-us
+      items:
+        - title: About Us
+          url: /#/
+        - title: Contact Us
+          url: /#/
+        - title: FAQ
+          url: /#
+        - title: Reviews
+          url: /#
+        - title: Safety
+          url: /#
+        - title: Security
+          url: /#
+        - title: In the News
+          url: /#
+    - title: Learn With Us
+      id: learn-with-us
+      items:
+        - title: Find a Tutor
+          url: /#/
+        - title: Request a Tutor
+          url: /#/
+        - title: Online Tutoring
+          url: /#/
+        - title: Get Math Help
+          url: /#/
+        - title: Learning Resources
+          url: /#/
+        - title: WyzAnt Scholarships
+          url: /#/
+    - title: Work With Us
+      id: find-a-tutor
+      items:
+        - title: Careers at Wyzant
+          url: /#/
+        - title: Apply to Tutor
+          url: /#/
+        - title: Tutor Job Board
+          url: /#/
+        - title: Partners
+          url: /#/
+        - title: Affiliates
+          url: /#/

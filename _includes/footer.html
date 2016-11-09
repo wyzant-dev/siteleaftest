@@ -1,10 +1,28 @@
 <footer>
-    <h1>Footer Here</h1>
-    <ul>
-      {% for item in site.data.navigation.footer %}
+    <ul class="reset">
+      {% for subcategory in site.data.navigation.footer-top.subcategories %}
       <li>
-        <a href="{{ item.url }}">{{ item.title }}</a>
+        <input type="checkbox" id="{{ subcategory.id }}" class="footer-headline ">
+        <label for="{{ subcategory.id }}" class="text-green text-semibold text-caps text-center">{{ subcategory.title }}</label>
+        <ul class="reset">
+        {% for item in subcategory.items %}
+        	<li>
+        		<a href="{{ item.url }}" class="text-white">{{ item.title }}</a>
+        	</li>
+    	{% endfor %}
+    	</ul>
       </li>
       {% endfor %}
     </ul>
+    <section class="spc-xl">
+    	<h2 class="text-green text-caps text-center">Did we go viral yet?</h2>
+    	<div class="flex-intro spc">
+			<a href="http://www.facebook.com/Wyzant" target="_blank" class="text-orange"><i class="wc-facebook"></i></a>
+			<a href="http://www.twitter.com/Wyzant" target="_blank" class="text-orange"><i class="wc-twitter"></i></a>
+			<a href="http://www.linkedin.com/company/wyzant-tutoring" target="_blank" class="text-orange"><i class="wc-linkedin"></i></a>
+		</div>
+		<a href="http://www.bbb.org/chicago/business-reviews/tutoring/wyzantcom-in-chicago-il-88349022#bbblogo" target="_blank">
+			<img src="/uploads/bbb-logo.png" alt="bbb logo">
+		</a>
+	</section>
 </footer>
