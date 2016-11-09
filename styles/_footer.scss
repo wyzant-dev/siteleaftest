@@ -66,3 +66,74 @@ footer {
 		display: block;
 	}
 }
+
+@media #{$queryMedium} {
+	footer {
+		input {
+			display: none;
+		}
+		label {
+			width: auto;
+			margin-top: 60px;
+			border-bottom: 0;
+			padding-left: 0;
+			padding-top: 0;
+			cursor: default;
+			&:after {
+				display: none;
+			}
+		}
+		ul {
+			input[type=checkbox]:checked ~ ul,
+			input[type=checkbox] ~ ul {
+				max-height: 100%;
+
+				li {
+					display: block;
+				}
+			}
+			li {
+				display: inline-block;
+				vertical-align: top;
+				padding-right: 2em;
+			}
+			ul {
+				li {
+					border: 0;
+				}
+				a {
+					padding: 0 0 .75em 0;
+					cursor: pointer;
+				}
+			}
+		}
+	}
+	.flex-medium {
+		display: flex;
+		justify-content: space-between;
+	}
+	.row.footer-row-1 {
+		max-width: 70%;
+	}
+	.footer-row-2 {
+		background: $charcoal;
+		padding: 60px 0;
+		ul {
+			display: inline-block
+		}
+		li {
+			display: block;
+			padding: 0 0 .75em 0;
+		}
+		a {
+			color: $gray;
+			cursor: pointer;
+		}
+		section {
+			width: 50%;
+		}
+		ul {
+			padding-right: 3em;
+		}
+	}
+}

@@ -61,3 +61,11 @@ body {
     margin: 0;
     list-style: none;
 }
+.hide {
+    display: none;
+}
+@media #{$queryMedium} {
+    .show-medium {
+        display: block;
+    }
+}

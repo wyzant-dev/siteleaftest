@@ -59,3 +59,86 @@ footer-top:
           url: /#/
         - title: Affiliates
           url: /#/
+
+footer-bottom:
+  column-one:
+    - items:
+      - title: Algebra Tutors
+        url: /#/
+      - title: Calculus Tutors
+        url: /#/
+      - title: Chemistry Tutors
+        url: /#/
+      - title: Computer Tutors
+        url: /#/
+      - title: Elementary Tutors
+        url: /#/
+      - title: English Tutors
+        url: /#/
+    - items:
+      - title: Geometry Tutors
+        url: /#/
+      - title: Calculus Tutors
+        url: /#/
+      - title: Chemistry Tutors
+        url: /#/
+      - title: Computer Tutors
+        url: /#/
+      - title: Elementary Tutors
+        url: /#/
+      - title: English Tutors
+        url: /#/
+    - items:
+      - title: SAT Tutors
+        url: /#/
+      - title: Science Tutors
+        url: /#/
+      - title: Spanish Tutors
+        url: /#/
+      - title: Statistics Tutors
+        url: /#/
+      - title: Test Prep Tutors
+        url: /#/
+      - title: Writing Tutors
+        url: /#/
+
+  column-two:
+    - items:
+      - title: Atlanta Tutors
+        url: /#/
+      - title: Boston Tutors
+        url: /#/
+      - title: Brooklyn Tutors
+        url: /#/
+      - title: Chicago Tutors
+        url: /#/
+      - title: Dallas Tutors
+        url: /#/
+      - title: Denver Tutors
+        url: /#/
+    - items:
+      - title: Detroit Tutors
+        url: /#/
+      - title: Houston Tutors
+        url: /#/
+      - title: Los Angeles Tutors
+        url: /#/
+      - title: Miami Tutors
+        url: /#/
+      - title: New York City Tutors
+        url: /#/
+      - title: Orange County Tutors
+        url: /#/
+    - items:
+      - title: Philadelphia Tutors
+        url: /#/
+      - title: Phoenix Tutors
+        url: /#/
+      - title: San Francisco Tutors
+        url: /#/
+      - title: Seattle Tutors
+        url: /#/
+      - title: San Diego Tutors
+        url: /#/
+      - title: Washington, DC Tutors
+        url: /#/
