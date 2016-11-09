@@ -23,3 +23,7 @@ group :jekyll_plugins do
   gem 'jekyll-tagging'
   gem 'octopress-paginate'
 end
+
+group :jekyll_plugins do
+  gem 'jekyll-tagging'
+end
