@@ -37,8 +37,9 @@ blockquote {
 		margin: 0 15px;
 	}
 }
-article .content,
-.post .group {
+.home article,
+.post article .group,
+.post article .content {
 	h1 {
 		font-size: 26px;
 	}
