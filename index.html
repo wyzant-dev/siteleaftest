@@ -47,7 +47,7 @@ paginate: true
                     <span>A Wyzant Staff Staff Member</span>
                   {% endif %}
                 </div>
-                <span>{{ post.date | date: "%-m/%-d/%Y" }}</span>
+                <time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
               </section>
               <h1 class="text-green spc-sm-n spc-zero-s">{{ post.title | escape }}</h1>
               {% if post.sub-headline %}
