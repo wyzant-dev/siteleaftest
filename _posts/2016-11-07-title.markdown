@@ -1,12 +1,12 @@
 ---
 title: Title goes here
 date: 2016-11-07 18:48:00 -06:00
-categories:
-- seo
+tags:
 - art
-sub-headline: Sub headline Goes Here
+- tech
 page-title: Page Title
 author: Andrew Froug
+sub-headline: Sub headline Goes Here
 hero-image: "/uploads/banner-background-default.png"
 description: This is the meta description and the blog description that will appear
   on the homepage of wyzant. If this doesn't exist, we'll just use the first 150 characters
