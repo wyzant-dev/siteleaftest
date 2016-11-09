@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section class="post-by-tag">
+	<section class="row">
+		<div class="column">
+			<h1>Tagged {{ page.tag }}</h1>
+
+			{% assign posts = site.tags[page.tag] %}
+			{% for post in posts %}
+			  <p>{{post.title}}</p>
+			{% endfor %}
+		</div>
+	</section>
+</section>

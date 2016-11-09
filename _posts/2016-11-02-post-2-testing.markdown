@@ -1,7 +1,7 @@
 ---
 title: Post 2 Testing
 date: 2016-11-02 13:08:00 -05:00
-categories:
+tags:
 - art
 author: Andrew Froug
 hero-image: "/uploads/careers-hero.jpg"

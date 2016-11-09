@@ -37,8 +37,8 @@ page-title: Title here
 gems:
 - octopress-paginate
 - jekyll/tagging
-tag_page_layout: tag
-tag_page_dir: /tags
+tag_page_layout: tag-page
+tag_page_dir: category
 pagination:
   limit: false
   per_page: 4

@@ -10,7 +10,9 @@ paginate: true
     <figure style='background-image: url("/uploads/homepage-hero-default.png");'>
   {% endif %}
       <h1 class="text-caps text-white spc-zero-s">{{ site.title }}</h1>
-      <h2 class="text-caps text-green">{{ site.sub-headline }}</h2>
+      {% if site.sub-headline %}
+        <h2 class="text-caps text-green">{{ site.sub-headline }}</h2>
+      {% endif %}
   </figure>
   <section class="row">
     <div class="column">
@@ -41,17 +43,30 @@ paginate: true
                       <img src="/uploads/author-icon-default.png" alt="default author image">
                     {% endif %}
                   </section>
-                  {% if post.author %}
-                    <span>{{ post.author }}</span>
-                  {% else %}
-                    <span>A Wyzant Staff Staff Member</span>
-                  {% endif %}
+                  {% assign author = site.authors | where: "author", post.author %}
+                  {% for data in author %}
+                    {% if post.author != "A Wyzant Staff Member" %}
+                      <a href="{{ data.url | prepend: site.baseurl }}">{{ post.author }}</a>
+                    {% else %}
+                      <span>A Wyzant Staff Member</span>
+                    {% endif %}
+                  {% endfor %}
                 </div>
                 <time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
               </section>
               <h1 class="text-green spc-sm-n spc-zero-s">{{ post.title | escape }}</h1>
               {% if post.sub-headline %}
                 <h2 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h2>
+              {% endif %}
+              {% if post.tags %}
+                <ul class="reset seo-tags">
+                  {% for tag in post.tags %}
+                    <li>
+                      <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
+                      <span> | </span>
+                    </li>
+                  {% endfor %}
+                </ul>
               {% endif %}
               {% if post.description %}
                 <p>{{ post.description }}</p>
