@@ -1,6 +1,9 @@
 ---
 title: Title goes here
 date: 2016-11-07 18:48:00 -06:00
+categories:
+- seo
+- art
 page-title: Page Title
 sub-headline: Sub Headline
 description: This is the meta description and the blog description that will appear
