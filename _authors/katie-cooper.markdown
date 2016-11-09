@@ -1,6 +1,6 @@
 ---
 title: Katie Cooper
-expertise: social media
+job-title: Social Media Expert
 bio: Hi I'm Katie. And I am a social media manager here at Wyzant. Read my posts to
   learn more about lorem ipsume m Ipsum has been the industry's standard dummy text
   ever since the 1500s, when an unknown printer took a galley of type and scrambled

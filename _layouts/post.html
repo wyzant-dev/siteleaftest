@@ -24,8 +24,8 @@ layout: default
 											<img src="/uploads/author-icon-default.png" alt="default author profile">
 										{% endif %}
 									</section>
-									{% if data.author %}
-										<span>{{ data.author }}</span>
+									{% if data.author != "A Wyzant Staff Member" %}
+										<a href="{{ data.url | prepend: site.baseurl }}">{{ data.author }}</a>
 									{% else %}
 										<span>A Wyzant Staff Member</span>
 									{% endif %}
@@ -52,8 +52,6 @@ layout: default
 	            	{% include recent-articles.html %}
 	                {% include banner.html %}
 					<a href="/">Back to all articles</a><br /><br />
-					<a href="{{ data.url | prepend: site.baseurl }}">See all articles from {{ page.author }}</a><br /><br />
-					<a href="">See Similar Articles</a>
 	            </div>
 	        </div>
 		</article>

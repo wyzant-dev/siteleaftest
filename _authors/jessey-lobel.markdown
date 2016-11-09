@@ -1,6 +1,6 @@
 ---
 title: Jessy Lobel
-expertise: writing
+job-title: Copywriter
 bio: Hi I'm Jessy. And I am a copy writer here at Wyzant. Read my posts to learn more
   about lorem ipsume m Ipsum has been the industry's standard dummy text ever since
   the 1500s, when an unknown printer took a galley of type and scrambled it to make

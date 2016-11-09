@@ -33,6 +33,7 @@ blockquote {
 		justify-content: flex-start;
 		align-items: center;
 	}
+	a,
 	span {
 		margin: 0 15px;
 	}
@@ -184,6 +185,9 @@ blockquote {
 	}
 	p img {
 		max-width: 100%;
+		display: block;
+		margin: 0 auto;
+		padding: 20px 0;
 	}
 	article .content {
 		h2 {
@@ -237,7 +241,9 @@ blockquote {
 .recent-articles ul {
 	margin: 0 auto;
 }
-
+.post-by-author {
+	padding-top: 80px;
+}
 @media #{$queryMedium} {
 	.post {
 		figure {
