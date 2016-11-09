@@ -1,6 +1,5 @@
 <html lang="en">
     <head>
-        
         {% if page.page-title %}
             <title>{{ page.page-title }}</title>
         {% elsif page.title %}
@@ -8,8 +7,14 @@
         {% else %}
             <title>{{ site.page-title }}</title>
         {% endif %}
-        
-        
+
+        {% if page.path == "index.html" %}
+            <meta name="description" content="{{ site.description }}">
+        {% elsif page.description %}
+            <meta name="description" content="{{ page.description }}">
+        {% else %}
+            <meta name="description" content="{{ page.content | truncate: 150 | strip_html }}">
+        {% endif %}
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta charset="utf-8">

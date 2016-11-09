@@ -30,7 +30,7 @@ layout: default
 										<span>A Wyzant Staff Member</span>
 									{% endif %}
 								</div>
-								<span>{{ page.date | date: "%-m/%-d/%Y" }}</span>
+								<time datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
 							</section>
 						</div>
 						<div class="group">
@@ -50,6 +50,11 @@ layout: default
 					<a href="">See Similar Articles</a>
 				</div>
 			</section>
+	        <div class="row">
+	            <div class="column">
+	                {% include banner.html %}
+	            </div>
+	        </div>
 		</article>
 	{% endfor %}
 </main>

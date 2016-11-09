@@ -48,6 +48,11 @@ sass:
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
+banner-background-image: "/uploads/banner-background-default.png"
+banner-headline: "Ready To Get Started?"
+banner-sub-headline: "Start Your Tutor Search Today."
+banner-cta-text: "Get Started"
+banner-cta-link: "#"
 baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown
