@@ -1,6 +1,8 @@
 ---
 title: Wyzant Blog title goes here
 date: 2016-11-03 15:02:00 -05:00
+categories:
+- seo
 author: Jessy Lobel
 sub-headline: Bacon 4 lyfe
 hero-image: "/uploads/Screen%20Shot%202016-11-03%20at%203.03.15%20PM.png"
