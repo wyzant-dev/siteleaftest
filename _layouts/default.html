@@ -1,8 +1,14 @@
 <html lang="en">
     <head>
         
-
-        <title>{{ site.page-title }}</title>
+        {% if page.page-title %}
+            <title>{{ page.page-title }}</title>
+        {% elsif page.title %}
+            <title>{{ page.title }}</title>
+        {% else %}
+            <title>{{ site.page-title }}</title>
+        {% endif %}
+        
         
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
