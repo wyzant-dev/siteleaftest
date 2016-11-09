@@ -36,7 +36,7 @@ defaults:
 page-title: Title here
 gems:
 - octopress-paginate
-- jekyll/tagging
+- jekyll-tagging
 tag_page_layout: tag-page
 tag_page_dir: category
 pagination:
