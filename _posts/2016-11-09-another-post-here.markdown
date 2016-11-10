@@ -22,4 +22,5 @@ Lorem Ipsum is simply dummy txt of the printing and typesetting industry. Lorem 
 
 Lorem Ipsum is simply dummy txt of the printing and typesetting industry. Lorem Ipsum has been the industry'
 
-{{ video }}
+<p>sdlkfjklsdjf</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s1SaD-gSZO4" frameborder="0" allowfullscreen></iframe>
