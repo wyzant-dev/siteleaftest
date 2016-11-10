@@ -57,6 +57,6 @@ banner-headline: Ready To Get Started?
 banner-sub-headline: Start Your Tutor Search Today.
 banner-cta-text: Get Started
 banner-cta-url: "#"
-baseurl: 
+baseurl: "/blog"
 url: https://www.wyzant.com
 markdown: kramdown
