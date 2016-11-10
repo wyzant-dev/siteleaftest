@@ -29,7 +29,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/:title/"
+    permalink: "/blog/:title/"
     layout: post
     page-title: 
     author: A Wyzant Staff Member
