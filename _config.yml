@@ -19,7 +19,7 @@ defaults:
     path: ''
     type: authors
   values:
-    permalink: "/authors/:title/"
+    permalink: "/blog/authors/:title/"
     layout: author
     job-title: 
     bio: 
@@ -47,7 +47,7 @@ pagination:
   limit: false
   per_page: 4
 sub-headline: Sub headline goes here
-hero-image: "/uploads/homepage-hero-default.png"
+hero-image: "/blog/uploads/homepage-hero-default.png"
 email: your-email@domain.com
 sass:
   sass_dir: styles/
