@@ -8,10 +8,6 @@ collections:
   posts:
     title: Posts
     output: true
-  scripts:
-    title: Scripts
-    output: true
-    permalink: "/blog/scripts/:path/"
   uploads:
     title: Uploads
     output: true
