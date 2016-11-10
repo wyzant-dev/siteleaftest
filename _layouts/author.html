@@ -26,19 +26,46 @@ layout: default
 					<p class="spc-zero-n">{{ page.bio }}</p>
 				{% endif %}
 				<h3 class="spc-n">All Articles by {{ page.author }}</h3>
-				{% assign author = site.posts | where: "author", page.author %}
-				{% for data in author %}
-					<article class="spc-med-n spc-w">
-						<h4><a href="{{ data.url }}">{{ data.title }}</a></h4>
-						{% if data.description  %}
-							{{ data.description }}
-						{% else %}
-							{{ data.content | truncate: 150 }}
-						{% endif %}
-					</article>
-				{% endfor %}
+				<ul class="reset">
+					{% assign author = site.posts | where: "author", page.author %}
+					{% for data in author %}
+						<li>
+							<article>
+								{% if data.hero-image %}
+									<figure style='background-image: url("{{ data.hero-image }}");'></figure>
+								{% else %}
+									<figure style='background-image: url("http://img.bleacherreport.net/img/images/photos/003/637/116/hi-res-e752178f4dc1e29870c6f68379ad18b4_crop_north.jpg?w=630&h=420&q=75");'></figure>
+								{% endif %}
+								<section class="spc-tiny-n">
+									{% if data.tags %}
+										<ul class="reset seo-tags">
+										{% for tag in data.tags %}
+											<li>
+												<a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
+												<span> | </span>
+											</li>
+										{% endfor %}
+										</ul>
+									{% endif %}
+									<time datetime="{{ post.date | date: "%F %T" }}">{{ data.date | date: "%-m/%-d/%Y" }}</time>
+								</section>
+								<h1 class="spc-sm-n spc-zero-s"><a href="{{ data.url }}">{{ data.title }}</a></h1>
+								{% if site.sub-headline %}
+									<h2 class="text-thin spc-sm-s">{{ data.sub-headline }}</h2>
+								{% endif %}
+								{% if data.description  %}
+									{{ data.description }}
+								{% else %}
+									{{ data.content | truncate: 150 }}
+								{% endif %}
+							</article>
+						</li>
+					{% endfor %}
+				</ul>
 			</section>
-			<a href="/">Back to all articles</a>
+			{% include banner.html %}
+			<a href="/">Back to all articles</a><br /><br />
 		</div>
 	</section>
 </section>
+
