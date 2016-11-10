@@ -11,6 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+    permalink: "/blog/uploads/:path/"
   blog:
     title: blog
     output: true
