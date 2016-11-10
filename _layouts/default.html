@@ -6,23 +6,23 @@
             <meta property="og:title" content="{{ page.page-title }}">
             <meta name="twitter:title" content="{{ page.page-title }}">
         {% elsif page.title %}
-            <title>{{ page.title }}</title>
+            <title>{{ page.title }} b</title>
             <meta property="og:title" content="{{ page.title }}">
             <meta name="twitter:title" content="{{ page.title }}">
         {% else %}
-            <title>{{ site.page-title }}</title>
+            <title>{{ site.page-title }} a</title>
             <meta property="og:title" content="{{ site.page-title }}">
             <meta name="twitter:title" content="{{ site.page-title }}">
         {% endif %}
 
-        {% if page.path == "index.html" %}
+        {% if site.description %}
             <meta name="description" content="{{ site.description }}">
             <meta property="og:description" content="{{ site.description }}">
             <meta name="twitter:description" content="{{ site.description }}">
             <meta name="twitter:image" content="https://wyzant.com/blog{{ site.hero-image }}">
             <meta property="og:image" content="https://wyzant.com/blog{{ site.hero-image }}">
         {% elsif page.description %}
-            <meta name="description" content="{{ page.description }}">
+            <meta name="description" content="{{ page.description }} a">
             <meta property="og:description" content="{{ page.description }}">
             <meta name="twitter:description" content="{{ page.description }}">
         {% else %}
@@ -36,7 +36,6 @@
             <meta property="og:image" content="https://wyzant.com/blog{{ page.hero-image }}">
         {% endif %}
 
-
         <meta name="twitter:site" content="https://wyzant.com">
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,8 +48,12 @@
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:300,400,500">
         <link rel="stylesheet" href="/styles/main.css" />
     </head>
-
-    <body class="desktop">
+        {% if layout.dark-header %}
+            <body class="dark-header">
+        {% else %}
+            <body>
+        {% endif %}
+        {{ layout.page-title }}
         {% include header.html %}
         {{ content }}
         {% include footer.html %}

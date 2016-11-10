@@ -5,5 +5,7 @@ job-title: Product Manager
 bio: I'm Bethany and I like to manage.
 profile-image: "/uploads/Screen%20Shot%202016-11-10%20at%2010.18.46%20AM.png"
 author: Bethany Minor
+page-title:
+description:
 ---
 
