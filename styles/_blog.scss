@@ -147,6 +147,9 @@ blockquote {
 	}
 	.profile-image-container {
 		margin: -20px 0 0 20px;
+		+ a {
+			margin-left: 15px;
+		}
 	}
 	article {
 		padding-top: 35px;
@@ -168,8 +171,7 @@ blockquote {
 			justify-content: space-between;
 			align-content: flex-start;
 		}
-		span,
-		a {
+		span {
 			margin-left: 15px;
 		}
 	}
@@ -206,6 +208,12 @@ blockquote {
 		margin: 0;
 		background-size: cover;
 		background-position: center;
+	}
+	iframe {
+		width: 100%;
+		max-width: 560px;
+		margin: 0 auto;
+		display: block;
 	}
 	.author-container {
 		display: flex;
