@@ -8,14 +8,14 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
-    permalink: "/blog/uploads/:path/"
   scripts:
     title: Scripts
     output: true
     permalink: "/blog/scripts/:path/"
+  uploads:
+    title: Uploads
+    output: true
+    permalink: "/blog/uploads/:path/"
   blog:
     title: blog
     output: true
