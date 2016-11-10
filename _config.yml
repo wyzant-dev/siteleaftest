@@ -12,6 +12,10 @@ collections:
     title: Uploads
     output: true
     permalink: "/blog/uploads/:path/"
+  scripts:
+    title: Scripts
+    output: true
+    permalink: "/blog/scripts/:path/"
   blog:
     title: blog
     output: true
