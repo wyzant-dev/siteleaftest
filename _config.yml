@@ -40,7 +40,8 @@ gems:
 - octopress-paginate
 - jekyll/tagging
 tag_page_layout: tag-page
-tag_page_dir: category
+tag_page_dir: tag
+tag_permalink_style: pretty
 pagination:
   limit: false
   per_page: 4
