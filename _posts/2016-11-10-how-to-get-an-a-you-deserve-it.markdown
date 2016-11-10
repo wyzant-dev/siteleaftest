@@ -18,7 +18,7 @@ Then do these other awesome things:
 # The Nuances of Being Awesome Headline 1
 Sample text of awesome.
 
-![google_verification_postcard-fba540.jpg](/uploads/google_verification_postcard-fba540.jpg)
+![google_verification_postcard-fba540.jpg](/blog/uploads/google_verification_postcard-fba540.jpg)
 Image credit?
 
 ## The Nuances of Being Awesome Headline 2
