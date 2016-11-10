@@ -6,29 +6,36 @@ layout: default
 	<section class="row">
 		<div class="column">
 			<section>
-				{% if page.profile-image %}
-					<div class="profile-image-container">
-						<img src='{{ page.profile-image }}' />
-					</div>
-				{% endif %}
-				<h1>{{ page.author }}</h1>
-				{% if page.job-title %}
-					<h2>Job Title: {{ page.job-title }}</h2>
-				{% endif %}
+				<section class="flex-intro">
+					{% if page.profile-image %}
+						<div class="profile-image-container">
+							<img src='{{ page.profile-image }}' />
+						</div>
+					{% endif %}
+					<section class="spc-w">
+						<h1 class="spc-zero text-green">{{ page.author }}</h1>
+						{% if page.job-title %}
+							<p class="spc-zero text-small">{{ page.job-title }}</p>
+						{% endif %}
+					</section>
+				</section>
 			</section>
-			<section>
+			<section class="spc-xl-s">
 				{% if page.bio %}
-					<p>{{ page.bio }}</p>
+					<h3 class="spc-n spc-tiny-s">Profile Information</h3>
+					<p class="spc-zero-n">{{ page.bio }}</p>
 				{% endif %}
-				<h2>All Articles</h2>
+				<h3 class="spc-n">All Articles by {{ page.author }}</h3>
 				{% assign author = site.posts | where: "author", page.author %}
 				{% for data in author %}
-					<a href="{{ data.url }}">{{ data.title }}</a>
-					{% if data.description %}
-						<p>{{ data.description }}</p>
-					{% else %}
-						<p>{{ data.content | truncate: 300 }}</p>
-					{% endif %}
+					<article class="spc-med-n spc-w">
+						<h4><a href="{{ data.url }}">{{ data.title }}</a></h4>
+						{% if data.description  %}
+							{{ data.description }}
+						{% else %}
+							{{ data.content | truncate: 150 }}
+						{% endif %}
+					</article>
 				{% endfor %}
 			</section>
 			<a href="/">Back to all articles</a>
