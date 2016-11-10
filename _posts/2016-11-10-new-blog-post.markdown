@@ -1,5 +1,5 @@
 ---
-title: new blog post
+title: new blog postkjlkjl
 date: 2016-11-10 11:53:00 -06:00
 author: Andrew Froug
 sub-headline: sub head
