@@ -8,6 +8,6 @@ bio: Hi I'm Andrew. And I am a seo expert here at Wyzant. Read my posts to learn
 profile-image: "/uploads/Screen%20Shot%202016-11-02%20at%2011.25.52%20AM-865eae.png"
 author: Andrew Froug
 page-title: Andrew's Blog Posts
-description:
+description: 
 ---
 
