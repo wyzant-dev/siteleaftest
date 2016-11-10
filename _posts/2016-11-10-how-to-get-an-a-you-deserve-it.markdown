@@ -4,6 +4,7 @@ date: 2016-11-10 15:11:00 -06:00
 tags:
 - math
 - getting an a
+sub-headline: 10 Tips and Tricks and Trick or Treat
 hero-image: "/uploads/google_verification_postcard-fba540.jpg"
 ---
 
