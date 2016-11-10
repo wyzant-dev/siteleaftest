@@ -19,4 +19,4 @@ Are there pul quotes in addition to block quotes?
 
 Now here's a picture:
 
-![google_verification_postcard.jpg](/uploads/google_verification_postcard.jpg)
+![google_verification_postcard.jpg](/blog/uploads/google_verification_postcard.jpg)

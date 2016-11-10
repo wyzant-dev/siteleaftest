@@ -23,7 +23,7 @@ The project should be running. Navigate to [http://localhost:4000/](http://local
 
 ## Authoring Notes
 If going to be referring to the `{{ content }}` scope a few times in this section. If you don't know what that is referring to, don't worry. What I mean is the rich text editor of Siteleaf. Every section on the far left rail (Authors, Posts, etc.) will have this content section. You can write whatever you want here and it will appear on it's designated page. Still wondering what `{{ content }}` is? It should look like this:
-![content.png](/uploads/content.png)
+![content.png](/blog/uploads/content.png)
 
 If you're an author of this blog, I recommend you familiarize yourself with Markdown. It's super simple and is the syntax of the `{{ content }}` editor. Learn more about it [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 

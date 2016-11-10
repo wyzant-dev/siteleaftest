@@ -7,7 +7,7 @@ paginate: true
   {% if site.hero-image %}
     <figure style='background-image: url("{{ site.hero-image }}");'>
   {% else %}
-    <figure style='background-image: url("/uploads/homepage-hero-default.png");'>
+    <figure style='background-image: url("/blog/uploads/homepage-hero-default.png");'>
   {% endif %}
       <h1 class="text-caps text-white spc-zero-s">{{ site.title }}</h1>
       {% if site.sub-headline %}
@@ -36,11 +36,11 @@ paginate: true
                         {% if photo %}
                           <img src="{{ photo }}" alt="author image">
                         {% else %}
-                          <img src="/uploads/author-icon-default.png" alt="default author image">
+                          <img src="/blog/uploads/author-icon-default.png" alt="default author image">
                         {% endif %}
                       {% endfor %}
                     {% else %}
-                      <img src="/uploads/author-icon-default.png" alt="default author image">
+                      <img src="/blog/uploads/author-icon-default.png" alt="default author image">
                     {% endif %}
                   </section>
                   {% assign author = site.authors | where: "author", post.author %}

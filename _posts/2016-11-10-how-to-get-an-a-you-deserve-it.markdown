@@ -5,7 +5,7 @@ tags:
 - math
 - getting an a
 sub-headline: 10 Tips and Tricks and Trick or Treat
-hero-image: "/uploads/google_verification_postcard-fba540.jpg"
+hero-image: "/blog/uploads/google_verification_postcard-fba540.jpg"
 ---
 
 First, try being awesome.

@@ -7,7 +7,7 @@ tags:
 - art
 author: Jessy Lobel
 sub-headline: Bacon 4 lyfe
-hero-image: "/uploads/Screen%20Shot%202016-11-03%20at%203.03.15%20PM.png"
+hero-image: "/blog/uploads/Screen%20Shot%202016-11-03%20at%203.03.15%20PM.png"
 description: This is a small description about this lovely blog post Yay woo hoo.
   Go Cubs Go! Hey Chicago what do you say?
 ---

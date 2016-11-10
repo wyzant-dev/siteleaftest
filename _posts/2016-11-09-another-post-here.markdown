@@ -7,7 +7,7 @@ tags:
 page-title: Tab Title here
 author: Katie Cooper
 sub-headline: Sub headline here
-hero-image: "/uploads/Neighborhoods.jpg"
+hero-image: "/blog/uploads/Neighborhoods.jpg"
 youtube-video-id: 9m2valF3s84
 ---
 
