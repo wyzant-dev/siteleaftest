@@ -1,0 +1,15 @@
+---
+---
+
+// Wyzant Imports
+// - these have been simplified to only pull in the styles we need.
+@import "variables";
+@import "buttons";
+@import "type";
+@import "header";
+@import "footer";
+@import "foundation";
+@import "spacing";
+
+// Styles built specefic for blog
+@import "blog";

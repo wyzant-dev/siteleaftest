@@ -1,0 +1,118 @@
+.btn {
+    display: inline-block;
+    min-width: 120px;
+    padding: 13px 20px;
+    line-height: 1.3em;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    background: $tangerine;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 0;
+
+    // Fix issue with Firefox button line-height not matching
+    &::-moz-focus-inner {
+        border: 0;
+    }
+    &:focus {
+        box-shadow: 0 0 2px 2px $bluejeansLight;
+        outline: 0;
+    }
+    &:hover {
+        text-decoration: none !important;
+        color: #fff;
+        background: $tangerineLight;
+    }
+    &:active {
+        background: $tangerine;
+    }
+    &.btn-disabled,
+    &[disabled] {
+        background: $mediumGray;
+        pointer-events: none;
+    }
+}
+
+//========== Alternate buttons types ==========
+.btn-secondary {
+    background: $grass;
+
+    &:hover {
+        background: $grassLight;
+    }
+    &:active {
+        background: $grass;
+    }
+}
+.btn-alt,
+.btn-ghost {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: $textColorStandard;
+    background: transparent;
+    border: 2px solid $gray;
+
+    &:hover {
+        color: $textColorStandard;
+        background: #fff;
+        border-color: $mediumGray;
+    }
+    &:active {
+        background: transparent;
+        border-color: $gray;
+    }
+    &.btn-disabled,
+    &[disabled] {
+        color: $mediumGray;
+        background: transparent;
+        border-color: $mediumGray;
+    }
+}
+.btn-ghost {
+    color: #fff;
+        border-color: #fff;
+
+    &:active {
+        color: #fff;
+        border-color: #fff;
+    }
+}
+
+//========== Login Button ==========
+.signup.btn-minimal-primary {
+    margin-left: 5px;
+    background: transparent;
+    border: 1px solid #8cc152;
+    font-size: 12px;
+    min-width: 0;
+    padding: 8px 16px;
+    margin: 7px 0;
+    display: none;
+
+    &:hover {
+        background-color: #8cc152;
+        border-color: #8cc152;
+    }
+}
+
+
+//========== Size overrides ==========
+.btn-small {
+    min-width: 100px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.btn-alt.btn-small {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+// .btn-wide overrides the spacing margins above (keep the size overrides after spacing)
+.btn-wide {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}

@@ -1,0 +1,68 @@
+// Standard brand colors
+$tangerine: #ff8500;
+$tangerineLight: #ff9f37;
+$bluejeans: #0091d0;
+$bluejeansLight: #33b2e2;
+$grass: #8cc152;
+$grassLight: #a0d468;
+$sunflower: #f6bb42;
+$sunflowerLight: #ffce54;
+$poppy: #e9573f;
+$poppyLight: #fc6e51;
+$purple: #572d86;
+$purpleLight: #7f4098;
+
+
+// Greys
+$lightestGray: #f5f7fa;
+$lightGray: #e6e9ed;
+$mediumGray: #ccd1d9;
+$gray: #aab2bd;
+$charcoal: #4e4f4f;
+$headerFooterBG: #3a3a3c;
+
+
+// Border and background colors
+$borderGray: #e4e6e8;
+$borderBlue: #b5daff;
+$backgroundBlue: #d7eeff;
+
+
+// Standard text colors
+$textColorStandard: $charcoal;
+$textColorMuted: #888;
+$textColorDisabled: #b6bcc1;
+
+
+// Brand color text colors (variants that work better for text)
+$textSunflower: #f5b12a;
+
+
+// Aliases
+$backgroundGray: $lightGray;
+$backgroundGrayHover: $lightestGray;
+$linkBlue: $bluejeans;
+$linkMuted: $textColorMuted;
+
+
+// Font related variables
+$fontDefault: "Open Sans", Tahoma, Geneva, Sans-Serif;
+$baseFontSize: 14;
+
+
+// Spacing
+$spacingExtraLarge: 60px;
+$spacingStandard: 30px;
+$spacingMedium: 20px;
+$spacingSmall: 10px;
+$spacingTiny: 5px;
+
+// Not preferred in a mobile-first paradigm but needed for transition
+// PLEASE DO NOT USE THIS MEDIAQUERY, AND WORK TO REMOVE ANY INSTANCES OF THEM FROM THE SITE
+$querySmall: "only screen and (max-width: 640px)";
+
+// Set quick reference variables to the media-query strings
+$queryMedium: "only screen and (min-width: 641px)";
+$queryLarge: "only screen and (min-width: 1025px)";
+$queryXLarge: "only screen and (min-width: 1441px)";
+$queryXXLarge: "only screen and (min-width: 1921px)";
