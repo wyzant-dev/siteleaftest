@@ -8,9 +8,9 @@ meta-title: Page Title
 author: Andrew Froug
 sub-headline: Sub headline Goes Here
 hero-image: "/blog/uploads/banner-background-default.png"
-post-description: This is the meta description and the blog description that will appear
-  on the homepage of wyzant. If this doesn't exist, we'll just use the first 150 characters
-  of the blog.
+post-description: This is the meta description and the blog description that will
+  appear on the homepage of wyzant. If this doesn't exist, we'll just use the first
+  150 characters of the blog.
 meta-description: Meta description here.
 ---
 

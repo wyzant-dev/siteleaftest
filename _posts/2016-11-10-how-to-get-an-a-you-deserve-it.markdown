@@ -5,7 +5,6 @@ tags:
 - math
 - getting an a
 sub-headline: 10 Tips and Tricks and Trick or Treat
-meta-title: Meta title
 hero-image: "/blog/uploads/google_verification_postcard-fba540.jpg"
 ---
 
@@ -20,7 +19,7 @@ Then do these other awesome things:
 Sample text of awesome.
 
 ![google_verification_postcard-fba540.jpg](/blog/uploads/google_verification_postcard-fba540.jpg)
-Image credit?
+Photo by [Paige Keenan](http://wyzant.com)
 
 ## The Nuances of Being Awesome Headline 2
 Sample text of awesome.

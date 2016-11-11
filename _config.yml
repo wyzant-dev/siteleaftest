@@ -27,7 +27,7 @@ defaults:
     profile-image: 
     author: Wyzant
     meta-title: 
-    meta-description:
+    meta-description: 
 - scope:
     path: ''
     type: posts
