@@ -25,14 +25,11 @@
                 <meta property="og:image" content="https://wyzant.com{{ page.hero-image }}">
             {% endif %}
         {% elsif page.tag %}
-            <title>{{ page.tag }}</title>
-            <meta property="og:title" content="{{ page.tag }}">
-            <meta name="twitter:title" content="{{ page.tag }}">
+            <title>{{ page.tag | capitalize }} Posts on the Wyzant Blog</title>
+            <meta property="og:title" content="{{ page.tag | capitalize }} Posts on the Wyzant Blog">
+            <meta name="twitter:title" content="{{ page.tag | capitalize }} Posts on the Wyzant Blog">
             <meta name="twitter:image" content="https://wyzant.com{{ site.hero-image }}">
             <meta property="og:image" content="https://wyzant.com{{ site.hero-image }}">
-            <meta name="description" content="{{ page.tag }}">
-            <meta property="og:description" content="{{ page.tag }}">
-            <meta name="twitter:description" content="{{ page.tag }}">
         {% else %}
             {% if site.meta-title %}
                 {% if site.meta-title %}
