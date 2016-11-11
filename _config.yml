@@ -26,7 +26,7 @@ defaults:
     bio: 
     profile-image: 
     author: A Wyzant Staff Member
-    page-title:
+    page-title: 
 - scope:
     path: ''
     type: posts
