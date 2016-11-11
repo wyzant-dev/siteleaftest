@@ -26,13 +26,8 @@ defaults:
     bio: 
     profile-image: 
     author: Wyzant
-<<<<<<< HEAD
     meta-title: 
     meta-description:
-=======
-    page-title: 
-    meta-description: 
->>>>>>> 2172d1577ddf9966fbafcf33021ea32dee880a57
 - scope:
     path: ''
     type: posts
