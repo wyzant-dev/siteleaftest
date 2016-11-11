@@ -1,5 +1,6 @@
 ---
 layout: default
+page-name: home-page
 paginate: true
 ---
 
@@ -82,7 +83,7 @@ paginate: true
         <section class="pagination">
           <span>&laquo;</span>
           {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lsaquo;</a>
+            <a href="{{ paginator.previous_page_path  | replace: '//', '/' }}">&lsaquo;</a>
           {% else %}
             <span>&lsaquo;</span>
           {% endif %}
@@ -91,14 +92,14 @@ paginate: true
             {% if page == paginator.page %}
               <span class="active">{{ page }}</span>
             {% elsif page == 1 %}
-              <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+              <a href="{{ paginator.previous_page_path  | replace: '//', '/' }}">{{ page }}</a>
             {% else %}
-              <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+              <a href="/blog{{ site.paginate_path  | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
             {% endif %}
           {% endfor %}
 
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rsaquo;</a>
+            <a href="/blog{{ paginator.next_page_path  | replace: '//', '/' }}">&rsaquo;</a>
           {% else %}
             <span>&rsaquo;</span>
           {% endif %}
