@@ -11,17 +11,17 @@
                 <meta property="og:title" content="{{ page.title }}">
                 <meta name="twitter:title" content="{{ page.title }}">
             {% endif %}
-        {% endif %}
-
-        {% if site.page-title %}
+        {% else %}
             {% if site.page-title %}
-                <title>{{ site.page-title }}</title>
-                <meta property="og:title" content="{{ site.page-title }}">
-                <meta name="twitter:title" content="{{ site.page-title }}">
-            {% else %}
-                <title>{{ site.title }}</title>
-                <meta property="og:title" content="{{ site.title }}">
-                <meta name="twitter:title" content="{{ site.title }}">
+                {% if site.page-title %}
+                    <title>{{ site.page-title }}</title>
+                    <meta property="og:title" content="{{ site.page-title }}">
+                    <meta name="twitter:title" content="{{ site.page-title }}">
+                {% else %}
+                    <title>{{ site.title }}</title>
+                    <meta property="og:title" content="{{ site.title }}">
+                    <meta name="twitter:title" content="{{ site.title }}">
+                {% endif %}
             {% endif %}
         {% endif %}
 

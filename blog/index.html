@@ -70,9 +70,9 @@ paginate: true
                 </ul>
               {% endif %}
               {% if post.description %}
-                <p>{{ post.description }}</p>
+                <p>{{ post.description | strip_html }}</p>
               {% else %}
-                <p>{{ post.content | truncate: 150 }}</p>
+                <p>{{ post.content | truncate: 150 | strip_html }}</p>
               {% endif %}
               <a href="{{ post.url | prepend: site.baseurl }}" class="btn">Read More</a>
             </article>
