@@ -35,10 +35,10 @@ dark-header: true
 								{% if site.sub-headline %}
 									<h2 class="text-thin spc-sm-s">{{ post.sub-headline }}</h2>
 								{% endif %}
-								{% if post.description  %}
-									{{ post.description | strip_html }}
+								{% if post.post-description  %}
+									{{ post.post-description | strip_html }}
 								{% else %}
-									{{ post.content | truncate: 150 | strip_html }}
+									{{ post.content | strip_html | truncate: 200 }}
 								{% endif %}
 							</article>
 						</li>

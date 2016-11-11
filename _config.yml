@@ -26,7 +26,7 @@ defaults:
     bio: 
     profile-image: 
     author: Wyzant
-    page-title: 
+    meta-title: 
     meta-description:
 - scope:
     path: ''
@@ -34,13 +34,13 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    page-title: 
+    meta-title: 
     author: Wyzant
     sub-headline: 
     hero-image: 
     meta-description:
     post-description: 
-page-title: Title here
+meta-title: Title here
 gems:
 - octopress-paginate
 - jekyll/tagging
@@ -52,7 +52,7 @@ pagination:
   per_page: 4
 sub-headline: Sub headline goes here
 hero-image: "/blog/uploads/homepage-hero-default.png"
-meta-description:
+meta-description: slkdfjlsfksklfkskldfjlks
 email: your-email@domain.com
 sass:
   sass_dir: blog/styles

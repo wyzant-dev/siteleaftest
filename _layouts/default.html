@@ -2,10 +2,10 @@
     <head>
         <meta name="twitter:card" content="summary">
         {% if layout.page-name == "author-page" or layout.page-name == "post-page" %}
-            {% if page.page-title %}
-                <title>{{ page.page-title }}</title>
-                <meta property="og:title" content="{{ page.page-title }}">
-                <meta name="twitter:title" content="{{ page.page-title }}">
+            {% if page.meta-title %}
+                <title>{{ page.meta-title }}</title>
+                <meta property="og:title" content="{{ page.meta-title }}">
+                <meta name="twitter:title" content="{{ page.meta-title }}">
             {% else %}
                 <title>{{ page.title }}</title>
                 <meta property="og:title" content="{{ page.title }}">
@@ -15,46 +15,44 @@
                 <meta name="description" content="{{ page.meta-description }}">
                 <meta property="og:description" content="{{ page.meta-description }}">
                 <meta name="twitter:description" content="{{ page.meta-description }}">
-            {% elsif page.description %}
-                <meta name="description" content="{{ page.description | truncate: 150 }}">
-                <meta property="og:description" content="{{ page.description | truncate: 150 }}">
-                <meta name="twitter:description" content="{{ page.description | truncate: 150 }}">
+            {% elsif page.content %}
+                <meta name="description" content="{{ page.content | strip_html | truncate: 150 }}">
+                <meta property="og:description" content="{{ page.content | strip_html | truncate: 150 }}">
+                <meta name="twitter:description" content="{{ page.content | strip_html | truncate: 150 }}">
             {% endif %}
             {% if page.hero-image %}
-                <meta name="twitter:image" content="https://wyzant.com/blog{{ page.hero-image }}">
-                <meta property="og:image" content="https://wyzant.com/blog{{ page.hero-image }}">
+                <meta name="twitter:image" content="https://wyzant.com{{ page.hero-image }}">
+                <meta property="og:image" content="https://wyzant.com{{ page.hero-image }}">
             {% endif %}
         {% elsif page.tag %}
             <title>{{ page.tag }}</title>
             <meta property="og:title" content="{{ page.tag }}">
             <meta name="twitter:title" content="{{ page.tag }}">
-            <meta name="twitter:image" content="https://wyzant.com/blog{{ site.hero-image }}">
-            <meta property="og:image" content="https://wyzant.com/blog{{ site.hero-image }}">
-            {% if page.description %}
-                <meta name="description" content="{{ page.tag }}">
-                <meta property="og:description" content="{{ page.tag }}">
-                <meta name="twitter:description" content="{{ page.tag }}">
-            {% endif %}
+            <meta name="twitter:image" content="https://wyzant.com{{ site.hero-image }}">
+            <meta property="og:image" content="https://wyzant.com{{ site.hero-image }}">
+            <meta name="description" content="{{ page.tag }}">
+            <meta property="og:description" content="{{ page.tag }}">
+            <meta name="twitter:description" content="{{ page.tag }}">
         {% else %}
-            {% if site.page-title %}
-                {% if site.page-title %}
-                    <title>{{ site.page-title }}</title>
-                    <meta property="og:title" content="{{ site.page-title }}">
-                    <meta name="twitter:title" content="{{ site.page-title }}">
+            {% if site.meta-title %}
+                {% if site.meta-title %}
+                    <title>{{ site.meta-title }}</title>
+                    <meta property="og:title" content="{{ site.meta-title }}">
+                    <meta name="twitter:title" content="{{ site.meta-title }}">
                 {% else %}
                     <title>{{ site.title }}</title>
                     <meta property="og:title" content="{{ site.title }}">
                     <meta name="twitter:title" content="{{ site.title }}">
                 {% endif %}
             {% endif %}
-            {% if site.description %}
-                <meta name="description" content="{{ site.description }}">
-                <meta property="og:description" content="{{ site.description }}">
-                <meta name="twitter:description" content="{{ site.description }}">
+            {% if site.meta-description %}
+                <meta name="description" content="{{ site.meta-description }}">
+                <meta property="og:description" content="{{ site.meta-description }}">
+                <meta name="twitter:description" content="{{ site.meta-description }}">
             {% endif %}
             {% if site.hero-image %}
-                <meta name="twitter:image" content="https://wyzant.com/blog{{ site.hero-image }}">
-                <meta property="og:image" content="https://wyzant.com/blog{{ site.hero-image }}">
+                <meta name="twitter:image" content="https://wyzant.com{{ site.hero-image }}">
+                <meta property="og:image" content="https://wyzant.com{{ site.hero-image }}">
             {% endif %}
         {% endif %}
 
@@ -75,7 +73,6 @@
         {% else %}
             <body>
         {% endif %} 
-        {{ layout.page-title }}
         {% include header.html %}
         {{ content }}
         {% include footer.html %}

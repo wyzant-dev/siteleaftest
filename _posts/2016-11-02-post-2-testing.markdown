@@ -5,7 +5,7 @@ tags:
 - art
 author: Andrew Froug
 hero-image: "/blog/uploads/careers-hero.jpg"
-description: Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go
+post-description: Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go
   Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs Go!Go Cubs
   Go!Go Cubs Go!
 ---

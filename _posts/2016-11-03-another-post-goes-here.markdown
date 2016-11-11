@@ -3,7 +3,7 @@ title: Another Post
 date: 2016-11-03 12:30:00 -05:00
 author: Jessy Lobel
 hero-image: "/blog/uploads/careers-hero-footer.jpg"
-description: This is a small description about this lovely blog post Yay woo hoo.
+post-description: This is a small description about this lovely blog post Yay woo hoo.
   Go Cubs Go! Hey Chicago what do you say?
 ---
 

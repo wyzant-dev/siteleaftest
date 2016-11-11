@@ -1,6 +1,7 @@
 ---
 title: Andrew Froug
 job-title: SEO Manager
+meta-title: Ahh
 bio: Hi I'm Andrew. And I am a seo expert here at Wyzant. Read my posts to learn more
   about lorem ipsume m Ipsum has been the industry's standard dummy text ever since
   the 1500s, when an unknown printer took a galley of type and scrambled it to make

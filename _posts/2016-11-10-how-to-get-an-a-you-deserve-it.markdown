@@ -5,6 +5,7 @@ tags:
 - math
 - getting an a
 sub-headline: 10 Tips and Tricks and Trick or Treat
+meta-title: Meta title
 hero-image: "/blog/uploads/google_verification_postcard-fba540.jpg"
 ---
 

@@ -4,13 +4,14 @@ date: 2016-11-07 18:48:00 -06:00
 tags:
 - art
 - tech
-page-title: Page Title
+meta-title: Page Title
 author: Andrew Froug
 sub-headline: Sub headline Goes Here
 hero-image: "/blog/uploads/banner-background-default.png"
-description: This is the meta description and the blog description that will appear
+post-description: This is the meta description and the blog description that will appear
   on the homepage of wyzant. If this doesn't exist, we'll just use the first 150 characters
   of the blog.
+meta-description: Meta description here.
 ---
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of.
