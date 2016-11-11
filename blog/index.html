@@ -55,7 +55,7 @@ paginate: true
                 </div>
                 <time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
               </section>
-              <h1 class="text-green spc-sm-n spc-zero-s">{{ post.title | escape }}</h1>
+              <h1 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title | escape }}</a></h1>
               {% if post.sub-headline %}
                 <h2 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h2>
               {% endif %}
@@ -74,7 +74,7 @@ paginate: true
               {% else %}
                 <p>{{ post.content | strip_html | truncate: 200 }}</p>
               {% endif %}
-              <a href="{{ post.url | prepend: site.baseurl }}" class="btn">Read More</a>
+              <a href="{{ post.url }}" class="btn">Read More</a>
             </article>
           </li>
         {% endfor %}
