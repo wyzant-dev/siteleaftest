@@ -23,9 +23,11 @@ The project should be running. Navigate to [http://localhost:4000/blog/](http://
 
 ##Docker Setup
 Docker setup utlizies a basic Makefile and a Dockerfile included in the repository.  To build the image (install gems)run
+
 ```make build```
 
 To run the project type
+
 ```make run```
 
 Windows users will need to install ```http://gnuwin32.sourceforge.net/packages/make.htm``` to use Make.
