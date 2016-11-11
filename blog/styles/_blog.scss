@@ -5,12 +5,16 @@
 	border-radius: 100%;
 	position: relative;
 	overflow: hidden;
+	margin-right: 15px;
 
 	img {
 		width: 60px;
 		position: absolute;
 		top: 0;
 	}
+}
+.back-link {
+	font-size: 20px;
 }
 .banner {
 	padding: 100px 0 50px 0;
@@ -80,6 +84,12 @@ blockquote {
 	h2 {
 		font-size: 20px;
 		color: #abb3bd;
+	}
+}
+.post article .group .flex-intro {
+	align-items: flex-start;
+	a {
+		margin: 0;
 	}
 }
 .pagination {
@@ -285,6 +295,7 @@ blockquote {
 }
 .recent-articles ul {
 	margin: 0 auto;
+	font-size: 20px;
 }
 .post-by-author,
 .post-by-tag {
@@ -312,7 +323,7 @@ blockquote {
 		ol,
 		h3 {
 			width: 70%;
-			margin: 0 auto;
+			margin: 0 auto 20px;
 		}
 	}
 	.post-by-author,

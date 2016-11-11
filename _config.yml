@@ -25,8 +25,9 @@ defaults:
     job-title: 
     bio: 
     profile-image: 
-    author: A Wyzant Staff Member
+    author: Wyzant
     page-title: 
+    meta-description:
 - scope:
     path: ''
     type: posts
@@ -34,10 +35,11 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     page-title: 
-    author: A Wyzant Staff Member
+    author: Wyzant
     sub-headline: 
     hero-image: 
-    description: 
+    meta-description:
+    post-description: 
 page-title: Title here
 gems:
 - octopress-paginate
@@ -50,6 +52,7 @@ pagination:
   per_page: 4
 sub-headline: Sub headline goes here
 hero-image: "/blog/uploads/homepage-hero-default.png"
+meta-description:
 email: your-email@domain.com
 sass:
   sass_dir: blog/styles
@@ -61,7 +64,7 @@ banner-background-image: "/blog/uploads/banner-background-default.png"
 banner-headline: Ready To Get Started?
 banner-sub-headline: Start Your Tutor Search Today.
 banner-cta-text: Get Started
-banner-cta-url: "#"
+banner-cta-url: "/match"
 baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown

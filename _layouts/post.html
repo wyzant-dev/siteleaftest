@@ -16,7 +16,7 @@ page-name: post-page
 				<div class="column">
 					<section class="group-container">
 						<div class="group">
-							<section class="flex-intro spc-med-n">
+							<section class="flex-intro spc-tiny-n spc-s">
 								<div>
 									<section class="profile-image-container">
 										{% if data.profile-image %}
@@ -25,32 +25,39 @@ page-name: post-page
 											<img src="/blog/uploads/author-icon-default.png" alt="default author profile">
 										{% endif %}
 									</section>
-									{% if data.author != "A Wyzant Staff Member" %}
+									{% if data.author != "Wyzant" %}
 										<a href="{{ data.url | prepend: site.baseurl }}">{{ data.author }}</a>
 									{% else %}
-										<span>A Wyzant Staff Member</span>
+										<span>Wyzant</span>
 									{% endif %}
 								</div>
-								<time datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
+								<time class="spc-med-n spc-" datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
 							</section>
 						</div>
 						<div class="group">
-							{% if page.title %}
-								<h1 class="text-green spc-n">{{ page.title }}</h1>
-							{% endif %}
-							{% if page.sub-headline %}
-								<h2 class="light-header">{{ page.sub-headline }}</h2>
-							{% endif %}
-							{% if page.tags %}
-								<ul class="reset seo-tags">
-								  {% for tag in page.tags %}
-								    <li>
-								      <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
-								      <span> | </span>
-								    </li>
-								  {% endfor %}
-								</ul>
-							{% endif %}
+							<div class="flex-intro">
+								<section>
+									{% if page.title %}
+										<h1 class="text-green spc-n spc-tiny-s">{{ page.title }}</h1>
+									{% endif %}
+									{% if page.sub-headline %}
+										<h2 class="light-header spc-tiny">{{ page.sub-headline }}</h2>
+									{% endif %}
+									{% if page.tags %}
+										<ul class="reset seo-tags">
+										  {% for tag in page.tags %}
+										    <li>
+										      <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
+										      <span> | </span>
+										    </li>
+										  {% endfor %}
+										</ul>
+									{% endif %}
+								</section>
+								<div >
+									<a href="/blog" class="spc-n text-small">Back to all Articles</a>
+								</div>
+							</div>
 						</div>
 					</section>
 					<div class="content">
@@ -62,7 +69,6 @@ page-name: post-page
 	            <div class="column">
 	            	{% include recent-articles.html %}
 	                {% include banner.html %}
-					<a href="/blog">Back to all articles</a><br /><br />
 	            </div>
 	        </div>
 		</article>

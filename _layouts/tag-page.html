@@ -1,13 +1,12 @@
 ---
 layout: default
-page-name: tag-page
 dark-header: true
 ---
 
 <section class="post-by-tag">
 	<section class="row">
 		<div class="column">
-			<section class="spc-xl-s">
+			<section class="spc-s">
 				<h3 class="spc-n">All Articles tagged {{ page.tag  | upcase }}</h3>
 				<ul class="reset">
 					{% assign posts = site.tags[page.tag] %}
@@ -37,17 +36,17 @@ dark-header: true
 									<h2 class="text-thin spc-sm-s">{{ post.sub-headline }}</h2>
 								{% endif %}
 								{% if post.description  %}
-									{{ post.description }}
+									{{ post.description | strip_html }}
 								{% else %}
-									{{ post.content | truncate: 150 }}
+									{{ post.content | truncate: 150 | strip_html }}
 								{% endif %}
 							</article>
 						</li>
 					{% endfor %}
 				</ul>
 			</section>
+			<a href="/blog" class="back-link">Back to all Articles</a>
 			{% include banner.html %}
-			<a href="/blog">Back to all articles</a><br /><br />
 		</div>
 	</section>
 </section>

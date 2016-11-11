@@ -1,16 +1,16 @@
 header:
   - title: Sign Up
-    url: /#/
+    url: /signup
   - title: Find a  Tutor
-    url: /#/
+    url: /match/search
   - title: How it Works
-    url: /#/
-  - title: Content
-    url: /#/
+    url: /howitworks/students
+  - title: Blog
+    url: /blog
   - title: Tutors
-    url: /#/
+    url: /tutorsignupstart
   - title: About Wyzant
-    url: /#/
+    url: /about
 
 footer-top:
   subcategories:
@@ -18,127 +18,125 @@ footer-top:
       id: get-to-know-us
       items:
         - title: About Us
-          url: /#/
+          url: /about
         - title: Contact Us
-          url: /#/
+          url: /contactus
         - title: FAQ
-          url: /#
+          url: https://support.wyzant.com/hc/en-us
         - title: Reviews
-          url: /#
+          url: /reviews/studentreviewsofwyzant
         - title: Safety
-          url: /#
+          url: /safetytips/tutorhiringsafetytips
         - title: Security
-          url: /#
+          url: /security
         - title: In the News
-          url: /#
+          url: /news
     - title: Learn With Us
       id: learn-with-us
       items:
         - title: Find a Tutor
-          url: /#/
+          url: /match?flow=search
         - title: Request a Tutor
-          url: /#/
+          url: /emailtutor
         - title: Online Tutoring
-          url: /#/
+          url: /tutors/online
         - title: Get Math Help
-          url: /#/
+          url: /resources/lessons/math
         - title: Learning Resources
-          url: /#/
+          url: /resources
         - title: WyzAnt Scholarships
-          url: /#/
+          url: /scholarships
     - title: Work With Us
       id: find-a-tutor
       items:
         - title: Careers at Wyzant
-          url: /#/
+          url: /about/careers
         - title: Apply to Tutor
-          url: /#/
+          url: /tutorsignupstart
         - title: Tutor Job Board
-          url: /#/
+          url: /JobSearch.aspx
         - title: Partners
-          url: /#/
-        - title: Affiliates
-          url: /#/
+          url: /partner
 
 footer-bottom:
   column-one:
     - items:
       - title: Algebra Tutors
-        url: /#/
+        url: /algebra_tutors.aspx
       - title: Calculus Tutors
-        url: /#/
+        url: /calculus_tutors.aspx
       - title: Chemistry Tutors
-        url: /#/
+        url: /chemistry_tutors.aspx
       - title: Computer Tutors
-        url: /#/
+        url: /Computer_tutors.aspx
       - title: Elementary Tutors
-        url: /#/
+        url: /Elementary_Education_tutors.aspx
       - title: English Tutors
-        url: /#/
+        url: /English_tutors.aspx
     - items:
       - title: Geometry Tutors
-        url: /#/
-      - title: Calculus Tutors
-        url: /#/
-      - title: Chemistry Tutors
-        url: /#/
-      - title: Computer Tutors
-        url: /#/
-      - title: Elementary Tutors
-        url: /#/
-      - title: English Tutors
-        url: /#/
+        url: /geometry_tutors.aspx
+      - title: Language Tutors
+        url: /Language_tutors.aspx
+      - title: Math Tutors
+        url: /Math_tutors.aspx
+      - title: Music Lessons
+        url: /Music_lessons.aspx
+      - title: Physics Tutors
+        url: /physics_tutors.aspx
+      - title: Reading Tutors
+        url: /reading_tutors.aspx
     - items:
       - title: SAT Tutors
-        url: /#/
+        url: /SAT_tutors.aspx
       - title: Science Tutors
-        url: /#/
+        url: /Science_tutors.aspx
       - title: Spanish Tutors
-        url: /#/
+        url: /Spanish_tutors.aspx
       - title: Statistics Tutors
-        url: /#/
+        url: /statistics_tutors.aspx
       - title: Test Prep Tutors
-        url: /#/
+        url: /Test_Preparation_tutors.aspx
       - title: Writing Tutors
-        url: /#/
+        url: /writing_tutors.aspx
 
   column-two:
     - items:
       - title: Atlanta Tutors
-        url: /#/
+        url: /Atlanta_tutors.aspx
       - title: Boston Tutors
-        url: /#/
+        url: /Boston_tutors.aspx
       - title: Brooklyn Tutors
-        url: /#/
+        url: /Brooklyn_NY_tutors.aspx
       - title: Chicago Tutors
-        url: /#/
+        url: /Chicago_tutors.aspx
       - title: Dallas Tutors
-        url: /#/
+        url: /Dallas_tutors.aspx
       - title: Denver Tutors
-        url: /#/
+        url: /Denver_tutors.aspx
     - items:
       - title: Detroit Tutors
-        url: /#/
+        url: /Detroit_MI_tutors.aspx
       - title: Houston Tutors
-        url: /#/
+        url: /Houston_tutors.aspx
       - title: Los Angeles Tutors
-        url: /#/
+        url: /Los_Angeles_tutors.aspx
       - title: Miami Tutors
-        url: /#/
+        url: /Miami_tutors.aspx
       - title: New York City Tutors
-        url: /#/
+        url: /New_York_City_tutors.aspx
       - title: Orange County Tutors
-        url: /#/
+        url: /Orange_County_CA_tutors.aspx
     - items:
       - title: Philadelphia Tutors
-        url: /#/
+        url: /Philadelphia_tutors.aspx
       - title: Phoenix Tutors
-        url: /#/
+        url: /Phoenix_tutors.aspx
       - title: San Francisco Tutors
-        url: /#/
+        url: /San_Francisco_tutors.aspx
       - title: Seattle Tutors
-        url: /#/
+        url: /Seattle_tutors.aspx
       - title: San Diego Tutors
-        url: /#/
+        url: /San_Diego_tutors.aspx
       - title: Washington, DC Tutors
-        url: /#/
+        url: /Washington_DC_tutors.aspx

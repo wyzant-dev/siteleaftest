@@ -11,6 +11,30 @@
                 <meta property="og:title" content="{{ page.title }}">
                 <meta name="twitter:title" content="{{ page.title }}">
             {% endif %}
+            {% if page.meta-description %}
+                <meta name="description" content="{{ page.meta-description }}">
+                <meta property="og:description" content="{{ page.meta-description }}">
+                <meta name="twitter:description" content="{{ page.meta-description }}">
+            {% elsif page.description %}
+                <meta name="description" content="{{ page.description | truncate: 150 }}">
+                <meta property="og:description" content="{{ page.description | truncate: 150 }}">
+                <meta name="twitter:description" content="{{ page.description | truncate: 150 }}">
+            {% endif %}
+            {% if page.hero-image %}
+                <meta name="twitter:image" content="https://wyzant.com/blog{{ page.hero-image }}">
+                <meta property="og:image" content="https://wyzant.com/blog{{ page.hero-image }}">
+            {% endif %}
+        {% elsif page.tag %}
+            <title>{{ page.tag }}</title>
+            <meta property="og:title" content="{{ page.tag }}">
+            <meta name="twitter:title" content="{{ page.tag }}">
+            <meta name="twitter:image" content="https://wyzant.com/blog{{ site.hero-image }}">
+            <meta property="og:image" content="https://wyzant.com/blog{{ site.hero-image }}">
+            {% if page.description %}
+                <meta name="description" content="{{ page.tag }}">
+                <meta property="og:description" content="{{ page.tag }}">
+                <meta name="twitter:description" content="{{ page.tag }}">
+            {% endif %}
         {% else %}
             {% if site.page-title %}
                 {% if site.page-title %}
@@ -22,6 +46,15 @@
                     <meta property="og:title" content="{{ site.title }}">
                     <meta name="twitter:title" content="{{ site.title }}">
                 {% endif %}
+            {% endif %}
+            {% if site.description %}
+                <meta name="description" content="{{ site.description }}">
+                <meta property="og:description" content="{{ site.description }}">
+                <meta name="twitter:description" content="{{ site.description }}">
+            {% endif %}
+            {% if site.hero-image %}
+                <meta name="twitter:image" content="https://wyzant.com/blog{{ site.hero-image }}">
+                <meta property="og:image" content="https://wyzant.com/blog{{ site.hero-image }}">
             {% endif %}
         {% endif %}
 
@@ -41,7 +74,7 @@
             <body class="dark-header">
         {% else %}
             <body>
-        {% endif %}
+        {% endif %} 
         {{ layout.page-title }}
         {% include header.html %}
         {{ content }}

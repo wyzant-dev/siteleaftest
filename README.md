@@ -44,7 +44,7 @@ If you click into an existing author or click the **New Author** CTA on the top 
 6. author
 	* This should be the first and last name of the author
 
-**It is strongly recommended that you fill out the title, profile-image, and author section. These are required elements for each post, and if you don't, we'll have to use our default author ("A Wyzant Staff Member") and profile-image (a picture of the Wyzant logo) instead. Furthermore, your post will not be attributed to the actual author.**
+**It is strongly recommended that you fill out the title, profile-image, and author section. These are required elements for each post, and if you don't, we'll have to use our default author ("Wyzant") and profile-image (a picture of the Wyzant logo) instead. Furthermore, your post will not be attributed to the actual author.**
 
 #### Posts
 
