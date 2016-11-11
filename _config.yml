@@ -27,7 +27,7 @@ defaults:
     profile-image: 
     author: Wyzant
     page-title: 
-    meta-description:
+    meta-description: 
 - scope:
     path: ''
     type: posts
@@ -38,7 +38,7 @@ defaults:
     author: Wyzant
     sub-headline: 
     hero-image: 
-    meta-description:
+    meta-description: 
     post-description: 
 page-title: Title here
 gems:
@@ -52,7 +52,7 @@ pagination:
   per_page: 4
 sub-headline: Sub headline goes here
 hero-image: "/blog/uploads/homepage-hero-default.png"
-meta-description:
+meta-description: 
 email: your-email@domain.com
 sass:
   sass_dir: blog/styles
