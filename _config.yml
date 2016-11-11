@@ -26,8 +26,13 @@ defaults:
     bio: 
     profile-image: 
     author: Wyzant
+<<<<<<< HEAD
     meta-title: 
     meta-description:
+=======
+    page-title: 
+    meta-description: 
+>>>>>>> 2172d1577ddf9966fbafcf33021ea32dee880a57
 - scope:
     path: ''
     type: posts
@@ -38,7 +43,7 @@ defaults:
     author: Wyzant
     sub-headline: 
     hero-image: 
-    meta-description:
+    meta-description: 
     post-description: 
 meta-title: Title here
 gems:
@@ -52,7 +57,7 @@ pagination:
   per_page: 4
 sub-headline: Sub headline goes here
 hero-image: "/blog/uploads/homepage-hero-default.png"
-meta-description: slkdfjlsfksklfkskldfjlks
+meta-description: 
 email: your-email@domain.com
 sass:
   sass_dir: blog/styles
