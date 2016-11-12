@@ -36,9 +36,9 @@ dark-header: true
 									<h2 class="text-thin spc-sm-s">{{ post.sub-headline }}</h2>
 								{% endif %}
 								{% if post.post-description  %}
-									{{ post.post-description | strip_html }}
+									{{ post.post-description | strip_html | strip }}
 								{% else %}
-									{{ post.content | strip_html | truncate: 200 }}
+									{{ post.content | strip_html | strip | truncate: 200 }}
 								{% endif %}
 							</article>
 						</li>

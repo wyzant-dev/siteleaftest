@@ -72,7 +72,7 @@ paginate: true
               {% if post.post-description %}
                 <p>{{ post.post-description | strip_html }}</p>
               {% else %}
-                <p>{{ post.content | strip_html | truncate: 200 }}</p>
+                <p>{{ post.content | strip_html | strip | truncate: 200 }}</p>
               {% endif %}
               <a href="{{ post.url }}" class="btn">Read More</a>
             </article>

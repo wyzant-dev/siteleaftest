@@ -206,7 +206,7 @@ blockquote {
 			width: 50%;
 			display: inline-block;
 			white-space: normal;
-			font-size: $baseFontSize;
+			font-size: $baseFontSize * 1px;
 			vertical-align: top;
 
 			&:nth-child(odd) {
