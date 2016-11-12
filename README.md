@@ -21,6 +21,17 @@ bundle exec jekyll serve
 ```
 The project should be running. Navigate to [http://localhost:4000/blog/](http://localhost:4000/blog/) to view your project locally.
 
+##Docker Setup
+Docker setup utlizies a basic Makefile and a Dockerfile included in the repository.  To build the image (install gems)run
+
+```make build```
+
+To run the project type
+
+```make run```
+
+Windows users will need to install ```http://gnuwin32.sourceforge.net/packages/make.htm``` to use Make.
+
 ## Authoring Notes
 If going to be referring to the `{{ content }}` scope a few times in this section. If you don't know what that is referring to, don't worry. What I mean is the rich text editor of Siteleaf. Every section on the far left rail (Authors, Posts, etc.) will have this content section. You can write whatever you want here and it will appear on it's designated page. Still wondering what `{{ content }}` is? It should look like this:
 ![content.png](/blog/uploads/content.png)
