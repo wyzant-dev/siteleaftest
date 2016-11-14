@@ -83,7 +83,7 @@ paginate: true
         <section class="pagination">
           <span>&laquo;</span>
           {% if paginator.previous_page %}
-            <a href="/blog">&lsaquo;</a>
+            <a href="{{ paginator.previous_page_path  | replace: '//', '/' }}">&lsaquo;</a>
           {% else %}
             <span>&lsaquo;</span>
           {% endif %}
@@ -99,7 +99,7 @@ paginate: true
           {% endfor %}
 
           {% if paginator.next_page %}
-            <a href="/blog{{ paginator.next_page_path  | replace: '//', '/' }}">&rsaquo;</a>
+            <a href="{{ paginator.next_page_path  | replace: '//', '/' }}">&rsaquo;</a>
           {% else %}
             <span>&rsaquo;</span>
           {% endif %}
