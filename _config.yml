@@ -1,5 +1,5 @@
 ---
-title: Wyzant Blog Name
+title: The Wyzant Blog
 timezone: America/Chicago
 collections:
   authors:
@@ -50,7 +50,7 @@ tag_permalink_style: pretty
 pagination:
   limit: false
   per_page: 4
-sub-headline: Sub headline goes here
+sub-headline: What will you learn?
 hero-image: "/blog/uploads/homepage-hero-default.png"
 meta-description: 
 email: your-email@domain.com
