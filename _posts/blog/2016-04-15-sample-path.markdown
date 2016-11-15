@@ -1,7 +1,7 @@
 ---
 title: Meet the New Wyzant
 date: 2016-04-15 11:43:00 -05:00
-permalink: "/blog/meet-the-new-wyzant"
+permalink: "/blog/meet-the-new-wyzant/"
 tags:
 - Wyzant News
 meta-title: Meet the New Wyzant - Wyzant Blog
