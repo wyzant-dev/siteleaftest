@@ -49,7 +49,7 @@ tag_page_dir: blog/tag
 tag_permalink_style: pretty
 pagination:
   limit: false
-  per_page: 4
+  per_page: 8
 sub-headline: What will you learn?
 hero-image: "/blog/uploads/homepage-hero-default.png"
 meta-description: 
