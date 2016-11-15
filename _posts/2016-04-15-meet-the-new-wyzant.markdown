@@ -3,7 +3,7 @@ title: Meet the New Wyzant
 date: 2016-04-15 11:43:00 -05:00
 tags:
 - Wyzant News
-meta-title: Meet the New Wyzant - Wyzant Blog
+meta-title: Meet the New Wyzant | Wyzant Blog
 sub-headline: We've taken Wyzant's look to the next level
 meta-description: We’ve evolved over the last 10 years, and it’s time we had a look
   that reflects that evolution. Starting today, Wyzant has a brand new look.
