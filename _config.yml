@@ -1,5 +1,5 @@
 ---
-title: Wyzant Blog Name
+title: The Wyzant Blog
 timezone: America/Chicago
 collections:
   authors:
@@ -40,7 +40,7 @@ defaults:
     hero-image: 
     meta-description: 
     post-description: 
-meta-title: Title here
+meta-title: Wyzant Blog
 gems:
 - octopress-paginate
 - jekyll/tagging
@@ -49,8 +49,8 @@ tag_page_dir: blog/tag
 tag_permalink_style: pretty
 pagination:
   limit: false
-  per_page: 4
-sub-headline: Sub headline goes here
+  per_page: 8
+sub-headline: What will you learn?
 hero-image: "/blog/uploads/homepage-hero-default.png"
 meta-description: 
 email: your-email@domain.com
