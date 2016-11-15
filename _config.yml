@@ -40,7 +40,7 @@ defaults:
     hero-image: 
     meta-description: 
     post-description: 
-meta-title: Title here
+meta-title: Wyzant Blog
 gems:
 - octopress-paginate
 - jekyll/tagging
