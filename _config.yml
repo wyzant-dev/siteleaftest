@@ -52,12 +52,16 @@ pagination:
   per_page: 8
 sub-headline: What will you learn?
 hero-image: "/blog/uploads/homepage-hero-default.png"
-meta-description: The Wyzant Blog is your place to learn anything.
+meta-description: Learning is the essence of Wyzant. And lifelong learners are the
+  people behind it. We’re hungry for the next fun fact, deep dive and discovery session.
+  Simply put, we love to learn. And in browsing these pages, we hope you will too.
 email: your-email@domain.com
 sass:
   sass_dir: blog/styles
   style: compressed
-description: The Wyzant Blog is your place to learn anything.
+description: Learning is the essence of Wyzant. And lifelong learners are the people
+  behind it. We’re hungry for the next fun fact, deep dive and discovery session.
+  Simply put, we love to learn. And in browsing these pages, we hope you will too.
 banner-background-image: "/blog/uploads/banner-background-default.png"
 banner-headline: Ready To Get Started?
 banner-sub-headline: Start Your Tutor Search Today.
