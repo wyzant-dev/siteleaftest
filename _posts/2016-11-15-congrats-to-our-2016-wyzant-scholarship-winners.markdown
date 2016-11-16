@@ -1,5 +1,5 @@
 ---
-title: Congrats To Our 2016 WyzAnt Scholarship Winners
+title: Congrats To Our 2016 Wyzant Scholarship Winners
 date: 2016-11-15 16:16:00 -06:00
 tags:
 - Wyzant News
