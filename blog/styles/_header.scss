@@ -14,7 +14,7 @@ header:nth-child(1) {
     	left: 0;
     	right: 0;
     	&[data-expanded="true"] {
-    		top: 47px;
+    		top: 61px;
     	}
     	&[data-expanded="false"] {
     		top: -1000px;
@@ -42,12 +42,21 @@ header:nth-child(1) {
 		position: absolute;
 	    left: 50%;
 	    width: 110px;
-	    top: 10px;
+	    top: 18px;
 	    margin-left: -55px;
 	}
-	#menu {
+	input[type=checkbox] {
+		opacity: 0;
+		height: 0;
+		width: 0;
+		&:checked ~ nav  {
+			top: 61px;
+		}
+	}
+	label {
 		font-size: 1.6em;
 		padding: 13px;
+		cursor: pointer;
 		&:hover {
 			text-decoration: none;
 		}
@@ -98,7 +107,7 @@ header:nth-child(1) {
 		    	padding: 0;
 		    }
 		}
-		#menu {
+		label {
 			display: none;
 		}
 	}

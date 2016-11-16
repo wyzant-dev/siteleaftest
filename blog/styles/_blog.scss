@@ -90,6 +90,11 @@ blockquote {
 	align-items: flex-start;
 	a {
 		margin: 0;
+		min-width: 100px;
+
+		@media #{$queryMedium} {
+			min-width: 130px;
+		}
 	}
 }
 .pagination {
