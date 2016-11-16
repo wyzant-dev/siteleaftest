@@ -24,6 +24,9 @@
             {% if page.hero-image %}
                 <meta name="twitter:image" content="https://wyzant.com{{ page.hero-image }}">
                 <meta property="og:image" content="https://wyzant.com{{ page.hero-image }}">
+            {% else %}
+                <meta name="twitter:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
+                <meta property="og:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
             {% endif %}
         {% elsif page.tag %}
             <title>{{ page.tag | capitalize }} Posts on the Wyzant Blog</title>
@@ -49,8 +52,8 @@
                 <meta name="twitter:description" content="{{ site.meta-description }}">
             {% endif %}
             {% if site.hero-image %}
-                <meta name="twitter:image" content="https://wyzant.com{{ site.hero-image }}">
-                <meta property="og:image" content="https://wyzant.com{{ site.hero-image }}">
+                <meta name="twitter:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
+                <meta property="og:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
             {% endif %}
         {% endif %}
 
