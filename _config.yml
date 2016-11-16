@@ -40,7 +40,7 @@ defaults:
     hero-image: 
     meta-description: 
     post-description: 
-meta-title: Wyzant Blog
+meta-title: The Wyzant Blog
 gems:
 - octopress-paginate
 - jekyll/tagging
@@ -52,14 +52,12 @@ pagination:
   per_page: 8
 sub-headline: What will you learn?
 hero-image: "/blog/uploads/homepage-hero-default.png"
-meta-description: 
+meta-description: The Wyzant Blog is your place to learn anything.
 email: your-email@domain.com
 sass:
   sass_dir: blog/styles
   style: compressed
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: The Wyzant Blog is your place to learn anything.
 banner-background-image: "/blog/uploads/banner-background-default.png"
 banner-headline: Ready To Get Started?
 banner-sub-headline: Start Your Tutor Search Today.
