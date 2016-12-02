@@ -7,7 +7,7 @@ dark-header: true
 	<section class="row">
 		<div class="column">
 			<section class="spc-s">
-				<h3 class="spc-n">All Articles tagged {{ page.tag  | upcase }}</h3>
+				<h3 class="spc-n">All Articles tagged <span class="text-green">{{ page.tag }}</span></h3>
 				<ul class="reset">
 					{% assign posts = site.tags[page.tag] %}
 					{% for post in posts %}
@@ -50,4 +50,3 @@ dark-header: true
 		</div>
 	</section>
 </section>
-
