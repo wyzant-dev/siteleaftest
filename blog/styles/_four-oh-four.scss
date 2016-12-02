@@ -1,0 +1,14 @@
+.four-oh-four {
+    background: linear-gradient(280deg, $grass, lighten($grass, 15%));
+    height: 100vh;
+    color: $charcoal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    h1 {
+        font-size: 300px;
+        font-weight: 800;
+        line-height: .8;
+    }
+}
