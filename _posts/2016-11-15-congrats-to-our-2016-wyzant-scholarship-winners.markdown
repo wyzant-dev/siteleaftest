@@ -19,7 +19,7 @@ So as sad as we are to say goodbye to the 2016 Scholarship Contest, we’re ecst
 Thanks to everyone who applied, and the friends, family and tutors who empowered them every step of the way. Here are [the winning essays](https://www.wyzant.com/scholarships/winners), and if that’s not enough, we even had some profound quotes roll in with this year’s submissions.
 
 First Place: Kate
-Essay Title: “My Mom’s Escape” 
+Essay Title: “My Mom’s Escape”
 In the fall, Kate will be heading from her hometown of Winnetka, Calif., to Northern California where she’ll be attending San Jose State. Inspired by her mother and grandfather, she’s choosing to major in applied mathematics.
 
 Second Place: Chenoa
