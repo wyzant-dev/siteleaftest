@@ -1,6 +1,15 @@
 ---
 title: 3 Things to Keep in Mind When Choosing a Tutor
 date: 2016-12-14 16:14:00 -06:00
+tags:
+- Finding a Tutor
+meta-description: So, you’ve decided to hire a tutor. Next is choosing who to work
+  with. Here are three steps to guide you through choosing the best tutor for your
+  learning needs.
+post-description: So, you’ve decided to hire a tutor. Next is choosing who to work
+  with. By considering your goals ahead of time and asking the right questions, you’ll
+  ensure that your money and time are well spent. Here are three steps to guide you
+  through choosing the best tutor for your learning needs.
 ---
 
 So, you’ve decided to hire a tutor—an excellent first step toward reaching your goals. The next step is going to be choosing who exactly to work with. While this task can seem overwhelming, it certainly doesn’t have to be. 
@@ -60,6 +69,5 @@ Once you’ve settled on a tutor you want to work with, the key to developing [a
 
 Understanding your short and long-term goals will allow you both to focus on the task at hand, and will help your tutor plan their lessons to meet your needs.
 
-
-The right tutor is a couple clicks away.
+## The right tutor is a couple clicks away.
 Now that you’ve got the know-how to choose the right tutor, all that’s left to do is begin your search.
