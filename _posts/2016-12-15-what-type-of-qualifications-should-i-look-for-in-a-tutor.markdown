@@ -3,7 +3,7 @@ title: What Type of Qualifications Should I Look for in a Tutor?
 date: 2016-12-15 10:37:00 -06:00
 tags:
 - Finding a Tutor
-hero-image: "/blog/uploads/what%20type%20of%20qualificiations%20iStock_81800873_LARGE%20(1)%20(1).jpg"
+hero-image: "/blog/uploads/what%20type%20of%20qualificiations%20iStock_81800873_LARGE%20(1)%20(1)-ee594a.jpg"
 meta-description: Graduate students, retired teachers and professional tutors have
   a different mix of degrees and certifications. Here’s how to determine the importance
   of qualifications.
