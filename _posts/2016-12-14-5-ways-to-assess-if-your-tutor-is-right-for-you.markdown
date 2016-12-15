@@ -1,6 +1,14 @@
 ---
 title: 5 Ways To Assess If Your Tutor is Right for You
 date: 2016-12-14 15:57:00 -06:00
+tags:
+- Finding a Tutor
+meta-description: Finding the right tutor can seem daunting. Fortunately, all successful
+  tutoring relationships have similar qualities. Here are the ways great tutors set
+  themselves apart.
+post-description: |-
+  If you’ve never worked with a tutor before or have only had mediocre tutoring experiences, it can seem daunting to find the right fit.
+  Fortunately, all successful tutoring relationships have similar qualities. Here are some ways a great instructor will set themselves apart.
 ---
 
 Finding a tutor to support you in your learning goals is invaluable. But, if you’ve never worked with a tutor before, or have only had mediocre experiences with tutoring, it can seem daunting.
