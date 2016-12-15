@@ -7,7 +7,7 @@ tags:
 meta-title: Congrats To Our 2016 Wyzant Scholarship Winners | Wyzant Blog
 sub-headline: From a bank of nearly 9,000 applicants, we’re excited to announce the
   three winners of $15,000 in scholarships.
-hero-image: "/blog/uploads/Scholarship_Winners_Hero_Image_blog%20(1).png"
+hero-image: "/blog/uploads/Scholarship_Winners_Hero_Image_blog%20copy.png"
 ---
 
 ![Scholarship_Winners_Hero_Image_blog.png](/blog/uploads/Scholarship_Winners_Hero_Image_blog.png)
