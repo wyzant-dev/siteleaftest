@@ -3,6 +3,7 @@ title: 3 Things to Keep in Mind When Choosing a Tutor
 date: 2016-12-14 16:14:00 -06:00
 tags:
 - Finding a Tutor
+hero-image: "/blog/uploads/how%20to%20pick%20tutor%20iStock_85687913_LARGE%20(1).jpg"
 meta-description: So, you’ve decided to hire a tutor. Next is choosing who to work
   with. Here are three steps to guide you through choosing the best tutor for your
   learning needs.
