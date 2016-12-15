@@ -1,6 +1,15 @@
 ---
 title: What Type of Qualifications Should I Look for in a Tutor?
 date: 2016-12-15 10:37:00 -06:00
+tags:
+- Finding a Tutor
+meta-description: Graduate students, retired teachers and professional tutors have
+  a different mix of degrees and certifications. Here’s how to determine the importance
+  of qualifications.
+post-description: Graduate students, retired teachers and professional tutors have
+  a different mix of degrees, certifications and training. Because tutor training
+  isn’t standardized, it’s important to keep an open mind. So how do you judge credentials?
+  Here’s how you can determine the importance of qualifications.
 ---
 
 Graduate students, retired teachers and professional tutors all have a different mix of degrees, certifications and training. So how do you judge their credentials? What matters and what doesn’t?
