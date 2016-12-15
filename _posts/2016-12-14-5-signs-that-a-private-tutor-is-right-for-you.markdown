@@ -3,6 +3,7 @@ title: 5 Signs That a Private Tutor is Right for You
 date: 2016-12-14 16:22:00 -06:00
 tags:
 - Finding a Tutor
+hero-image: "/blog/uploads/5%20signs%20iStock_71661995_LARGE%20(1).jpg"
 meta-description: Whether tackling a new course or preparing for an exam, studying
   on your own can stop being helpful. Ask yourself these 5 questions when considering
   working with a private tutor.
