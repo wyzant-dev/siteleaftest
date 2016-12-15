@@ -5,6 +5,7 @@ tags:
 - Wyzant News
 meta-title: Meet the New Wyzant | Wyzant Blog
 sub-headline: We've taken Wyzant's look to the next level
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 meta-description: We’ve evolved over the last 10 years, and it’s time we had a look
   that reflects that evolution. Starting today, Wyzant has a brand new look.
 post-description: Over the last 10 years, we’ve evolved from a tutoring directory
