@@ -18,7 +18,7 @@ Graduate students, retired teachers and professional tutors all have a different
 Because tutor training isn’t always a standardized process, it’s important to keep an open mind when seeking out 1-to-1 instruction. Here’s how you can determine the relative importance of qualifications.
 
 ## 1. Degrees and Diplomas
-Typically, you’ll want to find an instructor with at least a bachelor’s degree (ideally in the subject or a related subject to what you’re studying). Keep in mind that Masters and Ph.D. candidates may have the subject expertise you’re looking for, while [advanced degree-holders](https://www.ncbi.nlm.nih.gov/pubmed/8397613)will likely have teaching experience in entry-level college courses.
+Typically, you’ll want to find an instructor with at least a bachelor’s degree (ideally in the subject or a related subject to what you’re studying). Keep in mind that Masters and Ph.D. candidates may have the subject expertise you’re looking for, while [advanced degree-holders](https://www.ncbi.nlm.nih.gov/pubmed/8397613) will likely have teaching experience in entry-level college courses.
 
 
 But be careful about placing too much emphasis and importance on degrees. Remember that teaching experience and methodology are just as (if not more) important. Always be sure to ask about [related teaching and tutoring experience](http://blogs.edweek.org/edweek/walt_gardners_reality_check/2010/12/is_subject_matter_expertise_enough_for_successful_teaching.html), particularly with students at your level and age range.
