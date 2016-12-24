@@ -4,3 +4,5 @@ date: 2016-12-23 19:11:00 -06:00
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tvm9UYQLGX0" frameborder="0" allowfullscreen></iframe>
+
+<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/live_chat?v=Tvm9UYQLGX0&embed_domain=www.wyzant.com" width="480"></iframe><br />
