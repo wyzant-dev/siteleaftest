@@ -1,5 +1,5 @@
 ---
-title: Scholarship Rules
+title: SWEEPSTAKES OFFICIAL RULES
 date: 2017-01-09 16:45:00 -06:00
 published: false
 ---
