@@ -19,64 +19,66 @@ paginate: true
     <div class="column">
       <ul class="reset spc-n">
         {% for post in paginator.posts %}
-          <li>
-            <article>
-              {% if post.hero-image %}
-                <figure style='background-image: url("{{ post.hero-image }}");'></figure>
-              {% else %}
-                <figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
-              {% endif %}
-              <section class="spc-tiny-n">
-                <div>
-                  <section class="profile-image-container">
+            {% unless post.isHidden %}
+              <li>
+                <article>
+                  {% if post.hero-image %}
+                    <figure style='background-image: url("{{ post.hero-image }}");'></figure>
+                  {% else %}
+                    <figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
+                  {% endif %}
+                  <section class="spc-tiny-n">
                     <div>
-                    {% if post.author %}
-                      {% assign author = site.authors | where: "author", post.author %}
-                      {% for data in author %}
-                        {% assign photo = data.profile-image %}
-                        {% if photo %}
-                          <img src="{{ photo }}" alt="author image">
+                      <section class="profile-image-container">
+                        <div>
+                        {% if post.author %}
+                          {% assign author = site.authors | where: "author", post.author %}
+                          {% for data in author %}
+                            {% assign photo = data.profile-image %}
+                            {% if photo %}
+                              <img src="{{ photo }}" alt="author image">
+                            {% else %}
+                              <img src="/blog/uploads/author-icon-default.png" alt="default author image">
+                            {% endif %}
+                          {% endfor %}
                         {% else %}
                           <img src="/blog/uploads/author-icon-default.png" alt="default author image">
                         {% endif %}
+                      </section>
+                      {% assign author = site.authors | where: "author", post.author %}
+                      {% for data in author %}
+                        {% if post.author != "Wyzant" %}
+                          <a href="{{ data.url | prepend: site.baseurl }}">{{ post.author }}</a>
+                        {% else %}
+                          <span>Wyzant</span>
+                        {% endif %}
                       {% endfor %}
-                    {% else %}
-                      <img src="/blog/uploads/author-icon-default.png" alt="default author image">
-                    {% endif %}
+                    </div>
+                    <time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
                   </section>
-                  {% assign author = site.authors | where: "author", post.author %}
-                  {% for data in author %}
-                    {% if post.author != "Wyzant" %}
-                      <a href="{{ data.url | prepend: site.baseurl }}">{{ post.author }}</a>
-                    {% else %}
-                      <span>Wyzant</span>
-                    {% endif %}
-                  {% endfor %}
-                </div>
-                <time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
-              </section>
-              <h1 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title | escape }}</a></h1>
-              {% if post.sub-headline %}
-                <h2 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h2>
-              {% endif %}
-              {% if post.tags %}
-                <ul class="reset seo-tags">
-                  {% for tag in post.tags %}
-                    <li>
-                      <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
-                      <span> | </span>
-                    </li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-              {% if post.post-description %}
-                <p>{{ post.post-description | strip_html }}</p>
-              {% else %}
-                <p>{{ post.content | strip_html | strip | truncate: 200 }}</p>
-              {% endif %}
-              <a href="{{ post.url }}" class="btn">Read More</a>
-            </article>
-          </li>
+                  <h1 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title | escape }}</a></h1>
+                  {% if post.sub-headline %}
+                    <h2 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h2>
+                  {% endif %}
+                  {% if post.tags %}
+                    <ul class="reset seo-tags">
+                      {% for tag in post.tags %}
+                        <li>
+                          <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
+                          <span> | </span>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+                  {% if post.post-description %}
+                    <p>{{ post.post-description | strip_html }}</p>
+                  {% else %}
+                    <p>{{ post.content | strip_html | strip | truncate: 200 }}</p>
+                  {% endif %}
+                  <a href="{{ post.url }}" class="btn">Read More</a>
+                </article>
+              </li>
+          {% endunless %}
         {% endfor %}
       </ul>
       {% if paginator.total_pages > 1 %}
