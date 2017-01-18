@@ -70,12 +70,13 @@
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:300,400,500">
         <link rel="stylesheet" href="/blog/styles/main.css" />
         <script src="//load.sumome.com/" data-sumo-site-id="8b6bbe35f23b5979eba31207f5a4233ef3561e9962b994bcc11e5a93a45bc617" async="async"></script>
+        <script type="text/javascript">(function(o){var b="https://api.autopilothq.com/anywhere/",t="909556f38a884649a9773cd705d9dbe4e4ff9dacd42947ef91c4e4bf3d005fc5",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};if(!o.noaa){z(b+"aa/"+t+'?'+p,false)};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
     </head>
         {% if layout.dark-header %}
             <body class="dark-header">
         {% else %}
             <body>
-        {% endif %} 
+        {% endif %}
         {% include header.html %}
         {{ content }}
         {% include footer.html %}
