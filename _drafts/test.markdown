@@ -3,7 +3,7 @@ title: Snapshot Series
 date: 2016-12-23 19:47:00 -06:00
 ---
 
-We're soon launching a live drop-in lessons! Just add your email address below to be notified of the next session.
+We're soon launching live drop-in lessons! Just add your email address below to be notified of the next session.
 
 We'll begin with JB, a top tutor in Javascript, Ruby, SQL and other computer programming languages.
 
