@@ -1,5 +1,5 @@
 ---
-title: 4 Early Reader Books About The 4th Of July
+title: 4 Fantastic Early Reader Books About The 4th Of July
 date: 2015-07-01 15:37:00 -05:00
 tags:
 - Elementary School
