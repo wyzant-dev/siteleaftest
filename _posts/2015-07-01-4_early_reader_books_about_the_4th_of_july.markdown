@@ -5,7 +5,7 @@ tags:
 - Elementary School
 sub-headline: Use the upcoming holiday to capture the interest of your young reader
   with some award-winning stories they can relate to their own experiences.
-hero-image: "/blog/uploads/1.jpg"
+hero-image: "/blog/uploads/1-825649.jpg"
 ---
 
 # Parades! Picnics! Fireworks!
@@ -25,7 +25,11 @@ Here are four of our favorites:
 **Quick tips for encouraging your early reader:**
 
 * Read with your child. When they see you doing something, they’ll be more inclined to engage!
+
 * Help your child find books that are at their reading level. If you’re unsure if the book they’ve chosen is a good match for their reading level, use the “Rule of Thumb”: ask them to read a page of the book, holding up one finger for every word they don’t know. If they reach their thumb before the page is over (i.e. 5 words they don’t know), then the book is probably too hard for them to read on their own. Encourage them to try another book at a lower reading level, but about a similar subject.
+
 * Engage them in conversation after the story. Tell them what you liked about it and what (or who) it reminded you of. Ask them questions, too - what did they like about the story?
+
 * Relate the story to upcoming or past events in your child’s life.
+
 * If your child is struggling with reading, consider connecting them with an expert tutor who specializes in elementary reading, and can help him or her get up to speed before the upcoming school year begins.
