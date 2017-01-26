@@ -13,6 +13,7 @@ meta-description: The Snapshot Series is a collection of 30-minute tutor talks, 
 
 The Snapshot Series is a collection of 30-minute tutor talks, followed by open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
+
 ![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
 
 **Snapshot Tutor JB**
