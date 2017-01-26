@@ -22,7 +22,7 @@ Here are four of our favorites:
 
 [L is for Liberty](https://www.amazon.com/L-Is-Liberty-Reading-Railroad/dp/0448432285/ref=pd_rhf_dp_s_cp_3?ie=UTF8&refRID=0QV7THDQ1F16FTVBNRM3). With bold illustrations and straight-forward language, this book celebrates the Statue of Liberty, including the history of the statue and what it represents -- freedom. Age range: 4 - 8 years.
 
-### Quick tips for encouraging your early reader:
+**Quick tips for encouraging your early reader:**
 
 * Read with your child. When they see you doing something, they’ll be more inclined to engage!
 * Help your child find books that are at their reading level. If you’re unsure if the book they’ve chosen is a good match for their reading level, use the “Rule of Thumb”: ask them to read a page of the book, holding up one finger for every word they don’t know. If they reach their thumb before the page is over (i.e. 5 words they don’t know), then the book is probably too hard for them to read on their own. Encourage them to try another book at a lower reading level, but about a similar subject.
