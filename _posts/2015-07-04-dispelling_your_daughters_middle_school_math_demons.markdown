@@ -32,12 +32,12 @@ Once a middle schooler begins to falter in math, it only gets harder for them to
 
 Learning a new concept requires a clear understanding of the concept that came before. If your daughter is feeling frustrated with the problem in front of her, it could be because she doesn’t have a clear understanding of all of the concepts that are being built upon.
 
-#Point out building blocks
+# Point out building blocks
 
 Break new concepts into smaller pieces, demonstrating how the math skills she already has are built into this new concept. To be successful in algebra, for example, you have to know how to add, subtract, multiply and divide. If she’s comfortable with those skills, point that out, and show her how each of those building blocks will help her get the bigger concept.
 
 Making concepts into smaller building blocks will also allow you to learn what pieces she may not fully understand yet. Once you can identify these, you can take the time to help her learn them before moving forward.
 
-#Work with a pro
+# Work with a pro
 
 No matter how well you, your spouse, or her math teacher explains something, if you’re not explaining it in a way that she can understand, the frustration (for everyone) will only build. But working with private tutor who knows how to effectively teach math concepts to your middle school aged daughter can make all the difference.
