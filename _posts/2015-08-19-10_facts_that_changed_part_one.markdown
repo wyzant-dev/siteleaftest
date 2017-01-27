@@ -5,12 +5,12 @@ tags:
 - Help for Parents
 sub-headline: Find out ten new facts your children will be taught in school, and how
   they differ from what you learned.
-hero-image: "/blog/uploads/facts4-466f11.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
 
 ![Facts1.gif](/blog/uploads/Facts1.gif)
 
-# Your teachers lied to you, but it wasn’t on purpose. See what new discoveries we’ve made and what your child will now learn as facts at school.
+**Your teachers lied to you, but it wasn’t on purpose. See what new discoveries we’ve made and what your child will now learn as facts at school.**
 
 # Fact 1: Pluto is a dwarf planet, not a real planet.
 
