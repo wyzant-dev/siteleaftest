@@ -5,7 +5,6 @@ tags:
 - New on Wyzant
 sub-headline: 'Putting the smart in smartphones: These apps have changed the way we
   grow our brains.'
-hero-image: "/blog/uploads/1.png"
 ---
 
 ![](https://d3bstivvgzmae3.cloudfront.net/BlogImage/Blog-Mobile-Apps.png)
