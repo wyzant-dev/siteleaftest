@@ -16,8 +16,6 @@ If you have a middle school-aged daughter, and you’ve heard these words come o
 
 What gives? You know your daughter is smart, and have seen her learn easily and enjoyably. So why the sudden pessimistic attitude about math?
 
-**SEE ALSO:** [Why Private Tutoring Might Be The Answer To (Most Of) Your Problems](https://www.wyzant.com/blog/why_private_tutoring_might_be_the_answer_to_most_of_your_problems)
-
 The answer, as numerous studies have detailed, is a combination of powerful forces—both external (societal norms, social codes, etc.) and internal (damn those crazy teenage hormones and all the blows to confidence they bring!). The good news is that as frustrating as the situation might be, you can do things to help solve it.
 
 # Get used to talking it out
