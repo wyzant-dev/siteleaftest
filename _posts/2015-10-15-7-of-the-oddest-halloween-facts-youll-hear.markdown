@@ -8,7 +8,7 @@ hero-image: "/blog/uploads/Halloween1.jpg"
 
 Finally, that time of year when our vision turns orange and we don’t have to feel guilty about our chocolate intake.
 
-Halloween has a long history, and in the 2000 years since it’s Celtic introduction, it’s crossed the bounds of numerous cultures and traditions on the way to becoming the sidewalk-pounding celebration our youngsters hold dear.
+Halloween has a long history, and in the 2000 years since it’s [Celtic introduction](https://en.wikipedia.org/wiki/Samhain), it’s crossed the bounds of numerous cultures and traditions on the way to becoming the sidewalk-pounding celebration our youngsters hold dear.
 
 Here are 7 sometimes mind-boggling, sometimes silly facts that’ll be sure to put a smile on your pumpkin.
 
@@ -36,7 +36,7 @@ As part of the tradition, Germans put away their knives on Halloween night—and
 
 ![Halloween4.jpg](/blog/uploads/Halloween4.jpg)
 
-Long before American immigrants discovered there was no better use for pumpkins than carving them up and putting candles inside, the Irish and Scottish would carve turnips. Just like most of Halloween’s customs it was meant to keep (or in some cases attract) spirits. One of whom was Stingy Jack—the main character in an old fable that gave us the name Jack-O-Lantern.
+Long before American immigrants discovered there was no better use for pumpkins than carving them up and putting candles inside, the Irish and Scottish would carve turnips. Just like most of Halloween’s customs it was meant to keep (or in some cases attract) spirits. One of whom was [Stingy Jack](http://www.history.com/topics/halloween/jack-olantern-history)—the main character in an old fable that gave us the name Jack-O-Lantern.
 
 Don’t worry, they were large turnips. And by many accounts, they were actually a lot scarier than the toothless orange faces kids collect candy in today.
 
