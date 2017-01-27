@@ -25,7 +25,7 @@ Communication within the app is easy and immediate, making scheduling lessons wi
 It’s unparalleled access to your child’s next teacher. Someone you choose, and can work with to track progress on a weekly basis while your child steadily grows through the experience of person-to-person learning. All from the chaos of a commute, or the boredom of a waiting room.
 
 [App Store](https://itunes.apple.com/US/app/id1042081370?mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.wyzant.studentapp&hl=en)
-
+  
   
 # The Inspiration: TED
 
