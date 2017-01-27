@@ -29,6 +29,7 @@ So how do you know what your child’s weaknesses are? And better yet, how do yo
 2. Collect the wordings of all of these questions into a spreadsheet, even if they guessed the right answer. This eliminates the chance of not working on questions which aren’t fully understood.
 3. After the first 1-2 practice tests (students should take 1-1.5 per week), identify the questions that provide the most trouble. Categorize them by test format, and look for patterns and commonly appearing verbs throughout the questions.
 4. Rate these categories on a scale of 1 (easiest) to 5 (hardest), according to either total questions missed or the amount of difficulty your child feels with a given type.
+
 Build a practice schedule and revisit this information as you go. The goal? Build good test-taking habits by efficiently managing time each session. Segment out the different difficulties of questions. A good mix is:
 
 * **50% of the time:** Areas needing to be strengthened or aren’t well understand (a 5 on your scale)
@@ -41,6 +42,7 @@ The last months before the test should be dedicated to practice test, practice t
 
 1. The practice exams accurately represent the quality of the test
 2. There is a large variation of the phrasing and topics within the information and questions.
+
 If the first criteria isn’t met, there will be knowledge of the concepts and questions, but no exposure to how the questions are phrased on the real test. This could lead to confusion and anxiety on the actual test. If the second criteria isn’t met, practice scores might come out too high. You don't want to rely on memorization of a smaller sample of questions instead of the foundational skills and approaches needed for success.
 
 So where do you find these tests?
@@ -61,6 +63,7 @@ You can boil down the reasons students miss questions into four buckets:
 2. **Bad Guesses:** Answers were successfully eliminated, but the wrong choice was made between the last two.
 3. **Content:** The necessary skills or knowledge for answering the question was missing.
 4. **Wrong Approaches:** The knowledge or skills are in place, but a mistake was made in answering.
+
 Each category requires a different step to correct. And being able to identify those steps is priceless. Working with a tutor is an excellent way to refine these abilities. Another approach would be to learn the follow-up questions to ask when one of these errors are made.
 
 ## Test-taking Errors and Follow-Up Questions
