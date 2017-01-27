@@ -18,6 +18,9 @@ What do you have to do to join?
 Just add your email address below and prepare to learn.
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/new_form">
 </script>
+<noscript>
+    <a href="https://wyzant.formstack.com/forms/new_form" title="Online Form">Online Form - New form</a>
+</noscript>
 <div style="text-align:right; font-size:x-small;">
     <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2562507" title="Online Form Builder">Online Form Builder</a>
 </div>
