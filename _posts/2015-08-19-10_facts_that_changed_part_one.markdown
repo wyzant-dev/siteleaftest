@@ -66,6 +66,6 @@ Most of us were taught that the Arctic, Atlantic, Indian, and Pacific were the w
 
 Extra credit: The deepest part of the ocean explored by humans is the Mariana Trench, which is known to go almost eight miles below sea level.
 
-#Don’t Stop Yet...
+# Don’t Stop Yet...
 
 Here are [five more facts](https://www.wyzant.com/blog/10_facts_that_changed_part_two) you learned to be true, but your kids will never be taught.
