@@ -6,8 +6,10 @@ tags:
 sub-headline: Back to school can be as exciting as it is nerve-wracking for high school
   and college students. An expert tutor gives your student the edge on everything
   from homework help to standardized testing.
-hero-image: "/blog/uploads/Supplies1.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](https://d3bstivvgzmae3.cloudfront.net/blog/The_School_Supply_They'll_Need_The_Most-1.jpg)
 
 There is always a mix of excitement and apprehension during the back to school season.
 Whether your child will be driving themselves to school for the first time or getting settled into their college dorms, the question, "is my child ready for what’s next?" is likely hovering in the background.
@@ -15,10 +17,15 @@ Whether your child will be driving themselves to school for the first time or ge
 As a parent, you can help them prepare to make this year a successful one. Here’s a list of back-to-school essentials that every high school or college student needs this fall:
 
 * Computer and/or iPad
+
 * Notebooks (when computers aren’t allowed in class)
+
 * Writing supplies: pens, pencils, and highlighters
+
 * Flashcards
+
 * Scientific calculator (TI-83 or TI-84)
+
 * An expert tutor
 
 An expert private tutor will help your student understand complicated concepts, give them more confidence to ace exams, and achieve the scores they need on standardized tests. With an expert tutor, you give your student the advantage on whatever comes up, whether it's:
