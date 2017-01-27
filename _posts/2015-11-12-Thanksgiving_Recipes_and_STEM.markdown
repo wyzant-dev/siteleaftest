@@ -5,8 +5,10 @@ tags:
 - Help for Parents
 sub-headline: Baking experiments into Thanksgiving dinner recipes is a great way to
   keep kids excited and inquisitive.
-hero-image: "/blog/uploads/1-9d4582.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](http://assets.wyzant.com/719Thanksgiving-blog.jpg)
 
 # You don’t need Thanksgiving dinner recipes, you need ways to keep your kids engaged while you cook them. Why not use science?
 
@@ -21,7 +23,9 @@ This timeline of experiments will snuggle right up to your Thanksgiving schedule
 Did you know that Paddington Bear’s briefcase is the size of your garage door? Some serious STEM thinking (and work hours) goes into making the balloons that keep our eyes so fixated. Things like:
 
 * The average balloon requires 90 people who weigh at least 120 lbs (how many pounds is that anyway?)
+
 * Most balloons have an average of 12,000 cubic feet of helium in them (enough to fill 2,500 bathtubs)
+
 * Each balloon is a **series of chambers** engineered to hold the desired form (think balloon animals)
 
 Don’t just take our word for it, [Popular Science](http://www.popsci.com/science-and-engineering-macys-thanksgiving-day-balloons) has an eye-opening behind-the-scenes video taken at the warehouse where the balloons are constructed.
@@ -37,7 +41,9 @@ Oh, the mysteries of cooking turkey.
 It’s actually ripe with experimentation (and you don’t have to forego Grandma’s recipe). But whether you need help figuring out how long to cook a 20-pound bird, to brining, to getting the perfect heat mix for white vs. dark meat, critical thinking (and/or gooling) opportunities abound.
 
 * How do you cook the legs to 180 degrees and the breast to 160 when they’re attached? (Answered by [Popular Science](http://www.popsci.com/scitech/article/2007-11/turkey-day-chemistry-kitchen)... again)
+
 * How much water and salt do you need to brine a 15-pound turkey? How about 22 pounds? (Guess first, look [later](http://www.smithsonianmag.com/science-nature/the-science-of-cooking-a-turkey-and-other-thanksgiving-dishes-138311115/?no-ist))
+
 * Why does brining work anyway?
 
 **Take it further:** Even if YOU are going to rely on tradition, make like your child’s math skills are the key to the mouth watering. They can take the dimensions of your turkey and figure out cooking time using [this mathematical balance of weight, surface area, and width](http://www.exploratorium.edu/cooking/turkey/index.html).
@@ -67,7 +73,9 @@ Got leftovers? Don’t be too hasty to throw out the remains. From the bones of 
 We’re pretty sure turkey wasn’t on the table at the first Thanksgiving in 1621. Beyond that, there are only theories as to why this bird became so big on Thanksgiving, including:
 
 * Turkeys were big enough to feed a crowd, but more “dinner-worthy” than chicken
+
 * It was a Christmas meal as well (notably referred to in Dicken’s A Christmas Carol)
+
 * It was the meat of choice when Honest Abe declared Thanksgiving a national holiday in 1863
 
 We know holidays are overwhelming. Hopefully with a pinch of STEM ingenuity, there will be one less reason to pull your hair from it’s roots.
