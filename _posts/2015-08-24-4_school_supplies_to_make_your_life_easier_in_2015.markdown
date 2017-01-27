@@ -20,7 +20,7 @@ Studying for tests has been reinvented and is much more efficient thanks to this
 
 And no more giant stack of note cards. It’s a win-win.
 
-# 2. Self Control (The Mac App)
+# 2. [Self Control](http://selfcontrolapp.com/) (The Mac App)
 
 ![Essentials3.png](/blog/uploads/Essentials3.png)
 
