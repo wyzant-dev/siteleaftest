@@ -1,10 +1,10 @@
 ---
-title: Snapshot Series Sign Up - Javascript with JB
+title: Snapshot Series Sign Up - Java with JB
 date: 2017-01-26 16:45:00 -06:00
 tags:
 - Snapshot Series
-- Javascript
 - JB
+- Java
 sub-headline: So, you want to learn Java? Here’s a good place to start
 meta-description: The Snapshot Series is a collection of 30-minute tutor talks, followed
   by open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely
