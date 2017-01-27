@@ -13,8 +13,7 @@ hero-image: "/blog/uploads/1.png"
 There’s no doubt smartphones have changed the way we interact with the world, interact with one another, and yes, learn. From the new opportunities we have for students to the immediate connections smart phones allow, it’s an ingenious platform for technology, learning, and lessons. And now we (and our kids) are only seconds away from the next chance to [grow our brains](http://www.brainhq.com/brain-resources/brain-plasticity/what-is-brain-plasticity).
 
 That being said, there's more to consume than there is time for. So we’ve pinpointed the biggest and coolest strides apps have made to the accessibility of education and growth of mental power.
-  
-  
+
 # The Connector: WyzAnt
 
 Yes, our newly released app is first (but that’s because we’re so excited). Now, parents and students can **instantly** connect with a network of 80,000 private tutors. You can filter search results based on what’s most important to you, and easily compare tutors based on ratings, backgrounds, and rates.
@@ -27,6 +26,7 @@ It’s unparalleled access to your child’s next teacher. Someone you choose, a
 
 [App Store](https://itunes.apple.com/US/app/id1042081370?mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.wyzant.studentapp&hl=en)
 
+  
 # The Inspiration: TED
 
 Can you believe what started as a one-time convention is now thousands of on-demand lectures, although the word ‘lecture’ doesn’t do them justice? TED talks are more like pipelines to intelligent conversation. Or looking glasses into worlds we’ve never thought about.
