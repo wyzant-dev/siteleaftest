@@ -3,8 +3,10 @@ title: How A WyzAnt Scholarship Helped Alexandrea Find Her Life’s Work
 date: 2015-10-01 12:50:00 -05:00
 sub-headline: A winning essay was the start of one college student’s unpredictable
   journey of discovery and creation.
-hero-image: "/blog/uploads/Alexandrea.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](https://d3bstivvgzmae3.cloudfront.net/BlogImage/Alexandrea_Newell_Scholarship.jpg)
 
 “What does peace mean to you?”
 
@@ -15,6 +17,7 @@ She’s compiling the answers into a book, one she began working on in 2010. Lon
 For a college experience, it’s as atypical as they come. And few could have guessed what it would have induced.
 
 # Staying Positive
+
 Alexandrea has always stood out. But there was a time when that hurt more than it helped.
 
 In middle school, she often felt like an outsider. Alexandrea became a very good writer, something she turned to after her father passed away when she was 15. She became so good, in fact, that a few of her teachers wrongly accused her of plagiarizing.
