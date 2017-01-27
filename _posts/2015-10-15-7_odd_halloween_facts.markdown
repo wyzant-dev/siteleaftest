@@ -3,8 +3,10 @@ title: 7 Of The Oddest Halloween Facts You’ll Hear
 date: 2015-10-15 12:39:00 -05:00
 sub-headline: When you look at the long history of Halloween, some weird and fun facts
   come to light.
-hero-image: "/blog/uploads/Halloween1.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](http://assets.wyzant.com/797World_war_II_candy.jpg)
 
 Finally, that time of year when our vision turns orange and we don’t have to feel guilty about our chocolate intake.
 
@@ -67,6 +69,5 @@ At that rate, it would only take 2.5 years before everyone had been bitten. Of c
 Try that math on your student!
 
 It always fun to look at the history of our favorite holidays isn’t it?
-
 
 *Source: https://en.wikipedia.org/wiki/Rationing_in_the_United_States#World_War_II*
