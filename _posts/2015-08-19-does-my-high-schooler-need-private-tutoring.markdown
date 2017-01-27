@@ -61,7 +61,7 @@ You know reading is as crucial to long-term success as eating vegetables. That�
 
 But when you start to think about it, you don’t see your child reading anything that’s not a text message or push notification. And you wonder if they dislike reading. If so, why?
 
-If you don’t ever see your child reading, dig deeper. Identify how they feel about reading. Is it frustrating? Or just boring? If it’s the former, it could be a struggle with reading comprehension that, when fixed, would enable them both in school and out. And if it’s boredom? If your teen thinks reading is "boring", you've found a golden opportunity to spark an infectious curiosity. The kind that bolsters an excitement for learning into college and beyond.
+If you don’t ever see your child reading, dig deeper. Identify how they feel about reading. Is it frustrating? Or just boring? If it’s the former, it could be a struggle with reading comprehension that, when fixed, would enable them both in school and out. And if it’s boredom? If your teen thinks reading is "boring", you've found a golden opportunity to spark an [infectious curiosity](http://www.greatschools.org/gk/articles/cracking-the-code-on-curiosity/). The kind that bolsters an excitement for learning into college and beyond.
 
 ### "If your teen thinks reading is 'boring', it's a golden opportunity to spark an infectious curiosity."
 
