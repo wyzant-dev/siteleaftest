@@ -6,8 +6,10 @@ tags:
 - Test Prep
 sub-headline: Find out how to eliminate flaws in your child’s study plan and learn
   tips for good study habits in the weeks leading up to the big exam.
-hero-image: "/blog/uploads/1-1ea8e2.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](https://d3bstivvgzmae3.cloudfront.net/blog/4_Mistakes_To_Avoid_During_AP_ACT_and_SAT_Prep.jpg)
 
 **Our poor teenagers. With sweaty palms and sharpened pencils, they’re only weeks away from the toughest 4 hours of their school year. Or maybe even their high school careers.**
 
