@@ -8,8 +8,10 @@ sub-headline: As a parent, you want to make sure your teen reaches their full po
   Here are five things to watch for going into the new school year.You know there
   is a bright and promising future out there for your teen, and you want to do everything
   you can to help them get there.
-hero-image: "/blog/uploads/HighSchooler.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](https://d3bstivvgzmae3.cloudfront.net/blog/Does_My_High_Schooler_Need_Private_Tutoring-1.jpg)
 
 # You know there is a bright and promising future out there for your teen, and you want to do everything you can to help them get there.
 
@@ -70,14 +72,19 @@ Once you've surveyed the situation and are ready to approach your child, how sho
 **If you suspect the issue revolves around content and concepts from a given class:**
 
 * Why are you having a hard time with this?
+
 * Is there anything that interests you about this subject?
+
 * I understand that you don’t like it, but how can you succeed at this?
 
 **If you suspect the issue is with foundational skills or emotionally driven:**
 
-* How can you take some of the ambition you have for [name activity] and transfer that to your schoolwork, which is also important?
+* How can you take some of the ambition you have for \[name activity\] and transfer that to your schoolwork, which is also important?
+
 * What do you like about school? What do you dislike about school?
+
 * How can I help with your workload?
+
 * What can I do to relieve some of the pressure?
 
 Gather as much of the story from your student as possible and don't jump to conclusions. They need you, and they need you to listen. The best thing you can do—and you CAN do it—is be open and positive.
