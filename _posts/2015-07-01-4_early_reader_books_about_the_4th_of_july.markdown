@@ -5,8 +5,10 @@ tags:
 - Elementary School
 sub-headline: Use the upcoming holiday to capture the interest of your young reader
   with some award-winning stories they can relate to their own experiences.
-hero-image: "/blog/uploads/1-825649.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](https://d3bstivvgzmae3.cloudfront.net/blog/4_Fantastic_Early_Reader_Books_About_The_4th_Of_July.jpg)
 
 # Parades! Picnics! Fireworks!
 
