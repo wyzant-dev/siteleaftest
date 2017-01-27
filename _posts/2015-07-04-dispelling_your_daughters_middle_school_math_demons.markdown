@@ -7,8 +7,10 @@ tags:
 sub-headline: Math often becomes a disparaging subject for middle school girls. Here's
   how parents can play a pivotal role in helping them understand emotions and simplify
   concepts.
-hero-image: "/blog/uploads/Math1.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](https://d3bstivvgzmae3.cloudfront.net/blog/Dispelling_Your_Daughter's_Middle_School_Math_Demons.jpg)
 
 # "I’m just not good at math.”
 
