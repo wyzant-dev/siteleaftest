@@ -12,4 +12,5 @@ Want to relive the magic of our Snapshot with JB? Check out the video below wher
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HxE1dYtpkHc" frameborder="0" allowfullscreen></iframe>
 
+
 # Transcript
