@@ -8,6 +8,8 @@ sub-headline: 'Putting the smart in smartphones: These apps have changed the way
 hero-image: "/blog/uploads/1.png"
 ---
 
+![](https://d3bstivvgzmae3.cloudfront.net/BlogImage/Blog-Mobile-Apps.png)
+
 # The mobile revolution.
 
 There’s no doubt smartphones have changed the way we interact with the world, interact with one another, and yes, learn. From the new opportunities we have for students to the immediate connections smart phones allow, it’s an ingenious platform for technology, learning, and lessons. And now we (and our kids) are only seconds away from the next chance to [grow our brains](http://www.brainhq.com/brain-resources/brain-plasticity/what-is-brain-plasticity).
