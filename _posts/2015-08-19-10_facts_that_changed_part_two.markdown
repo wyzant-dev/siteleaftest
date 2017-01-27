@@ -5,7 +5,7 @@ tags:
 - Help for Parents
 sub-headline: Find out five more facts that your children will be taught in school,
   and how they differ from what you learned.
-hero-image: "/blog/uploads/Facts6-26932d.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
 
 # This is the second in our two-part series on facts your student will learn that are different than what you were taught. If you missed part one, you can find it [here](https://www.wyzant.com/blog/10_facts_that_changed_part_one).
