@@ -14,6 +14,7 @@ There’s no doubt smartphones have changed the way we interact with the world, 
 
 That being said, there's more to consume than there is time for. So we’ve pinpointed the biggest and coolest strides apps have made to the accessibility of education and growth of mental power.
 
+
 # The Connector: WyzAnt
 
 Yes, our newly released app is first (but that’s because we’re so excited). Now, parents and students can **instantly** connect with a network of 80,000 private tutors. You can filter search results based on what’s most important to you, and easily compare tutors based on ratings, backgrounds, and rates.
