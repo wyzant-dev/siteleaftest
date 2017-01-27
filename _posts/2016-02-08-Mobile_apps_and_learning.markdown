@@ -24,9 +24,8 @@ Communication within the app is easy and immediate, making scheduling lessons wi
 
 It’s unparalleled access to your child’s next teacher. Someone you choose, and can work with to track progress on a weekly basis while your child steadily grows through the experience of person-to-person learning. All from the chaos of a commute, or the boredom of a waiting room.
 
-[App Store](https://itunes.apple.com/US/app/id1042081370?mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.wyzant.studentapp&hl=en)
-  
-  
+[App Store](https://itunes.apple.com/US/app/id1042081370?mt=8) : [Google Play](https://play.google.com/store/apps/details?id=com.wyzant.studentapp&hl=en)
+
 # The Inspiration: TED
 
 Can you believe what started as a one-time convention is now thousands of on-demand lectures, although the word ‘lecture’ doesn’t do them justice? TED talks are more like pipelines to intelligent conversation. Or looking glasses into worlds we’ve never thought about.
@@ -39,7 +38,7 @@ What’s amazing is how the app helps you choose something to learn about when y
 
 Open up to some incredible stories of people overcoming incredible adversity. If there is **anything** we can learn from, isn’t it that?
 
-[App Store](https://itunes.apple.com/us/app/ted/id376183339?mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.ted.android&hl=en)
+[App Store](https://itunes.apple.com/us/app/ted/id376183339?mt=8) : [Google Play](https://play.google.com/store/apps/details?id=com.ted.android&hl=en)
 
 # The Speed Reader: Spritz
 
@@ -53,7 +52,7 @@ How’s that work? It probably already hit you from the above gif, but moving ey
 
 As for its suite of apps, the two to check out are the Bookshout! and ReadMe! apps, which will get you access to free eBooks, including New York Times Best sellers.
 
-[App Store](https://itunes.apple.com/us/app/bookshout/id482728980?mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.rethinkbooks.bookshout&hl=en)
+[App Store](https://itunes.apple.com/us/app/bookshout/id482728980?mt=8) : [Google Play](https://play.google.com/store/apps/details?id=com.rethinkbooks.bookshout&hl=en)
 
 # The History Catcher: Storycorps
 
@@ -65,6 +64,6 @@ Their, like their mission, is unique. Storycorp collects stories rather than hel
 
 It’s nothing short of **archiving life as we know it**. The idea of giving everyone a way to share their stories is Storycorps' way of cataloging the knowledge of generations. Oh, and take a look at [#TheGreatListen](https://storycorps.org/blog/the-great-thanksgiving-listen/), if you haven’t already.
 
-[App Store](https://itunes.apple.com/us/app/storycorps/id359071069?mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.bottlerocketapps.storycorps&hl=en)
+[App Store](https://itunes.apple.com/us/app/storycorps/id359071069?mt=8) : [Google Play](https://play.google.com/store/apps/details?id=com.bottlerocketapps.storycorps&hl=en)
 
 In a world of nearly 2 billion smart phones, access to the internet means access to learning. But more importantly, it’s reframing the way we think about education. And putting the ability to learn anywhere, anytime, right at our fingertips.
