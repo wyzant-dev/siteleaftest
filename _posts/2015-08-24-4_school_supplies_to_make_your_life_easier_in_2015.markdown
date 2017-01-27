@@ -5,8 +5,10 @@ tags:
 - High School
 sub-headline: Don’t miss a beat this fall by adding these four essentials to your
   back to school supplies list.
-hero-image: "/blog/uploads/Essentials.jpg"
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
+
+![](https://d3bstivvgzmae3.cloudfront.net/blog/4_School_Supplies_That_will_make_your_life_easier_in_2015-1.jpg)
 
 # School is right around the corner (or has already started for most of you). It’s that time of the year where we get into our “Back-to-School” routines: Shop for new clothes, go to every doctor appointment imaginable, and head to Target to buy what’s left of the school supply section.
 
