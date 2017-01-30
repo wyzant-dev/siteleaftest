@@ -14,6 +14,10 @@ Want to relive the magic of our Snapshot with JB? Check out the video below wher
 </iframe>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 **About Snapshot Tutor JB**
 
 My name is JB and I’ve been developing software for more than ten years—four of which I’ve been tutoring aspiring computer scientists, much like yourself.
