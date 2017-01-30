@@ -25,9 +25,8 @@ Just add your email address below and prepare to learn.
     <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2562507" title="Online Form Builder">Online Form Builder</a>
 </div>
 
-![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
-
 # About Snapshot Tutor JB #
+![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
 
 My name is JB and I’ve been developing software for more than ten years—four of which I’ve been tutoring aspiring computer scientists, much like yourself.
 
