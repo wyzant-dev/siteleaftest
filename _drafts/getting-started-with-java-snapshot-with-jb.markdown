@@ -18,7 +18,7 @@ Want to relive the magic of our Snapshot with JB? Check out the video below wher
 <br>
 <br>
 <br>
-**About Snapshot Tutor JB**
+# About Snapshot Tutor JB #
 ![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
 
 My name is JB and I’ve been developing software for more than ten years—four of which I’ve been tutoring aspiring computer scientists, much like yourself.
