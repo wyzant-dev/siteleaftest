@@ -13,11 +13,7 @@ Want to relive the magic of our Snapshot with JB? Check out the video below wher
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HxE1dYtpkHc" frameborder="0" allowfullscreen>
 </iframe>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 # About Snapshot Tutor JB #
 ![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
 
