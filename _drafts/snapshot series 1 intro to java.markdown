@@ -17,7 +17,7 @@ In this recorded Snapshot Series: Intro to Java, software developer and top tuto
 <br>
 
 # About the Presenting Tutor #
-![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
+![JB.jpg](/blog/uploads/JB.jpg)
 
 JB is a senior software engineer working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
