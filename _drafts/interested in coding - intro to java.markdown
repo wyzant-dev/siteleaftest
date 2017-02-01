@@ -1,21 +1,28 @@
 ---
-title: Snapshot Series Sign Up - Java with JB
+title: Interested in Coding?
 date: 2017-01-26 16:45:00 -06:00
 tags:
 - Snapshot Series
 - JB
 - Java
-sub-headline: So, you want to learn Java? Here’s a good place to start
-meta-description: The Snapshot Series is a collection of 30-minute tutor talks, followed
-  by open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely
-  free for every attendee.
+meta-title: Interested in Coding? Join this Intro to Java
+sub-headline: Join us for a Snapshot on Java!
+meta-description: The Snapshot Series is a collection of free, 30-minute tutor talks
+  followed by a 30-minute open Q&A. Anyone can listen, join the conversation and learn.
+post-description: Join software developer and tutor JB Baudens for an introductory
+  lesson followed by a Q&A on the wonderful world of Java. Perfect for beginners,
+  this talk will lay out where to begin, the basics of programs and why it all matters—so
+  you can decide if Java is the language to get you started in coding.
 ---
 
-The Snapshot Series is a collection of 30-minute tutor talks, followed by open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
+The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
-What do you have to do to join?
+Perfect for beginners, this talk will lay out the basics of Java:
+* where to begin
+* the basics of programs 
+* and why it all matters—so you can decide if Java is the language to get you started in coding
 
-Just add your email address below and prepare to learn.
+Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT). 
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/new_form">
 </script>
 <noscript>
@@ -25,18 +32,9 @@ Just add your email address below and prepare to learn.
     <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2562507" title="Online Form Builder">Online Form Builder</a>
 </div>
 
-# About Snapshot Tutor JB #
+# About the Presenting Tutor #
 ![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
 
-My name is JB and I’ve been developing software for more than ten years—four of which I’ve been tutoring aspiring computer scientists, much like yourself.
+JB is a senior software engineer working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
-Come get your feet wet, and your questions answered, in my free Intro to Java Snapshot Session. 
-
-I’ll lay out where to begin, the basics of programs, and why it all matters—so you can decide if Java is the language for you.
-
-Join me [DATE / TIME] for a thirty-minute snapshot of Java, followed by an open Q&A.
-
-# Agenda
-* Learn this thing
-* Learn this other thing
-* Also learn this other thign
+His experience spans many languages, including C, C++, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
