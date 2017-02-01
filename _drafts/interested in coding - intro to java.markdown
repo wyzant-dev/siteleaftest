@@ -23,6 +23,7 @@ Perfect for beginners, this talk will lay out the basics of Java:
 * and why it all matters—so you can decide if Java is the language to get you started in coding
 
 Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT). 
+
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/new_form">
 </script>
 <noscript>
