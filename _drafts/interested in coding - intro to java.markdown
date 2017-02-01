@@ -5,7 +5,7 @@ tags:
 - Snapshot Series
 - JB
 - Java
-meta-title: Interested in Coding? Join This Intro to Java
+meta-title: 'Interested in Coding? Join This Snapshot Series: Intro to Java'
 sub-headline: Join us for a Snapshot on Java!
 meta-description: The Snapshot Series is a collection of free, 30-minute tutor talks
   followed by a 30-minute open Q&A. Anyone can listen, join the conversation and learn.
