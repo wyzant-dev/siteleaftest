@@ -24,6 +24,15 @@ Perfect for beginners, this talk will lay out the basics of Java:
 
 Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT). 
 
+<script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/snapshot_intro_to_java">
+</script>
+<noscript>
+     <a href="https://wyzant.formstack.com/forms/snapshot_intro_to_java" title="Online Form">Online Form - Snapshot - Intro to Java</a>
+</noscript>
+<div style="text-align:right; font-size:x-small;">
+     <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2562507" title="Web Form Generator">Web Form Generator</a>
+</div>
+
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/new_form">
 </script>
 <noscript>
