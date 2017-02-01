@@ -33,15 +33,6 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
      <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2562507" title="Web Form Generator">Web Form Generator</a>
 </div>
 
-<script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/new_form">
-</script>
-<noscript>
-    <a href="https://wyzant.formstack.com/forms/snapshot_intro_to_java" title="Online Form">Online Form - New form</a>
-</noscript>
-<div style="text-align:right; font-size:x-small;">
-    <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2562507" title="Online Form Builder">Online Form Builder</a>
-</div>
-
 # About the Presenting Tutor #
 ![Alex-Tutor-Headshot-1024x684.jpg](/blog/uploads/Alex-Tutor-Headshot-1024x684.jpg)
 
