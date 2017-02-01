@@ -7,6 +7,7 @@ tags:
 - Java
 meta-title: 'Interested in Coding? Join the Snapshot Series: Intro to Java'
 sub-headline: Join us for a Snapshot on Java!
+hero-image: "/blog/uploads/Snapshot_Blog_Header.jpg"
 meta-description: The Snapshot Series is a collection of free, 30-minute tutor talks
   followed by a 30-minute open Q&A. Anyone can listen, join the conversation and learn.
 post-description: Join software developer and tutor JB Baudens for an introductory
@@ -15,6 +16,7 @@ post-description: Join software developer and tutor JB Baudens for an introducto
   you can decide if Java is the language to get you started in coding.
 ---
 
+![Snapshot_Blog_Logo.jpg](/blog/uploads/Snapshot_Blog_Logo.jpg)
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
 Perfect for beginners, this talk will lay out the basics of Java:
@@ -34,7 +36,7 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 </div>
 
 # About the Presenting Tutor #
-![JB.jpg](/blog/uploads/JB.jpg)
+![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
 
 JB is a senior software engineer working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
