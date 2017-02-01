@@ -16,7 +16,6 @@ post-description: Join software developer and tutor JB Baudens for an introducto
   you can decide if Java is the language to get you started in coding.
 ---
 
-![Snapshot_Blog_Logo.jpg](/blog/uploads/Snapshot_Blog_Logo.jpg)
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
 Perfect for beginners, this talk will lay out the basics of Java:
@@ -25,6 +24,8 @@ Perfect for beginners, this talk will lay out the basics of Java:
 * and why it all matters—so you can decide if Java is the language to get you started in coding
 
 Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT). 
+
+![Snapshot_Blog_Logo.jpg](/blog/uploads/Snapshot_Blog_Logo.jpg)
 
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/snapshot_intro_to_java">
 </script>
