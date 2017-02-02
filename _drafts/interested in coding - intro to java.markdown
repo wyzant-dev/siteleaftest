@@ -19,26 +19,30 @@ post-description: Join software developer and tutor JB Baudens for an introducto
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
 Perfect for beginners, this talk will lay out the basics of Java:
+
 * where to begin
-* the basics of programs 
+
+* the basics of programs
+
 * and why it all matters—so you can decide if Java is the language to get you started in coding
 
-Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT). 
-
-![Snapshot_Blog_Logo1.jpg](/blog/uploads/Snapshot_Blog_Logo1.jpg)
+Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/snapshot_intro_to_java">
 </script>
 <noscript>
-     <a href="https://wyzant.formstack.com/forms/snapshot_intro_to_java" title="Online Form">Online Form - Snapshot - Intro to Java</a>
+<a href="https://wyzant.formstack.com/forms/snapshot_intro_to_java" title="Online Form">Online Form - Snapshot - Intro to Java</a>
 </noscript>
 <div style="text-align:right; font-size:x-small;">
-     <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2562507" title="Web Form Generator">Web Form Generator</a>
+<a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product\+branding&fa=h,2562507" title="Web Form Generator">Web Form Generator</a>
 </div>
 
-# About the Presenting Tutor #
+![Snapshot_Blog_Logo1.jpg](/blog/uploads/Snapshot_Blog_Logo1.jpg)
+
+# About the Presenting Tutor
+
 ![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
 
 JB is a senior software engineer working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
-His experience spans many languages, including C, C++, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
+His experience spans many languages, including C, C\+\+, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
