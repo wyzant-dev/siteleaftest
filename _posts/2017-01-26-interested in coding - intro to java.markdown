@@ -43,6 +43,6 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 
 ![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
 
-JB is a senior software engineer working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
+[JB is a senior software engineer](https://www.wyzant.com/match/tutor/82161840) working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
 His experience spans many languages, including C, C\+\+, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
