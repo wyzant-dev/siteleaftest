@@ -50,4 +50,4 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 His experience spans many languages, including C, C\+\+, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
 
   
-hey.
+  
