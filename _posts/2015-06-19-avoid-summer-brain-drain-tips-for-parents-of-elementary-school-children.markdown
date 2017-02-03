@@ -31,27 +31,27 @@ Fortunately, there is a variety of ways you can help your child beat summer brai
 
 If you want to be part of your child’s summer learning process, there are tons of ways you can help. Elementary school age children can benefit from supplemental learning experiences that are engaging and creative. You have probably already heard or read about many of the possibilities:
 
-*There are dozens of effective online learning activities, printables, and games
-*Reading books to and with your child
-*Consider a story-writing project: your child can write or dictate a story to you and then make illustrations to go with the story
-*Cooking and building projects reinforce math skills
-*Art projects using measuring tools like rulers and compasses
+* There are dozens of effective online learning activities, printables, and games
+* Reading books to and with your child
+* Consider a story-writing project: your child can write or dictate a story to you and then make illustrations to go with the story
+* Cooking and building projects reinforce math skills
+* Art projects using measuring tools like rulers and compasses
 *Younger children can find geometric shapes in the world around them
-*Assemble 2- and 3-dimensional puzzles
-*Count small items like beans or pebbles
+* Assemble 2- and 3-dimensional puzzles
+* Count small items like beans or pebbles
 *Identify numbers and letters on license plates or count cars while driving
-*You can start a neighborhood learning coop
+* You can start a neighborhood learning coop
 
 # Getting Help From Others
 
 If you can’t participate in summer learning with your child because you work, or even if you simply aren’t keen on playing the role of tutor yourself, there are plenty of supplemental experiences outside of the home:
 
-*Summer school programs
-*Academically oriented camps
-*Library reading programs (school and local public libraries)
-*Community center children's classes
-*Ask teachers for extra work that children can complete when school is out
-*Private tutoring
+* Summer school programs
+* Academically oriented camps
+* Library reading programs (school and local public libraries)
+* Community center children's classes
+* Ask teachers for extra work that children can complete when school is out
+* Private tutoring
 
 # Preventing Summer Learning Loss
 
