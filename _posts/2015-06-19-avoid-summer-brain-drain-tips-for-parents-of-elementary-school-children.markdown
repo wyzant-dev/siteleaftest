@@ -36,10 +36,10 @@ If you want to be part of your child’s summer learning process, there are tons
 * Consider a story-writing project: your child can write or dictate a story to you and then make illustrations to go with the story
 * Cooking and building projects reinforce math skills
 * Art projects using measuring tools like rulers and compasses
-*Younger children can find geometric shapes in the world around them
+* Younger children can find geometric shapes in the world around them
 * Assemble 2- and 3-dimensional puzzles
 * Count small items like beans or pebbles
-*Identify numbers and letters on license plates or count cars while driving
+* Identify numbers and letters on license plates or count cars while driving
 * You can start a neighborhood learning coop
 
 # Getting Help From Others
