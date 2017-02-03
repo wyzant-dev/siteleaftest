@@ -7,7 +7,7 @@ tags:
 - Java
 meta-title: 'Interested in Coding? Join the Snapshot Series: Intro to Java'
 sub-headline: Join us for a Snapshot on Java!
-hero-image: "/blog/uploads/Snapshot_Blog_Header_5.jpg"
+hero-image: "/blog/uploads/Snapshot_Blog_Header_4.jpg"
 meta-description: The Snapshot Series is a collection of free, 30-minute tutor talks
   followed by a 30-minute open Q&A. Anyone can listen, join the conversation and learn.
 post-description: Join software developer and tutor JB Baudens for an introductory
@@ -28,7 +28,7 @@ Perfect for beginners, this talk will lay out the basics of Java:
 
 Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
   
-- - - - - - - - - -     
+  
     
 <div class="form-wrapper">
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/snapshot_intro_to_java">
@@ -40,8 +40,7 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 </div>
 </div>
   
-- - - - - - - - -   
-  
+   
 # About the Presenting Tutor
 
 ![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
