@@ -28,7 +28,7 @@ Perfect for beginners, this talk will lay out the basics of Java:
 
 Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
   
-    
+- - - - - - - - - -     
     
 <div class="form-wrapper">
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/snapshot_intro_to_java">
@@ -40,7 +40,7 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 </div>
 </div>
   
-  
+- - - - - - - - -   
   
 # About the Presenting Tutor
 
