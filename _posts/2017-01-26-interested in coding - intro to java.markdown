@@ -27,8 +27,9 @@ Perfect for beginners, this talk will lay out the basics of Java:
 * and why it all matters—so you can decide if Java is the language to get you started in coding
 
 Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
-
-   
+  
+    
+    
 <div class="form-wrapper">
 <script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/snapshot_intro_to_java">
 </script>
@@ -38,9 +39,9 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 <div style="text-align:right; font-size:x-small;">
 </div>
 </div>
-
   
-
+  
+  
 # About the Presenting Tutor
 
 ![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
@@ -48,6 +49,6 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 [JB is a senior software engineer](https://www.wyzant.com/match/tutor/82161840) working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
 His experience spans many languages, including C, C\+\+, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
-
   
-  
+    
+   
