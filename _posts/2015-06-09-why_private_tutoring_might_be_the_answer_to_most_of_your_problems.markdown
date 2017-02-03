@@ -20,6 +20,7 @@ Here are some other reasons to consider an online private tutor.
 
 ## How Online Tutoring Can Help
 
+
 # Learn a New Skill at Your Own Speed, on Your Own Schedule
 
 Online private tutoring offers ease in interaction from various points. It frees you up from a time-staking commute and the stress of long drives and/or traffic.
@@ -39,6 +40,7 @@ If you have less resources to commit or like to learn on your own, use the onlin
 As you learn a new skill, you can also have a resource for future learning, and for outside-the-box thinkers, maybe even a reference of your newly improved skills and abilities.
 
 ## Ways to Use Online Tutoring
+
 
 # Guide Your Asynchronous Learning
 
