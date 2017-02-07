@@ -19,7 +19,7 @@ paginate: true
     <div class="column">
       <ul class="reset spc-n">
         {% for post in paginator.posts %}
-            {% unless post.isHidden %}
+            {% if post.isTutorBlogPost %}
               <li>
                 <article>
                   {% if post.hero-image %}
@@ -78,7 +78,7 @@ paginate: true
                   <a href="{{ post.url }}" class="btn">Read More</a>
                 </article>
               </li>
-          {% endunless %}
+          {% endif %}
         {% endfor %}
       </ul>
       {% if paginator.total_pages > 1 %}
