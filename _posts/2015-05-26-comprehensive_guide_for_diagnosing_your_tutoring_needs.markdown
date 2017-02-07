@@ -35,7 +35,7 @@ When children don’t feel like they don’t have the time to figure things out,
 
 Recognizing this should be as much a positive moment as a negative one. Diagnosis makes that battle an easier one to fight, especially when you pair them with someone who is skilled at understanding and addressing their emotional needs.
 
-## Type: Corrective
+**Type: Corrective**
 
 # Symptom 2: Surprising Drops in Test Scores
 
@@ -45,7 +45,7 @@ Depending on whether results drop across the board or just in one class helps in
 
 As part of your tutor search, validate where they’re struggling by reaching out to the teacher. They’re undoubtedly paying extra attention, and might be gathering additional observations to discuss with you. Asking specific questions about in-class behavior and content weaknesses will be powerful knowledge, especially as you match that information against prospective tutor assessments against.
 
-## Type: Corrective
+**Type: Corrective**
 
 # Symptom 3: Constant Procrastination
 
@@ -55,7 +55,7 @@ In younger kids, procrastination manifests itself as a dependence on parents for
 
 With older students, it’s more likely you’ll see your teen staying up to do homework into the late hours of the night. In either case, take note of the subject matter they are going over in class. That information will become part of the [foundation for an efficient tutoring experience.](https://www.wyzant.com/blog/6_things_every_parent_should_know_about_private_tutoring)
 
-## Type: Maintenance
+**Type: Maintenance**
 
 # Symptom 4: Parents’ Shifting Schedules
 
@@ -65,7 +65,7 @@ Regardless of the culprit, for many families it’s a fine balance between the a
 
 The positive is, when caught early, these shifts do less damage to your child’s chances for success.
 
-## Type: Support
+**Type: Support**
 
 # Symptom 5: A Recent Diagnosis
 
@@ -75,7 +75,7 @@ But it’s not much easier for your child to stay on the same academic track as 
 
 A private tutor is an extension of that prescription. They not only plan to the way your child learns, they play a vital role in helping you both become comfortable with that new understanding.
 
-## Type: Maintenance
+**Type: Maintenance**
 
 # Symptom 6: Unfamiliar Testing Scenarios
 
@@ -83,7 +83,7 @@ College entrance, AP, and end-of-year tests represent an entirely foreign experi
 
 Making matters more difficult is the fact that high-stakes tests fray the nerves of students. It’s the emotional factor which makes a private tutor more beneficial than any other form of test prep. Not only do you get an experienced guide, but someone who can move to the cadence of your student and pre-empt issues by knowing how they think.
 
-## Type: Test Prep
+**Type: Test Prep**
 
 # Symptom 7: A Deep Interest in Something New
 
@@ -93,6 +93,6 @@ Playing to their curiosity means building their appreciation for learning, if no
 
 Guided learning is the best way to help them explore new subjects and reduce the friction of learning. As an added benefit, it might even provide you and your child a new way to connect with each other.
 
-## Type: Enrichment
+**Type: Enrichment**
 
 A private tutor can present information in a way that caters to the students needs, making it easier for a child to understand. Most importantly, the emotional connection that comes with one-on-one instruction can make school less difficult and learning more enjoyable.
