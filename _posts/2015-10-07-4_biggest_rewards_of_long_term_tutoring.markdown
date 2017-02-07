@@ -24,9 +24,7 @@ Here are the main reasons working with one tutor long-term makes a difference, f
 
 # Tutors Want Your Child to Succeed
 
-### “I've become so invested in my students' success, and it's great to see the progress a student makes. I love being a part of building that confidence and that ability.”
-
-— Tutor Allison P.
+### “I've become so invested in my students' success, and it's great to see the progress a student makes. I love being a part of building that confidence and that ability.” — Tutor Allison P.
 
 You want a teacher who blows your socks off with the way they take a role in your student’s education. Someone who knows talking with you is as important as assigning a grade at the end of each quarter. Hopefully a past teacher comes to mind right now
 
@@ -34,9 +32,7 @@ The reality is those don’t come around every grade. And it’s not necessarily
 
 A private tutor will be someone who places that investment in your child, who is engaged in their growth as much as you. When you find this, they’ll take that role year after year, even as teachers and schools change. And the best part? You choose them.
 
-### “If she loves what she is learning about, she will look forward to our sessions together more. Her experiences with education will be positive ones.”
-
-— Tutor Jessica M.
+### “If she loves what she is learning about, she will look forward to our sessions together more. Her experiences with education will be positive ones.” — Tutor Jessica M.
 
 At home, you experience a vibrant boy or girl who has put a smile on your face from day one. Their passions run a gambit of subjects, some of which they received from you, while others you scratch your head at every time you find out a new fact from Google.
 
@@ -46,9 +42,7 @@ Private tutoring plays to your child’s personality, and in a circular. From le
 
 # New Layers of Trust Form
 
-### “You must build a relationship with them. They have a teacher already just as they have parents. It's the tutor’s responsibility to be a mentor and friend to the kid(s) they are assigned to.”
-
-— Tutor Deir C.
+### “You must build a relationship with them. They have a teacher already just as they have parents. It's the tutor’s responsibility to be a mentor and friend to the kid(s) they are assigned to.” — Tutor Deir C.
 
 In the series of emotional and physical valleys that is growing up, you play an important role as confidant, enabler, and disciplinarian. At times, it can be hard to see the lines.
 
@@ -58,9 +52,7 @@ What if you could have another avenue into your child’s mind, particularly whe
 
 # Learning Goes Deeper
 
-### “If tutoring is only for test preparation there is no time to develop learning to a deeper level and it only focuses on the immediate needs. The students that I work with for years have gone on to great things!”
-
-— Tutor Wayne L.
+### “If tutoring is only for test preparation there is no time to develop learning to a deeper level and it only focuses on the immediate needs. The students that I work with for years have gone on to great things!” — Tutor Wayne L.
 
 If you’ve ever done short-term tutoring, or crammed for a test, you know it can help. At the very least, the time spent translates into a boost in confidence, which might mean the difference between one letter grade and the next.
 
