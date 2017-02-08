@@ -2,6 +2,8 @@
 title: Paige is trying somethingsdfsdf
 date: 2017-02-06 13:33:00 -06:00
 published: false
+tags:
+- Find a Tutor
 isHidden: false
 isTutorBlogPost: true
 ---
