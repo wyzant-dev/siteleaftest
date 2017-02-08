@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: true
+  tutorPosts:
+    title: tutorPosts
+    output: true
   posts:
     title: Posts
     output: true
@@ -22,24 +25,36 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    job-title: 
-    bio: 
-    profile-image: 
+    job-title:
+    bio:
+    profile-image:
     author: Wyzant
-    meta-title: 
-    meta-description: 
+    meta-title:
+    meta-description:
 - scope:
     path: ''
     type: posts
   values:
     permalink: "/blog/:title/"
     layout: post
-    meta-title: 
+    meta-title:
     author: Wyzant
-    sub-headline: 
-    hero-image: 
-    meta-description: 
-    post-description: 
+    sub-headline:
+    hero-image:
+    meta-description:
+    post-description:
+- scope:
+    path: ''
+    type: tutorPosts
+  values:
+    permalink: "/blog/tutor/:title/"
+    layout: post
+    meta-title:
+    author: Wyzant
+    sub-headline:
+    hero-image:
+    meta-description:
+    post-description:
 meta-title: The Wyzant Blog
 gems:
 - octopress-paginate
@@ -47,9 +62,6 @@ gems:
 tag_page_layout: tag-page
 tag_page_dir: blog/tag
 tag_permalink_style: pretty
-pagination:
-  limit: false
-  per_page: 8
 sub-headline: What will you learn?
 hero-image: "/blog/uploads/homepage-hero-default.png"
 meta-description: Learning is the essence of Wyzant. We’re hungry for the next fun
@@ -67,6 +79,6 @@ banner-headline: Ready To Get Started?
 banner-sub-headline: Start Your Tutor Search Today.
 banner-cta-text: Get Started
 banner-cta-url: "/match"
-baseurl: 
+baseurl:
 url: https://www.wyzant.com
 markdown: kramdown

@@ -1,7 +1,9 @@
 ---
 layout: default
 page-name: home-page
-paginate: true
+paginate:
+  collection: tutorPosts
+  per_page:   4
 ---
 
 <main class="home">
@@ -18,8 +20,8 @@ paginate: true
   <section class="row">
     <div class="column">
       <ul class="reset spc-n">
-        {% for post in paginator.posts %}
-            {% if post.isTutorBlogPost %}
+
+        {% for post in paginator.tutorPosts %}
               <li>
                 <article>
                   {% if post.hero-image %}
@@ -78,10 +80,9 @@ paginate: true
                   <a href="{{ post.url }}" class="btn">Read More</a>
                 </article>
               </li>
-          {% endif %}
         {% endfor %}
       </ul>
-      {% if paginator.total_pages > 1 %}
+        {% if paginator.total_tutorPosts > 1 %}
         <section class="pagination">
           <span>&laquo;</span>
           {% if paginator.previous_page %}
@@ -89,17 +90,15 @@ paginate: true
           {% else %}
             <span>&lsaquo;</span>
           {% endif %}
-
           {% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
               <span class="active">{{ page }}</span>
             {% elsif page == 1 %}
-              <a href="/blog">{{ page }}</a>
+              <a href="/blog/tutor">{{ page }}</a>
             {% else %}
-              <a href="/blog{{ site.paginate_path  | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+              <a href="/blog/tutor{{ site.paginate_path  | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
             {% endif %}
           {% endfor %}
-
           {% if paginator.next_page %}
             <a href="{{ paginator.next_page_path  | replace: '//', '/' }}">&rsaquo;</a>
           {% else %}
@@ -107,7 +106,7 @@ paginate: true
           {% endif %}
           <span>&raquo;</span>
         </section>
-      {% endif %}
+        {% endif %}
       <div class="row">
           {% include banner.html %}
       </div>
