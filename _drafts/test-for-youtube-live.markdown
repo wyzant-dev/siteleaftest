@@ -3,6 +3,10 @@ title: Test for YouTube Live
 date: 2017-02-28 15:32:00 -06:00
 ---
 
+# Snapshot Series: Intro to Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJwVJ7eVb88" frameborder="0" allowfullscreen></iframe>
+
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
 Perfect for beginners, this talk will lay out the basics of Java:
