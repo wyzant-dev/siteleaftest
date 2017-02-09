@@ -19,16 +19,6 @@ Perfect for beginners, this talk will lay out the basics of Java:
 
 Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 
-<div class="form-wrapper">
-<script type="text/javascript" src="https://wyzant.formstack.com/forms/js.php/snapshot_intro_to_java">
-</script>
-<noscript>
-<a href="https://wyzant.formstack.com/forms/snapshot_intro_to_java" title="Online Form">Online Form - Snapshot - Intro to Java</a>
-</noscript>
-<div style="text-align:right; font-size:x-small;">
-</div>
-</div>
-
 # About the Presenting Tutor
 
 ![Snapshot_JB_Headshot.png](https://manage.siteleaf.com/api/v2/sites/57bcde190bf79d7331ceb9be/source/_uploads/Snapshot_JB_Headshot.png?download)
