@@ -5,11 +5,14 @@ collections:
   authors:
     title: Authors
     output: true
-  tutor-tags:
-    title: Tutor Tags
-    output: true
   posts:
     title: Posts
+    output: true
+  tutorPosts:
+    title: Tutor Posts
+    output: true
+  tutor-tags:
+    title: Tutor Tags
     output: true
   uploads:
     title: Uploads
@@ -17,9 +20,6 @@ collections:
     permalink: "/blog/uploads/:path/"
   blog:
     title: blog
-    output: true
-  tutorPosts:
-    title: Tutor Posts
     output: true
 defaults:
 - scope:
