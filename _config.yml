@@ -39,7 +39,7 @@ defaults:
     type: tutor-tags
   values:
     title:
-    permalink:
+    permalink: "/blog/tutor/tag/:title/"
     layout: tutor-tag-page
     meta-description:
 - scope:
