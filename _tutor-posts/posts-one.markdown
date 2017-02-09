@@ -1,7 +1,9 @@
 ---
-title: Paige is trying ssdfomething
+title: Paige is trying something
 date: 2017-02-06 13:33:00 -06:00
-published: false
+published: true
+tags:
+- Help for Parents
 isHidden: false
 ---
 
