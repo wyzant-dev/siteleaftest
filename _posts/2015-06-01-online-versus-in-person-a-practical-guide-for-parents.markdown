@@ -67,7 +67,7 @@ Putting a Gen Y student in front of a screen (to their long-term benefit) might 
 
 # What it offers: A higher sensitivity to non-verbal communication
 
-**How it helps: **Tutors can use visual cues to pinpoint how students work through problems and mistakes, making in-person more responsive to improving foundational skills.
+**How it helps:** Tutors can use visual cues to pinpoint how students work through problems and mistakes, making in-person more responsive to improving foundational skills.
 
 Meanwhile, person-to-person skills improve (in a different way than they do for online). For students not used to dealing with adults, it’s an uninhibiting environment for working on their fundamental communication skills. These can include everything from making eye contact to learning how to maintain personal space.
 
