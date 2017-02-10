@@ -17,7 +17,7 @@ From interesting surveys to ground-breaking studies, there are volumes to digest
 We do. Let us keep you up to date because we know that time, like education, is invaluable…
 
 # [American Kids Have Disappointing Reading and Math Scores, But There Are Some Bright Spots](http://www.huffingtonpost.com/entry/naep-scores_562fd4fde4b06317990fcf74?utm_hp_ref=education)
-**By Jennifer Klein in The Huffington Post**
+**By Jennifer Klein in *The Huffington Post***
 
 The National Assessment of Education Progress (aka the Nation’s Report Card) was released on Wednesday, October 28. It’s a national test given to fourth and eighth graders, and it’s been called the “gold standard” of student assessments.
 
