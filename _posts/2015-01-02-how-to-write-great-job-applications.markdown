@@ -50,9 +50,9 @@ Below are some examples to help you write your own stellar job application.
 
 **Example 1:**
 
-*Hi Monica,
+*Hi Monica,*
 
-I’d be happy to work with your daughter, Samantha, to improve her Math abilities. I’m an accredited Math and Science teacher. In my 5 years of teaching, I've been fortunate to build a background that gives me unique perspective and understanding of how to support a variety of learning styles and personalities.
+*I’d be happy to work with your daughter, Samantha, to improve her Math abilities. I’m an accredited Math and Science teacher. In my 5 years of teaching, I've been fortunate to build a background that gives me unique perspective and understanding of how to support a variety of learning styles and personalities.
 
 In my first lesson with Samantha, I would be focused on building a relationship and evaluating her individual needs and strengths. I’ll follow up after our first session with a full write-up and learning plan that we can move forward on.
 
@@ -60,6 +60,6 @@ I have availability on both weekends and weekdays, so let me know what time work
 
 **Example 2:**
 
-*Hi David,
+*Hi David,*
 
-My name is Julia and I would love to help your son with algebra! I recently graduated from UCLA with a degree in Neuroscience and I have had success with over 25 math students. I not only strive to make the material fun and enjoyable, but I also bring a whiteboard to all my lessons. It helps them see the problems with a new perspective and also makes it very interactive! I have flexibility in my scheduling and have most afternoons, some nights, and Sundays open for lessons. If you’d like, we could schedule a quick phone call to talk through details.*
+*My name is Julia and I would love to help your son with algebra! I recently graduated from UCLA with a degree in Neuroscience and I have had success with over 25 math students. I not only strive to make the material fun and enjoyable, but I also bring a whiteboard to all my lessons. It helps them see the problems with a new perspective and also makes it very interactive! I have flexibility in my scheduling and have most afternoons, some nights, and Sundays open for lessons. If you’d like, we could schedule a quick phone call to talk through details.*
