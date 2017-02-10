@@ -16,16 +16,16 @@ Online tutoring is a simple way for students and tutors to connect and work clos
 
 But what exactly is online private tutoring? At its purest, online tutoring is the real-time video interaction between a tutor and student. The WyzAnt online tutoring experience actually feels like you're in the same room as it includes:
 
-*** Video chat so you can see and hear each other
-* Shared whiteboard so you can draw and write at the same time
-* Built-in search so you can find what you need quickly
-* Graphing tools so you don't need to write out formulas**
+* **Video chat so you can see and hear each other**
+* **Shared whiteboard so you can draw and write at the same time**
+* **Built-in search so you can find what you need quickly**
+* **Graphing tools so you don't need to write out formulas****
 
 While online has the obvious time and cost-saving benefits already mentioned, some differences between the two types of learning are a little more subtle. Consider some often overlooked nuances between the online learning experience as it compares to in-person tutoring.
 
 ### "At its purest, online tutoring is the real-time video interaction between a tutor and student."
 
-**# ONLINE**
+# **ONLINE**
 
 Online tutoring is highly effective at challenging skills and behaviors that higher-level thinkers will use throughout their collegiate and professional careers, while also providing convenience and immediacy. When it comes to content knowledge, a good tutor will help make sure little is “lost in translation”.
 
@@ -57,7 +57,7 @@ Another positive effect is that students are more likely to ask for help. Resear
 
 Also, with online tutoring, you get more choices in who tutors you. If you live in a less developed part of the country or want help with a highly specialized subject, it's much easier to find an expert private tutor when you expand your search to online tutors.
 
-**# IN-PERSON**
+# **IN-PERSON**
 
 Putting a Gen Y student in front of a screen (to their long-term benefit) might seem like a no-brainer. In some cases, it can be. But when it comes to foundational skills, it’s good to consider what working in the same room provides for emotional development.
 
