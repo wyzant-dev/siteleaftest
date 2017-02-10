@@ -8,6 +8,7 @@ tags:
 - online tutoring
 sub-headline: Parents can encourage healthy screen use in their child’s media diet
   through online tutoring and other educational media.
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
 
 ![632Kids_and_screens_blog-1.jpg](/blog/uploads/632Kids_and_screens_blog-1.jpg)
