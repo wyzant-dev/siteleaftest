@@ -2,7 +2,7 @@
 title: 'Snapshot Series #1: Intro to Java'
 date: 2017-01-27 11:54:00 -06:00
 sub-headline: A tutor talk and Q&A with software developer, JB Baudens.
-hero-image: "/blog/uploads/Snapshot_Blog_Header2.jpg"
+hero-image: "/blog/uploads/Snapshot_Blog_Header_After.jpg"
 meta-description: 'In this recorded Snapshot Series: Intro to Java, software developer
   and tutor JB Baudens lays out the basics of Java, followed by Q&A from attendees.'
 post-description: In this recorded Snapshot Series, software developer and top tutor
@@ -18,7 +18,7 @@ In this recorded Snapshot Series: Intro to Java, software developer and top tuto
 <br>
 
 # About the Presenting Tutor #
-![JB.jpg](/blog/uploads/JB.jpg)
+![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
 
 JB is a senior software engineer working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
