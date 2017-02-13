@@ -7,6 +7,9 @@ tags:
 sub-headline: Are you getting homework headaches when you help your child after school?
   Find out 4 ways a private tutor can solve common problems faced by parents.
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
+post-description: If you’ve ever had your evening derailed by a badly phrased fourth-grade
+  math question, you know that educating a student is as much of a challenge as keeping
+  them safe.
 ---
 
 ![Why_Private_Tutoring_Might_Be_The_Answer_To_(Most_Of)_Your_Problems-1.jpg](/blog/uploads/Why_Private_Tutoring_Might_Be_The_Answer_To_(Most_Of)_Your_Problems-1.jpg)
