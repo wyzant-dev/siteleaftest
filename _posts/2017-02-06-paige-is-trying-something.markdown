@@ -1,7 +1,6 @@
 ---
 title: Paige is trying something
 date: 2017-02-06 13:33:00 -06:00
-published: false
 tags:
 - Help for Parents
 isHidden: true
@@ -13,4 +12,3 @@ Please don't delete, keep it as `Hidden`. Lorem Ipsum is simply dummy text of th
 # TESTTEST
 ## TESTTEST
 ### TESTTEST
-### "Please don't delete, keep it as `Hidden`. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It ha"
