@@ -23,21 +23,21 @@ Thanks to everyone who applied, and the friends, family and tutors who empowered
 
 ![Schol_Kate_Woodcraft_rounded.png](/blog/uploads/Schol_Kate_Woodcraft_rounded.png)
 
-**First Place: Kate**
-Essay Title: “My Mom’s Escape” 
+# First Place: Kate
+**Essay Title: “My Mom’s Escape”** 
 
 In the fall, Kate will be heading from her hometown of Winnetka, Calif., to Northern California where she’ll be attending San Jose State. Inspired by her mother and grandfather, she’s choosing to major in applied mathematics.
 
 ![Schol_Chenoa_Off_rounded.png](/blog/uploads/Schol_Chenoa_Off_rounded.png)
 
-**Second Place: Chenoa**
-Essay Title: “Worker Bee”
+# Second Place: Chenoa
+**Essay Title: “Worker Bee”**
 
 From Colorado to New York. Chenoa has aspirations of becoming an occupational therapist at Russell Sage College in upstate New York.
 
 ![Schol_Summer_Morgan_rounded.png](/blog/uploads/Schol_Summer_Morgan_rounded.png)
 
-**Third Place: Summer**
-Essay Title: “Love Life, All of It”
+# Third Place: Summer
+**Essay Title: “Love Life, All of It”**
 
 Summer is staying close to her Los Angeles roots where she’ll be entering Loyola Marymount University in the fall. A talented artist, she’ll be combining a business major with a minor in art.
