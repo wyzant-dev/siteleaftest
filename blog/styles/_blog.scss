@@ -35,6 +35,9 @@ blockquote {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	h1 {
+		font-size: 26px;
+	}
 
 	div {
 		display: flex;
@@ -82,9 +85,6 @@ blockquote {
 .post-by-tag article,
 .post article .group,
 .post article .content {
-	h2 {
-		font-size: 26px;
-	}
 	h3 {
 		font-size: 20px;
 		color: #abb3bd;
@@ -317,7 +317,7 @@ blockquote {
 			flex: 1 1 auto;
 			margin-top: 12px;
 			content: '';
-			border-top: 2px solid $mediumGray;
+			border-top: 2px solid $lightGray;
 		}
 		&:before {
 			margin-right: 10px;

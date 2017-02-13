@@ -31,7 +31,7 @@ dark-header: true
 									{% endif %}
 									<time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
 								</section>
-								<h2 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title }}</a></h2>
+								<h2 class="text-normal spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title }}</a></h2>
 								{% if site.sub-headline %}
 									<h3 class="text-thin spc-sm-s">{{ post.sub-headline }}</h3>
 								{% endif %}
