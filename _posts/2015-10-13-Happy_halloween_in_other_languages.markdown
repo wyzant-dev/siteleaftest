@@ -16,7 +16,7 @@ So why not take a day that makes your little monster shake with anticipation and
 
 You might even be able to interest them to a new language!
 
-# “Happy Halloween” by Language
+### “Happy Halloween” by Language
 
 Gaelic - Samhuinn (the original)
 
@@ -58,7 +58,7 @@ Azerbaijani - xoşbəxt Halloween
 
 Italian - Happy Halloween
 
-# Trick or Treat, Smell My... Soul?
+### Trick or Treat, Smell My... Soul?
 
 Here’s a little extra credit. The origins of trick-or-treating are long and winding. Two of the most interesting include:
 

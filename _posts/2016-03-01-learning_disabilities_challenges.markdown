@@ -12,13 +12,13 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![pexels-garden-sitting-grass-shoes_small.jpg](/blog/uploads/pexels-garden-sitting-grass-shoes_small.jpg)
 
-# For most of us, school was simply one of the responsibilities of being a child.
+## For most of us, school was simply one of the responsibilities of being a child.
 
 But for students with learning disabilities, there’s nothing simple about school. From the morning ride to evening homework time, every day is filled with anxiety. So much so that the only thing left at night is exhaustion from trying to understand the lessons.
 
 Here are some things to bear in mind if you think your student is struggling with a learning disability. By accurately identifying it, you can take the first step to understanding that struggle.
 
-# An Entirely Different Experience
+### An Entirely Different Experience
 
 For these students, school is not necessarily a pleasant experience.
 
@@ -26,7 +26,7 @@ Think of an academic subject in which you feel completely inadequate (or did at 
 
 That’s how students with learning disabilities feel, but it doesn’t stop with one grade or one class. Every subject can seem like a foreign language, affecting  their confidence and putting a strain on relationships with others who don’t understand the struggle.
 
-# Universal Frustrations
+### Universal Frustrations
 
 One class to the next, they are all equally mind-numbing.
 
@@ -34,7 +34,7 @@ They are afraid of asking questions because the other kids will think they’re 
 
 And yet their only “help” is from Dad, who’s going to try to do what the teacher couldn’t after his own full day at work.
 
-# Recognizing These Students
+### Recognizing These Students
 
 Students who are experiencing difficulty in any subject go through this. They feel stupid or misunderstood or any number of negative emotions. And for those who are successful in school, the time and effort spent is excessive when compared to the majority of their peers.
 

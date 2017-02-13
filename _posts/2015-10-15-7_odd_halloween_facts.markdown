@@ -14,19 +14,19 @@ Halloween has a long history, and in the 2000 years since it’s [Celtic introdu
 
 Here are 7 sometimes mind-boggling, sometimes silly facts that’ll be sure to put a smile on your pumpkin.
 
-# It Was Just Tricks During World War II
+### It Was Just Tricks During World War II
 
 Halloween started to take hold in America during the 1930’s. Not long after, the government put the clamp down on sugar consumption when the Britons asked for more food to fight during World War II. After a week in 1942 when not a grain of sugar was sold, it was put on rations. As part of their “ration books”, every single American was allotted half the sugar they normally consumed.
 
 As a result, most trick-or-treating festivities were put to halt in 1942 and 1943, the first two years of participation in the war. Sugar continued being rationed until 1946.
 
-# A Sweet Opportunity
+### A Sweet Opportunity
 
 ![Halloween2-4e1ae2.jpg](/blog/uploads/Halloween2-4e1ae2.jpg)
 
 Some reports say Americans are geared up to spend $7.4 billion dollars this Halloween, with nearly a third of that total spent on candy.That’s roughly the GDP of the eastern European country of Kosovo. If only they’d jump into the candy market.
 
-# Hide das Silverware!
+### Hide das Silverware!
 
 ![Halloween3-04dbd3.jpg](/blog/uploads/Halloween3-04dbd3.jpg)
 
@@ -34,7 +34,7 @@ During Germany’s version of Halloween, which is closer to All Saint’s Day, s
 
 As part of the tradition, Germans put away their knives on Halloween night—and the eight nights after. Why? So they don’t risk harming their once a year visitors, although some say it might be vice-versa. Either way, how do you cut them apples?
 
-# The First Jack-O-Lanterns Weren’t Orange
+### The First Jack-O-Lanterns Weren’t Orange
 
 ![Halloween4.jpg](/blog/uploads/Halloween4.jpg)
 
@@ -42,7 +42,7 @@ Long before American immigrants discovered there was no better use for pumpkins 
 
 Don’t worry, they were large turnips. And by many accounts, they were actually a lot scarier than the toothless orange faces kids collect candy in today.
 
-# Bobbing for Love
+### Bobbing for Love
 
 ![Halloween5.jpg](/blog/uploads/Halloween5.jpg)
 
@@ -50,13 +50,13 @@ Apple-bobbing, or snap apple as it’s called in some places, had more to do wit
 
 It later turned into an autumn ritual in Ireland and some of England by immigrants who thought it’d make for a fun Halloween activity.
 
-# You Lucky Cat
+### You Lucky Cat
 
 ![Halloween6.jpg](/blog/uploads/Halloween6.jpg)
 
 The next time you get worried about a black cat crossing your path, consider this: In the UK and Australia, black cats are actually considered lucky. It’s those tricky white ones you have to look out for. Imagine that, something we and England don’t see eye-to-eye on.
 
-# Draculogic
+### Draculogic
 
 ![Halloween7.jpg](/blog/uploads/Halloween7.jpg)
 

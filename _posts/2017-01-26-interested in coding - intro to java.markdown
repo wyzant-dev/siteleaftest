@@ -41,7 +41,7 @@ Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 </div>
 
 
-# About the Presenting Tutor
+### About the Presenting Tutor
 
 ![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
 

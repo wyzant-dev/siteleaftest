@@ -13,13 +13,13 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![632Kids_and_screens_blog-1.jpg](/blog/uploads/632Kids_and_screens_blog-1.jpg)
 
-# Screen time is a hot topic among parents these days. While the stats are conflicting about how kids should be using screens (tablets, tv’s, mobile devices) and when they should start using them, a few things have become clear.
+## Screen time is a hot topic among parents these days. While the stats are conflicting about how kids should be using screens (tablets, tv’s, mobile devices) and when they should start using them, a few things have become clear.
 
 The first is that the number of children using screens is trending upward (see below). The second is that not all screen time is necessarily negative. Perhaps most important is the fact that when faced with the above two facts, every parent reacts differently.
 
 Should you choose to monitor your child’s media diet with an iron fist or a loving look over the shoulder, here are some key trends to be aware of and how the new rise in online tutoring can play an important role.
 
-# **What the Stats Say**
+## **What the Stats Say**
 
 According to the [American Academy of Pediatrics](https://www.aap.org/en-us/advocacy-and-policy/aap-health-initiatives/pages/media-and-children.aspx), children today spend an average of seven hours on entertainment media each day. It might sound like a lot, but when you consider it includes televisions, computers, phones and other electronic devices, there are less likely statements.
 
@@ -33,9 +33,9 @@ Screen time is, ultimately, **essential** for students to succeed. Kids who are 
 
 So the question is, how can you get your child more interested in educational material?
 
-# **Where the Opportunity Lies**
+## **Where the Opportunity Lies**
 
-# 1. Replacing “Bad” Screen Time with “Healthy” Screen Time
+### 1. Replacing “Bad” Screen Time with “Healthy” Screen Time
 
 Putting a qualified teacher or tutor on the other end of the screen pays dividends in both the long-term and short-term.
 
@@ -45,7 +45,7 @@ Parents also feel greater assurance that their efforts are having a positive eff
 
 In the long run, a tutor can help raise your child’s interest in educational media. A good tutor aids parents in finding new and engaging educational content. They also pique a child’s interest, causing a jolt of enthusiasm during tutoring time which can effectively lead them to choose a healthier media diet outside of tutoring.
 
-# 2. A Perfect Mix Between Screen Time and Interaction Time
+### 2. A Perfect Mix Between Screen Time and Interaction Time
 
 A well-documented concern about screen use is the fact it too often serves as a replacement for personal interaction. This can be detrimental for children, whose skills need constant maintenance. According to a study done at [UCLA on a group of sixth-graders](http://www.npr.org/sections/ed/2014/08/28/343735856/kids-and-screen-time-what-does-the-research-say), replacing interaction with screen time can improve a child’s ability to recognize emotion in facial expressions.
 

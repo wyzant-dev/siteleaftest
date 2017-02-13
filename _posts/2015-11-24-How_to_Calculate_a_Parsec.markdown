@@ -11,7 +11,7 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![99How_to_Calculate_a_Parsec.jpg](/blog/uploads/99How_to_Calculate_a_Parsec.jpg)
 
-# "You've never heard of the Millennium Falcon? It's the ship that made the Kessel Run in less than twelve parsecs." ― Han Solo
+## "You've never heard of the Millennium Falcon? It's the ship that made the Kessel Run in less than twelve parsecs." ― Han Solo
 
 Han Solo’s boast will forever live in astronomical infamy. Partially because of the off-the-wall [time travel theories](http://www.wired.com/2013/02/kessel-run-12-parsecs/) we’ve extrapolated from it, but mostly for George Lucas’ mistaking of time and distance.
 
@@ -23,7 +23,7 @@ Basically, parsecs are what scientists use to find the distance of stars within 
 
 But how is this seemingly infinite distance used? And how do scientists (or time-traveling smugglers) calculate it. Believe it or not, with some high school math, we can calculate it.
 
-# Parallax and an Arcsecond Walk into a Classroom...
+### Parallax and an Arcsecond Walk into a Classroom...
 
 The term parsec is a combination of two words: **Parallax** and **Arcsecond**.
 
@@ -35,7 +35,7 @@ You’re already familiar with **parallax**, but not for measuring distance. Whe
 
 **Don’t Forget:** When we look up, we only see 180° of the sky. The other half can’t be seen because it’s below the horizon.
 
-# Step 1: Measure the arcseconds
+### Step 1: Measure the arcseconds
 
 Because our eyes are too close and stars are too far away, we have to use some trickery to notice a parallax. By taking a picture of a star, waiting six months, and then taking another one on the other side of the sun, scientists (or amateur astronomers like us) can see how far a star shifted compared to other stars in the sky.  
 
@@ -45,7 +45,7 @@ So what do scientists use? Telescopes, some of which let them see views of one d
 
 So let’s say Solo is making a stop on Earth before shipping off towards a star that moves a distance (or has a parallax) of 0.36 arcseconds when we take the two pictures six months apart.
 
-# Measuring the sky by hand
+### Measuring the sky by hand
 
 A thumb and four fingers can be a useful tool for amateur astronomers to measure the night sky. When holding your hand at arm's length against the night sky, your hands tell you how many degrees one star is from the next:
 
@@ -53,7 +53,7 @@ A thumb and four fingers can be a useful tool for amateur astronomers to measure
 * Three middle fingers are approximately 5°
 * Your pinky at arm’s length is roughly 1°
 
-# Step 2: Calculate the Distance
+### Step 2: Calculate the Distance
 
 Now the math. We can use the shape of a triangle to set up a calculation. Combining our parallax angle and another distance we already know gives us all we need to know about our triangle:
 

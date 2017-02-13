@@ -10,7 +10,7 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![](https://d3bstivvgzmae3.cloudfront.net/blog/4_Fantastic_Early_Reader_Books_About_The_4th_Of_July.jpg)
 
-# Parades! Picnics! Fireworks!
+## Parades! Picnics! Fireworks!
 
 With the 4th of July right around the corner, it’s a great opportunity to pop into your local library or bookstore (or hop on your Kindle) and pick up an early reader book about the upcoming holiday. Whether your child is an avid or hesitant reader, providing them with stories that they can easily relate back to their experiences is a great way to capture their interest and engage their minds.
 

@@ -12,11 +12,11 @@ sub-headline: As a tutor on WyzAnt, your job application is crucial to making a 
 
 ![How_to_write_great_job_applications.jpg](/blog/uploads/How_to_write_great_job_applications.jpg)
 
-# Find out three important ways to make your job applications stand out from the crowd. Plus, see examples of great job applications.
+## Find out three important ways to make your job applications stand out from the crowd. Plus, see examples of great job applications.
 
 Job applications are your first introduction to potential parents and students. Make sure your application is saying all the right things and you’re showing potential students exactly how you can help them.
 
-# Show Your Experience & Keep It Relevant
+### Show Your Experience & Keep It Relevant
 
 In every job application you send to students and parents, make sure you include experience that speaks to their current needs and helps a potential student know more about your unique abilities, training, and education.
 
@@ -26,7 +26,7 @@ The first few sentences of your job application are crucial to helping parents k
 
 **Your “secret sauce”.** Are you great with visual learners or do you have a background in helping with specific educational needs? Make sure a potential student knows this right upfront, especially if they mention that they need help in your area of expertise. If you don’t have a niche, show a short example of how you were understanding or adaptable to a new student.
 
-# Show Your Methods
+### Show Your Methods
 
 You might not even realize you have a method or approach when it comes to tutoring. But your method is a combination of your personality with students and parents, how you approach students with their specific challenges, and how you manage your tutoring relationship. Make sure parents and students understand how you can help them and what they can expect.
 
@@ -38,13 +38,13 @@ Still not sure how to talk about your approach? Here’s a few questions to ask 
 
 **3. What are some of your previous relevant accomplishments?** Let students and parents know how you’ve helped other student from higher grades or test scores to more confidence in the classroom or even how you helped students get into a specific college they wanted to attend.
 
-# Outline Clear Next Steps
+### Outline Clear Next Steps
 
 Remember, many parents and students come to WyzAnt because they want help immediately. Be their guide!
 
 Give parents a clear option for what to do next, such as offering to schedule a phone call or a first lesson where you can evaluate a student’s need and provide an assessment. You can also let parents know that WyzAnt offers a Good Fit Guarantee to students, so if they’re not happy for any reason, we refund their payment for the first hour with any new tutor.
 
-# **Examples of Great Job Applications**
+### **Examples of Great Job Applications**
 
 Below are some examples to help you write your own stellar job application.
 

@@ -11,13 +11,13 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![Comprehensive_Guide_to_Diagnosing_Your_Tutoring_Needs-1.jpg](/blog/uploads/Comprehensive_Guide_to_Diagnosing_Your_Tutoring_Needs-1.jpg)
 
-# When you were growing up, you were probably under the misconception that tutoring was 1) expensive and therefore only for wealthy students and 2) only for students who were falling behind.
+## When you were growing up, you were probably under the misconception that tutoring was 1) expensive and therefore only for wealthy students and 2) only for students who were falling behind.
 
 The truth is, millions of students are being tutored across all corners of the globe, plenty of whom fall far outside those two categories. Tutoring is for everyone, regardless of their constraints or misconceptions.
 
 But that doesn’t make it any easier to know how or when to get started. A good first step is learning:
 
-# The 5 Types of Tutoring
+### The 5 Types of Tutoring
 
 ![Comprehensive_Guide_for_diagnosing_your_tutoring_needs(Table).png](/blog/uploads/Comprehensive_Guide_for_diagnosing_your_tutoring_needs(Table).png)
 
@@ -37,7 +37,7 @@ Recognizing this should be as much a positive moment as a negative one. Diagnosi
 
 **Type: Corrective**
 
-# Symptom 2: Surprising Drops in Test Scores
+### Symptom 2: Surprising Drops in Test Scores
 
 Perhaps the most obvious symptom is a decrease in test scores or grades.
 
@@ -47,7 +47,7 @@ As part of your tutor search, validate where they’re struggling by reaching ou
 
 **Type: Corrective**
 
-# Symptom 3: Constant Procrastination
+### Symptom 3: Constant Procrastination
 
 Much like declining scores, procrastination is a sign of a larger issue, namely uncertainty with key concepts that they are expected to know. This is especially true if you find your student ignoring your homework reminders.
 
@@ -57,7 +57,7 @@ With older students, it’s more likely you’ll see your teen staying up to do 
 
 **Type: Maintenance**
 
-# Symptom 4: Parents’ Shifting Schedules
+### Symptom 4: Parents’ Shifting Schedules
 
 If you or your spouse is taking on additional commitments at work, it can have an effect on your ability to provide homework help. Likewise, when students’ workloads increase as they get older, completing that work takes more time.
 
@@ -67,7 +67,7 @@ The positive is, when caught early, these shifts do less damage to your child’
 
 **Type: Support**
 
-# Symptom 5: A Recent Diagnosis
+### Symptom 5: A Recent Diagnosis
 
 While a recent diagnosis for a learning disability is a relief compared to the aggravation of not knowing what’s happening, it doesn’t take away the struggles. The good news is some very important questions have been answered and, as a parent, you can feel confident in the guidance that’s available.
 
@@ -77,7 +77,7 @@ A private tutor is an extension of that prescription. They not only plan to the 
 
 **Type: Maintenance**
 
-# Symptom 6: Unfamiliar Testing Scenarios
+### Symptom 6: Unfamiliar Testing Scenarios
 
 College entrance, AP, and end-of-year tests represent an entirely foreign experience for students. That’s why test preparation relies on a specific format and approach over content and subject matter. Unfortunately, outside of Advanced Placement, these things are not uniformly taught within school curriculums.
 
@@ -85,7 +85,7 @@ Making matters more difficult is the fact that high-stakes tests fray the nerves
 
 **Type: Test Prep**
 
-# Symptom 7: A Deep Interest in Something New
+### Symptom 7: A Deep Interest in Something New
 
 Has your child recently thrust upon you strings of questions about how computers (actually) work? Or what makes a planet different than a star?
 

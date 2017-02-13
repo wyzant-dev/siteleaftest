@@ -12,7 +12,7 @@ For Jesse Barnes, not knowing the right answer is a way of life.
 
 As an undergraduate researcher at the University of Iowa, she’s surrounded by puzzles. And while she’s gotten used to asking and answering questions in the laboratory, it hasn’t always been that way.
 
-# Staying Positive During Uncertainty
+### Staying Positive During Uncertainty
 
 Growing up without some of the luxuries her classmates had, Jesse learned to appreciate the things she did have. Her parents. Her twin sister. And her education.
 
@@ -24,7 +24,7 @@ This was the question Jesse was wrestling with when she came upon the WyzAnt Sch
 
 Jesse never expected to win, but what happened next was just as unexpected.
 
-# Seizing an Opportunity
+### Seizing an Opportunity
 
 Thanks to the WyzAnt scholarship, Jesse could forego having a summer job after her freshman year. With housing covered, she was free to explore a passion for medical research, something she’d been interested in since high school.
 
@@ -34,7 +34,7 @@ Jesse immersed herself. She became part of a live-learn community designed to in
 
 “I like to say with science, if you’re not confused or if you know the answer, you’re doing it wrong,” says Jesse. “Everyone is confused—if we knew the answer we wouldn’t be doing it.”
 
-# Turning a Passion for Science into Success
+### Turning a Passion for Science into Success
 
 Three years later, Jesse has long surpassed the two semesters of research work required for an Honors Degree in Biology. But that hasn’t stopped her from continuing to work in the lab.
 
@@ -46,6 +46,6 @@ And it all goes back to appreciating the difference between needs and wants.
 
 Now once again, Jesse is planning for her future. She hopes her next move will be to New York City for grad school. And the sister she was afraid to leave behind? She’ll be there, too.
 
-# Jesse's Essay Tip...
+### Jesse's Essay Tip...
 
 "Everyone has written the cliche essay before. Just go with something that matters to you, and it will matter to them."

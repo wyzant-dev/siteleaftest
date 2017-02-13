@@ -12,7 +12,7 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![WHY_8_Hours_Of_Private_Tutoring_Is_A_Letter_Grade_Of_Improvement.jpg](/blog/uploads/WHY_8_Hours_Of_Private_Tutoring_Is_A_Letter_Grade_Of_Improvement.jpg)
 
-# Four studies demonstrate how 8 hours of working with a private tutor can have such a dramatic effect on your child’s behavior and grades.
+## Four studies demonstrate how 8 hours of working with a private tutor can have such a dramatic effect on your child’s behavior and grades.
 
 While letter grades are important (especially when we think about the increasingly competitive college application process), they rarely tell the whole story. It’s the tip of the iceberg when it comes to one-on-one learning outcomes.
 
@@ -22,7 +22,7 @@ Don’t believe us? Here’s the research:
 
 ![20_percent_less_math_anxiety.jpg](/blog/uploads/20_percent_less_math_anxiety.jpg)
 
-# Finding 1: Eight Weeks of Tutoring Reduces Math Anxiety By Up to 20%
+## Finding 1: Eight Weeks of Tutoring Reduces Math Anxiety By Up to 20%
 
 Math anxiety has proven to be as real as any other phobia. You might have it! But just like any phobia, it’s “all in your head,” to the point they trigger reactions in the brain. Opening a math book can have the same effect on some as seeing a spider or looking down a cliff for others. Seriously!
 
@@ -32,7 +32,7 @@ With a higher level of angst, students experience [decreased short-term “worki
 
 It’s the **highly personalized nature** of private tutoring which helps kids to “get beyond the bottleneck in a non-negative, encouraging way,” according to researchers.
 
-# Finding 2: When Children Ask Questions, They Want Answers (not Attention)
+### Finding 2: When Children Ask Questions, They Want Answers (not Attention)
 
 emember being afraid to raise your hand in front of the class for fear of feeling dumb? It wasn’t feeling dumb you were afraid of, it was the shame that came with it. Unfortunately, no matter how intelligent or engaged a student is (or wants to be), social surroundings play a role.
 
@@ -44,7 +44,7 @@ As trivial as it might seem, those feelings can derail a student’s effort. Mor
 
 Working one-on-one removes this fear entirely. If not at first, then over the few lessons it takes for a child to learn their private tutor is really a caring, unjudging teacher.
 
-# Finding 3: Giving Student's Choices Increases Their Willingness to Take on Difficult Tasks
+### Finding 3: Giving Student's Choices Increases Their Willingness to Take on Difficult Tasks
 
 While it might seem counterintuitive, giving children choices results in an increased attention span. In 2008, researchers from Duke looked at 41 separate studies and found when children had a choice in what they worked on, they were more likely to take on tasks that were challenging. In addition, a child given the chance to learn something they enjoy has shown to result in a higher level of persistence and a greater dedication to completing the work at hand.
 
@@ -52,7 +52,7 @@ Student’s need variety. Whether it’s where they study, the number of subject
 
 In tutoring, children are forced into a role where they become an active participant in learning. They have the ability to work at their own pace and choose topics and themes that become the vehicle for their learning.
 
-# Finding 4: Students with Involved Parents are More Likely to Earn Higher Test Scores and Enroll in Higher-Level Programs
+### Finding 4: Students with Involved Parents are More Likely to Earn Higher Test Scores and Enroll in Higher-Level Programs
 
 As a parent, you’ve probably seen it. The more (or less) time you’ve spent helping your child or actively discussing school has had an effect. It’s a [foregone conclusion](http://www.nea.org/tools/17360.htm) when you as a parent are involved, kids stand a greater chance to earn higher grades and even enroll in higher-level programs.
 
@@ -61,6 +61,3 @@ What is it about parental involvement that does that? The easy answer is parents
 But what about when you have multiple kids, or lose the time to take as big a role as you’d like (it happens!)? A private tutor serves as an extension of you, while enforcing those same positive values. And through your own interaction with the tutor, you can still play a significant part, and your child won’t have to struggle without the necessary support.
 
 The classrooms of today are as foreign to parents as any time before, but what a child needs to learn is the same as ever. When you take the time to understand how they learn, it makes the journey towards success (and the bumps along the way) all the more meaningful.
-
-
-

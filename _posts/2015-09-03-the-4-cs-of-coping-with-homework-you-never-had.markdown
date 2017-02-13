@@ -12,19 +12,19 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![The_4_Cs_Of_Coping_With_The_Homework_You_Never_Had-1.jpg](/blog/uploads/The_4_Cs_Of_Coping_With_The_Homework_You_Never_Had-1.jpg)
 
-# It’s wonderful feeling. The moment when your busy student comes to you and asks for help. As a parent, few things are as fulfilling as lending a strong, guiding hand.
+## It’s wonderful feeling. The moment when your busy student comes to you and asks for help. As a parent, few things are as fulfilling as lending a strong, guiding hand.
 
 You thought they’d never ask.
 
 But there’s a downside. The homework they have is a heck of a lot different than what you had as a kid. Borrowing and carrying? It’s gone the way of the Dodo. Now they’re memorizing state capitals in Math class.
 
-It’s not bad, it’s just... different. But in an anxiety-inducing way. 
+It’s not bad, it’s just... different. But in an anxiety-inducing way.
 
 The good news is the old adage “encouragement and patience go a long way” is still alive and well. Follow this alliterative process to make that as easy to do as it is to say. You might even get through homework sessions headache-free.
 
-### "Borrowing and carrying? It’s gone the way of the Dodo."
+#### "Borrowing and carrying? It’s gone the way of the Dodo."
 
-# Collect
+### Collect
 
 ...information about the assignment. Before you dive into problems or prompts, get context. What is the reason for this work?
 
@@ -32,7 +32,7 @@ The good news is the old adage “encouragement and patience go a long way” is
 
 It’s also good to identify the reasons you want your student to complete homework. Is it to develop discipline and a productive work ethic? Or learn how to work efficiently and ask questions? These answers will affect how active your role is during homework time.
 
-# Comprehend
+### Comprehend
 
 ...the question at hand. Once you’ve made sure your child has the crumpled notes, textbook, and other frayed resources, dive into the struggle du jour. Start at step one and follow the breadcrumbs of your child’s thought process. When the wheels get caught, you’ll know where the cog is.
 
@@ -42,11 +42,11 @@ Once that cog shows itself, do a quick check in your head to see if you can solv
 
 In the event the solution doesn’t come easy even to you, have your student find a similar problem on previous homework or tests and polish your understanding of the method together before revisiting the original problem.
 
-# Clarify
+### Clarify
 
 ...their understanding for future work (and yours for next time). Making them cite evidence will prevent your child from “slipping through the cracks”, or getting the right answer out of luck.
 
-### "Sometimes in order to help with homework, parents need catching up - a valuable teaching opportunity."
+#### "Sometimes in order to help with homework, parents need catching up - a valuable teaching opportunity."
 
 Ask questions that put context to the steps for them, such as:
 
@@ -56,7 +56,7 @@ Ask questions that put context to the steps for them, such as:
 
 Before finishing up, ask your child to explain one problem from each night’s work. Select one you didn’t work on together. If it’s Math or Science, try to choose one that incorporates both words and computation.
 
-# Connect
+### Connect
 
 ...for extra help.
 
@@ -68,7 +68,7 @@ A private tutor can do the same. In addition, tutors can be more easily accessib
 
 For both your own sanity and your child’s love of school, the benefits of reaching out early are noticeable.
 
-# Give pointers, not relief...
+### Give pointers, not relief...
 
 Remember the Golden Rule of Homework: Never give children the answers to problems! Don’t deprive your child of the chance to develop the mental processes required to learn grow.
 

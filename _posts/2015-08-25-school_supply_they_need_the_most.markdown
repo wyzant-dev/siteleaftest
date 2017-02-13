@@ -30,17 +30,17 @@ As a parent, you can help them prepare to make this year a successful one. Here�
 
 An expert private tutor will help your student understand complicated concepts, give them more confidence to ace exams, and achieve the scores they need on standardized tests. With an expert tutor, you give your student the advantage on whatever comes up, whether it's:
 
-# Daily Homework Help and Long-term Mastery of Concepts
+### Daily Homework Help and Long-term Mastery of Concepts
 
 It’s natural for students of every age to want a quick solution to the problem in front of them, but understanding and mastering the entire concept is essential for long-term success. Working with a tutor will help your student get short-term wins, as well as develop their skills, understanding, and study habits.
 
-# Expert Preparation for Every Midterm and Final
+### Expert Preparation for Every Midterm and Final
 
 A private tutor is THE best study tool when it comes to preparing for midterms and finals—especially when they’ve been working with your student all semester and know exactly what (and how) your student is learning and where they need help.
 
 If your student has last-minute test questions or needs to squeeze in a lesson that fits into their busy schedule, try [online tutoring](https://www.wyzant.com/tutorsearch/online). WyzAnt's online lessons mean you can access your tutor whenever you need help.
 
-# Affordable, One-on-one Attention for Standardized Tests
+### Affordable, One-on-one Attention for Standardized Tests
 
 Is your child taking the SAT or MCAT? If you’ve looked up test prep courses, then you are already familiar with the large textbooks, hundreds of practice tests, and an expensive bill. Most test prep courses are also taught in a group setting by an instructor you don’t get to choose.
 

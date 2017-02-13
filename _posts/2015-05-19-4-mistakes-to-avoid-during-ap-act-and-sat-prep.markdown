@@ -21,7 +21,7 @@ So save you and your child some big pre-exam headaches. And remember:
 
 This is a list of what **NOT** to do (so do the opposite).
 
-# Spend Equal Time Focusing on the Different Parts of the Test
+### Spend Equal Time Focusing on the Different Parts of the Test
 
 A high-octane approach to test prep builds confidence AND academic knowledge, but with the clock ticking, improving upon weaknesses is most important.
 
@@ -43,7 +43,7 @@ Build a practice schedule and revisit this information as you go. The goal? Buil
 
 * **10% of the time:** Areas of strength or confidence builders (1)
 
-# Pick One Practice Exam and Stick to It
+### Pick One Practice Exam and Stick to It
 
 The last months before the test should be dedicated to practice test, practice test, practice test (again, 1-1.5 per week). That’s the obvious part. What’s tricky is making sure:
 
@@ -63,7 +63,7 @@ When it comes to practice tests representative of the actual test, look to the t
 
 * **AP Prep:** Visit the College Board website for [Sample Questions](http://apcentral.collegeboard.com/apc/public/exam/exam_information/index.html) and the blog [AP Practice Exams](http://www.appracticeexams.com/ap-physics-b/) for practice materials.
 
-# Treat All Mistakes the Same
+### Treat All Mistakes the Same
 
 Not all wrong answers are created equal. The spreadsheet from the first section will come in handy for additional analysis. Namely, **WHY** questions were answered wrong.
 
@@ -79,11 +79,11 @@ You can boil down the reasons students miss questions into four buckets:
 
 Each category requires a different step to correct. And being able to identify those steps is priceless. Working with a tutor is an excellent way to refine these abilities. Another approach would be to learn the follow-up questions to ask when one of these errors are made.
 
-## Test-taking Errors and Follow-Up Questions
+### Test-taking Errors and Follow-Up Questions
 
 ![2-e07b83.JPG](/blog/uploads/2-e07b83.JPG)
 
-# Study Until You Drop
+### Study Until You Drop
 
 When it comes to such high-stakes testing, good study habits can’t only be captured with cliches like “eat breakfast” and “don’t pull all-nighters.” So rather than supply students with timeless verbiage that will go through them like milk through a strainer, explain the rationale of effective habits including:
 

@@ -12,7 +12,7 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 **Your teachers lied to you, but it wasn’t on purpose. See what new discoveries we’ve made and what your child will now learn as facts at school.**
 
-# Fact 1: Pluto is a dwarf planet, not a real planet.
+### Fact 1: Pluto is a dwarf planet, not a real planet.
 
 Once considered the ninth and most distant planet, Pluto disrupted many children’s styrofoam solar systems in 1979 when it crossed into Neptune’s orbit. Pluto’s elliptical orbit, which changed it to the eighth planet in our system until 1999, was just the beginning of the planet’s troubles. In 2006, Pluto was in the news again after the International Astronomical Union downgraded its status from planet to “dwarf planet”, leaving some of us with dusty grey styrofoam balls that had no place in a reputable solar system model.
 
@@ -20,7 +20,7 @@ So how will your kids learn about the order of planets in school now? Well, they
 
 Extra credit: Pluto could make a comeback. If Pluto’s mass is increased, then it could meet the one criteria that it needs to be a planet, which is “[clear the neighborhood](https://en.wikipedia.org/wiki/Clearing_the_neighbourhood) around its orbit”. This basically means if Pluto either collides with objects and makes itself larger as a result or is able to push off objects from its orbit then it could become a real planet again.
 
-# Fact 2: Columbus didn’t discover America, but he did make it popular.
+### Fact 2: Columbus didn’t discover America, but he did make it popular.
 
 ![facts2.jpg](/blog/uploads/facts2.jpg)
 
@@ -34,7 +34,7 @@ Though he didn’t find a new path to India, Columbus was able to bring back a l
 
 Extra credit: Columbus lied to his crew, but only to keep the peace. On his first journey to America, Columbus kept two sets of logs: One told the actual length the ships had travelled in a given day and the other reduced how far the ships had sailed. The latter was shared with the crew who were anxious about travelling for such a long time without seeing land.
 
-# Fact 3: Mauna Kea is the tallest mountain, not Mount Everest.
+### Fact 3: Mauna Kea is the tallest mountain, not Mount Everest.
 
 ![facts3.jpg](/blog/uploads/facts3.jpg)
 
@@ -44,7 +44,7 @@ When it comes to mountains, there is a difference between tallest (length from b
 
 Extra credit: Speaking of things hiding in the ocean, the world’s tallest mountain range is the mid-oceanic ridge system, which is almost completely underwater.
 
-# Fact 4: Brontosaurus is, no wait, isn’t, wait, now is a type of dinosaur.
+### Fact 4: Brontosaurus is, no wait, isn’t, wait, now is a type of dinosaur.
 
 ![facts4.jpg](/blog/uploads/facts4.jpg)
 
@@ -58,7 +58,7 @@ In April 2015, an article published in the scientific Journal PeerJ brought Bron
 
 Extra credit: Think all dinosaurs are mostly big lizards? Well, the Tyrannosaurus Rex, a dinosaur beloved by movie-goers, toy-makers, and meme-makers for its small arms and gnashing of prey, is actually [more closely related to a chicken or ostrich than a lizard](http://news.nationalgeographic.com/news/2008/04/080424-trex-mastodon.html).
 
-# Fact 5: We now have five oceans, not four.
+### Fact 5: We now have five oceans, not four.
 
 ![facts5.jpg](/blog/uploads/facts5.jpg)
 
@@ -66,6 +66,6 @@ Most of us were taught that the Arctic, Atlantic, Indian, and Pacific were the w
 
 Extra credit: The deepest part of the ocean explored by humans is the Mariana Trench, which is known to go almost eight miles below sea level.
 
-# Don’t Stop Yet...
+### Don’t Stop Yet...
 
 Here are [five more facts](https://www.wyzant.com/blog/10_facts_that_changed_part_two) you learned to be true, but your kids will never be taught.

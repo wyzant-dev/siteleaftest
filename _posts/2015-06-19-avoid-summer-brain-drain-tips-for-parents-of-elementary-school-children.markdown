@@ -11,13 +11,13 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![Avoid_Summer_Brain_Drain_-Tips_for_Parents_of_Elementary_School_Children.jpg](/blog/uploads/Avoid_Summer_Brain_Drain_-Tips_for_Parents_of_Elementary_School_Children.jpg)
 
-# Summer is meant for fun and play, but it’s also a time when lots of children forget much of what they learned during the school year. Here’s how to help your child retain those important lessons.
+## Summer is meant for fun and play, but it’s also a time when lots of children forget much of what they learned during the school year. Here’s how to help your child retain those important lessons.
 
 School’s out for the summer!
 
 Many families (and all children!) enjoy this time off from the daily routine of schoolwork, and spend the warmest months relaxing, camping, and playing with friends. But along with popsicles and mosquitos, summertime also brings an interruption of the learning process for elementary school children, and in many cases, significant portions of learning are actually forgotten. When they head back to the classroom at the end of summer, the fun definitely ends. Here’s what it means for your child, along with several tips on how to prevent learning regression.
 
-# What is Summer Brain Drain?
+### What is Summer Brain Drain?
 
 With no school and no homework, most kids go to camp or play all summer long. Sounds pretty great, right?
 
@@ -27,7 +27,7 @@ Without anything to challenge them academically over the summer, children lose u
 
 Fortunately, there is a variety of ways you can help your child beat summer brain drain. You can work together or find education help outside your home.
 
-# Helping Your Child at Home
+### Helping Your Child at Home
 
 If you want to be part of your child’s summer learning process, there are tons of ways you can help. Elementary school age children can benefit from supplemental learning experiences that are engaging and creative. You have probably already heard or read about many of the possibilities:
 
@@ -42,7 +42,7 @@ If you want to be part of your child’s summer learning process, there are tons
 * Identify numbers and letters on license plates or count cars while driving
 * You can start a neighborhood learning coop
 
-# Getting Help From Others
+### Getting Help From Others
 
 If you can’t participate in summer learning with your child because you work, or even if you simply aren’t keen on playing the role of tutor yourself, there are plenty of supplemental experiences outside of the home:
 
@@ -53,7 +53,7 @@ If you can’t participate in summer learning with your child because you work, 
 * Ask teachers for extra work that children can complete when school is out
 * Private tutoring
 
-# Preventing Summer Learning Loss
+### Preventing Summer Learning Loss
 
 The National Summer Learning Association has [found ](http://c.ymcdn.com/sites/www.summerlearning.org/resource/resmgr/ssins_/ss_in_s_sample_pages.pdf)there are several approaches that, used in combination, are the most effective in preventing learning loss and keeping your child’s mind engaged. [Research ](http://www.rand.org/pubs/research_reports/RR815.html)performed by the RAND Corporation supports all of these recommendations.
 

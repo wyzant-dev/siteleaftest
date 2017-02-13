@@ -10,13 +10,13 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![](http://assets.wyzant.com/719Thanksgiving-blog.jpg)
 
-# You don’t need Thanksgiving dinner recipes, you need ways to keep your kids engaged while you cook them. Why not use science?
+## You don’t need Thanksgiving dinner recipes, you need ways to keep your kids engaged while you cook them. Why not use science?
 
 Why science? Because cooking involves a ton of chemistry, for one. This Thanksgiving, help your kids draw that connection while giving them ways to be inquisitive about learning and explore the wonders of food (before and after eating it).
 
 This timeline of experiments will snuggle right up to your Thanksgiving schedule like the words corn- and -ucopia.
 
-# The Parade
+### The Parade
 
 ![2.jpg](/blog/uploads/2.jpg)
 
@@ -32,7 +32,7 @@ Don’t just take our word for it, [Popular Science](http://www.popsci.com/scien
 
 **Take it further:** Have some playdough or Clay? As the parade rolls, kids can mold their favorite balloon, whether it’s Pikachu or Spongebob. That’s what the engineers actually do! Follow it up with some brain-stretching by figuring out how a 5-inch high sculpture can become a 43.5-foot long, 55-foot tall gargantuan! Check out the [Parade lineup](http://social.macys.com/parade/) to get some ideas ahead of time.
 
-# The Main Dish
+### The Main Dish
 
 ![3.jpg](/blog/uploads/3.jpg)
 
@@ -48,7 +48,7 @@ It’s actually ripe with experimentation (and you don’t have to forego Grandm
 
 **Take it further:** Even if YOU are going to rely on tradition, make like your child’s math skills are the key to the mouth watering. They can take the dimensions of your turkey and figure out cooking time using [this mathematical balance of weight, surface area, and width](http://www.exploratorium.edu/cooking/turkey/index.html).
 
-# The Dessert
+### The Dessert
 
 ![4.jpg](/blog/uploads/4.jpg)
 
@@ -60,7 +60,7 @@ Ever baked a cranberry apple pie? You're in for a treat. Start them thinking wit
 
 **Take it further:** You can have some fun pronouncing “anthocyanin” (the pigment that gives cranberries their color), but did you know can take the color out of it with some baking soda and water? In other words, while everyone else is watching football, you can be writing [invisible messages](http://kitchenpantryscientist.com/spy-juice/).
 
-# The Leftovers
+### The Leftovers
 
 ![5.jpg](/blog/uploads/5.jpg)
 
@@ -68,7 +68,7 @@ Got leftovers? Don’t be too hasty to throw out the remains. From the bones of 
 
 **Take it further:** Combine a turkey leg bone and enough vinegar to drown it in a jar, and wait three days. You’ll all be surprised at [what happens](https://sciencebob.com/bend-a-bone-with-vinegar/). And did you know you can [save and re-grow green onions](http://fromabcstoacts.com/2013/11/3-family-friendly-thanksgiving-science-experiments.html)?
 
-# Why the Turkey?
+### Why the Turkey?
 
 We’re pretty sure turkey wasn’t on the table at the first Thanksgiving in 1621. Beyond that, there are only theories as to why this bird became so big on Thanksgiving, including:
 

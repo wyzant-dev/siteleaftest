@@ -11,15 +11,15 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![Four_Words_Teachers_Use_That_Didnt_Exist_in_Your_Day.png](/blog/uploads/Four_Words_Teachers_Use_That_Didnt_Exist_in_Your_Day.png)
 
-# As the saying goes, the only thing constant is change.
+## As the saying goes, the only thing constant is change.
 
 But change is good. It keeps us learning, evolving, and engaged. It makes us resilient, and allows us to handle anything that cross our path. Ultimately, change teaches us how to be successful.
 
 But even so, it isn’t always easy to get on board with. Not when it means spending precious time on a weeknight googling buzzwords, learning the latest classroom trends, and trying to understand what your student is going through at school.
 
-Fear not. We’ve broken down the most noteworthy phrases and concepts you’ll encounter this school year. And for those you’ve already encountered, we’ll give you extra insight and even some positive actions to help your child adjust, and more importantly, find success in 2015. 
+Fear not. We’ve broken down the most noteworthy phrases and concepts you’ll encounter this school year. And for those you’ve already encountered, we’ll give you extra insight and even some positive actions to help your child adjust, and more importantly, find success in 2015.
 
-# 1. Blended Learning
+### 1. Blended Learning
 
 Chances are your child uses a tablet, phone, or computer at some point during the school day. If that’s because the teacher asks them too, they’re taking part in blended learning.
 
@@ -38,7 +38,7 @@ So your straight A student can move on to the next topic (and stay engaged) with
 
 Being aware of the changes in blended learning classrooms. The biggest is the shift from a lecture-based atmosphere to one that’s student led, which might result in a shift in your child’s homework load (most likely less). Question your child about the uses of technology in class and consider supplementing their media diet with educational purposes outside of class.
 
-# 2. Growth Mindset
+### 2. Growth Mindset
 
 How intelligent is your child? If you subscribe to the growth mindset, the answer is as smart as the amount of effort they put in.
 
@@ -62,7 +62,7 @@ Teaching the characteristic of “Grit” is an inherent part of both the growth
 
 Those sound like they could help later in life, right?
 
-# 3. Flipped Classrooms
+### 3. Flipped Classrooms
 
 The next time you see your child watching YouTube when they’re supposed to be doing homework, don’t be so quick to yell. If their classroom is flipped, that might be the homework (but bonus points for being on top of it)!
 
@@ -78,7 +78,7 @@ Sound fishy? It’s actually gaining steam. According to [recent research](http:
 
 Holding your student accountable for out of class assignments. Flipped classrooms can enforce mastery giving the teacher more “teaching” time, but it’s harder to ensure students do the homework if it’s not being graded. Take the opportunity to play an active role in their at-home learning. Cut out some time to go over the media with them—you can even use it as a bonding experience.
 
-# 4. Social Emotional Learning
+### 4. Social Emotional Learning
 
 Think of your child at their most receptive. Engaged, curious, and someone who makes life easier on the teacher and helps the learning experience of others. Compared to the not-so-angelic, rambunctious child who comes around other times, who do you think gets more out of learning?
 
@@ -98,4 +98,4 @@ Leading by example. Your children are going to model the habits you show in rela
 
 Just as your child has been forced to do, embrace the change. It’s a positive journey and you can go through it with them. Relating to that is only going to strengthen how you interact with them.
 
-Besides, having an “in” on what’s happening at school might propel you to the rank of most popular parent in town. But if you’re using WyzAnt, that might not be a change.
+Besides, having an “in” on what’s happening at school might propel you to the rank of most popular parent in town. But if you’re using Wyzant, that might not be a change.

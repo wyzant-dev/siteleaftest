@@ -12,7 +12,7 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![4_expert_online_tutoring_tips-1.jpg](/blog/uploads/4_expert_online_tutoring_tips-1.jpg)
 
-# Online tutoring is becoming increasingly popular, and for good reason.
+## Online tutoring is becoming increasingly popular, and for good reason.
 
 More students and parents are finding online lessons to be just as effective as in-person lessons, and as we’ve talked about [before](https://www.wyzant.com/blog/is-online-private-tutoring-right-for-us), online lessons have the added bonus of getting you to lessons faster while also offering a wider range of available tutors than you might find in your local market.
 
@@ -20,7 +20,7 @@ But in order to get the most out of your online lessons, it's important to be pr
 
 Keeping in mind the key to mastering online tutoring is the same as it is for any other form of studying—a good system— we've gathered tips from expert tutors who specialize in online. Whether you’re the parent of a teenager, a college student, or a professional, these tips will help you quickly understand the tools available to you, and the steps for setting you or your child up for success.
 
-# 1. Claim Your Study “Zone”
+### 1. Claim Your Study “Zone”
 
 **Estimated time: 15 minutes**
 
@@ -30,7 +30,7 @@ Once you’ve got your zone, what belongs in it? Besides the obvious (the comput
 
 Once the notepad is in hand, set up your computer. This includes your charger, webcam, and headphones. Headphones might seem like a nice-to-have, but in a quiet environment, a pair of earbuds with a microphone is the only seamless solution for unexpected noise on either end of the line.
 
-# 2. Demo the Online Program
+### 2. Demo the Online Program
 
 **Estimated time: 5-10 minutes**
 
@@ -42,7 +42,7 @@ From online research to designing equations to uploading and editing documents, 
 
 ![4_expert_online_tips_TABLE.jpg](/blog/uploads/4_expert_online_tips_TABLE.jpg)
 
-# 3. Eliminate the Clutter
+### 3. Eliminate the Clutter
 
 **Estimated time: 5-10 minutes**
 
@@ -58,7 +58,7 @@ The real key is to name attachments clearly (and consistently), whether they are
 
 Set up your files so each lesson has its own folder. You can segment your work and have it be easily accessible when you need to find it.
 
-# 4. The Final 15
+### 4. The Final 15
 
 **Estimated time: 15 minutes**
 
@@ -70,7 +70,7 @@ If you need to, email your tutor with any questions and avoid a last-second scra
 
 They may seem like small details, but having a routine, and being diligent about it makes the time spent in online lessons even more effective. Be open about this routine with your tutor. Having them in the loop is the best to improve upon your system, help them to understand how you work and also avoid the type of lapses that could work against your goals.
 
-# Expert Tip: Managing Your Files
+### Expert Tip: Managing Your Files
 
 Create a short document (in Notepad, Google Drive, or Microsoft Word) for keeping track of the names you give to each type of file corresponding to your lessons. While it takes an extra 10 or 15 minutes initially, having that quick reference point will make a big difference.
 
@@ -79,5 +79,3 @@ Here’s a few examples of the types of files you might have and suggestions for
 * Scanned Textbook filed: [Subject-Book Name-Page Numbers-Lesson Date]
 * Scanned Test: [Subject-Test-Lesson Date]
 * Exported board Image: [Subject-Board Name-Lesson Date]
-
-

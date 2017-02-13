@@ -16,7 +16,7 @@ She’s compiling the answers into a book, one she began working on in 2010. Lon
 
 For a college experience, it’s as atypical as they come. And few could have guessed what it would have induced.
 
-# Staying Positive
+### Staying Positive
 
 Alexandrea has always stood out. But there was a time when that hurt more than it helped.
 
@@ -28,7 +28,7 @@ As she went further down that road, she began to see problems as challenges, and
 
 “Every problem is a challenge,” she says. “Every dark unexplored corner of the world and the human psyche is a place to enter.”
 
-# Finding Her Own Voice
+### Finding Her Own Voice
 
 It wasn’t until she was a Junior in college that Alexandrea entered the WyzAnt scholarship contest. She was hoping to apply the scholarship to her studies at Marquette University, where she was double majoring in Psychology and Journalism.
 
@@ -38,7 +38,7 @@ It helped her to find her voice.
 
 “When I was writing as a senior in high school, it was dreams and aspirations,” says Alexandrea. “Writing as a senior in college, I realized that I was starting to have my own voice and be a force that people would listen to.”
 
-# Making the Most of Experiences
+### Making the Most of Experiences
 
 As that voice grew louder, Alexandrea began to flourish. She pursued a Master’s in Art Therapy after finishing up at Marquette. For her, it was a natural evolution. Art therapy, through writing, had been a powerful tool for her in high school.
 
@@ -52,6 +52,6 @@ And as she’s done time and again, Alexandrea looked into her past to make the 
 
 “Eco came from my dad. He said the answers that I needed are in the woods, and I think that’s emerged again as I’ve been doing some soul searching.”
 
-# Alexandrea's Essay Tip...
+### Alexandrea's Essay Tip...
 
 "I looked to my community who has always been so supportive. There are so many platforms to reach out on, even Facebook can be a powerful tool for sharing your message. I put my work on Facebook and people I hadn’t talked to in years shared it and voted. The ripple effect is amazing."
