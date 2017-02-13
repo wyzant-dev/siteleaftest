@@ -7,6 +7,7 @@ tags:
 - Help for Parents
 sub-headline: Even as the challenges of a new grade arise, parents can make sure students
   keep confidence building.
+hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
 
 ![How_elem_and_ms_students_get_ahead-1.jpg](/blog/uploads/How_elem_and_ms_students_get_ahead-1.jpg)
