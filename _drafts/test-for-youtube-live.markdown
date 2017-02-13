@@ -5,7 +5,7 @@ date: 2017-02-28 15:32:00 -06:00
 
 # Snapshot Series: Intro to Java
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJwVJ7eVb88" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/_95yrElamP4?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
