@@ -40,6 +40,6 @@ If you’re not into writing, there are apps on the market to help you plan and 
 
 ![Essentials5.jpg](/blog/uploads/Essentials5.jpg)
 
-Tutoring has been around for as long as we can remember. Nowadays, tutors do much more than answer simple homework questions. [Studies have shown](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem) working one-on-one with a private tutor is the fastest, most effective way to understand complicated concepts, address last-minute homework questions, and improve performance. WyzAnt makes it easy to find affordable and experienced private tutors in-person and online. Have a private tutor by your side so you can have expert whenever you need it. The bottom line is expert help = results you can see.
+Tutoring has been around for as long as we can remember. Nowadays, tutors do much more than answer simple homework questions. [Studies have shown](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem) working one-on-one with a private tutor is the fastest, most effective way to understand complicated concepts, address last-minute homework questions, and improve performance. Wyzant makes it easy to find affordable and experienced private tutors in-person and online. Have a private tutor by your side so you can have expert whenever you need it. The bottom line is expert help = results you can see.
 
 During this back-to-school season, get prepared with these four “supplies.” Download new apps or try new stylings of old-school ideas with easy and affordable options to start the school year right.

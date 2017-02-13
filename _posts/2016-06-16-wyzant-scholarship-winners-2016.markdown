@@ -1,5 +1,5 @@
 ---
-title: Congrats To Our 2016 WyzAnt Scholarship Winners
+title: Congrats To Our 2016 Wyzant Scholarship Winners
 date: 2016-06-16 13:58:00 -05:00
 tags:
 - High School
@@ -11,7 +11,7 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 ![Scholarship_Winners_Hero_Image_blog-cc2a69.png](/blog/uploads/Scholarship_Winners_Hero_Image_blog-cc2a69.png)
 
-## Alas (and yippie!), the 2016 WyzAnt Scholarship contest has come to an end.
+## Alas (and yippie!), the 2016 Wyzant Scholarship contest has come to an end.
 
 Starting in October of last year, nearly 9,000 students put their pens to paper (or fingers to keyboards) and shared their biggest inspirations with us. The result was thousands of amazing essays from students of all ages.
 

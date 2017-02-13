@@ -20,13 +20,13 @@ During her senior year, two of those things clashed. Jesse and her twin, Jenna, 
 
 “We were thinking about how it was going to be hard for the two of us to go together,” Jesse says. “And thinking about what was important at the time.”
 
-This was the question Jesse was wrestling with when she came upon the WyzAnt Scholarship contest. That’s when she wrote “Know the Difference,” an essay about the line between wants and needs. The words came easy because it was a distinction she knew all too well.
+This was the question Jesse was wrestling with when she came upon the Wyzant Scholarship contest. That’s when she wrote “Know the Difference,” an essay about the line between wants and needs. The words came easy because it was a distinction she knew all too well.
 
 Jesse never expected to win, but what happened next was just as unexpected.
 
 ### Seizing an Opportunity
 
-Thanks to the WyzAnt scholarship, Jesse could forego having a summer job after her freshman year. With housing covered, she was free to explore a passion for medical research, something she’d been interested in since high school.
+Thanks to the Wyzant scholarship, Jesse could forego having a summer job after her freshman year. With housing covered, she was free to explore a passion for medical research, something she’d been interested in since high school.
 
 She reached out to one of the school’s professors, who helped her get started. What was once an interest instantly became a career aspiration.
 

@@ -45,7 +45,7 @@ But the biggest dividend of last-second lessons is the way they relieve test anx
 
 Many tasks can be completed online without having to be personally present with a tutee. Co-working serves as a great way to reinforce concept and review—making this a great supplement that saves everyone from the hassles of commuting and scheduling.
 
-For writing, both outlining and editing essays are examples of online assistance that can be used instead of sitting across the table. The Wolfram Alpha tool found within WyzAnt’s online platform means students can do guided research, where tutors offer suggestions and understand their thought process. Changing word selections and correcting grammatical errors are also concrete tasks that can be performed online.
+For writing, both outlining and editing essays are examples of online assistance that can be used instead of sitting across the table. The Wolfram Alpha tool found within Wyzant’s online platform means students can do guided research, where tutors offer suggestions and understand their thought process. Changing word selections and correcting grammatical errors are also concrete tasks that can be performed online.
 
 When it comes to math and science, the online tool provides ideal support for troublesome homework problems and test review. Students can scan and upload tests, and walk-through problems without leaving their own home.
 

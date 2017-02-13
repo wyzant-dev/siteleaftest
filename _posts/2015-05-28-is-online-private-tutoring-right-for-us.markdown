@@ -21,7 +21,7 @@ Of course, some subjects are friendlier than others to online, but how do you kn
 
 ### “Tutoring needs to be fast—or often.”
 
-When it comes to last-minute study sessions, online is a grade-saver. Of course we make it possible to find and communicate with a tutor in less than 24 hours. Some of the best tutors on WyzAnt respond in less than two!
+When it comes to last-minute study sessions, online is a grade-saver. Of course we make it possible to find and communicate with a tutor in less than 24 hours. Some of the best tutors on Wyzant respond in less than two!
 
 You’ll free yourself from the mercy of scheduling. With the expanded search of online tutors and relief of not having to travel, online tutoring enables and incentivizes a tutor to expedite scheduling a lesson. So your student can get help when you need it, if not quicker.
 

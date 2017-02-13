@@ -38,12 +38,12 @@ It’s natural for students of every age to want a quick solution to the problem
 
 A private tutor is THE best study tool when it comes to preparing for midterms and finals—especially when they’ve been working with your student all semester and know exactly what (and how) your student is learning and where they need help.
 
-If your student has last-minute test questions or needs to squeeze in a lesson that fits into their busy schedule, try [online tutoring](https://www.wyzant.com/tutorsearch/online). WyzAnt's online lessons mean you can access your tutor whenever you need help.
+If your student has last-minute test questions or needs to squeeze in a lesson that fits into their busy schedule, try [online tutoring](https://www.wyzant.com/tutorsearch/online). Wyzant's online lessons mean you can access your tutor whenever you need help.
 
 ### Affordable, One-on-one Attention for Standardized Tests
 
 Is your child taking the SAT or MCAT? If you’ve looked up test prep courses, then you are already familiar with the large textbooks, hundreds of practice tests, and an expensive bill. Most test prep courses are also taught in a group setting by an instructor you don’t get to choose.
 
-For these rigorous tests, the best way for your child to reach their goals is one-on-one with an expert. [Studies ](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem)show that 98% of students who work with a private tutor outperform their peers. The private tutors listed on WyzAnt are affordable and can give your child the individual attention they need to improve their score.
+For these rigorous tests, the best way for your child to reach their goals is one-on-one with an expert. [Studies ](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem)show that 98% of students who work with a private tutor outperform their peers. The private tutors listed on Wyzant are affordable and can give your child the individual attention they need to improve their score.
 
 With a private tutor, you’ll make sure your student starts the year off right!

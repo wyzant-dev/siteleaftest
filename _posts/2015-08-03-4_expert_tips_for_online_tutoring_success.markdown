@@ -34,9 +34,9 @@ Once the notepad is in hand, set up your computer. This includes your charger, w
 
 **Estimated time: 5-10 minutes**
 
-First, ensure your web browser is compatible. In the case of WyzAnt’s platform (demo link below) you’ll need to be on either Chrome or Firefox.
+First, ensure your web browser is compatible. In the case of Wyzant’s platform (demo link below) you’ll need to be on either Chrome or Firefox.
 
-At least five minutes before each lesson, navigate the platform and make sure everything is working right. In fact, you can jump in for a free [demo](https://www.wyzant.com/online/enterdemoroom)of the entire WyzAnt platform. Try it out!
+At least five minutes before each lesson, navigate the platform and make sure everything is working right. In fact, you can jump in for a free [demo](https://www.wyzant.com/online/enterdemoroom)of the entire Wyzant platform. Try it out!
 
 From online research to designing equations to uploading and editing documents, nearly all of a student’s needs are met. While you’re exploring, take a look at the five key functionalities in the table below.
 

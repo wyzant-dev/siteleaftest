@@ -1,5 +1,5 @@
 ---
-title: How A WyzAnt Scholarship Helped Alexandrea Find Her Life’s Work
+title: How A Wyzant Scholarship Helped Alexandrea Find Her Life’s Work
 date: 2015-10-01 12:50:00 -05:00
 sub-headline: A winning essay was the start of one college student’s unpredictable
   journey of discovery and creation.
@@ -30,9 +30,9 @@ As she went further down that road, she began to see problems as challenges, and
 
 ### Finding Her Own Voice
 
-It wasn’t until she was a Junior in college that Alexandrea entered the WyzAnt scholarship contest. She was hoping to apply the scholarship to her studies at Marquette University, where she was double majoring in Psychology and Journalism.
+It wasn’t until she was a Junior in college that Alexandrea entered the Wyzant scholarship contest. She was hoping to apply the scholarship to her studies at Marquette University, where she was double majoring in Psychology and Journalism.
 
-She’d already done a Semester at Sea—a floating university which takes students across the globe for a semester—and gotten the idea for her book because of it. She’d even earned other scholarships. But winning the WyzAnt contest was different—and not just because it was the last.
+She’d already done a Semester at Sea—a floating university which takes students across the globe for a semester—and gotten the idea for her book because of it. She’d even earned other scholarships. But winning the Wyzant contest was different—and not just because it was the last.
 
 It helped her to find her voice.
 

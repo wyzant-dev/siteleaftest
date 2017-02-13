@@ -3,7 +3,7 @@ title: Boo! The Top 5 “Scariest” School Subjects In 2015 [Infographic]
 date: 2015-10-21 13:53:00 -05:00
 tags:
 - help for parents
-sub-headline: 'Going from scared to prepared: WyzAnt reveals which subjects students
+sub-headline: 'Going from scared to prepared: Wyzant reveals which subjects students
   are getting the most help in this school year.'
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
@@ -28,4 +28,4 @@ Learn more about how you can help your student succeed in areas that they may be
 
 ### 2. Find a Tutor
 
-WyzAnt can help you find the ideal tutor for your elementary, middle and high school student today - with over 85,000 local tutors covering more than 200 subjects, it’s easy to find the tutor that’s right for you. [Find a local tutor today](http://www.wyzant.com/).
+Wyzant can help you find the ideal tutor for your elementary, middle and high school student today - with over 85,000 local tutors covering more than 200 subjects, it’s easy to find the tutor that’s right for you. [Find a local tutor today](http://www.wyzant.com/).

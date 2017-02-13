@@ -5,7 +5,7 @@ tags:
 - Help for Tutors
 - Build Your Tutoring Business
 - Tips for New Tutors
-sub-headline: As a tutor on WyzAnt, your job application is crucial to making a great
+sub-headline: As a tutor on Wyzant, your job application is crucial to making a great
   first impression. Make sure you're including 3 key ingredients for a great job application
   and that parents and students know exactly how you can help them reach their goals.
 ---
@@ -40,9 +40,9 @@ Still not sure how to talk about your approach? Here’s a few questions to ask 
 
 ### Outline Clear Next Steps
 
-Remember, many parents and students come to WyzAnt because they want help immediately. Be their guide!
+Remember, many parents and students come to Wyzant because they want help immediately. Be their guide!
 
-Give parents a clear option for what to do next, such as offering to schedule a phone call or a first lesson where you can evaluate a student’s need and provide an assessment. You can also let parents know that WyzAnt offers a Good Fit Guarantee to students, so if they’re not happy for any reason, we refund their payment for the first hour with any new tutor.
+Give parents a clear option for what to do next, such as offering to schedule a phone call or a first lesson where you can evaluate a student’s need and provide an assessment. You can also let parents know that Wyzant offers a Good Fit Guarantee to students, so if they’re not happy for any reason, we refund their payment for the first hour with any new tutor.
 
 ### **Examples of Great Job Applications**
 

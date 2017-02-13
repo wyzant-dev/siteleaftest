@@ -14,7 +14,7 @@ hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1)
 
 Online tutoring is a simple way for students and tutors to connect and work closely together. Students who need tutoring help right away, parents seeking an affordable, quality option, and teachers who enjoy teaching but dislike commuting are just a few of the people who prefer virtual learning. Often tutors charge less for online lessons simply because they don't need to commute and those savings are passed directly on to the students. In addition, tutoring online offers a greater departure from the classroom setting than the in-person experience, which can enrich a student's overall experience.
 
-But what exactly is online private tutoring? At its purest, online tutoring is the real-time video interaction between a tutor and student. The WyzAnt online tutoring experience actually feels like you're in the same room as it includes:
+But what exactly is online private tutoring? At its purest, online tutoring is the real-time video interaction between a tutor and student. The Wyzant online tutoring experience actually feels like you're in the same room as it includes:
 
 * **Video chat so you can see and hear each other**
 * **Shared whiteboard so you can draw and write at the same time**
