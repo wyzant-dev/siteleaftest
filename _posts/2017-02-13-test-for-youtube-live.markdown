@@ -5,7 +5,7 @@ isHidden: true
 ---
 
 ### Snapshot Series: Intro to Java
-
+<p></p>
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/j0FSpY04-Sc" frameborder="0" allowfullscreen></iframe></div>
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/live_chat?v=_95yrElamP4_w&embed_domain=www.wyzant.com" width="480"></iframe></div>
