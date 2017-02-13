@@ -7,7 +7,7 @@ isHidden: true
 ### Snapshot Series: Intro to Java
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/j0FSpY04-Sc" frameborder="0" allowfullscreen></iframe></div>
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/live_chat?v=_95yrElamP4_w&embed_domain=www.wyzant.com" width="480"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/live_chat?v=j0FSpY04-Sc&embed_domain=www.wyzant.com" width="480"></iframe></div>
 
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
