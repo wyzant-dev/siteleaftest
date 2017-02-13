@@ -2,7 +2,7 @@
 layout: default
 page-name: home-page
 paginate:
-  collection: tutorPosts
+  collection: tutor-posts
   per_page: 4
 ---
 
@@ -20,7 +20,7 @@ paginate:
   <section class="row">
     <div class="column">
       <ul class="reset spc-n">
-        {% for post in paginator.tutorPosts %}
+        {% for post in paginator.tutor-posts %}
               <li>
                 <article>
                   {% if post.hero-image %}
@@ -87,7 +87,7 @@ paginate:
               </li>
         {% endfor %}
       </ul>
-        {% if paginator.total_tutorPosts > 1 %}
+        {% if paginator.total_tutor-posts > 1 %}
         <section class="pagination">
           <span>&laquo;</span>
           {% if paginator.previous_page %}

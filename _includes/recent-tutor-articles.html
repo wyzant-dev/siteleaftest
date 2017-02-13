@@ -3,7 +3,7 @@
 		<a href="/blog">Recent Articles</a>
 	</h1>
 	<ul class="reset">
-		{% assign sortedByDate =  site.posts | sort: "date" | reverse %}
+		{% assign sortedByDate =  site.tutor-posts | sort: "date" | reverse %}
 		{% assign counter = 0 %}
 		{% for article in sortedByDate %}
 			{% if article.isHidden %}

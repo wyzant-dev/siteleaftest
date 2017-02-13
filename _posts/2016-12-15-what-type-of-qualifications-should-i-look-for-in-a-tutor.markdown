@@ -22,7 +22,7 @@ Typically, you’ll want to find an instructor with at least a bachelor’s degr
 
 
 But be careful about placing too much emphasis and importance on degrees. Remember that teaching experience and methodology are just as (if not more) important. Always be sure to ask about [related teaching and tutoring experience](http://blogs.edweek.org/edweek/walt_gardners_reality_check/2010/12/is_subject_matter_expertise_enough_for_successful_teaching.html), particularly with students at your level and age range.
- 
+
 ## 2. Education Certifications
 [Degrees in education](https://teach.com/how-to-become-a-teacher/get-educated/benefits-masters-in-education/) or certificate programs in teaching, tutoring and special education tend to focus on the [theory and practice of teaching](http://www.aft.org/ae/summer2016/mascio). These types of qualifications are an excellent indicator of experience in disseminating information in a way that’s easy to understand.
 
