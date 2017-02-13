@@ -25,9 +25,13 @@ paginate:
               <li>
                 <article>
                   {% if post.hero-image %}
-                    <figure style='background-image: url("{{ post.hero-image }}");'></figure>
+                    <a href="{{ post.url }}">
+                      <figure style='background-image: url("{{ post.hero-image }}");'></figure>
+                    </a>
                   {% else %}
-                    <figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
+                    <a href="{{ post.url }}">
+                        <figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
+                    </a>
                   {% endif %}
                   <section class="spc-tiny-n">
                     <div>
@@ -58,9 +62,9 @@ paginate:
                     </div>
                     <time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
                   </section>
-                  <h1 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title | escape }}</a></h1>
+                  <h2 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title | escape }}</a></h2>
                   {% if post.sub-headline %}
-                    <h2 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h2>
+                    <h3 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h3>
                   {% endif %}
                   {% if post.tags %}
                     <ul class="reset seo-tags">

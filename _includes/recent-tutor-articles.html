@@ -1,17 +1,19 @@
 <section class="recent-articles text-center">
-	<h1 class="text-green spc-n spc-sm-s">
-		<a href="/blog">Recent Articles</a>
-	</h1>
+	<h4 class="spc-n spc-sm-s">Recent Articles</h4>
 	<ul class="reset">
 		{% assign sortedByDate =  site.tutor-posts | sort: "date" | reverse %}
+		{% assign currentArticle = page.title | downcase %}
 		{% assign counter = 0 %}
 		{% for article in sortedByDate %}
+			{% assign currentArticleInLoop = article.title | downcase %}
 			{% if article.isHidden %}
+				{% continue %}
+			{% elsif currentArticle == currentArticleInLoop %}
 				{% continue %}
 			{% elsif counter < 3 %}
 				{% assign counter = counter | plus: 1 %}
 				<li>
-					<a href="{{ article.url }}">{{ article.title }}</a>
+					<h5><a href="{{ article.url }}">{{ article.title }}</a></h5>
 				</li>
 			{% endif %}
 		{% endfor %}

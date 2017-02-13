@@ -51,9 +51,9 @@ dark-header: true
 									{% endif %}
 									<time datetime="{{ post.date | date: "%F %T" }}">{{ data.date | date: "%-m/%-d/%Y" }}</time>
 								</section>
-								<h1 class="spc-sm-n spc-zero-s"><a href="{{ data.url }}" class="text-green">{{ data.title }}</a></h1>
+								<h2 class="spc-sm-n spc-zero-s"><a href="{{ data.url }}" class="text-green">{{ data.title }}</a></h2>
 								{% if site.sub-headline %}
-									<h2 class="text-thin spc-sm-s">{{ data.sub-headline }}</h2>
+									<h3 class="text-thin spc-sm-s">{{ data.sub-headline }}</h3>
 								{% endif %}
 								{% if data.post-description  %}
 									<p>{{ data.post-description | strip_html | strip }}</p>
@@ -70,4 +70,3 @@ dark-header: true
 		</div>
 	</section>
 </section>
-

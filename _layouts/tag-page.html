@@ -8,9 +8,6 @@ dark-header: true
 		<div class="column">
 			<section class="spc-s">
 				<h3 class="spc-n">All Articles tagged <span class="text-green">{{ page.tag }}</span></h3>
-				{% for page in site.tutorPsts %}
-					<p>keenan {{page.tags}}</p>
-				{% endfor %}
 				<ul class="reset">
 					{% assign posts = site.tags[page.tag] %}
 					{% for post in posts %}
@@ -34,9 +31,9 @@ dark-header: true
 									{% endif %}
 									<time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
 								</section>
-								<h1 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title }}</a></h1>
+								<h2 class="spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title }}</a></h2>
 								{% if site.sub-headline %}
-									<h2 class="text-thin spc-sm-s">{{ post.sub-headline }}</h2>
+									<h3 class="text-thin spc-sm-s">{{ post.sub-headline }}</h3>
 								{% endif %}
 								{% if post.post-description  %}
 									{{ post.post-description | strip_html | strip }}

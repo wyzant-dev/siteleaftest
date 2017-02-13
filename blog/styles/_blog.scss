@@ -82,10 +82,10 @@ blockquote {
 .post-by-tag article,
 .post article .group,
 .post article .content {
-	h1 {
+	h2 {
 		font-size: 26px;
 	}
-	h2 {
+	h3 {
 		font-size: 20px;
 		color: #abb3bd;
 	}
@@ -302,9 +302,30 @@ blockquote {
 		}
 	}
 }
-.recent-articles ul {
-	margin: 0 auto;
-	font-size: 20px;
+.recent-articles {
+
+	ul {
+		margin: 0 auto;
+		font-size: 20px;
+	}
+	h4 {
+		display: flex;
+
+		&:before,
+		&:after {
+			display: flex;
+			flex: 1 1 auto;
+			margin-top: 12px;
+			content: '';
+			border-top: 2px solid $mediumGray;
+		}
+		&:before {
+			margin-right: 10px;
+		}
+		&:after {
+			margin-left: 10px;
+		}
+	}
 }
 .post-by-author,
 .post-by-tag {
@@ -329,8 +350,7 @@ blockquote {
 		max-width: 700px;
 		margin: 0 auto;
 		ul,
-		ol,
-		h3 {
+		ol {
 			width: 70%;
 			margin: 0 auto 20px;
 		}
