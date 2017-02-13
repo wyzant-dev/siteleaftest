@@ -1,7 +1,6 @@
 ---
 title: Paige is trying ssdfomething
 date: 2017-02-06 13:33:00 -06:00
-published: true
 isHidden: false
 ---
 

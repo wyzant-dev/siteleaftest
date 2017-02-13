@@ -11,7 +11,7 @@ post-description: Whether tackling a new course or preparing for an upcoming exa
   studying on your own can sometimes stop being helpful. This is when you start thinking
   about finding an expert to help. Ask yourself these five questions when considering
   working with a private tutor.
-Field name:
+Field name: 
 ---
 
 Studying can be challenging, and going at it alone—especially with a difficult subject or daunting test—[can make the burden feel even heavier](http://www.princetonreview.com/high-school/student-life-american-teens). Whether it’s tackling a new course, memorizing chemical compounds or struggling to beat the clock on an upcoming exam, there’s a point at which studying on your own can stop being helpful. You may even be [setting yourself back](http://college.usatoday.com/2014/01/14/6-study-habits-that-could-be-hurting-your-grade/) with study habits that could hinder your progress.
