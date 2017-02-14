@@ -2,6 +2,9 @@
 title: The Wyzant Blog
 timezone: America/Chicago
 collections:
+  authoring-guide:
+    title: Authoring Guide
+    output: true
   authors:
     title: Authors
     output: true
