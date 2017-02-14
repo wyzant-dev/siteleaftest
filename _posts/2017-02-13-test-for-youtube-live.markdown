@@ -9,7 +9,7 @@ isHidden: true
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/live_chat?v=j0FSpY04-Sc&embed_domain=www.wyzant.com" frameborder="0" allowfullscreen></iframe></div>
 
-<i><small>Have a question for JB? Type it above via the Live Chat above and he'll respond throughout the session. If not already signed into a Google/YouTube account, hover above and select "Sign In to Chat". You will then be redirected to a login page where you can either chat via YouTube or reopen this blog post in a separate tab.</i></small>
+<i><small>Have a question for JB? Enter it via the Live Chat above and he'll respond throughout the session. If not already signed into a Google and/or YouTube account, hover over the chat box and select "Sign In to Chat". You will then be redirected to a login page where you can either submit questions via YouTube or reopen this blog post in a separate tab.</i></small>
 
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
