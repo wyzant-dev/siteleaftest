@@ -2,6 +2,8 @@
 title: Index
 date: 2017-02-14 14:18:00 -06:00
 published: false
+tags:
+- math
 ---
 
 ### Updating the Homepage
@@ -54,6 +56,7 @@ If provided, this becomes the article description provided on the index page.
 
 ##### tags:
 <div class="optional">OPTIONAL</div>
+![Screen Shot 2017-02-14 at 4.25.29 PM.png](/blog/uploads/Screen%20Shot%202017-02-14%20at%204.25.29%20PM.png)
 This groups articles that are associated with each other together. Anytime you create a new tag, a `blog/tag/[tag]` page is created to group all tags together. Tutor tags are created differently. Please refer to **Creating a Tutor Tag** below to learn how to create a new tutor tag.
 
 ### Publishing an Article at a Future Date
