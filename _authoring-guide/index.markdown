@@ -49,6 +49,7 @@ Information provided here appears in the meta description of the article. It als
 
 ##### post-description:
 <div class="optional">OPTIONAL</div>
+![Screen Shot 2017-02-14 at 4.21.19 PM.png](/blog/uploads/Screen%20Shot%202017-02-14%20at%204.21.19%20PM.png)
 If provided, this becomes the article description provided on the index page.
 
 ##### tags:
