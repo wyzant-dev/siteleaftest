@@ -41,5 +41,10 @@
             display: inline-block;
             vertical-align: bottom;
         }
+        img {
+            display: block;
+            max-width: 300px;
+            margin: 10px auto;
+        }
     }
 }
