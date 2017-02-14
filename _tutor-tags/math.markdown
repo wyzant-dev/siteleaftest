@@ -1,5 +1,4 @@
 ---
 title: Math
-date: 2017-02-09 13:28:00 -06:00
+permalink: "/blog/tutor/tag/math/"
 ---
-

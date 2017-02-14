@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://wyzant.com{{ page.url }}"
+        },
+        "headline": "{{ page.title }}",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://wyzant.com{{ data.profile-image }}",
+            "height": "80",
+            "width:" "80"
+        }
+        "datePublished": "{{ page.date | date: '%F' }}",
+        "author": {
+            "@type": "Person",
+            "name": "{{ data.author }}"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Wyzant",
+            "logo":{
+                "type": "ImageObject",
+                "url": "https://wyzant.com/blog/uploads/wyzant-logo.png",
+                "width": "328",
+                "height": "80"
+            }
+        },
+        "description": "{{ page.meta-description }}"
+    }
+</script>

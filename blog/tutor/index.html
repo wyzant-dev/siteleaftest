@@ -1,22 +1,14 @@
 ---
 layout: default
 page-name: home-page
+identefier: tutor-index
 paginate:
   collection: tutor-posts
-  per_page: 4
+  per_page: 8
 ---
 
 <main class="home">
-  {% if site.hero-image %}
-    <figure style='background-image: url("{{ site.hero-image }}");'>
-  {% else %}
-    <figure style='background-image: url("/blog/uploads/homepage-hero-default.png");'>
-  {% endif %}
-      <h1 class="text-caps text-white spc-zero-s">{{ site.title }}</h1>
-      {% if site.sub-headline %}
-        <h2 class="text-caps text-green">{{ site.sub-headline }}</h2>
-      {% endif %}
-  </figure>
+  {% include hero-image.html %}
   <section class="row">
     <div class="column">
       <ul class="reset spc-n">
@@ -65,22 +57,7 @@ paginate:
                   {% if post.sub-headline %}
                     <h3 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h3>
                   {% endif %}
-                  {% if post.tags %}
-                    <ul class="reset seo-tags">
-                      {% for post-tag in post.tags %}
-                        {% assign post-tag-downcase = post-tag | downcase %}
-                        {% for site-tag in site.tutor-tags %}
-                            {% assign site-tag-title = site-tag.title | downcase %}
-                            {% if site-tag-title == post-tag-downcase %}
-                                <li>
-                                  <a href="{{ site-tag.permalink }}" class="text-caps text-small">{{ site-tag.title }}</a>
-                                  <span> | </span>
-                                </li>
-                            {% endif %}
-                        {% endfor %}
-                      {% endfor %}
-                    </ul>
-                  {% endif %}
+                  {% include seo-tags.html %}
                   {% if post.post-description %}
                     <p>{{ post.post-description | strip_html }}</p>
                   {% else %}
@@ -91,31 +68,7 @@ paginate:
               </li>
         {% endfor %}
       </ul>
-        {% if paginator.total_tutor-posts > 1 %}
-        <section class="pagination">
-          <span>&laquo;</span>
-          {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path  | replace: '//', '/' }}">&lsaquo;</a>
-          {% else %}
-            <span>&lsaquo;</span>
-          {% endif %}
-          {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-              <span class="active">{{ page }}</span>
-            {% elsif page == 1 %}
-              <a href="/blog/tutor">{{ page }}</a>
-            {% else %}
-              <a href="/blog/tutor{{ site.paginate_path  | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-            {% endif %}
-          {% endfor %}
-          {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path  | replace: '//', '/' }}">&rsaquo;</a>
-          {% else %}
-            <span>&rsaquo;</span>
-          {% endif %}
-          <span>&raquo;</span>
-        </section>
-        {% endif %}
+      {% include pagination.html %}
       <div class="row">
           {% include banner.html %}
       </div>

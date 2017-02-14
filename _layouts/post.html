@@ -43,16 +43,7 @@ page-name: post-page
 									{% if page.sub-headline %}
 										<h3 class="light-header spc-tiny">{{ page.sub-headline }}</h3>
 									{% endif %}
-									{% if page.tags %}
-										<ul class="reset seo-tags">
-										  {% for tag in page.tags %}
-										    <li>
-										      <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
-										      <span> | </span>
-										    </li>
-										  {% endfor %}
-										</ul>
-									{% endif %}
+									{% include tags.html %}
 								</section>
 							</div>
 						</div>
@@ -69,38 +60,6 @@ page-name: post-page
 	            </div>
 	        </div>
 		</article>
-        <script type="application/ld+json">
-            {
-                "@context": "http://schema.org",
-                "@type": "BlogPosting",
-                "mainEntityOfPage": {
-                    "@type": "WebPage",
-                    "@id": "https://wyzant.com{{ page.url }}"
-                },
-                "headline": "{{ page.title }}",
-                "image": {
-                	"@type": "ImageObject",
-                	"url": "https://wyzant.com{{ data.profile-image }}",
-                	"height": "80",
-                	"width:" "80"
-                }
-                "datePublished": "{{ page.date | date: '%F' }}",
-                "author": {
-                	"@type": "Person",
-                	"name": "{{ data.author }}"
-                },
-                "publisher": {
-                	"@type": "Organization",
-                	"name": "Wyzant",
-                	"logo":{
-                		"type": "ImageObject",
-                		"url": "https://wyzant.com/blog/uploads/wyzant-logo.png",
-                		"width": "328",
-                		"height": "80"
-                	}
-                },
-                "description": "{{ page.meta-description }}"
-            }
-        </script>
+	{% include schema.html %}
 	{% endfor %}
 </main>

@@ -7,45 +7,49 @@ dark-header: true
 	<section class="row">
 		<div class="column">
 			<section class="spc-s">
-				<h3 class="spc-n">All Articles tagged <span class="text-green">{{ page.tag }}</span></h3>
+				<h3 class="spc-n">All Articles tagged <span class="text-green">{{ page.title }}</span></h3>
 				<ul class="reset">
-					{% assign posts = site.tags[page.tag] %}
-					{% for post in posts %}
-						<li>
-							<article>
-								{% if post.hero-image %}
-									<figure style='background-image: url("{{ post.hero-image }}");'></figure>
-								{% else %}
-									<figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
-								{% endif %}
-								<section class="spc-tiny-n">
-									{% if post.tags %}
-										<ul class="reset seo-tags">
-										{% for tag in post.tags %}
-											<li>
-												<a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
-												<span> | </span>
-											</li>
-										{% endfor %}
-										</ul>
+					{% for post in site.tutor-posts %}
+					  {% for tag in post.tags %}
+						  {% assign post-tag = tag %}
+						  {% if post-tag == page.title %}
+							<li>
+								<article>
+									{% if post.hero-image %}
+										<figure style='background-image: url("{{ post.hero-image }}");'></figure>
+									{% else %}
+										<figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
 									{% endif %}
-									<time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
-								</section>
-								<h2 class="text-normal spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title }}</a></h2>
-								{% if site.sub-headline %}
-									<h3 class="text-thin spc-sm-s">{{ post.sub-headline }}</h3>
-								{% endif %}
-								{% if post.post-description  %}
-									{{ post.post-description | strip_html | strip }}
-								{% else %}
-									{{ post.content | strip_html | strip | truncate: 200 }}
-								{% endif %}
-							</article>
-						</li>
+									<section class="spc-tiny-n">
+										{% if post.tags %}
+											<ul class="reset seo-tags">
+											{% for tag in post.tags %}
+												<li>
+													<a href="/blog/tutor/tag/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
+													<span> | </span>
+												</li>
+											{% endfor %}
+											</ul>
+										{% endif %}
+										<time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
+									</section>
+									<h2 class="text-normal spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title }}</a></h2>
+									{% if site.sub-headline %}
+										<h3 class="text-thin spc-sm-s">{{ post.sub-headline }}</h3>
+									{% endif %}
+									{% if post.post-description  %}
+										{{ post.post-description | strip_html | strip }}
+									{% else %}
+										{{ post.content | strip_html | strip | truncate: 200 }}
+									{% endif %}
+								</article>
+							</li>
+						{% endif %}
 					{% endfor %}
+				  {% endfor %}
 				</ul>
 			</section>
-			<a href="/blog" class="back-link">Back to all Articles</a>
+			<a href="/blog/tutor" class="back-link">Back to all Articles</a>
 			{% include banner.html %}
 		</div>
 	</section>

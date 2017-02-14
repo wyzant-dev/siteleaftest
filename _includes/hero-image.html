@@ -1,0 +1,10 @@
+{% if site.hero-image %}
+  <figure style='background-image: url("{{ site.hero-image }}");'>
+{% else %}
+  <figure style='background-image: url("/blog/uploads/homepage-hero-default.png");'>
+{% endif %}
+    <h1 class="text-caps text-white spc-zero-s">{{ site.title }}</h1>
+    {% if site.sub-headline %}
+      <h2 class="text-caps text-green">{{ site.sub-headline }}</h2>
+    {% endif %}
+</figure>
