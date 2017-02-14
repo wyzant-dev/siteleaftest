@@ -1,0 +1,45 @@
+.authoring-guide {
+    @media #{$queryMedium} {
+        max-width: 800px;
+        display: block;
+        margin: 0 auto;
+    }
+    .required,
+    .optional {
+        display: inline-block;
+        color: #fff;
+        padding: 2px 5px;
+        border-radius: 5px;
+
+        + p {
+            margin: 0;
+            border-bottom: 1px solid $lightGray;
+            padding-bottom: 5px;
+            margin: 0 0 10px;
+        }
+    }
+    h3 {
+        background: $lightGray;
+        padding: 5px;
+        font-size: 30px;
+        margin-top: 100px;
+    }
+    .required {
+        background: #d44e4e;
+    }
+    .optional {
+        background: #63ad63;
+    }
+    .content {
+        h4 {
+            font-size: 30px;
+            margin: 0 0 20px;
+        }
+        h5 {
+            font-size: 24px;
+            margin-right: 5px;
+            display: inline-block;
+            vertical-align: bottom;
+        }
+    }
+}
