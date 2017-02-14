@@ -5,9 +5,9 @@ isHidden: true
 ---
 
 ### Snapshot Series: Intro to Java
-<div style="margin-top:60px;position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/j0FSpY04-Sc" frameborder="0" allowfullscreen></iframe></div>
+<div style="margin-top:60px;position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/1-gkj_37qSs" frameborder="0" allowfullscreen></iframe></div>
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/live_chat?v=j0FSpY04-Sc&embed_domain=www.wyzant.com" frameborder="0" allowfullscreen></iframe></div>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/live_chat?v=1-gkj_37qSs&embed_domain=www.wyzant.com" frameborder="0" allowfullscreen></iframe></div>
 
 <i><small>Have a question for JB? Enter it via the Live Chat above and he'll respond throughout the session. If not already signed into a Google and/or YouTube account, hover over the chat box and select "Sign In to Chat". You will then be redirected to a login page where you can either submit questions via YouTube or reopen this blog post in a separate tab.</small></i>
 
