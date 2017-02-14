@@ -9,6 +9,8 @@ isHidden: true
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/live_chat?v=j0FSpY04-Sc&embed_domain=www.wyzant.com" frameborder="0" allowfullscreen></iframe></div>
 
+Have a question for JB? Type it above (👆) via chat and he'll respond throughout the session. If not already signed into a Google/YouTube account, hover above and select "Sign In to Chat". You will then be redirected to a login page where you can either chat via YouTube or reopen this blog post in a separate tab.
+
 The Snapshot Series is a collection of 30-minute tutor talks, followed by an open Q&A. Anyone can listen, join the conversation and learn. And it’s absolutely free for every attendee.
 
 Perfect for beginners, this talk will lay out the basics of Java:
