@@ -6,6 +6,23 @@ tags:
 - math
 ---
 
+### Blog Posts Style Guidelines
+
+**Never use a Headline 1 (`h1`) tag in the content of a post. It reflects poorly on our SEO.**
+
+##### `##` Heading 2
+
+Use this toward the top of an article or for larger concepts in an article. It should be used sparingly, as we prefer the look of the Heading 3 with the gray background for most sub-headlines.
+
+##### `###` Heading 3
+
+This is our main headline style. It is text with a gray background and helps breakup content.
+
+##### `####` Heading 4
+
+For pull quotes, choose a Heading 4. It will automatically be styled to take this format.
+
+
 ### Updating the Homepage
 
 The homepage content is configurable from the **Settings** section of the cms. In here, you can update the background image of the hero, text, and meta descriptions. Additionally, the site banner is authored here and will update every page it is present on.
@@ -35,7 +52,7 @@ What appears in the tab at the top of the page. If this section is not authored,
 
 ##### author:
 <div class="required">REQUIRED</div>
-By default, this is set to Wyzant. This section must be authored. Refer to `Creating a New Author` below if you want an article attributed to someone other than the default Wyzant.
+By default, this is set to Wyzant. This section must be authored. Refer to **Creating a New Author** below if you want an article attributed to someone other than the default Wyzant.
 
 ##### sub-headline:
 <div class="optional">OPTIONAL</div>
