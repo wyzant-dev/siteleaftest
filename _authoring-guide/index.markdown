@@ -27,6 +27,7 @@ Do not edit this field.
 
 ##### meta-title:
 <div class="optional">OPTIONAL</div>
+![Screen Shot 2017-02-14 at 4.19.04 PM.png](/blog/uploads/Screen%20Shot%202017-02-14%20at%204.19.04%20PM.png)
 What appears in the tab at the top of the page. If this section is not authored, the article title will be used instead.
 
 ##### author:
