@@ -10,17 +10,16 @@ tags:
 **Never use a Headline 1 (`h1`) tag in the content of a post. It reflects poorly on our SEO.**
 
 ##### `##` Heading 2
-
+![Screen Shot 2017-02-14 at 4.50.37 PM.png](/blog/uploads/Screen%20Shot%202017-02-14%20at%204.50.37%20PM.png)
 Use this toward the top of an article or for larger concepts in an article. It should be used sparingly, as we prefer the look of the Heading 3 with the gray background for most sub-headlines.
 
 ##### `###` Heading 3
-
+![Screen Shot 2017-02-14 at 4.50.41 PM.png](/blog/uploads/Screen%20Shot%202017-02-14%20at%204.50.41%20PM.png)
 This is our main headline style. It is text with a gray background and helps breakup content.
 
 ##### `####` Heading 4
-
+![Screen Shot 2017-02-14 at 4.50.46 PM.png](/blog/uploads/Screen%20Shot%202017-02-14%20at%204.50.46%20PM.png)
 For pull quotes, choose a Heading 4. It will automatically be styled to take this format.
-
 
 ### Updating the Homepage
 
