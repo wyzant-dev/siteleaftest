@@ -5,6 +5,7 @@ isHidden: true
 ---
 
 ### Snapshot Series: Intro to Java
+
 <div style="margin-top:60px;position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/1-gkj_37qSs" frameborder="0" allowfullscreen></iframe></div>
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/live_chat?v=1-gkj_37qSs&embed_domain=www.wyzant.com" frameborder="0" allowfullscreen></iframe></div>
@@ -20,8 +21,6 @@ Perfect for beginners, this talk will lay out the basics of Java:
 * the basics of programs
 
 * and why it all matters—so you can decide if Java is the language to get you started in coding
-
-Get a snapshot of Java, and your questions answered on 2/15 at 4 pm (CT).
 
 ### About the Presenting Tutor
 
