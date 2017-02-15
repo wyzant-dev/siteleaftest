@@ -76,10 +76,28 @@ This groups articles that are associated with each other together. Anytime you c
 
 ### Publishing an Article at a Future Date
 
+You can publish an article at a future date by selecting a future date and time from the DATE calendar on a post. By utilizing this, you can create a queue.
+
 ### Creating a Hidden Post
 
-### Creating a Tutor Tag
+To create a post that is only accessible by url (not linked via the blog index), you can create a new  metadata field in the post. Click `New metadata field` from the bottom of a post. For the field name, enter `isHidden.` In the input below that new field, enter `true`. Make sure your article is set to `Visible` or it won't be published.
+
+### Creating a Tutor Blog Post Tag
+
+Tutor blog post tags are created differently than the marketing post tags. To create a tutor tag, enter whatever you want the tag to be in the TAGS section of the right rail in a post.
+
+Next, navigate to the `Tutor Tags` section of the cms. There needs to be a corresponding document here with the title of your created tag. If one doesn't exist, choose `New Tutor Tag` and make the title whatever you tagged the post.
 
 ### Creating a New Author
 
+Authors are created in a similar way to Tutor Tags. The default author is **Wyzant**, but you can create a new person to attribute articles to if you'd like. Remember that each author has a page created for them by default with all the post they've written. The url is `https://www.wyzant.com/blog/authors/[author name]`.
+
+To create a new author, click `New Author` at the top of the Authors section. Next, fill in the related data for this author. The only required fields here are the **title** and **author**. Please make these fields the same name.
+
+Now that you have a new author, you can attribute posts to this author. By default, we attribute all articles to Wyzant, unless you choose a new author. However, now that you have a new author, that author choose be populated in the author metadata field of a post and can simply choose that author to attribute an article to this author.
+
 ### Updating Facebook Share Images/Text
+
+Each article can be shared on Facebook, and by default pulls the hero image of the article into the share and either the `meta-description` or the first 200 characters of a post if no `meta-description` is provided. Facebook caches this info as soon as the article is published and shared on the platform, and never updates the hero image or description again unless manually told to do so.
+
+If you change a hero or description and want Facebook to recognize that, navigate to [https://developers.facebook.com/tools/debug/](https://developers.facebook.com/tools/debug/). Enter the url you are trying to update in the **Sharing Debugger**. Facebook will then tell you everything attributed to this url. If it doesn't line up to what you've associated with this post, hit the `Scrape Again` button. This manually breaks Facebook's cache and you should now see your latest changes when the url is shared on Facebook.
