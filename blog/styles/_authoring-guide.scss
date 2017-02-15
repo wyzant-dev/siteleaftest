@@ -50,4 +50,13 @@
             background: $lightGray;
         }
     }
+    .table-of-contents {
+        li {
+            padding-bottom: 10px;
+            &:nth-child(even) {
+                padding-left: 0;
+            }
+
+        }
+    }
 }
