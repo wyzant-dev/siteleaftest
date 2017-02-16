@@ -30,25 +30,7 @@ In this recorded Snapshot Series: Intro to Java, software developer and top tuto
 
 <br>
 
-<br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 # About the Presenting Tutor
 
