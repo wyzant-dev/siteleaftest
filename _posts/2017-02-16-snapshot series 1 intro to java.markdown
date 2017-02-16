@@ -1,6 +1,8 @@
 ---
 title: 'Snapshot Series #1: Intro to Java'
 date: 2017-02-16 11:54:00 -06:00
+tags:
+- Java
 sub-headline: A tutor talk and Q&A with software developer, JB Baudens.
 hero-image: "/blog/uploads/Snapshot_Blog_Header_After.jpg"
 meta-description: 'In this recorded Snapshot Series: Intro to Java, software developer
