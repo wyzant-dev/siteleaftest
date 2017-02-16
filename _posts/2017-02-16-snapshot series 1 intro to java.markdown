@@ -21,7 +21,7 @@ In this recorded Snapshot Series: Intro to Java, software developer and top tuto
 <div style="position:relative;height:0;padding-bottom:56.25%">
 
      <iframe src="https://www.youtube.com/embed/1-gkj_37qSs?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen>
-
+    
      </iframe>
 
 </div>
@@ -30,15 +30,13 @@ In this recorded Snapshot Series: Intro to Java, software developer and top tuto
 
 <br>
 
-
-
 # About the Presenting Tutor
 
 ![Snapshot_JB_Headshot.png](/blog/uploads/Snapshot_JB_Headshot.png)
 
 JB is a senior software engineer working in the finance industry. He holds a Master's Degree in Computer Science and Statistics, and has logged over 1,000 hours tutoring aspiring software developers.
 
-His experience spans many languages, including C, C\+\+, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
+His experience spans many languages, including C, C\+\+, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux. [View his profile.](https://www.wyzant.com/match/tutor/82161840)
 
 <br>
 
