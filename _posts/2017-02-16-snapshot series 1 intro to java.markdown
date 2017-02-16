@@ -40,6 +40,10 @@ JB is a senior software engineer working in the finance industry. He holds a Mas
 
 His experience spans many languages, including C, C\+\+, Java, Perl, Python, HTML, Javascript, jQuery, AngularJS, Oracle, SQL Server, Sybase, MySQL, Informatica, Unix (Solaris) and Linux.
 
+<br>
+
+<br>
+
 # Video Transcript
 
 JB: Welcome, everyone, to intro to Java. And we are going to wait another three minutes before we start. Once it's 4 o'clock, I introduce myself and get started with Java.
