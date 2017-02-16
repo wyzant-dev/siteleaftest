@@ -1,5 +1,5 @@
 ---
-title: 'Snapshot Series #1: Intro to Java'
+title: Snapshot Sign-Up
 date: 2017-01-26 16:45:00 -06:00
 tags:
 - Snapshot Series
