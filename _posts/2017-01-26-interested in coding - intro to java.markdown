@@ -7,7 +7,7 @@ tags:
 - Java
 meta-title: 'Interested in Coding? Join the Snapshot Series: Intro to Java'
 sub-headline: A tutor talk and Q&A with software developer, JB Baudens.
-hero-image: "/blog/uploads/Snapshot_Blog_Header_4.jpg"
+hero-image: "/blog/uploads/Snapshot_Blog_Header_standard.jpg"
 meta-description: The Snapshot Series is a collection of free, 30-minute tutor talks
   followed by a 30-minute open Q&A. Anyone can listen, join the conversation and learn.
 post-description: In this recorded Snapshot Series, software developer and top tutor
