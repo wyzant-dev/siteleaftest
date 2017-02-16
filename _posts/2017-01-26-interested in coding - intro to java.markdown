@@ -14,6 +14,7 @@ post-description: In this recorded Snapshot Series, software developer and top t
   JB Baudens takes us through an introductory overview of Java, followed by a Q&A
   session from attendees. If you’re curious about coding and wondering if Java may
   be the language for you, this is a great place to start.
+isHidden: true
 ---
 
 ### Snapshot Series: Intro to Java
