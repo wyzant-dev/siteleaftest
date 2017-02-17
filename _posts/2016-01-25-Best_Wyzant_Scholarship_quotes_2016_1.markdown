@@ -53,4 +53,4 @@ Inspiration, attitude and experience defines our lives in unbelievable ways. Eve
 
 Write your own essay on the most inspirational person in your life:
 
-![[530Scholarship-Blog-Image.jpg](/blog/uploads/530Scholarship-Blog-Image.jpg)](https://www.wyzant.com/scholarships/)
+![530Scholarship-Blog-Image.jpg](/blog/uploads/530Scholarship-Blog-Image.jpg)
