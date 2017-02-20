@@ -31,28 +31,28 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    job-title:
-    bio:
-    profile-image:
+    job-title: 
+    bio: 
+    profile-image: 
     author: Wyzant
-    meta-title:
-    meta-description:
+    meta-title: 
+    meta-description: 
 - scope:
     path: ''
     type: authoring-guide
   values:
-    title:
+    title: 
     permalink: "/blog/authoring-guide/"
     layout: authoring-guide
 - scope:
     path: ''
     type: tutor-tags
   values:
-    title:
+    title: 
     identefier: tutor-tags-page
     permalink: "/blog/tutor/tag/:title/"
     layout: tutor-tag-page
-    meta-description:
+    meta-description: 
 - scope:
     path: ''
     type: posts
@@ -60,12 +60,12 @@ defaults:
     identefier: marketing-posts
     permalink: "/blog/:title/"
     layout: post
-    meta-title:
+    meta-title: 
     author: Wyzant
-    sub-headline:
-    hero-image:
-    meta-description:
-    post-description:
+    sub-headline: 
+    hero-image: 
+    meta-description: 
+    post-description: 
 - scope:
     path: ''
     type: tutor-posts
@@ -73,12 +73,12 @@ defaults:
     identefier: tutor-posts
     permalink: "/blog/tutor/:title/"
     layout: post
-    meta-title:
+    meta-title: 
     author: Wyzant
-    sub-headline:
-    hero-image:
-    meta-description:
-    post-description:
+    sub-headline: 
+    hero-image: 
+    meta-description: 
+    post-description: 
 meta-title: The Wyzant Blog
 gems:
 - octopress-paginate
@@ -111,6 +111,6 @@ tutor-banner-headline: Tutor banner Headline
 tutor-banner-sub-headline: Tutor Sub Headline
 tutor-banner-cta-text: Get Started
 tutor-banner-cta-url: "/match"
-baseurl:
+baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown
