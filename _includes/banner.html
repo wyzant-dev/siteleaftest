@@ -1,5 +1,19 @@
-<section class="banner text-center spc-xl" style='background-image: url("{{ site.banner-background-image }}");'>
-	<h2 class="text-white text-caps spc-zero-s">{{ site.banner-headline }}</h2>
-	<h3 class="text-green text-caps">{{ site.banner-sub-headline }}</h3>
-	<a href="{{ site.banner-cta-url }}" class="btn spc-med-n">{{ site.banner-cta-text }}</a>
+{% if page.identefier == "marketing-index" %}
+	{% assign backgroundImage =  site.marketing-banner-background-image %}
+	{% assign headline =  site.marketing-banner-headline %}
+	{% assign subHeadline =  site.marketing-banner-sub-headline %}
+	{% assign ctaText =  site.marketing-banner-cta-url %}
+	{% assign ctaUrl =  site.marketing-banner-cta-text %}
+{% else %}
+	{% assign backgroundImage =  site.tutor-banner-background-image %}
+	{% assign headline =  site.tutor-banner-headline %}
+	{% assign subHeadline =  site.tutor-banner-sub-headline %}
+	{% assign ctaText =  site.tutor-banner-cta-url %}
+	{% assign ctaUrl =  site.tutor-banner-cta-text %}
+{% endif %}
+
+<section class="banner text-center spc-xl" style='background-image: url("{{ backgroundImage }}");'>
+	<h2 class="text-white text-caps spc-zero-s">{{ headline }}</h2>
+	<h3 class="text-green text-caps">{{ subHeadline }}</h3>
+	<a href="{{ ctaText }}" class="btn spc-med-n">{{ ctaUrl }}</a>
 </section>

@@ -31,28 +31,28 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    job-title: 
-    bio: 
-    profile-image: 
+    job-title:
+    bio:
+    profile-image:
     author: Wyzant
-    meta-title: 
-    meta-description: 
+    meta-title:
+    meta-description:
 - scope:
     path: ''
     type: authoring-guide
   values:
-    title: 
+    title:
     permalink: "/blog/authoring-guide/"
     layout: authoring-guide
 - scope:
     path: ''
     type: tutor-tags
   values:
-    title: 
+    title:
     identefier: tutor-tags-page
     permalink: "/blog/tutor/tag/:title/"
     layout: tutor-tag-page
-    meta-description: 
+    meta-description:
 - scope:
     path: ''
     type: posts
@@ -60,12 +60,12 @@ defaults:
     identefier: marketing-posts
     permalink: "/blog/:title/"
     layout: post
-    meta-title: 
+    meta-title:
     author: Wyzant
-    sub-headline: 
-    hero-image: 
-    meta-description: 
-    post-description: 
+    sub-headline:
+    hero-image:
+    meta-description:
+    post-description:
 - scope:
     path: ''
     type: tutor-posts
@@ -73,12 +73,12 @@ defaults:
     identefier: tutor-posts
     permalink: "/blog/tutor/:title/"
     layout: post
-    meta-title: 
+    meta-title:
     author: Wyzant
-    sub-headline: 
-    hero-image: 
-    meta-description: 
-    post-description: 
+    sub-headline:
+    hero-image:
+    meta-description:
+    post-description:
 meta-title: The Wyzant Blog
 gems:
 - octopress-paginate
@@ -88,6 +88,9 @@ tag_page_dir: blog/tag
 tag_permalink_style: pretty
 sub-headline: What will you learn?
 hero-image: "/blog/uploads/StudentBlog_Hero.png"
+tutor-title: The Wyzant Tutor Blog
+tutor-sub-headline: This is a blog for tutors
+tutor-hero-image: "/blog/uploads/StudentBlog_Hero.png"
 meta-description: Learning is the essence of Wyzant. We’re hungry for the next fun
   fact, deep dive and discovery session. We love to learn, and in browsing these pages,
   we hope you will too.
@@ -98,11 +101,16 @@ sass:
 description: Learning is the essence of Wyzant. We’re hungry for the next fun fact,
   deep dive and discovery session. We love to learn, and in browsing these pages,
   we hope you will too.
-banner-background-image: "/blog/uploads/banner-background-default.png"
-banner-headline: Ready To Get Started?
-banner-sub-headline: Start Your Tutor Search Today.
-banner-cta-text: Get Started
-banner-cta-url: "/match"
-baseurl: 
+marketing-banner-background-image: "/blog/uploads/banner-background-default.png"
+marketing-banner-headline: Ready To Get Started?
+marketing-banner-sub-headline: Start Your Tutor Search Today.
+marketing-banner-cta-text: Get Started
+marketing-banner-cta-url: "/match"
+tutor-banner-background-image: "/blog/uploads/banner-background-default.png"
+tutor-banner-headline: Tutor banner Headline
+tutor-banner-sub-headline: Tutor Sub Headline
+tutor-banner-cta-text: Get Started
+tutor-banner-cta-url: "/match"
+baseurl:
 url: https://www.wyzant.com
 markdown: kramdown
