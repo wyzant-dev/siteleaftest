@@ -90,7 +90,7 @@ sub-headline: What will you learn?
 hero-image: "/blog/uploads/StudentBlog_Hero.png"
 tutor-title: The Wyzant Tutor Blog
 tutor-sub-headline: This is a blog for tutors
-tutor-hero-image: "/blog/uploads/StudentBlog_Hero.png"
+tutor-hero-image: "/blog/uploads/Learning_disabilities_part_two_edited.png"
 meta-description: Learning is the essence of Wyzant. We’re hungry for the next fun
   fact, deep dive and discovery session. We love to learn, and in browsing these pages,
   we hope you will too.
@@ -109,8 +109,8 @@ marketing-banner-cta-url: "/match"
 tutor-banner-background-image: "/blog/uploads/banner-background-default.png"
 tutor-banner-headline: Tutor banner Headline
 tutor-banner-sub-headline: Tutor Sub Headline
-tutor-banner-cta-text: Get Started
-tutor-banner-cta-url: "/match"
+tutor-banner-cta-text: Tutor Get Started
+tutor-banner-cta-url: "#"
 baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown
