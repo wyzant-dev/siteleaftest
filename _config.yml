@@ -110,7 +110,7 @@ tutor-banner-background-image: "/blog/uploads/banner-background-default.png"
 tutor-banner-headline: Tutor banner Headline
 tutor-banner-sub-headline: Tutor Sub Headline
 tutor-banner-cta-text: Tutor Get Started
-tutor-banner-cta-url: "#"
+tutor-banner-cta-url: "/match"
 baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown
