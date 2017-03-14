@@ -34,9 +34,9 @@ One of the biggest issues that came out of our research with tutors was actually
 
 ![TutorBlog_OLRelaunch_BlogImage_dashboard.png](/blog/uploads/TutorBlog_OLRelaunch_BlogImage_dashboard.png)
 
-Another trend among the tutors we worked with was issues with the audio and video quality in the tool. We’ve taken a number of steps to ensure clear, sharp audio and video—and are continuously working to improve this technology. One way we’re doing so is giving you the option to rate your audio and video experience after every lesson. We’ve been tracking this feedback since its implementation, and much to our delight, the rating is steadily increasing.
+Another trend among the tutors we spoke to was issues with the audio and video quality in the tool. We’ve taken a number of steps to ensure clear, sharp audio and video—and are continuously working to improve this technology. One way we’re doing so is giving you the option to rate your audio and video experience after every lesson. We’ve been tracking this feedback since its implementation, and much to our delight, the rating is steadily increasing.
 
-Visit our [online learning tool page] (https://www.wyzant.com/online/tutor) to learn more and watch our tutorial videos. And, know that we’re in the process of making even more enhancements to the online learning tool, especially on the student side of things. 
+Visit our [online learning tool page](https://www.wyzant.com/online/tutor) to learn more and watch our tutorial videos. And, know that we’re in the process of making even more enhancements to the online learning tool, especially on the student side of things. 
 
 We’ll be sure to keep you updated here on the blog as we continue to release these updates—so be sure to check back often.
 
