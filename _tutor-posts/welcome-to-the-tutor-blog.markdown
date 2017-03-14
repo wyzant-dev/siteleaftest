@@ -12,10 +12,10 @@ We know how important Wyzant is to you—and want you to know that you’re equa
 
 This blog will make it easier (than let’s say, email, for instance) for us to share important updates and information with you as we continue to build and improve our products. Some examples of these communications will include:
 
-*Announcements of new features to make your tutoring life easier
-*Tips on getting the most out of our various online tools
-*Insights into the student experience, so you can better interact with them
-*And much, much more.
+* Announcements of new features to make your tutoring life easier
+* Tips on getting the most out of our various online tools
+* Insights into the student experience, so you can better interact with them
+* And much, much more.
 
 Be sure to visit the blog regularly so you can stay up to speed on everything happening in the tutor world within Wyzant. 
 
