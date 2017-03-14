@@ -4,6 +4,7 @@ date: 2017-03-14 10:36:00 -05:00
 sub-headline: 'Everything you need to know about the just-launched online learning
   tool. '
 hero-image: "/blog/uploads/TutorBlogPost_Header_2_woman_computer-16228a.jpg"
+isHidden: true
 ---
 
 Chances are you’ve heard the news, but we wanted to take another opportunity to share with you the recent (and very exciting) updates to the online learning tool here at Wyzant. This post shares a bit of backstory into how we got where we are today with the tool, as well as highlights details about the new features. Let’s dig in.
