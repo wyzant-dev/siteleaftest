@@ -13,6 +13,7 @@ paginate:
     <div class="column">
       <ul class="reset spc-n">
         {% for post in paginator.tutor-posts %}
+            {% unless post.isHidden %}
               <li>
                 <article>
                   {% if post.hero-image %}
@@ -66,12 +67,10 @@ paginate:
                   <a href="{{ post.url }}" class="btn">Read More</a>
                 </article>
               </li>
+          {% endunless %}
         {% endfor %}
       </ul>
       {% include pagination.html %}
-      <div class="row">
-          {% include banner.html %}
-      </div>
     </div>
   </section>
 </main>

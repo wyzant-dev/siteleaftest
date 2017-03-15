@@ -6,7 +6,7 @@ hero-image: "/blog/uploads/TutorBlogPost_Header_Workspace-105b01.jpg"
 isHidden: true
 ---
 
-Welcome to the Tutor Blog, your source for exclusive tips, announcements and updates to help manage and grow your tutoring business. 
+Welcome to the Tutor Blog, your source for exclusive tips, announcements and updates to help manage and grow your tutoring business.
 
 We know how important Wyzant is to you—and want you to know that you’re equally as important to us. So we started this blog in an effort to keep the communication lines open, and keep you in the loop.
 
@@ -17,9 +17,9 @@ This blog will make it easier (than let’s say, email, for instance) for us to 
 * Insights into the student experience, so you can better interact with them
 * And much, much more.
 
-Be sure to visit the blog regularly so you can stay up to speed on everything happening in the tutor world within Wyzant. 
+Be sure to visit the blog regularly so you can stay up to speed on everything happening in the tutor world within Wyzant.
 
-And remember, you always have the Help Center at your fingertips to find answers to [frequently asked questions](https://support.wyzant.com/hc/en-us)—which we are always updating with new articles as tutor questions come through the door. 
+And remember, you always have the Help Center at your fingertips to find answers to [frequently asked questions](https://support.wyzant.com/hc/en-us)—which we are always updating with new articles as tutor questions come through the door.
 
 See you back here very soon!
 The Wyzant Team
