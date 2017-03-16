@@ -100,12 +100,17 @@ header:nth-child(1) {
 		    padding: .3em 1em 0 0;
 		    border: 0;
 		    width: auto;
-		    &:first-child {
-		    	display: none;
-		    }
+			&:first-child {
+				border-top: 0;
+			}
 		    a {
 		    	padding: 0;
 		    }
+		}
+		&.marketing-blog {
+			li:first-child {
+				display: none;
+			}
 		}
 		label {
 			display: none;

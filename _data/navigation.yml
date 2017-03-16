@@ -12,6 +12,12 @@ header:
   - title: About Wyzant
     url: /about
 
+tutor-header:
+  - title: Dashboard
+    url: /dashboard    
+  - title: Tutor Blog
+    url: /blog/tutor
+
 footer-top:
   subcategories:
     - title: Get To Know Us
