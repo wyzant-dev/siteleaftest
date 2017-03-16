@@ -14,7 +14,7 @@ header:
 
 tutor-header:
   - title: Dashboard
-    url: /dashboard    
+    url: /tutor/home
   - title: Tutor Blog
     url: /blog/tutor
 
