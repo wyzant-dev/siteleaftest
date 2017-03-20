@@ -40,4 +40,5 @@ Visit our [online learning tool page](https://www.wyzant.com/online/tutor) to le
 We’ll be sure to keep you updated here on the blog as we continue to release these updates—so be sure to check back often.
 
 Best,
+
 The Wyzant Team
