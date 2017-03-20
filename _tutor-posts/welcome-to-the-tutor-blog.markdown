@@ -21,4 +21,5 @@ Be sure to visit the blog regularly so you can stay up to speed on everything ha
 And remember, you always have the Help Center at your fingertips to find answers to [frequently asked questions](https://support.wyzant.com/hc/en-us)—which we are always updating with new articles as tutor questions come through the door.
 
 See you back here very soon!
+
 The Wyzant Team
