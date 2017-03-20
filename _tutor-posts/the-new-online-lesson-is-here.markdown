@@ -1,6 +1,6 @@
 ---
 title: The New Online Lesson Is Here.
-date: 2017-03-14 10:36:00 -05:00
+date: 2017-03-20 09:00:00 -05:00
 sub-headline: 'Everything you need to know about the just-launched online learning
   tool. '
 hero-image: "/blog/uploads/TutorBlogPost_Header_2_woman_computer-16228a.jpg"
