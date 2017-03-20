@@ -3,7 +3,6 @@ title: Welcome to the Tutor Blog
 date: 2017-03-14 14:18:00 -05:00
 sub-headline: Let’s get this thing started.
 hero-image: "/blog/uploads/TutorBlogPost_Header_Workspace-105b01.jpg"
-isHidden: true
 ---
 
 Welcome to the Tutor Blog, your source for exclusive tips, announcements and updates to help manage and grow your tutoring business.
