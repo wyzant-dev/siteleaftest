@@ -48,15 +48,7 @@ The major theme was difficulty applying learning. We continued to hear statement
 
 These are the courses that were most difficult for nursing students who came to Wyzant for one-to-one help during their nursing programs:
 
-* MedSurg: 27%
-
-* Pharmacology: 19%
-
-* Nursing Fundamentals: 7%
-
-* Pathophysiology: 7%
-
-* Health Assessment: 5%
+SECOND CHART
 
 Science and math struggles are back again! MedSurg requires students to understand anatomy & physiology, chemistry, biology, etc. and how all these sciences work together within the human body during different disease processes. Pharmacology requires students to use algebra and basic math skills for dosage calculations for different medications. In both of these classes, memorization is not enough. Students have to understand the basics of math and science and be able to use them to think critically and problem-solve.
 
@@ -117,12 +109,24 @@ We learned so much about nursing students and the struggles they face on their p
 
 We wanted to share the insights we gained from this analysis to help other prospective nurses with similar career aspirations. The world needs more people like them, especially with the national nursing shortage we are facing. We hope this data and the insights we have shared can help nursing students who are struggling realize they are not alone. We know you can overcome these obstacles and reach your dream of becoming a nurse because we’ve seen others just like you succeed.
 
-Other sources:\
-•   Internal study of 2,589 nursing students who worked with tutors on Wyzant in 2016\
-•   https://www.bls.gov/ooh/healthcare/registered-nurses.htm#tab-6\
-•   https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm#tab-6\
-•   https://www.bls.gov/oes/current/oes291151.htm\
-•   https://www.bls.gov/oes/current/oes291171.htm\
-•   https://www.bls.gov/OES/Current/oes291161.htm\
-•   http://nursejournal.org/clinical-nursing/clinical-nurse-specialist/\
-•   http://nursejournal.org/dnp-programs/what-is-the-average-salary-with-a-dnp-degree/
+Sources:
+
+* Internal study of 2,589 nursing students who worked with tutors on [Wyzant](https://www.wyzant.com/nursing_tutors.aspx) in 2016
+
+* [https://www.bls.gov/ooh/healthcare/registered-nurses.htm#tab-6](https://www.bls.gov/ooh/healthcare/registered-nurses.htm#tab-6)
+
+* [https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm#tab-6](https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm#tab-6)
+
+* [https://www.bls.gov/oes/current/oes291151.htm](https://www.bls.gov/oes/current/oes291151.htm)
+
+* [https://www.bls.gov/oes/current/oes291171.htm](https://www.bls.gov/oes/current/oes291171.htm)
+
+* [http://nursejournal.org/clinical-nursing/clinical-nurse-specialist/](http://nursejournal.org/clinical-nursing/clinical-nurse-specialist/)
+
+* [http://nursejournal.org/dnp-programs/what-is-the-average-salary-with-a-dnp-degree/](http://nursejournal.org/dnp-programs/what-is-the-average-salary-with-a-dnp-degree/)
+
+* [https://www.ncsbn.org/Table_of_Pass_Rates_2016.pdf](https://www.ncsbn.org/Table_of_Pass_Rates_2016.pdf)
+
+* [https://www.bls.gov/news.release/ecopro.t08.htm](https://www.bls.gov/news.release/ecopro.t08.htm)
+
+* [https://www.bls.gov/ooh/healthcare/](https://www.bls.gov/ooh/healthcare/)
