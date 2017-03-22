@@ -16,10 +16,10 @@ post-description: For the past five years, the number of nursing students strugg
 Field name: 
 ---
 
-For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were. By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse. 
+For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were. By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse.
 *[Continue reading below...](#post-info)*
 
-[![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)](/blog/uploads/nursing_infographic_v10%20(1).jpg)
+![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)
 
 <div id="post-info"></div>
 
@@ -141,7 +141,7 @@ We wanted to share the insights we gained from this analysis to help other prosp
 
 *Sources:*
 
-* *Internal study of 2,589 nursing students who worked with tutors on [Wyzant](https://www.wyzant.com/nursing_tutors.aspx) in 2016*
+* *Internal study of 2,589 nursing students who worked with [nursing tutors](https://www.wyzant.com/nursing_tutors.aspx) on Wyzant in 2016*
 
 * *[https://www.bls.gov/ooh/healthcare/registered-nurses.htm#tab-6](https://www.bls.gov/ooh/healthcare/registered-nurses.htm#tab-6)*
 
