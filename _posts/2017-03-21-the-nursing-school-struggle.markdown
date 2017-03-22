@@ -17,7 +17,7 @@ Field name:
 ---
 
 For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were. By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse. 
-[Continue reading below...](#post-info)
+*[Continue reading below...](#post-info)*
 
 [![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)](/blog/uploads/nursing_infographic_v10%20(1).jpg)
 
