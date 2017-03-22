@@ -6,21 +6,9 @@ hero-image: "/blog/uploads/Nursing_BlogHeader_Article.jpg"
 Field name: 
 ---
 
-For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were. By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse.
+For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were ([infographic available here](edc103db-ce75.wyzant.com/blog/nursing-struggles-infographic/)). By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse.
 
 We did an analysis of the primary challenges facing more than 2,500 nursing students who worked with tutors on Wyzant in 2016 and identified six main obstacles. These obstacles, ordered sequentially in time (when they happen on the nursing path) and labeled with the percentage of the 2,589 students that were struggling, are familiar to all aspiring nurses:
-
-* Prerequisites:  16%
-
-* Entrance exams: 23%
-
-* Nursing program courses: 19%
-
-* Passing the NCLEX: 27%
-
-* Getting a job as a nurse: <1%
-
-* Advanced nursing degrees: 15%
 
 ![Nursing_Blog_Article_InfographicCallout-bbfe97.jpg](/blog/uploads/Nursing_Blog_Article_InfographicCallout-bbfe97.jpg)
 
