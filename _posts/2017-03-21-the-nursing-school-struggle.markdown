@@ -20,7 +20,7 @@ For the past five years, the number of nursing students struggling and looking f
 
 [![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)](/blog/uploads/nursing_infographic_v10%20(1).jpg)
 
-<h3>Share this Image On Your Site</h3><textarea onclick='this.focus();this.select()' style='width:540px;height:100px'><p><strong>Please include attribution to Wyzant with this graphic.</strong><br /><br /><a href='https://www.wyzant.com/blog/the-nursing-school-struggle/'><img src='https://www.wyzant.com/blog/uploads/nursing_infographic_v10%20(1).jpg' alt='Nursing School Struggles Infographic' width='1534px' border='0' /></a></p></textarea>
+<h3>Share this Image On Your Site</h3><textarea onclick='this.focus();this.select()' style='margin-top:20px;width:540px;height:100px'><p><strong>Please include attribution to Wyzant with this graphic.</strong><br /><br /><a href='https://www.wyzant.com/blog/the-nursing-school-struggle/'><img src='https://www.wyzant.com/blog/uploads/nursing_infographic_v10%20(1).jpg' alt='Nursing School Struggles Infographic' width='1534px' border='0' /></a></p></textarea>
 
 We did an analysis of the primary challenges facing more than 2,500 nursing students who worked with tutors on Wyzant in 2016 and identified six main obstacles. These obstacles, ordered sequentially in time (when they happen on the nursing path) and labeled with the percentage of the more than 2,500 students that were struggling, are familiar to all aspiring nurses:
 
