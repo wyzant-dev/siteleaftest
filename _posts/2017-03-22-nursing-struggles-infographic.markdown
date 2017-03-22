@@ -8,4 +8,4 @@ hero-image: "/blog/uploads/Nursing_BlogHeader_Infographic-0825a9.jpg"
 isHidden: true
 ---
 
-![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)
+[![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)](https://www.wyzant.com/blog/uploads/nursing_infographic_v10%20(1).jpg)
