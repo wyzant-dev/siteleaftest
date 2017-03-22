@@ -17,6 +17,8 @@ We did an analysis of the primary challenges facing more than 2,500 nursing stud
 ●   Getting a job as a nurse: <1%\
 ●   Advanced nursing degrees: 15%
 
+/blog/uploads/Nursing_Blog_Article_InfographicCallout.jpg
+
 ### Prerequisites
 
 The challenges for aspiring nurses start with prerequisite courses, well before they even apply to nursing programs. Here is a list of prerequisite courses our students mentioned, and the percentage that had difficulty with them:
@@ -25,7 +27,8 @@ PREREQ CHART
 
 Not surprising for a healthcare career, science is the most common prerequisite that is difficult for nursing students. However, the fact that math and English are present on this list becomes more interesting after looking at the struggles over the entire journey. If you have trouble with a subject at the prereq stage, then you will likely struggle with the same subject again somewhere further along. So, if you’re an aspiring nurse with prereqs still ahead of you, don’t aim to just get through these foundational classes. Get the help you need to really understand them.
 
-### Entrance exams\
+### Entrance exams\\
+
 \
 Yes, the prereq subjects are back already! Science and math were the most difficult subjects for students during the entrance exam, but English/language/grammar were still a major challenge as well.
 
