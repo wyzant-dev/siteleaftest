@@ -32,7 +32,6 @@ Not surprising for a healthcare career, science is the most common prerequisite 
 
 ### Entrance exams
 
-\
 Yes, the prereq subjects are back already! Science and math were the most difficult subjects for students during the entrance exam, but English/language/grammar were still a major challenge as well.
 
 To better understand which areas of the entrance exam were most difficult for nursing students, we analyzed just those students who identified specific sections of the exam where they needed help. Some of these students listed more than one subject, so the percentages below total more than 100% (a student who needed help with math may have also needed help with science).
