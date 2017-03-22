@@ -2,7 +2,7 @@
 title: The Nursing School Struggle
 date: 2017-03-21 16:05:00 -05:00
 sub-headline: 6 Obstacles That All Students Face
-hero-image: "/blog/uploads/Nursing_BlogHeader_Infographic-0825a9.jpg"
+hero-image: "/blog/uploads/Nursing_BlogHeader_Article-28e667.jpg"
 Field name: 
 ---
 
