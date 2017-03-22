@@ -16,17 +16,17 @@ post-description: For the past five years, the number of nursing students strugg
 Field name: 
 ---
 
-For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were ([infographic available here](https://www.wyzant.com/blog/nursing-struggles-infographic/)). By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse.
+For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were. By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse.
+
+![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)
 
 We did an analysis of the primary challenges facing more than 2,500 nursing students who worked with tutors on Wyzant in 2016 and identified six main obstacles. These obstacles, ordered sequentially in time (when they happen on the nursing path) and labeled with the percentage of the more than 2,500 students that were struggling, are familiar to all aspiring nurses:
-
-[![Nursing_Blog_Article_InfographicCallout-bbfe97.jpg](/blog/uploads/Nursing_Blog_Article_InfographicCallout-bbfe97.jpg)](https://www.wyzant.com/blog/nursing-struggles-infographic/)
 
 ### Prerequisites
 
 The challenges for aspiring nurses start with prerequisite courses, well before they even apply to nursing programs. Here is a list of prerequisite courses our students mentioned, and the percentage that had difficulty with them:
 
-[![Nursing_Article_Image_PreReqs.jpg](/blog/uploads/Nursing_Article_Image_PreReqs.jpg)](https://www.wyzant.com/blog/nursing-struggles-infographic/)
+![Nursing_Article_Image_PreReqs.jpg](/blog/uploads/Nursing_Article_Image_PreReqs.jpg)
 
 Not surprising for a healthcare career, science is the most common prerequisite that is difficult for nursing students. However, the fact that math and English are present on this list becomes more interesting after looking at the struggles over the entire journey. If you have trouble with a subject at the prereq stage, then you will likely struggle with the same subject again somewhere further along. So, if you’re an aspiring nurse with prereqs still ahead of you, don’t aim to just get through these foundational classes. Get the help you need to really understand them.
 
@@ -36,7 +36,7 @@ Yes, the prereq subjects are back already! Science and math were the most diffic
 
 To better understand which areas of the entrance exam were most difficult for nursing students, we analyzed just those students who identified specific sections of the exam where they needed help. Some of these students listed more than one subject, so the percentages below total more than 100% (a student who needed help with math may have also needed help with science).
 
-[![Nursing_Article_Image_EntranceExams.jpg](/blog/uploads/Nursing_Article_Image_EntranceExams.jpg)](https://www.wyzant.com/blog/nursing-struggles-infographic/)
+![Nursing_Article_Image_EntranceExams.jpg](/blog/uploads/Nursing_Article_Image_EntranceExams.jpg)
 
 What surprised us here was the split between math and science. At the prereq stage of the journey 68% of students needed help with science and 27% needed help with math. Now at the entrance exam, we see the inverse with 62% needing help with math and 32% needing help with science. We have a few guesses as to why this is happening, but we don’t actually know. One thought is that nursing students take many science prereqs so they are more prepared for the science portion of the exam. Or maybe, problem-solving questions are more difficult for students and the math questions on the entrance exam require more of these skills, while other questions simply require students to recognize the right fact.
 
@@ -50,7 +50,7 @@ The major theme was difficulty applying learning. We continued to hear statement
 
 These are the courses that were most difficult for nursing students who came to Wyzant for one-to-one help during their nursing programs:
 
-[![Nursing_Article_Image_Coursework.jpg](/blog/uploads/Nursing_Article_Image_Coursework.jpg)](https://www.wyzant.com/blog/nursing-struggles-infographic/)
+![Nursing_Article_Image_Coursework.jpg](/blog/uploads/Nursing_Article_Image_Coursework.jpg)
 
 Science and math struggles are back again! MedSurg requires students to understand anatomy & physiology, chemistry, biology, etc. and how all these sciences work together within the human body during different disease processes. Pharmacology requires students to use algebra and basic math skills for dosage calculations for different medications. In both of these classes, memorization is not enough. Students have to understand the basics of math and science and be able to use them to think critically and problem-solve.
 
