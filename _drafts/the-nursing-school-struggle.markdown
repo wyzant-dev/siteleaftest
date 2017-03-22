@@ -22,6 +22,8 @@ We did an analysis of the primary challenges facing more than 2,500 nursing stud
 
 * Advanced nursing degrees: 15%
 
+![Nursing_Blog_Article_InfographicCallout-bbfe97.jpg](/blog/uploads/Nursing_Blog_Article_InfographicCallout-bbfe97.jpg)
+
 ### Prerequisites
 
 The challenges for aspiring nurses start with prerequisite courses, well before they even apply to nursing programs. Here is a list of prerequisite courses our students mentioned, and the percentage that had difficulty with them:
