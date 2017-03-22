@@ -17,7 +17,7 @@ We did an analysis of the primary challenges facing more than 2,500 nursing stud
 ●   Getting a job as a nurse: <1%\
 ●   Advanced nursing degrees: 15%
 
-**Prerequisites** 
+### Prerequisites
 
 The challenges for aspiring nurses start with prerequisite courses, well before they even apply to nursing programs. Here is a list of prerequisite courses our students mentioned, and the percentage that had difficulty with them:
 
@@ -25,7 +25,7 @@ PREREQ CHART
 
 Not surprising for a healthcare career, science is the most common prerequisite that is difficult for nursing students. However, the fact that math and English are present on this list becomes more interesting after looking at the struggles over the entire journey. If you have trouble with a subject at the prereq stage, then you will likely struggle with the same subject again somewhere further along. So, if you’re an aspiring nurse with prereqs still ahead of you, don’t aim to just get through these foundational classes. Get the help you need to really understand them.
 
-**Entrance exams**\
+### Entrance exams\
 \
 Yes, the prereq subjects are back already! Science and math were the most difficult subjects for students during the entrance exam, but English/language/grammar were still a major challenge as well.
 
@@ -40,7 +40,7 @@ What surprised us here was the split between math and science. At the prereq sta
 
 We would like to do further analysis in the future to better understand this shift in difficulty from prereqs to the entrance exam. But for now, if you are a prospective nurse, just know that math will likely be a challenge for you on the entrance exam even if it wasn’t a struggle for you during prereqs.
 
-**Nursing program coursework**
+### Nursing program coursework
 
 As part of this analysis we also conducted qualitative interviews with current nursing students to understand the nuance in the quantitative data. One thing we learned from these interviews is that students already in a nursing program are overwhelmed with huge amounts of information and too little time to understand it. Although nursing students came to us for help with a specific course, there were a few common themes across all students who struggled during their program.
 
@@ -52,7 +52,7 @@ SECOND CHART
 
 Science and math struggles are back again! MedSurg requires students to understand anatomy & physiology, chemistry, biology, etc. and how all these sciences work together within the human body during different disease processes. Pharmacology requires students to use algebra and basic math skills for dosage calculations for different medications. In both of these classes, memorization is not enough. Students have to understand the basics of math and science and be able to use them to think critically and problem-solve.
 
-**Passing the NCLEX**
+### Passing the NCLEX
 
 With 27% of the students in our analysis looking for help, passing the NCLEX is the biggest single obstacle nursing students who came to Wyzant for help faced. For some of these students, their struggles with the NCLEX were still connected to challenges with basic math and science. But not many. By the time nursing students are sitting for the NCLEX they have graduated from a nursing program, which means they had to get through MedSurg, pharmacology, and other difficult courses in their nursing program. In fact, many of the nursing students who struggled with the NCLEX and came to Wyzant for help were surprised they struggled on the NCLEX because they had done well during their nursing program. So if you’re on the path to become a nurse but haven’t taken the NCLEX yet, don’t underestimate it!
 
@@ -73,7 +73,7 @@ Here are the common reasons nursing students in our analysis provided for why th
 
 Students can overcome all of these obstacles. We have seen nurses who have failed the NCLEX six or more times get the right help and pass. Don’t let this test stop you from becoming a nurse.
 
-**Getting your first nursing job**
+### Getting your first nursing job
 
 Getting your first job in any industry is difficult because employers want to hire candidates with experience, but how do you get experience if you can’t get your first job? Yes, new nurses will face this challenge similar to new entrants in every industry. But unlike some other industries, the US has a national nursing shortage. So while you will still have to work hard to find opportunities where you can get experience for your first nursing job, there are lots of jobs available.
 
@@ -81,7 +81,7 @@ The Bureau of Labor Statistics projects more than 1 million unfilled nursing job
 
 Don’t worry if you do struggle to find your first nursing job, others do as well. The students who came to Wyzant for help finding their first nursing job were primarily looking for feedback on their resume, personal statement, or cover letters. If you need help, then ask for it. There are great jobs out there waiting for you.
 
-**Advanced nursing degrees**
+### Advanced nursing degrees
 
 We mentioned the growth of advanced practice nursing positions above. Some of the most in-demand and highest paying nursing positions in the coming years will require advanced nursing degrees.
 
@@ -91,7 +91,7 @@ In our analysis, the students pursuing these advanced degrees were often nurses 
 
 But don’t let these challenges scare you away. We’ve seen nurses who are really struggling with statistics, research, and writing get the help they need and succeed in these advanced programs. You can too!
 
-**Getting help**
+### Getting help
 
 Throughout this article we’ve recommended students get help if they are struggling—which doesn’t mean you have to hire a tutor. We’re all different and learn differently, but with the right help anyone can succeed. In our analysis, we heard many ways students received help along their nursing path. Here are the most common:\
 ○   Professor or instructor\
@@ -103,7 +103,7 @@ Throughout this article we’ve recommended students get help if they are strugg
 ○   Test prep courses\
 ○   Expert tutor
 
-**Respect for nurses**
+### Respect for nurses
 
 We learned so much about nursing students and the struggles they face on their path. In interviews with nursing students we heard almost every one explain that this was what they always wanted to do. Nursing was their calling; they wanted to help other people.
 
