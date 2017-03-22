@@ -20,7 +20,7 @@ For the past five years, the number of nursing students struggling and looking f
 
 We did an analysis of the primary challenges facing more than 2,500 nursing students who worked with tutors on Wyzant in 2016 and identified six main obstacles. These obstacles, ordered sequentially in time (when they happen on the nursing path) and labeled with the percentage of the more than 2,500 students that were struggling, are familiar to all aspiring nurses:
 
-![Nursing_Blog_Article_InfographicCallout-bbfe97.jpg](/blog/uploads/Nursing_Blog_Article_InfographicCallout-bbfe97.jpg)
+[![Nursing_Blog_Article_InfographicCallout-bbfe97.jpg](/blog/uploads/Nursing_Blog_Article_InfographicCallout-bbfe97.jpg)](https://www.wyzant.com/blog/nursing-struggles-infographic/)
 
 ### Prerequisites
 
