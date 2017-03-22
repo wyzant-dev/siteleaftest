@@ -10,14 +10,17 @@ For the past five years, the number of nursing students struggling and looking f
 
 We did an analysis of the primary challenges facing more than 2,500 nursing students who worked with tutors on Wyzant in 2016 and identified six main obstacles. These obstacles, ordered sequentially in time (when they happen on the nursing path) and labeled with the percentage of the 2,589 students that were struggling, are familiar to all aspiring nurses:
 
-●   Prerequisites:  16% \
-●   Entrance exams: 23%\
-●   Nursing program courses: 19%\
-●   Passing the NCLEX: 27%\
-●   Getting a job as a nurse: <1%\
-●   Advanced nursing degrees: 15%
+* Prerequisites:  16%
 
-/blog/uploads/Nursing_Blog_Article_InfographicCallout.jpg
+* Entrance exams: 23%
+
+* Nursing program courses: 19%
+
+* Passing the NCLEX: 27%
+
+* Getting a job as a nurse: <1%
+
+* Advanced nursing degrees: 15%
 
 ### Prerequisites
 
@@ -27,17 +30,20 @@ PREREQ CHART
 
 Not surprising for a healthcare career, science is the most common prerequisite that is difficult for nursing students. However, the fact that math and English are present on this list becomes more interesting after looking at the struggles over the entire journey. If you have trouble with a subject at the prereq stage, then you will likely struggle with the same subject again somewhere further along. So, if you’re an aspiring nurse with prereqs still ahead of you, don’t aim to just get through these foundational classes. Get the help you need to really understand them.
 
-### Entrance exams\\
+### Entrance exams
 
 \
 Yes, the prereq subjects are back already! Science and math were the most difficult subjects for students during the entrance exam, but English/language/grammar were still a major challenge as well.
 
 To better understand which areas of the entrance exam were most difficult for nursing students, we analyzed just those students who identified specific sections of the exam where they needed help. Some of these students listed more than one subject, so the percentages below total more than 100% (a student who needed help with math may have also needed help with science).
 
-Sections students struggled with most on the entrance exam:\
-●   Math - 62%\
-●   Science - 32% \
-●   English/Language/Grammar - 27%
+Sections students struggled with most on the entrance exam:
+
+* Math - 62%
+
+* Science - 32%
+
+* English/Language/Grammar - 27%
 
 What surprised us here was the split between math and science. At the prereq stage of the journey 68% of students needed help with science and 27% needed help with math. Now at the entrance exam, we see the inverse with 62% needing help with math and 32% needing help with science. We have a few guesses as to why this is happening, but we don’t actually know. One thought is that nursing students take many science prereqs so they are more prepared for the science portion of the exam. Or maybe, problem-solving questions are more difficult for students and the math questions on the entrance exam require more of these skills, while other questions simply require students to recognize the right fact.
 
@@ -65,14 +71,19 @@ In our analysis, students who came to us for help with the NCLEX had already fai
 
 Here are the common reasons nursing students in our analysis provided for why they were struggling and why they needed help from an expert tutor to pass the NCLEX:
 
-●   I don’t know what I’m doing wrong and I need help identifying my weaknesses.\
-●   I have terrible test anxiety.\
-●   I don’t have confidence that I can pass the test.\
-●   I’ve tried everything I can think of to prepare and I don’t know what else to do.\
-●   It’s been too long since I graduated nursing school.\
-●   I know the information but I don’t understand the questions on the test.\
-●   English is not my first language.\
-●   I have learning disabilities.
+* I don’t know what I’m doing wrong and I need help identifying my weaknesses.
+
+* I have terrible test anxiety.
+
+* I don’t have confidence that I can pass the test.
+
+* I’ve tried everything I can think of to prepare and I don’t know what else to do.
+
+* It’s been too long since I graduated nursing school.
+
+* I know the information but I don’t understand the questions on the test.
+
+* English is not my first language.I have learning disabilities.
 
 Students can overcome all of these obstacles. We have seen nurses who have failed the NCLEX six or more times get the right help and pass. Don’t let this test stop you from becoming a nurse.
 
@@ -96,15 +107,21 @@ But don’t let these challenges scare you away. We’ve seen nurses who are rea
 
 ### Getting help
 
-Throughout this article we’ve recommended students get help if they are struggling—which doesn’t mean you have to hire a tutor. We’re all different and learn differently, but with the right help anyone can succeed. In our analysis, we heard many ways students received help along their nursing path. Here are the most common:\
-○   Professor or instructor\
-○   Teacher’s Assistant or help lab\
-○   Classmate\
-○   Study group\
-○   Online videos\
-○   Test prep books\
-○   Test prep courses\
-○   Expert tutor
+Throughout this article we’ve recommended students get help if they are struggling—which doesn’t mean you have to hire a tutor. We’re all different and learn differently, but with the right help anyone can succeed. In our analysis, we heard many ways students received help along their nursing path. Here are the most common:
+
+* Professor or instructor
+
+* Teacher’s Assistant or help lab
+
+* ClassmateStudy group
+
+* Online videos
+
+* Test prep books
+
+* Test prep courses
+
+* Expert tutor
 
 ### Respect for nurses
 
