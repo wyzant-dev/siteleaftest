@@ -9,7 +9,7 @@ meta-title: The 6 Obstacles All Nursing Students Face
 sub-headline: 6 Obstacles That All Students Face
 hero-image: "/blog/uploads/Nursing_BlogHeader_Article-28e667.jpg"
 meta-description: 2,500 nursing students surveyed. 6 common obstacles. There's no
-  denying the nursing struggle is real.
+  denying the nursing school struggle is real.
 post-description: For the past five years, the number of nursing students struggling
   and looking for one-to-one help from expert tutors on Wyzant has been continuously
   increasing. Many of these students feel defeated and alone, afraid that they will
@@ -22,7 +22,7 @@ Field name:
 For the past five years, the number of nursing students struggling and looking for one-to-one help from expert tutors on Wyzant has been continuously increasing. Many of these students feel defeated and alone, afraid that they will never achieve their dream. In order to help, we needed to know what their biggest challenges were. By analyzing our data, we were able to understand the obstacles they are most likely to face on their path to becoming a nurse.
 *[Continue reading below...](#post-info)*
 
- [![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)](/blog/uploads/nursing_infographic_v10%20(1).jpg)
+![nursing_infographic_v10 (1).jpg](/blog/uploads/nursing_infographic_v10%20(1).jpg)
 
 <div id="post-info"></div>
 
