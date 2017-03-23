@@ -8,8 +8,8 @@ tags:
 meta-title: The 6 Obstacles All Nursing Students Face
 sub-headline: 6 Obstacles That All Students Face
 hero-image: "/blog/uploads/Nursing_BlogHeader_Article-28e667.jpg"
-meta-description: The nursing school struggle is real and Wyzant has the data to prove
-  it.
+meta-description: More than 2,500 nursing students surveyed, 6 main obstacles to overcome.
+  Data shows the nursing struggle is real.
 post-description: For the past five years, the number of nursing students struggling
   and looking for one-to-one help from expert tutors on Wyzant has been continuously
   increasing. Many of these students feel defeated and alone, afraid that they will
