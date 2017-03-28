@@ -35,7 +35,7 @@ This is helpful in situations you want a "Continue reading below..." link to jum
 
 ![Screen Shot 2017-03-22 at 4.36.28 PM.png](/blog/uploads/Screen%20Shot%202017-03-22%20at%204.36.28%20PM.png)
 
-This is accomplished by putting the phrase you are wanting to be used as a "jump link" (`[what-you-want-the-link-to-say](#specific-id)`) in a link tag. The url in this case is being linked to an id on this same page. You have to use the `#` to specify that you are linking to within the current article. Make sure to place a `<div id="specific-if"></div>` on the page where you want the user to drop down to on the page as well.
+This is accomplished by putting the phrase you are wanting to be used as a "jump link" (`[what-you-want-the-link-to-say](#specific-id)`) in a link tag. The url in this case is being linked to an id on this same page. You have to use the `#` to specify that you are linking to within the current article. Make sure to place a `<div id="specific-id"></div>` on the page where you want the user to drop down to on the page as well.
 
 **Images:**
 
