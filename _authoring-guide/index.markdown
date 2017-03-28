@@ -27,12 +27,13 @@ For pull quotes, choose a Heading 4. It will automatically be styled to take thi
 
 **Previewing an article:**
 
-This can be one of two ways within a post: the easiest is to click "Generate item preview" on the right rail of your article. The "Generate preview" button on the top also works, but remember to add `/blog` or `/blog/tutor` to the end of the url it generates.
+This can be one of two ways within a post: the easiest is to click "Generate item preview" on the right rail of your article. The "Generate preview" button on the top also works, but remember to add `/blog` or `/blog/tutor` to the end of the url it generates. If you don't see your changes on the previewed page, make sure it is done regenerating (status shown in top left of preview) and refresh page.
 
 **Creating a link to jump below to another part of the current article:**
 
 This is helpful in situations you want a "Continue reading below..." link to jump over a large image or infographic.
 
+![Screen Shot 2017-03-22 at 4.36.28 PM.png](/blog/uploads/Screen%20Shot%202017-03-22%20at%204.36.28%20PM.png)
 
 This is accomplished by putting the phrase you are wanting to be used as a "jump link" (`[what-you-want-the-link-to-say](#specific-id)`) in a link tag. The url in this case is being linked to an id on this same page. You have to use the `#` to specify that you are linking to within the current article. Make sure to place a `<div id="specific-if"></div>` on the page where you want the user to drop down to on the page as well.
 
