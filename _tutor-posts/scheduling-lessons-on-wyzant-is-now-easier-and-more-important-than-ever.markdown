@@ -10,6 +10,7 @@ Scheduling lessons on Wyzant can help you earn more money, retain students for l
 If you’re already scheduling all of your lessons on Wyzant, bravo! You may still find some helpful tips in this post. If you’re not already scheduling all of your lessons on Wyzant, we invite you to read on about how it can benefit you and help build your tutoring business.
 
 ###Scheduling lessons helps you.
+
 How? For starters, it builds your ratings and reviews, which inherently leads to more students. Students are 8% more likely to rate a lesson that was scheduled on Wyzant.
 
 Secondly, tutors who schedule lessons on Wyzant retain students for longer, having 14% more lessons with each individual on average.
