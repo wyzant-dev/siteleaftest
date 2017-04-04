@@ -52,4 +52,3 @@ That’s it for this episode of the Tutor Blog—check back soon for more tips o
 
 Best,
 The Wyzant Team
-
