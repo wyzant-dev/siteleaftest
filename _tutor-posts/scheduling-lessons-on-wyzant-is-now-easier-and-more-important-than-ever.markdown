@@ -16,7 +16,7 @@ Secondly, tutors who schedule lessons on Wyzant retain students for longer, havi
 
 You’ll get an email reminder to submit your lesson after each one is completed, and the information will be pre-populated because you scheduled it on the platform—one less thing to worry about.
 
-###Scheduling Lessons Is Now Easier 
+### Scheduling Lessons Is Now Easier 
 We spent some time exploring how we could make it easier for tutors to schedule lessons on our platform. Here are a few solutions we implemented:
 * We redesigned the scheduling interface so you can schedule a lesson straight from your calendar—and fewer steps saves you time. 
 
@@ -27,7 +27,7 @@ We spent some time exploring how we could make it easier for tutors to schedule 
 
 ![appforscheduling.png](/blog/uploads/appforscheduling.png)
 
-###What’s in it for students?
+### What’s in it for students?
 A lot. 
 
 Scheduling your lessons on the Wyzant platform makes it easier for students to stay on top of their tutoring with everything in one convenient place, including their scheduled lessons, lesson summaries, messages from tutors and more.  
