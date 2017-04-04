@@ -49,3 +49,6 @@ Moreover, if students have the Wyzant app, they’ll receive push notifications 
 
 That’s it for this episode of the Tutor Blog—check back soon for more tips on keeping your tutoring business thriving at Wyzant.
 
+Best,
+The Wyzant Team
+
