@@ -2,7 +2,6 @@
 title: Scheduling lessons on Wyzant is now easier (and more important) than ever.
 date: 2017-04-04 16:01:00 -05:00
 hero-image: "/blog/uploads/TutorBlog_TutorScheduled_Header.jpg"
-isHidden: true
 ---
 
 Scheduling lessons on Wyzant can help you earn more money, retain students for longer and keep them happy in the process. 
