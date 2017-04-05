@@ -1,6 +1,6 @@
 ---
 title: Scheduling lessons on Wyzant is now easier (and more important) than ever.
-date: 2017-04-04 16:01:00 -05:00
+date: 2017-04-05 13:01:00 -05:00
 hero-image: "/blog/uploads/TutorBlog_TutorScheduled_Header.jpg"
 ---
 
