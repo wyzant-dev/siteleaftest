@@ -21,7 +21,7 @@ You’ll get an email reminder to submit your lesson after each one is completed
 We spent some time exploring how we could make it easier for tutors to schedule lessons on our platform. Here are a few solutions we implemented:
 * We redesigned the scheduling interface so you can schedule a lesson straight from your calendar—and fewer steps saves you time. 
 
-![newschedulingmodal.png](/blog/uploads/newschedulingmodal.png)
+![TutorBlog_TestSize_80%25.png](/blog/uploads/TutorBlog_TestSize_80%25.png)
 
 * We gave students the ability to request a specific lesson time and location directly in messages to help cut down on the back-and-forth that often goes into setting up a lesson. 
 * Plus, Android app users can tap on this request to pre-populate a scheduled lesson:
