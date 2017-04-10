@@ -12,7 +12,7 @@ paginate:
   <section class="row">
     <div class="column">
       <ul class="reset spc-n">
-        {% for post in paginator.tutor-posts %}
+        {% for post in paginator.tutor-posts reversed %}
             {% unless post.isHidden %}
               <li>
                 <article>
