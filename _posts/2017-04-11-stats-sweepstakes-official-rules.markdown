@@ -1,7 +1,6 @@
 ---
 title: STATS SWEEPSTAKES OFFICIAL RULES
-date: 2017-04-12 08:00:00 -05:00
-published: false
+date: 2017-04-11 08:00:00 -05:00
 isHidden: true
 ---
 
