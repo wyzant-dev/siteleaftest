@@ -80,11 +80,3 @@ Everyone on the team agreed this update was long overdue, so we hope you find it
 
 On that final note, we invite you to visit the site and explore the new navigation.
 
-![TutorBlog_NavLaunch_02.jpg](/blog/uploads/TutorBlog_NavLaunch_02.jpg)
-
-
-### Scheduling lessons helps you.
-
-
-
-![appforscheduling.png](/blog/uploads/appforscheduling.png)
