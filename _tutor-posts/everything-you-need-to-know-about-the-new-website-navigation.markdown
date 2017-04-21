@@ -58,12 +58,12 @@ This session included three activities.
 So, what exactly changed?
 We cleaned up and reorganized the navigation, but you’ll notice the content on almost every page is the same as it was before. Now, it’s much easier to…
 
-Schedule a lesson. You can schedule straight from the nav, which you couldn’t do before.
-Join an online lesson. There’s no question as to where or how you can access your online lessons.
-Get to your dashboard and messages. We prioritized these into the new nav as they’re some of the most frequently used pages, vital to staying on top of your business.
-Manage your business from one place. All of your day-to-day operations will live under My Business—managing lessons, finding jobs and reviewing payments.
-Keep up with what’s new. Before, you could only access our “What’s New” updates from messages. But now, you can learn about the latest improvements and fixes anywhere you happen to be on the site.
-Manage your profile. There used to be various places to change your profile settings, spread across multiple navigation headers. Now, anything you want to do with your profile is consolidated in one convenient place.
+*Schedule a lesson. You can schedule straight from the nav, which you couldn’t do before.
+*Join an online lesson. There’s no question as to where or how you can access your online lessons.
+*Get to your dashboard and messages. We prioritized these into the new nav as they’re some of the most frequently used pages, vital to staying on top of your business.
+*Manage your business from one place. All of your day-to-day operations will live under My Business—managing lessons, finding jobs and reviewing payments.
+*Keep up with what’s new. Before, you could only access our “What’s New” updates from messages. But now, you can learn about the latest improvements and fixes anywhere you happen to be on the site.
+*Manage your profile. There used to be various places to change your profile settings, spread across multiple navigation headers. Now, anything you want to do with your profile is consolidated in one convenient place.
 Get the most out of Wyzant. We added a new section called “Toolkit” that has everything you need to be successful on the Wyzant platform.
 
 
