@@ -10,8 +10,6 @@ You’ll notice some changes to our website’s navigation today, all of which w
 We sat down with our Product Design Lead, John Horstman, to share the inside scoop on what’s changed, and why. Let’s dig in...
 
 ##What sparked the decision to update the navigation?
-
-
 Well, there are really three parts to this answer. 
 
 First, we learned over time that our navigation didn’t reflect the way tutors were thinking about our website. 
