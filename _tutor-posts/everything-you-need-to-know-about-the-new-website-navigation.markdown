@@ -9,7 +9,7 @@ You’ll notice some changes to our website’s navigation today, all of which w
 
 We sat down with our Product Design Lead, John Horstman, to share the inside scoop on what’s changed, and why. Let’s dig in...
 
-What sparked the decision to update the navigation?
+##What sparked the decision to update the navigation?
 
 Well, there are really three parts to this answer. 
 
@@ -33,7 +33,7 @@ Screens are only so big, and the height of the nav was causing people to run out
 
 By shrinking that space down, we made messaging more efficient, and made room for the important content on each page of the site.
 
-What did the design process entail?
+##What did the design process entail?
 
 We approached the problem in two stages—first with an internal group that included employees from across the organization, and then we met with a group of local tutors.
 
@@ -57,7 +57,7 @@ This session included three activities.
 
 ![TutorBlog_NavLaunch_pullquote_02.jpg](/blog/uploads/TutorBlog_NavLaunch_pullquote_02.jpg)
 
-So, what exactly changed?
+##So, what exactly changed?
 
 We cleaned up and reorganized the navigation, but you’ll notice the content on almost every page is the same as it was before. Now, it’s much easier to…
 
@@ -70,7 +70,7 @@ We cleaned up and reorganized the navigation, but you’ll notice the content on
 Get the most out of Wyzant. We added a new section called “Toolkit” that has everything you need to be successful on the Wyzant platform.
 
 
-What changes will tutors notice the most?
+##What changes will tutors notice the most?
 
 I think there are two things that will feel pretty different at first, but were changed specifically to streamline a tutor’s experience on our site. 
 
