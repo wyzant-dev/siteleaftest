@@ -9,10 +9,10 @@ You’ll notice some changes to our website’s navigation today, all of which w
 
 We sat down with our Product Design Lead, John Horstman, to share the inside scoop on what’s changed, and why. Let’s dig in...
 
-##What sparked the decision to update the navigation?
+## What sparked the decision to update the navigation?
 Well, there are really three parts to this answer. 
 
-First, we learned over time that our navigation didn’t reflect the way tutors were thinking about our website. 
+**First, we learned over time that our navigation didn’t reflect the way tutors were thinking about our website. **
 
 Some of the most common functions that tutors were using—like checking their dashboard or responding to new messages—were buried under headings that weren’t obvious or very helpful. This forced tutors to search for the things they needed in order to manage their business, which wasn’t ideal.
 
@@ -20,19 +20,19 @@ We also had things that were front and center in the navigation that weren’t b
 
 ![TutorBlog_NavLaunch_01.jpg](/blog/uploads/TutorBlog_NavLaunch_01.jpg)
 
-Secondly, we added a number of new features over time but didn’t update the navigation accordingly.
+**Secondly, we added a number of new features over time but didn’t update the navigation accordingly.**
 
 In the last couple of years, we’ve rebuilt our messaging platform, allowed tutors to set their availability, released mobile apps, revamped our online learning tool… and all of these additions ended up getting wedged into our old nav, which resulted in things not being grouped together very logically. 
 
 We also didn’t have a central place to communicate these updates to tutors, which felt like a miss.
 
-Thirdly, the old nav took up a lot of space.
+**Thirdly, the old nav took up a lot of space.**
 
 Screens are only so big, and the height of the nav was causing people to run out of space in important places, like messaging—which is a vital part of running your tutoring business. 
 
 By shrinking that space down, we made messaging more efficient, and made room for the important content on each page of the site.
 
-##What did the design process entail?
+## What did the design process entail?
 
 We approached the problem in two stages—first with an internal group that included employees from across the organization, and then we met with a group of local tutors.
 
@@ -48,28 +48,27 @@ We met with a group of local tutors, making sure to include people with a variet
 
 This session included three activities. 
 
-1. Card sort. Same as the exercise we did internally, we asked tutors to group the pages of our website in a way that made sense to them. People ended up with a similar number of groups (5-6)—fewer than we were currently using on the site—which suggested that we could group these pages in a way that made sense to tutors without having to overcomplicate things. 
+**1. Card sort.** Same as the exercise we did internally, we asked tutors to group the pages of our website in a way that made sense to them. People ended up with a similar number of groups (5-6)—fewer than we were currently using on the site—which suggested that we could group these pages in a way that made sense to tutors without having to overcomplicate things. 
 
-2. Click test exercise. We presented the participants with our idea of how we thought the navigation should be organized, and asked them to look for the common functions they use day-to-day, like submitting a lesson, where to find new students to work with, how to begin an online lesson and how to update their profile. We did this to confirm that tutors would have an easy time performing these tasks with the proposed navigation we had in mind.
+**2. Click test exercise.** We presented the participants with our idea of how we thought the navigation should be organized, and asked them to look for the common functions they use day-to-day, like submitting a lesson, where to find new students to work with, how to begin an online lesson and how to update their profile. We did this to confirm that tutors would have an easy time performing these tasks with the proposed navigation we had in mind.
 
-3. Interviews. This was an open-table discussion about everything we covered—and anything else on the tutors’ minds. This insightful piece of the project helped us land on a navigation that we felt would make more sense to everyone, and be easier to use.
+**3. Interviews.** This was an open-table discussion about everything we covered—and anything else on the tutors’ minds. This insightful piece of the project helped us land on a navigation that we felt would make more sense to everyone, and be easier to use.
 
 ![TutorBlog_NavLaunch_pullquote_02.jpg](/blog/uploads/TutorBlog_NavLaunch_pullquote_02.jpg)
 
-##So, what exactly changed?
-
+## So, what exactly changed?
 We cleaned up and reorganized the navigation, but you’ll notice the content on almost every page is the same as it was before. Now, it’s much easier to…
 
-*Schedule a lesson. You can schedule straight from the nav, which you couldn’t do before.
-*Join an online lesson. There’s no question as to where or how you can access your online lessons.
-*Get to your dashboard and messages. We prioritized these into the new nav as they’re some of the most frequently used pages, vital to staying on top of your business.
-*Manage your business from one place. All of your day-to-day operations will live under My Business—managing lessons, finding jobs and reviewing payments.
-*Keep up with what’s new. Before, you could only access our “What’s New” updates from messages. But now, you can learn about the latest improvements and fixes anywhere you happen to be on the site.
-*Manage your profile. There used to be various places to change your profile settings, spread across multiple navigation headers. Now, anything you want to do with your profile is consolidated in one convenient place.
+* **Schedule a lesson**. You can schedule straight from the nav, which you couldn’t do before.
+* **Join an online lesson.** There’s no question as to where or how you can access your online lessons.
+* **Get to your dashboard and messages.** We prioritized these into the new nav as they’re some of the most frequently used pages, vital to staying on top of your business.
+* **Manage your business from one place.** All of your day-to-day operations will live under My Business—managing lessons, finding jobs and reviewing payments.
+* **Keep up with what’s new.** Before, you could only access our “What’s New” updates from messages. But now, you can learn about the latest improvements and fixes anywhere you happen to be on the site.
+* **Manage your profile.** There used to be various places to change your profile settings, spread across multiple navigation headers. Now, anything you want to do with your profile is consolidated in one convenient place.
 Get the most out of Wyzant. We added a new section called “Toolkit” that has everything you need to be successful on the Wyzant platform.
 
 
-##What changes will tutors notice the most?
+## What changes will tutors notice the most?
 
 I think there are two things that will feel pretty different at first, but were changed specifically to streamline a tutor’s experience on our site. 
 
