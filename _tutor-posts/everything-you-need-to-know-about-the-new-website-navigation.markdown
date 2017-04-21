@@ -11,6 +11,7 @@ We sat down with our Product Design Lead, John Horstman, to share the inside sco
 
 ##What sparked the decision to update the navigation?
 
+
 Well, there are really three parts to this answer. 
 
 First, we learned over time that our navigation didn’t reflect the way tutors were thinking about our website. 
@@ -83,4 +84,3 @@ Everyone on the team agreed this update was long overdue, so we hope you find it
 …
 
 On that final note, we invite you to visit the site and explore the new navigation.
-
