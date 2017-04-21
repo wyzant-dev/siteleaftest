@@ -10,6 +10,7 @@ You’ll notice some changes to our website’s navigation today, all of which w
 We sat down with our Product Design Lead, John Horstman, to share the inside scoop on what’s changed, and why. Let’s dig in...
 
 What sparked the decision to update the navigation?
+
 Well, there are really three parts to this answer. 
 
 First, we learned over time that our navigation didn’t reflect the way tutors were thinking about our website. 
@@ -33,6 +34,7 @@ Screens are only so big, and the height of the nav was causing people to run out
 By shrinking that space down, we made messaging more efficient, and made room for the important content on each page of the site.
 
 What did the design process entail?
+
 We approached the problem in two stages—first with an internal group that included employees from across the organization, and then we met with a group of local tutors.
 
 Internally, we wanted to better understand which pages tutors were using to manage their business, so we started by looking at the pages they were visiting most, and made sure we were prioritizing them appropriately. 
@@ -56,6 +58,7 @@ This session included three activities.
 ![TutorBlog_NavLaunch_pullquote_02.jpg](/blog/uploads/TutorBlog_NavLaunch_pullquote_02.jpg)
 
 So, what exactly changed?
+
 We cleaned up and reorganized the navigation, but you’ll notice the content on almost every page is the same as it was before. Now, it’s much easier to…
 
 *Schedule a lesson. You can schedule straight from the nav, which you couldn’t do before.
@@ -68,6 +71,7 @@ Get the most out of Wyzant. We added a new section called “Toolkit” that has
 
 
 What changes will tutors notice the most?
+
 I think there are two things that will feel pretty different at first, but were changed specifically to streamline a tutor’s experience on our site. 
 
 The first is the tutor profile. As I mentioned earlier, everything associated with a tutor’s profile is now in one place, as opposed to being spread across various parts of the site. This can be found by navigating to your avatar menu, which lives in the top right corner of the screen, and selecting “Profile.”
