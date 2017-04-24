@@ -8,9 +8,9 @@ We’ve found (and you probably have too) that some students are hesitant to try
 
 So investing a bit of time up front to help students understand the benefits of online lessons will pay out for you in the long run by saving you time and money on traveling, and giving you the flexibility to work from wherever you want.
 
-## 3 tips to get students on board.
+### 3 tips to get students on board.
 
-**1. Schedule a demo of our online learning tool.**
+## 1. Schedule a demo of our online learning tool.
 
 This is a new way to show new students how easy online lessons are at Wyzant—and you can set it up right in messages. Here’s how it works:
 
@@ -32,7 +32,7 @@ This is a new way to show new students how easy online lessons are at Wyzant—a
 
 Although it’s not required, offering the online demo for free is a smart, short time investment up front that could lead to recurring students, and save you a ton of time commuting down the road.
 
-**2. Share tips so students can prepare ahead of time.**
+## 2. Share tips so students can prepare ahead of time.
 
 We’ve learned that students feel more comfortable trying something new (a la online lessons) when they feel prepared. These are our top tips for preparing ahead of time for an online lesson:
 
@@ -42,7 +42,7 @@ We’ve learned that students feel more comfortable trying something new (a la o
 * Test your [audio and video](https://www.wyzant.com/Online/SystemsCheck) before the lesson
 * Wear headphones to reduce outside noise and prevent echoes 
 
-**3. Let each student know why you believe online lessons at Wyzant—and our online learning tool—will benefit them.**
+## 3. Let each student know why you believe online lessons at Wyzant—and our online learning tool—will benefit them.
 
 Here are a handful of talking points to consider:
 
@@ -54,7 +54,7 @@ Here are a handful of talking points to consider:
 
 Want to provide them with additional information? [Send them to our online lessons page](https://www.wyzant.com/online/student) where they can view the video below, along with helpful tutorials about our online learning tool.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bP3KpxyMsus" frameborder="0" allowfullscreen></iframe>
+<iframe width=“560” height=“315" src=“https://www.youtube.com/embed/zHTuPoPJ9W0” frameborder=“0" allowfullscreen></iframe>
 
 Ready to try out the new online demo feature? [Message a student](https://www.wyzant.com/tutor/messaging/) to set one up.
 
