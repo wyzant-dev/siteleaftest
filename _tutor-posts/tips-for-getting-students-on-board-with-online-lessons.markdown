@@ -10,7 +10,7 @@ So investing a bit of time up front to help students understand the benefits of 
 
 ## 3 tips to get students on board.
 
-**1. Schedule a demo of our online learning tool. **
+** 1. Schedule a demo of our online learning tool. **
 This is a new way to show new students how easy online lessons are at Wyzant—and you can set it up right in messages. Here’s how it works:
 
 * From messages, click on the computer icon at the bottom left side of the thread
