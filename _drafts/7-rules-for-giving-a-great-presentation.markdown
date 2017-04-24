@@ -5,7 +5,7 @@ date: 2017-04-14 10:33:00 -05:00
 
 "Ugh. A presentation. Anything but a presentation. No really. I mean isn’t there an option for a paper or an executive summary that everyone could read? I don’t want to be the clown in front of everyone going on and on about a topic that nobody cares for. I do not need the aggravation (or the nausea, sweaty palms, and shaking heads that go along with it). Please, I beg you. NOT A PRESENTATION."
 
-->THIS TEXT IS IN THE CENTER!<- 
+<div class="align-center">Centered text</div>
 
 Sound familiar? I’m going to take a shot in the dark and say yes. You are certainly not alone. Paul L. Witt, PhD, an assistant professor of communication studies at Texas Christian University, reports that the number one fear in the U.S. is public speaking. That’s right. More people are afraid of public speaking than snakes, spiders, or any other creeptastic creature you can think of. Added to the fact that you’ve probably sat through more mind numbingly dull presentations in your life than you care to remember, it's understandable why students are hesitant to embrace them.
 
