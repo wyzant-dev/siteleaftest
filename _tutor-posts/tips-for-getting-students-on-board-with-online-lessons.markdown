@@ -14,7 +14,7 @@ So investing a bit of time up front to help students understand the benefits of 
 
 This is a new way to show new students how easy online lessons are at Wyzant—and you can set it up right in messages. Here’s how it works:
 
-* From messages, click on the computer icon at the bottom left side of the thread
+* From [messages](https://www.wyzant.com/tutor/messaging/), click on the computer icon at the bottom left side of the thread
 
 ![TutorBlog_SellingTutorsOnline_Body_041817_1.png](/blog/uploads/TutorBlog_SellingTutorsOnline_Body_041817_1.png)
 
