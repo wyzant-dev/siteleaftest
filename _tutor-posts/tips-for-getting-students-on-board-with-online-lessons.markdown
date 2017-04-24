@@ -50,7 +50,7 @@ Here are a handful of talking points to consider:
 
 Want to provide them with additional information? [Send them to our online lessons page](https://www.wyzant.com/online/student) where they can view the video below, along with helpful tutorials about our online learning tool.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bP3KpxyMsus" frameborder="0" allowfullscreen></iframe>
 
 ## Ready to try out the new online demo feature?
 [Message a student](https://www.wyzant.com/tutor/messaging/) to set one up.
