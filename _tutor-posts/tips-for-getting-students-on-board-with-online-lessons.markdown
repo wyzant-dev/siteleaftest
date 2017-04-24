@@ -10,7 +10,7 @@ So investing a bit of time up front to help students understand the benefits of 
 
 ## 3 tips to get students on board.
 
-** 1. Schedule a demo of our online learning tool. **
+**1. Schedule a demo of our online learning tool.**
 
 This is a new way to show new students how easy online lessons are at Wyzant—and you can set it up right in messages. Here’s how it works:
 
@@ -32,7 +32,7 @@ This is a new way to show new students how easy online lessons are at Wyzant—a
 
 Although it’s not required, offering the online demo for free is a smart, short time investment up front that could lead to recurring students, and save you a ton of time commuting down the road.
 
-** 2. Share tips so students can prepare ahead of time. **
+**2. Share tips so students can prepare ahead of time.**
 
 We’ve learned that students feel more comfortable trying something new (a la online lessons) when they feel prepared. These are our top tips for preparing ahead of time for an online lesson:
 
@@ -42,7 +42,7 @@ We’ve learned that students feel more comfortable trying something new (a la o
 * Test your [audio and video](https://www.wyzant.com/Online/SystemsCheck) before the lesson
 * Wear headphones to reduce outside noise and prevent echoes 
 
-** 3. Let each student know why you believe online lessons at Wyzant—and our online learning tool—will benefit them.**
+**3. Let each student know why you believe online lessons at Wyzant—and our online learning tool—will benefit them.**
 
 Here are a handful of talking points to consider:
 
