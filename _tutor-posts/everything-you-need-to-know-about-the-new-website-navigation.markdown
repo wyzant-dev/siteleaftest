@@ -2,7 +2,6 @@
 title: Everything you need to know about the new website navigation.
 date: 2017-04-25 08:00:00 -05:00
 hero-image: "/blog/uploads/TutorBlog_NavLaunch_HeaderImage%20(1).jpg"
-IsHidden: true
 ---
 
 You’ll notice some changes to our website’s navigation today, all of which were implemented to make managing your tutoring business easier and more efficient—so you can spend less time looking for things, and more time tutoring.
