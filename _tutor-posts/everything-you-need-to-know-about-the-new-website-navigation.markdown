@@ -19,6 +19,7 @@ Some of the most common functions that tutors were using—like checking their d
 We also had things that were front and center in the navigation that weren’t being utilized or visited much, so we agreed it was time for an overhaul.
 
 ![TutorBlog_NavLaunch_01.jpg](/blog/uploads/TutorBlog_NavLaunch_01.jpg)
+*Sorting printouts of our website.*
 
 **Secondly, we added a number of new features over time but didn’t update the navigation accordingly.**
 
@@ -78,8 +79,10 @@ The second is how tutors apply to jobs. This used to have its own heading in the
 
 Anything else tutors should know about the new navigation?
 Everyone on the team agreed this update was long overdue, so we hope you find it lives up to its potential. 
+
 …
 
-On that final note, we invite you to visit the site and explore the new navigation.
+On that final note, we invite you to [visit the site and explore the new navigation](https://www.wyzant.com/).
 
 ![TutorBlog_NavLaunch_02.jpg](/blog/uploads/TutorBlog_NavLaunch_02.jpg)
+*Product Design Lead, John Horstman*
