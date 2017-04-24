@@ -21,6 +21,7 @@ We also had things that were front and center in the navigation that weren’t b
 ![TutorBlog_NavLaunch_01.jpg](/blog/uploads/TutorBlog_NavLaunch_01.jpg)
 *Sorting printouts of our website.*
 
+
 **Secondly, we added a number of new features over time but didn’t update the navigation accordingly.**
 
 In the last couple of years, we’ve rebuilt our messaging platform, allowed tutors to set their availability, released mobile apps, revamped our online learning tool… and all of these additions ended up getting wedged into our old nav, which resulted in things not being grouped together very logically. 
