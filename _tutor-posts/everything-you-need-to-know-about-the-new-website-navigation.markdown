@@ -21,6 +21,7 @@ We also had things that were front and center in the navigation that weren’t b
 ![TutorBlog_NavLaunch_01.jpg](/blog/uploads/TutorBlog_NavLaunch_01.jpg)
 *Sorting printouts of our website.*
 
+<br>
 
 **Secondly, we added a number of new features over time but didn’t update the navigation accordingly.**
 
