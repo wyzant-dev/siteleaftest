@@ -33,6 +33,7 @@ This is a new way to show new students how easy online lessons are at Wyzant—a
 Although it’s not required, offering the online demo for free is a smart, short time investment up front that could lead to recurring students, and save you a ton of time commuting down the road.
 
 ** 2. Share tips so students can prepare ahead of time. **
+
 We’ve learned that students feel more comfortable trying something new (a la online lessons) when they feel prepared. These are our top tips for preparing ahead of time for an online lesson:
 
 * Find a quiet place with no distractions
@@ -42,7 +43,9 @@ We’ve learned that students feel more comfortable trying something new (a la o
 * Wear headphones to reduce outside noise and prevent echoes 
 
 ** 3. Let each student know why you believe online lessons at Wyzant—and our online learning tool—will benefit them.**
+
 Here are a handful of talking points to consider:
+
 * Fitting online lessons into a busy schedule is easier than trying to meet in person
 * Interactive features like video chat and a shared whiteboard make collaborating so easy, it’ll feel like you’re in the same room
 * It’s much easier to work together on the same screen than sitting side-by-side
@@ -53,7 +56,6 @@ Want to provide them with additional information? [Send them to our online lesso
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bP3KpxyMsus" frameborder="0" allowfullscreen></iframe>
 
-## Ready to try out the new online demo feature?
-[Message a student](https://www.wyzant.com/tutor/messaging/) to set one up.
+Ready to try out the new online demo feature? [Message a student](https://www.wyzant.com/tutor/messaging/) to set one up.
 
 
