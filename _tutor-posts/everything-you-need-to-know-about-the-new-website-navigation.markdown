@@ -81,7 +81,7 @@ The second is how tutors apply to jobs. This used to have its own heading in the
 Anything else tutors should know about the new navigation?
 Everyone on the team agreed this update was long overdue, so we hope you find it lives up to its potential. 
 
-On that final note, we invite you to [visit the site and explore the new navigation](https://www.wyzant.com/).
+On that final note, we invite you to [visit the site and explore the new navigation](https://www.wyzant.com/tutor/home/).
 
 ![TutorBlog_NavLaunch_02.jpg](/blog/uploads/TutorBlog_NavLaunch_02.jpg)
 *Product Design Lead, John Horstman*
