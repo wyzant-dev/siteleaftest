@@ -6,14 +6,14 @@ hero-image: "/blog/uploads/GettyImages-486762589_edit.jpg"
 
 We’ve found that students who have never had online lessons before are hesitant to try them—but once they do, they’re sold. In order to make it easier for you to encourage students to give online tutoring a try, we created our online demo feature—an easy, quick way to introduce students to our online learning tool. And this post is packed with tips on how to give a great online demo.
 
-As we mentioned in the last blog post, investing a bit of time up front to help students understand the benefits of online lessons will pay out for you in the long run by saving you time and money on traveling, and giving you the flexibility to work from wherever you want.
+As we mentioned in the [last blog post](https://www.wyzant.com/blog/tutor/tips-for-getting-students-on-board-with-online-lessons/), investing a bit of time up front to help students understand the benefits of online lessons will pay out for you in the long run by saving you time and money on traveling, and giving you the flexibility to work from wherever you want.
 
 ![SellingTutorsOnlinePt2_BodyImage.png](/blog/uploads/SellingTutorsOnlinePt2_BodyImage.png)
 
 ## How online demo works.
 
 You can conveniently schedule an online demo with a student directly in messages. 
-To see how that works, visit our last blog post.
+To see how that works, [visit our last blog post](https://www.wyzant.com/blog/tutor/tips-for-getting-students-on-board-with-online-lessons/).
 
 ## Tips for a great online demo.
 
