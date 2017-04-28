@@ -61,4 +61,4 @@ Code editor—Work with students in a wide variety of programming languages.
 <br>
 
 ## Ready to try out the new online demo feature?
-Message a potential new student to set one up.
+[Message a student](https://www.wyzant.com/tutor/messaging/) to set one up.
