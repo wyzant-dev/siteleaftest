@@ -1,6 +1,6 @@
 ---
 title: Tips for getting students on board with online lessons.
-date: 2017-04-26 08:41:00 -05:00
+date: 2017-04-28 10:00:00 -05:00
 hero-image: "/blog/uploads/Stocksy_txp62475ac8BND100_Medium_970014_edit.jpg"
 ---
 
