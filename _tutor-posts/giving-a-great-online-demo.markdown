@@ -36,25 +36,25 @@ The online demo is an opportunity for you to both demonstrate how easy online le
 
 We put together some tutorial videos to help you prepare ahead of time for your demos.
 
-## Whiteboard—Share files, draw, graph functions and write complex equations.
+Whiteboard—Share files, draw, graph functions and write complex equations.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fzScWXMFUkQ" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
-## Screenshare—Allows both participants to see the same thing at the same time.
+Screenshare—Allows both participants to see the same thing at the same time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1oL3ZhiqBM" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
-## Text editor—Edit essays, cover letters and other documents in real time.
+Text editor—Edit essays, cover letters and other documents in real time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0dieihC03WY" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
-## Code editor—Work with students in a wide variety of programming languages.
+Code editor—Work with students in a wide variety of programming languages.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PL2UUDaF72E" frameborder="0" allowfullscreen></iframe>
 
