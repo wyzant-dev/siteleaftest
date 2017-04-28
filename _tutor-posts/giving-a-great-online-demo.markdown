@@ -32,7 +32,7 @@ The online demo is an opportunity for you to both demonstrate how easy online le
 
 **Walk them through the collaboration features.** To do this, you’ll need to have them minimize their video first so they can focus on each feature. Based on a student’s individual needs, you can decide which features to focus on, but here’s a full list of everything you can do with our online learning tool:
 
-![blog-post-chart%20green%20(1).png](/blog/uploads/blog-post-chart%20green%20(1).png)
+![blog-post-chart-gray.png](/blog/uploads/blog-post-chart-gray.png)
 
 We put together some tutorial videos to help you prepare ahead of time for your demos.
 
