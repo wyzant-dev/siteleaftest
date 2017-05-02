@@ -54,7 +54,7 @@ We put together some tutorial videos to help you prepare ahead of time for your 
 
 <br>
 
-### Code editor—Work with students in a wide variety of programming languages.
+**Code editor**—Work with students in a wide variety of programming languages.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PL2UUDaF72E" frameborder="0" allowfullscreen></iframe>
 
