@@ -36,13 +36,13 @@ According to the latest U.S. Census Bureau numbers, the St. Louis area has seen 
 
 We also wanted to delve into the ESL trends across different age groups to see if the numbers changed.
 
-![StudentBlog_ESL_Chart2 (1).jpg](/blog/uploads/StudentBlog_ESL_Chart2%20(1).jpg)
+![StudentBlog_ESL_Chart2.jpg](/blog/uploads/StudentBlog_ESL_Chart2.jpg)
 
 Wyzant data revealed that although the overall popularity of ESL lessons had dipped, **ESL amongst adults is actually growing in popularity across the nation.**
 
 Interestingly, we found that the percentage of adults taking ESL lessons through Wyzant is higher in the Midwest than in other regions—and has even grown by more than 20 percent in the past year.
 
-![StudentBlog_ESL_Chart3 (1).jpg](/blog/uploads/StudentBlog_ESL_Chart3%20(1).jpg)
+![StudentBlog_ESL_Chart3.jpg](/blog/uploads/StudentBlog_ESL_Chart3.jpg)
 
 We discovered an **overall decline in ESL popularity in college students over the past year**. But like adults, among all college students seeking tutoring through Wyzant, the percentage of ESL lessons taken in the Midwest is higher than in other regions.
 
