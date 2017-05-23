@@ -5,8 +5,13 @@ tags:
 - ESL
 - Language
 - Data
+meta-title: 10 Popular Markets for Adults Taking ESL Lessons in the U.S.
 sub-headline: Wyzant Digs into ESL Lesson Trends
 hero-image: "/blog/uploads/iStock_60572972_LARGE.jpg"
+meta-description: While the popularity of ESL lessons has been declining overall in
+  the past 12 months, it’s still the most popular language subject among adult students.
+  It’s over 50 percent more popular than 2nd place Spanish, and approximately three
+  times more popular than any other language.
 post-description: Demand for ESL lessons has steadily grown over the past decade,
   but the analysts at Wyzant noticed a shift in popularity starting in the fall of
   2016. Wyzant analysts dig into ESL lesson trends, as well as where ESL lesson popularity
