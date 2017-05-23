@@ -23,7 +23,7 @@ To dig into this trend a bit further, we examined the popularity of ESL lessons 
 
 ![StudentBlog_ESL_Chart1a (1).jpg](/blog/uploads/StudentBlog_ESL_Chart1a%20(1).jpg)
 
-**It’s worth noting that the most popular cities for ESL are home to thriving immigrant populations. **
+**It’s worth noting that the most popular cities for ESL are home to thriving immigrant populations.**
 
 According to the latest U.S. Census Bureau numbers, the St. Louis area has seen the largest percentage increase in immigrants compared to other major metropolitan areas around the country. Between 2014 and 2015, [Federal data](http://www.kmov.com/story/33158944/st-louis-leads-nation-in-growing-immigrant-population) showed the number of foreign-born people living in the metro area had increased 8.9 percent, from 118,8936 to 129,559 people, which may account for the number of English learners in this area. Minnesota’s immigrant population is also booming. Over the past 25 years, the number of [Minnesotans born outside the country has tripled](https://www.minnpost.com/new-americans/2015/10/who-are-minnesota-s-new-americans-heres-what-data-tell-us).
 
