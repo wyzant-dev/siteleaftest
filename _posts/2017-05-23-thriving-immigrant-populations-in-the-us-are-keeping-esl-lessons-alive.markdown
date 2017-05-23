@@ -12,20 +12,20 @@ But beginning in September 2016, we at Wyzant noted a 15 percent decline in popu
 
 To dig into this trend a bit further, we examined the popularity of ESL lessons compared to other subjects on our platform across our major markets. These findings uncover the locales with the highest and lowest popularity of ESL from May 2016 - April 2017 at Wyzant.
 
-\[side-by-side chart\]
+![StudentBlog_ESL_Chart1a (1).jpg](/blog/uploads/StudentBlog_ESL_Chart1a%20(1).jpg)
 
 It’s worth noting that the most popular cities for ESL are home to thriving immigrant populations. According to the latest U.S. Census Bureau numbers, the St. Louis area has seen the largest percentage increase in immigrants compared to other major metropolitan areas around the country. Between 2014 and 2015, [Federal data](http://www.kmov.com/story/33158944/st-louis-leads-nation-in-growing-immigrant-population) showed the number of foreign-born people living in the metro area had increased 8.9 percent, from 118,8936 to 129,559 people, which may account for the number of English learners in this area. Minnesota’s immigrant population is also booming. Over the past 25 years, the number of [Minnesotans born outside the country has tripled](https://www.minnpost.com/new-americans/2015/10/who-are-minnesota-s-new-americans-heres-what-data-tell-us).
 
 Does age impact ESL trends?
 We also wanted to delve into the ESL trends across different age groups to see if the numbers changed.
 
-\[Adult chart\]
+![StudentBlog_ESL_Chart2 (1).jpg](/blog/uploads/StudentBlog_ESL_Chart2%20(1).jpg)
 
 Wyzant data revealed that although the overall popularity of ESL lessons had dipped, ESL amongst adults is actually growing in popularity across the nation.
 
 Interestingly, we found that the percentage of adults taking ESL lessons through Wyzant is higher in the Midwest than in other regions—and has even grown by more than 20 percent in the past year.
 
-\[college student chart\]
+![StudentBlog_ESL_Chart3 (1).jpg](/blog/uploads/StudentBlog_ESL_Chart3%20(1).jpg)
 
 We discovered an overall decline in ESL popularity in college students over the past year. But like adults, among all college students seeking tutoring through Wyzant, the percentage of ESL lessons taken in the Midwest is higher than in other regions.
 
