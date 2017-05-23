@@ -15,8 +15,8 @@ meta-description: While the popularity of ESL lessons has been declining overall
   times more popular than any other language.
 post-description: Demand for ESL lessons has steadily grown over the past decade,
   but the analysts at Wyzant noticed a shift in popularity starting in the fall of
-  2016. Wyzant analysts dig into ESL lesson trends, as well as where ESL lesson popularity
-  is growing and waning across the country.
+  2016. Wyzant analysts dig into ESL lesson trends, as well as where ESL lessons are
+  most and least popular across the country.
 ---
 
 Did you know that after Mandarin, English is the second most popular language in the world—with over [1.5 billion English speakers](https://blog.esl-languages.com/blog/learn-languages/english/english-language-global-number-one/) around the globe? The total number of [native English speakers](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population) adds up to about 350,000,000, which means that there are an estimated 1,150,000,000 people who speak English as an additional language.
