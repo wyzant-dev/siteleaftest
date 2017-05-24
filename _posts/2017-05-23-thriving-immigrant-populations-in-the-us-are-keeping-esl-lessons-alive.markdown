@@ -21,7 +21,7 @@ post-description: Demand for ESL lessons has steadily grown over the past decade
 
 Did you know that after Mandarin, English is the second most popular language in the world—with over [1.5 billion English speakers](https://blog.esl-languages.com/blog/learn-languages/english/english-language-global-number-one/) around the globe? The total number of [native English speakers](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population) adds up to about 350,000,000, which means that there are an estimated 1,150,000,000 people who speak English as an additional language.
 
-English is the global language of business, international government affairs, and the internet (over half of the world’s most popular websites are written in English). And the [demand for ESL educators has steadily climbed ](https://www.thoughtco.com/high-esl-job-market-demand-4088711)to reflect the demand. Not surprisingly, we at Wyzant found that ESL lessons are popular in cities with strong immigrant populations.
+English is the global language of business, international government affairs, and the internet (over half of the world’s most popular websites are written in English). And the [demand for ESL educators has steadily climbed ](https://www.thoughtco.com/high-esl-job-market-demand-4088711)to reflect this growth. Not surprisingly, we at Wyzant found that ESL lessons are popular in cities with strong immigrant populations.
 
 **However, beginning in September 2016, we noted a 15 percent decline in the popularity of ESL lessons in the United States.**
 
