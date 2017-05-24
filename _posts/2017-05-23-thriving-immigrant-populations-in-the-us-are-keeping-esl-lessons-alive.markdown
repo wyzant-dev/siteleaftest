@@ -21,13 +21,13 @@ post-description: Demand for ESL lessons has steadily grown over the past decade
 
 Did you know that after Mandarin, English is the second most popular language in the world—with over [1.5 billion English speakers](https://blog.esl-languages.com/blog/learn-languages/english/english-language-global-number-one/) around the globe? The total number of [native English speakers](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population) adds up to about 350,000,000, which means that there are an estimated 1,150,000,000 people who speak English as an additional language.
 
-English is the global language of business, international government affairs, and the internet (over half of the world’s most popular websites are written in English). And the [demand for ESL educators has steadily climbed ](https://www.thoughtco.com/high-esl-job-market-demand-4088711)to reflect this growth. Not surprisingly, we at Wyzant found that ESL lessons are popular in cities with strong immigrant populations.
+English is the global language of business, international government affairs, and the internet (over half of the world’s most popular websites are written in English). And the [demand for ESL educators has steadily climbed ](https://www.thoughtco.com/high-esl-job-market-demand-4088711)to reflect this growth. Not surprisingly, we at Wyzant found that ESL lessons are most popular in cities with strong immigrant populations.
 
 **However, beginning in September 2016, we noted a 15 percent decline in the popularity of ESL lessons in the United States.**
 
 To dig into this trend a bit further, we examined the popularity of ESL lessons compared to other subjects on our platform across our major markets. These findings uncover the locales with the highest and lowest popularity of ESL from May 2016 - April 2017 at Wyzant.
 
-![StudentBlog_ESL_Chart1a (3).jpg](/blog/uploads/StudentBlog_ESL_Chart1a%20(3).jpg)
+![StudentBlog_ESL_Chart1a.jpg](/blog/uploads/StudentBlog_ESL_Chart1a.jpg)
 
 **It’s worth noting that the most popular cities for ESL are home to thriving immigrant populations.**
 
@@ -37,13 +37,13 @@ According to the latest U.S. Census Bureau numbers, the St. Louis area has seen 
 
 We also wanted to delve into the ESL trends across different age groups to see if the numbers changed.
 
-![StudentBlog_ESL_Chart2.jpg](/blog/uploads/StudentBlog_ESL_Chart2.jpg)
+![StudentBlog_ESL_Chart2 (1)-b3da94.jpg](/blog/uploads/StudentBlog_ESL_Chart2%20(1)-b3da94.jpg)
 
 Wyzant data revealed that although the overall popularity of ESL lessons had dipped, **ESL amongst adults is actually growing in popularity across the nation.**
 
 Interestingly, we found that the percentage of adults taking ESL lessons through Wyzant is higher in the Midwest than in other regions—and has even grown by more than 20 percent in the past year.
 
-![StudentBlog_ESL_Chart3.jpg](/blog/uploads/StudentBlog_ESL_Chart3.jpg)
+![StudentBlog_ESL_Chart3 (1)-37e66d.jpg](/blog/uploads/StudentBlog_ESL_Chart3%20(1)-37e66d.jpg)
 
 We discovered an **overall decline in ESL popularity in college students over the past year**. But like adults, among all college students seeking tutoring through Wyzant, the percentage of ESL lessons taken in the Midwest is higher than in other regions.
 
