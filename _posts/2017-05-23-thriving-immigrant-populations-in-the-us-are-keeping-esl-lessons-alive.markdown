@@ -27,7 +27,7 @@ English is the global language of business, international government affairs, an
 
 To dig into this trend a bit further, we examined the popularity of ESL lessons compared to other subjects on our platform across our major markets. These findings uncover the locales with the highest and lowest popularity of ESL from May 2016 - April 2017 at Wyzant.
 
-![StudentBlog_ESL_Chart1a (1).jpg](/blog/uploads/StudentBlog_ESL_Chart1a%20(1).jpg)
+![StudentBlog_ESL_Chart1a (3).jpg](/blog/uploads/StudentBlog_ESL_Chart1a%20(3).jpg)
 
 **It’s worth noting that the most popular cities for ESL are home to thriving immigrant populations.**
 
