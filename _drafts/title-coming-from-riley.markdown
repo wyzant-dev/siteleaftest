@@ -46,28 +46,34 @@ It’s important to read the word problem carefully to understand which recipes 
    Translation = Define what question the researcher is asking (alternative hypothesis) and what is the status quo (null hypothesis)
 
 2. Decide the significance level you will use to reject or fail to reject the null hypothesis (i.e. 10%, 5%, 1%)
-   Translation = How confident do you need to be in the results of your test? 90% confident? 95% confident? 99% confident?\
+   Translation = How confident do you need to be in the results of your test? 90% confident? 95% confident? 99% confident?\\
 
 3. Calculate your test statistic (z-statistic, t-statistic, etc.)
-   Translation = Calculate how different your test result is from what normally happens.\
+   Translation = Calculate how different your test result is from what normally happens.\\
 
 4. Find the critical value or P-value
-   Translation = If you repeated the experiment 100 times, how often would you come to a different conclusion?\
+   Translation = If you repeated the experiment 100 times, how often would you come to a different conclusion?\\
 
 5. Reject or fail to reject the null hypothesis and interpret the results
    Translation = Are you confident enough in the result of your test to say it’s not just due to random chance (reject the null hypothesis)?
 
 Don’t let hypothesis testing scare you. First, take a few deep breaths. Now, let’s look at the five steps in greater depth. I like to think of hypothesis testing the same way a baker thinks of a recipe.
 
+!\[Hypothesis%20testing%20visualized.jpg\](/blog/uploads/Hypothesis%20testing%20visualized.jpg)
+
 Steps #1, 2, 4, and 5 don’t change. In step #1, you gather all of the ingredients you need. In step #2, you preheat the oven. In step #4, you bake your dish in the oven. And in step #5, you remove your creation from the oven and serve. The only step that changes is #3, which addresses what ingredients you will use, and how to combine them. Again, you don’t have to memorize the formulas, and a computer or calculator can do the math for you. You just have to pick which formulas (or recipe) to use based on what the problem tells you (what ingredients you have).
 
 So, what kind of information will the problem give you to help you choose the right recipe or formula to use?
 
 First, look for info in the problem about the number of groups, and how to compare them. For example,
-If there is only one group, then you use a one-sample t-test or z-test (Use a z-test if you know the standard deviation of the population and your sample size is greater than 30. Otherwise use a t-test.)
-If you’re comparing the same group with a before-and-after test, then you will want the paired sample t-test
-If there are two separate groups, like a test and control group, then you will want a two sample t-test or z-test
-If you are looking at the effect of three or more groups, then you might use a one-way ANOVA test
+
+* * If there is only one group, then you use a one-sample t-test or z-test (Use a z-test if you know the standard deviation of the population and your sample size is greater than 30. Otherwise use a t-test.)
+
+  * If you’re comparing the same group with a before-and-after test, then you will want the paired sample t-test
+
+  * If there are two separate groups, like a test and control group, then you will want a two sample t-test or z-test
+
+  * If you are looking at the effect of three or more groups, then you might use a one-way ANOVA test
 
 Second, determine which statistic the problem is asking you about. Is it means or proportions? Use this information to select the right formula for calculating your z-score or t-score.
 
@@ -75,8 +81,8 @@ Read the problem carefully to understand how many groups and what statistic you�
 
 For more helpful tips, check out this guide on [hypothesis testing](https://www.wyzant.com/resources/lessons/math/statistics_and_probability/hypothesis_testing).
 
-Challenge #2: Probability
-[Meet Brian](https://www.wyzant.com/match/tutor/78150040). Brian has a PhD from the University of Illinois at Chicago in Game Theory, Probability, and Statistics. He currently teaches university-level statistics courses and has experience tutoring hundreds of students 1-to-1 who are struggling to understand statistics.
+\### Challenge #2: Probability
+*[Meet Brian](https://www.wyzant.com/match/tutor/78150040). Brian has a PhD from the University of Illinois at Chicago in Game Theory, Probability, and Statistics. He currently teaches university-level statistics courses and has experience tutoring hundreds of students 1-to-1 who are struggling to understand statistics.*
 
 I’ve created a clever way to help students develop intuition about the normal distribution. I call it “the pixel normal distribution,” and it will visually help you understand probability and the area under the curve.
 
