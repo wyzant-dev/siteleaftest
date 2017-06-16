@@ -16,9 +16,9 @@ No matter your career path, statistics can be an extremely intimidating subject.
 
 We chatted with our community of statistics students and tutors to understand the most frequently asked questions and biggest challenges students face in statistics today. Read on for the most common hiccups, and leave with a few pro tips that you can put to use, well, stat!
 
-\## Many students wonder
+## Many students wonder
 
-\## ”Why can’t I just skip statistics?”
+## "Why can’t I just skip statistics?"
 
 Oftentimes, stats can feel inescapable. That’s because people pursuing all kinds of careers have to pass a statistics course to achieve their larger professional goals. (Yes, even if they think they won’t ever use stats in their future jobs.)
 
@@ -26,7 +26,7 @@ No matter what career you’re pursuing, if you’re struggling with statistics 
 
 !\[Desired%20career%20path-ecd930.jpg\](/blog/uploads/Desired%20career%20path-ecd930.jpg)
 
-\## 70% of these students struggled with the same two concepts
+## 70% of these students struggled with the same two concepts
 
 Interviews with top statistics tutors on Wyzant confirm that students across degrees and career paths have similar struggles with statistics.
 
@@ -38,7 +38,7 @@ But here’s some good news: You don’t need to memorize the formulas or proced
 
 We sat down with professional statistics tutors to walk through the two biggest stats challenges that students face today—and got some very useful tips along the way.
 
-\### Challenge #1: Hypothesis Testing
+### Challenge #1: Hypothesis Testing
 
 *[Meet Mica](https://www.wyzant.com/match/tutor/75474730/). Mica has a Masters Degree in statistics, has worked as a statistician at The Gallup Organization, and has spent thousands of hours tutoring students struggling with statistics.*
 
@@ -50,7 +50,7 @@ See how the formulas are grouped together in different boxes?
 
 It’s important to read the word problem carefully to understand which recipes or formulas to use. But once you understand what the word problem is trying to solve, all you need to do is pick out the right statistic formula and follow the steps of the recipe to get the answer.
 
-\## Here are the basic steps to a hypothesis test:
+## Here are the basic steps to a hypothesis test:
 
 1. Set up the null & alternative hypothesis
    
@@ -101,7 +101,7 @@ Read the problem carefully to understand how many groups and what statistic you�
 
 For more helpful tips, check out this guide on [hypothesis testing](https://www.wyzant.com/resources/lessons/math/statistics_and_probability/hypothesis_testing).
 
-\### Challenge #2: Probability
+### Challenge #2: Probability
 
 *[Meet Brian](https://www.wyzant.com/match/tutor/78150040). Brian has a PhD from the University of Illinois at Chicago in Game Theory, Probability, and Statistics. He currently teaches university-level statistics courses and has experience tutoring hundreds of students 1-to-1 who are struggling to understand statistics.*
 
@@ -119,7 +119,7 @@ Typically, when students are introduced to the normal distribution, they’re gi
 
 For more probability tips, check out our guide on [statistics and probability](https://www.wyzant.com/resources/lessons/math/statistics_and_probability).
 
-\## Still feel like you’re struggling?
+## Still feel like you’re struggling?
 
 That’s okay. Statistics is a complicated subject and sometimes a little too easy to misunderstand. Know that you’re not alone, and that there are plenty of resources to help you along your path. Here are a few of our favorite websites packed with helpful statistics tips.
 
