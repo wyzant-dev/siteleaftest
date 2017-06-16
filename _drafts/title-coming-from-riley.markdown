@@ -67,13 +67,13 @@ So, what kind of information will the problem give you to help you choose the ri
 
 First, look for info in the problem about the number of groups, and how to compare them. For example,
 
-* * If there is only one group, then you use a one-sample t-test or z-test (Use a z-test if you know the standard deviation of the population and your sample size is greater than 30. Otherwise use a t-test.)
+* If there is only one group, then you use a one-sample t-test or z-test (Use a z-test if you know the standard deviation of the population and your sample size is greater than 30. Otherwise use a t-test.)
 
-  * If you’re comparing the same group with a before-and-after test, then you will want the paired sample t-test
+* If you’re comparing the same group with a before-and-after test, then you will want the paired sample t-test
 
-  * If there are two separate groups, like a test and control group, then you will want a two sample t-test or z-test
+* If there are two separate groups, like a test and control group, then you will want a two sample t-test or z-test
 
-  * If you are looking at the effect of three or more groups, then you might use a one-way ANOVA test
+* If you are looking at the effect of three or more groups, then you might use a one-way ANOVA test
 
 Second, determine which statistic the problem is asking you about. Is it means or proportions? Use this information to select the right formula for calculating your z-score or t-score.
 
@@ -90,16 +90,16 @@ I’ve created a clever way to help students develop intuition about the normal 
 
 Take a look at the graphic below.
 
+!\[Stats_pixel_v3.jpg\](/blog/uploads/Stats_pixel_v3.jpg)
+
 This 100-block pixel graphic approximates the shape of a normal distribution, but every block counts for 1% probability. If you simply count the blocks, you’ll get a sense of your probability in a certain region.
 
 Typically, when students are introduced to the normal distribution, they’re given a curve and told probability is the area under the curve. But this is still confusing. If you can look at the distribution and say each of these squares is equal to 1% probability, you can just count the squares to develop good intuition about what the normal distribution is and what it means.
 
 For more probability tips, check out our guide on [statistics and probability](https://www.wyzant.com/resources/lessons/math/statistics_and_probability).
 
-Still feel like you’re struggling?
+\## Still feel like you’re struggling?
 That’s okay. Statistics is a complicated subject and sometimes a little too easy to misunderstand. Know that you’re not alone, and that there are plenty of resources to help you along your path. Here are a few of our favorite websites packed with helpful statistics tips.
-
-[Khah Academy](www.khanacademy.org/math/statistics-probability)
 [Khan Academy](www.khanacademy.org/math/statistics-probability)
 
 [Annenberg Learner](www.learner.org/courses/againstallodds/index.html)
