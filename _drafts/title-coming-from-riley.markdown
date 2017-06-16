@@ -14,6 +14,8 @@ Oftentimes, stats can feel inescapable. That’s because people pursuing all kin
 
 No matter what career you’re pursuing, if you’re struggling with statistics you’re not alone. Here are the career paths of 235 students we surveyed who recently overcame their statistics challenges:
 
+!\[Desired%20career%20path-ecd930.jpg\](/blog/uploads/Desired%20career%20path-ecd930.jpg)
+
 **70% of these students struggled
 with the same two concepts**
 
