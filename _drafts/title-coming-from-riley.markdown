@@ -84,6 +84,8 @@ For more helpful tips, check out this guide on [hypothesis testing](https://www.
 \### Challenge #2: Probability
 *[Meet Brian](https://www.wyzant.com/match/tutor/78150040). Brian has a PhD from the University of Illinois at Chicago in Game Theory, Probability, and Statistics. He currently teaches university-level statistics courses and has experience tutoring hundreds of students 1-to-1 who are struggling to understand statistics.*
 
+!\[Probability%20is%20a%20very%20common%20struggle.jpg\](/blog/uploads/Probability%20is%20a%20very%20common%20struggle.jpg)
+
 I’ve created a clever way to help students develop intuition about the normal distribution. I call it “the pixel normal distribution,” and it will visually help you understand probability and the area under the curve.
 
 Take a look at the graphic below.
