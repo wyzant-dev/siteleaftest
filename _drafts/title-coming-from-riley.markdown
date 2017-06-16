@@ -31,9 +31,9 @@ But here’s some good news: You don’t need to memorize the formulas or proced
 We sat down with professional statistics tutors to walk through the two biggest stats challenges that students face today—and got some very useful tips along the way. 
  
 Challenge #1: Hypothesis Testing
-Meet Mica. Mica has a Masters Degree in statistics, has worked as a statistician at The Gallup Organization, and has spent thousands of hours tutoring students struggling with statistics.
+[Meet Mica](https://www.wyzant.com/match/tutor/75474730/). Mica has a Masters Degree in statistics, has worked as a statistician at The Gallup Organization, and has spent thousands of hours tutoring students struggling with statistics.
  
-First off, look at this formula sheet. There are A LOT of formulas, yes, but you’re not supposed to memorize them. I haven’t memorized them, and I teach this stuff. 
+First off, [look at this formula sheet](https://drive.google.com/file/d/0BwGwV23dlzDnSHJPN1pHLXU1Sm8/view). There are A LOT of formulas, yes, but you’re not supposed to memorize them. I haven’t memorized them, and I teach this stuff. 
  
 See how the formulas are grouped together in different boxes?
  
@@ -76,10 +76,10 @@ Second, determine which statistic the problem is asking you about. Is it means o
  
 Read the problem carefully to understand how many groups and what statistic you’re dealing with, and then pick the right formula (or recipe). That’s it! 
  
-For more helpful tips, check out this guide on hypothesis testing.
+For more helpful tips, check out this guide on [hypothesis testing](https://www.wyzant.com/resources/lessons/math/statistics_and_probability/hypothesis_testing).
  
 Challenge #2: Probability
-Meet Brian. Brian has a PhD from the University of Illinois at Chicago in Game Theory, Probability, and Statistics. He currently teaches university-level statistics courses and has experience tutoring hundreds of students 1-to-1 who are struggling to understand statistics. 
+[Meet Brian](https://www.wyzant.com/match/tutor/78150040). Brian has a PhD from the University of Illinois at Chicago in Game Theory, Probability, and Statistics. He currently teaches university-level statistics courses and has experience tutoring hundreds of students 1-to-1 who are struggling to understand statistics. 
  
 
 I’ve created a clever way to help students develop intuition about the normal distribution. I call it “the pixel normal distribution,” and it will visually help you understand probability and the area under the curve.
@@ -90,7 +90,7 @@ This 100-block pixel graphic approximates the shape of a normal distribution, bu
  
 Typically, when students are introduced to the normal distribution, they’re given a curve and told probability is the area under the curve. But this is still confusing. If you can look at the distribution and say each of these squares is equal to 1% probability, you can just count the squares to develop good intuition about what the normal distribution is and what it means.
  
-For more probability tips, check out our guide on statistics and probability.
+For more probability tips, check out our guide on [statistics and probability](https://www.wyzant.com/resources/lessons/math/statistics_and_probability).
  
 Still feel like you’re struggling? 
 That’s okay. Statistics is a complicated subject and sometimes a little too easy to misunderstand. Know that you’re not alone, and that there are plenty of resources to help you along your path. Here are a few of our favorite websites packed with helpful statistics tips.  
