@@ -7,8 +7,8 @@ No matter your career path, statistics can be an extremely intimidating subject.
 
 We chatted with our community of statistics students and tutors to understand the most frequently asked questions and biggest challenges students face in statistics today. Read on for the most common hiccups, and leave with a few pro tips that you can put to use, well, stat!
 
-**Many students wonder**
-**”Why can’t I just skip statistics?”**
+\## Many students wonder
+\## ”Why can’t I just skip statistics?”
 
 Oftentimes, stats can feel inescapable. That’s because people pursuing all kinds of careers have to pass a statistics course to achieve their larger professional goals. (Yes, even if they think they won’t ever use stats in their future jobs.)
 
@@ -16,8 +16,8 @@ No matter what career you’re pursuing, if you’re struggling with statistics 
 
 !\[Desired%20career%20path-ecd930.jpg\](/blog/uploads/Desired%20career%20path-ecd930.jpg)
 
-**70% of these students struggled
-with the same two concepts**
+\## 70% of these students struggled
+\## with the same two concepts
 
 Interviews with top statistics tutors on Wyzant confirm that students across degrees and career paths have similar struggles with statistics.
 
@@ -27,7 +27,7 @@ But here’s some good news: You don’t need to memorize the formulas or proced
 
 We sat down with professional statistics tutors to walk through the two biggest stats challenges that students face today—and got some very useful tips along the way.
 
-**Challenge #1: Hypothesis Testing**
+\### Challenge #1: Hypothesis Testing
 [Meet Mica](https://www.wyzant.com/match/tutor/75474730/). Mica has a Masters Degree in statistics, has worked as a statistician at The Gallup Organization, and has spent thousands of hours tutoring students struggling with statistics.
 
 First off, [look at this formula sheet](https://drive.google.com/file/d/0BwGwV23dlzDnSHJPN1pHLXU1Sm8/view). There are A LOT of formulas, yes, but you’re not supposed to memorize them. I haven’t memorized them, and I teach this stuff.
