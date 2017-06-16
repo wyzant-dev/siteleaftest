@@ -36,21 +36,23 @@ First off, [look at this formula sheet](https://drive.google.com/file/d/0BwGwV23
 
 See how the formulas are grouped together in different boxes?
 
+!\[Think%20about%20hypothesis%20testing.jpg\](/blog/uploads/Think%20about%20hypothesis%20testing.jpg)
+
 It’s important to read the word problem carefully to understand which recipes or formulas to use. But once you understand what the word problem is trying to solve, all you need to do is pick out the right statistic formula and follow the steps of the recipe to get the answer.
 
-Here are the basic steps to a hypothesis test:
+\## Here are the basic steps to a hypothesis test:
 
 1. Set up the null & alternative hypothesis
    Translation = Define what question the researcher is asking (alternative hypothesis) and what is the status quo (null hypothesis)
 
 2. Decide the significance level you will use to reject or fail to reject the null hypothesis (i.e. 10%, 5%, 1%)
-   Translation = How confident do you need to be in the results of your test? 90% confident? 95% confident? 99% confident?
+   Translation = How confident do you need to be in the results of your test? 90% confident? 95% confident? 99% confident?\
 
 3. Calculate your test statistic (z-statistic, t-statistic, etc.)
-   Translation = Calculate how different your test result is from what normally happens.
+   Translation = Calculate how different your test result is from what normally happens.\
 
 4. Find the critical value or P-value
-   Translation = If you repeated the experiment 100 times, how often would you come to a different conclusion?
+   Translation = If you repeated the experiment 100 times, how often would you come to a different conclusion?\
 
 5. Reject or fail to reject the null hypothesis and interpret the results
    Translation = Are you confident enough in the result of your test to say it’s not just due to random chance (reject the null hypothesis)?
