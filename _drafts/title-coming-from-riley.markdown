@@ -26,8 +26,8 @@ But here’s some good news: You don’t need to memorize the formulas or proced
 We sat down with professional statistics tutors to walk through the two biggest stats challenges that students face today—and got some very useful tips along the way.
 
 **Challenge #1: Hypothesis Testing**
-*fdsjkl [Meet Mica](https://www.wyzant.com/match/tutor/75474730/). Mica has a Masters Degree in statistics, has worked as a statistician at The Gallup Organization, and has spent thousands of hours tutoring students struggling with statistics.
-*
+[Meet Mica](https://www.wyzant.com/match/tutor/75474730/). Mica has a Masters Degree in statistics, has worked as a statistician at The Gallup Organization, and has spent thousands of hours tutoring students struggling with statistics.
+
 First off, [look at this formula sheet](https://drive.google.com/file/d/0BwGwV23dlzDnSHJPN1pHLXU1Sm8/view). There are A LOT of formulas, yes, but you’re not supposed to memorize them. I haven’t memorized them, and I teach this stuff.
 
 See how the formulas are grouped together in different boxes?
