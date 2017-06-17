@@ -16,9 +16,7 @@ No matter your career path, statistics can be an extremely intimidating subject.
 
 We chatted with our community of statistics students and tutors to understand the most frequently asked questions and biggest challenges students face in statistics today. Read on for the most common hiccups, and leave with a few pro tips that you can put to use, well, stat!
 
-## Many students wonder
-
-## "Why can’t I just skip statistics?"
+## Many students wonder, "Why can’t I just skip statistics?"
 
 Oftentimes, stats can feel inescapable. That’s because people pursuing all kinds of careers have to pass a statistics course to achieve their larger professional goals. (Yes, even if they think they won’t ever use stats in their future jobs.)
 
@@ -53,29 +51,24 @@ It’s important to read the word problem carefully to understand which recipes 
 ## Here are the basic steps to a hypothesis test:
 
 1. Set up the null & alternative hypothesis
-   
 
-   *Translation = Define what question the researcher is asking (alternative hypothesis) and what is the status quo (null hypothesis)*
+*Translation = Define what question the researcher is asking (alternative hypothesis) and what is the status quo (null hypothesis)*
 
-2. Decide the significance level you will use to reject or fail to reject the null hypothesis (i.e. 10%, 5%, 1%)
-   
+1. Decide the significance level you will use to reject or fail to reject the null hypothesis (i.e. 10%, 5%, 1%)
 
-   *Translation = How confident do you need to be in the results of your test? 90% confident? 95% confident? 99% confident?\\*
+*Translation = How confident do you need to be in the results of your test? 90% confident? 95% confident? 99% confident?\\*
 
-3. Calculate your test statistic (z-statistic, t-statistic, etc.)
-   
+1. Calculate your test statistic (z-statistic, t-statistic, etc.)
 
-   *Translation = Calculate how different your test result is from what normally happens.\\*
+*Translation = Calculate how different your test result is from what normally happens.\\*
 
-4. Find the critical value or P-value
-   
+1. Find the critical value or P-value
 
-   *Translation = If you repeated the experiment 100 times, how often would you come to a different conclusion?\\*
+*Translation = If you repeated the experiment 100 times, how often would you come to a different conclusion?\\*
 
-5. Reject or fail to reject the null hypothesis and interpret the results
-   
+1. Reject or fail to reject the null hypothesis and interpret the results
 
-   *Translation = Are you confident enough in the result of your test to say it’s not just due to random chance (reject the null hypothesis)?*
+*Translation = Are you confident enough in the result of your test to say it’s not just due to random chance (reject the null hypothesis)?*
 
 Don’t let hypothesis testing scare you. First, take a few deep breaths. Now, let’s look at the five steps in greater depth. I like to think of hypothesis testing the same way a baker thinks of a recipe.
 
@@ -122,7 +115,6 @@ For more probability tips, check out our guide on [statistics and probability](h
 ## Still feel like you’re struggling?
 
 That’s okay. Statistics is a complicated subject and sometimes a little too easy to misunderstand. Know that you’re not alone, and that there are plenty of resources to help you along your path. Here are a few of our favorite websites packed with helpful statistics tips.
-
 
 [Khan Academy](www.khanacademy.org/math/statistics-probability)
 
