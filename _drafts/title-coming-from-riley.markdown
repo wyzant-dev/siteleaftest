@@ -132,7 +132,7 @@ That’s okay. Statistics is a complicated subject and sometimes a little too ea
 
 [Marlene L.](https://www.wyzant.com/match/tutor/76812940)
 
-[Ryan N.](https://www.wyzant.com/match/tutor/76086620) 
+[Ryan N.](https://www.wyzant.com/match/tutor/76086620)
 
 [Brian P.](https://www.wyzant.com/match/tutor/78150040)
 
