@@ -103,8 +103,7 @@ For more helpful tips, check out this guide on [hypothesis testing](https://www.
 I’ve created a clever way to help students develop intuition about the normal distribution. I call it “the pixel normal distribution,” and it will visually help you understand probability and the area under the curve.
 
 Take a look at the graphic below.
-
-!\[Stats_pixel_v3.jpg\](/blog/uploads/Stats_pixel_v3.jpg)
+![Stats_pixel_v3.jpg](/blog/uploads/Stats_pixel_v3.jpg)
 
 This 100-block pixel graphic approximates the shape of a normal distribution, but every block counts for 1% probability. If you simply count the blocks, you’ll get a sense of your probability in a certain region.
 
