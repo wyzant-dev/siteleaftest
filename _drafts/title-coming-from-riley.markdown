@@ -29,7 +29,7 @@ No matter what career you’re pursuing, if you’re struggling with statistics 
 
 Interviews with top statistics tutors on Wyzant confirm that students across degrees and career paths have similar struggles with statistics.
 
-![Biggest%20struggles.jpg](/blog/uploads/Biggest%20struggles.jpg)
+![Stats_struggles_v5.jpg](/blog/uploads/Stats_struggles_v5.jpg)
 
 Interestingly, 45% of the students we surveyed said “I’m not a math person,” which only adds to the anxiety and mystery around stats. Even more students feel overwhelmed by all the formulas and procedures, which they *think* they need to remember.
 
