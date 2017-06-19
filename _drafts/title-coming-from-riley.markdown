@@ -125,3 +125,12 @@ That’s okay. Statistics is a complicated subject and sometimes a little too ea
 [OnlineStatBook](www.onlinestatbook.com/)
 
 ![Stats_tips_v5_smallerfilesize.jpg](/blog/uploads/Stats_tips_v5_smallerfilesize.jpg)
+
+Meet the experts
+[Douglas E.](https://www.wyzant.com/match/tutor/85890224)
+
+[Marlene L.](https://www.wyzant.com/match/tutor/76812940)
+
+[Ryan N.](https://www.wyzant.com/match/tutor/76086620) 
+
+[Mica W.](https://www.wyzant.com/match/tutor/75474730)
