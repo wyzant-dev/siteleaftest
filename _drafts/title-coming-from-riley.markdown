@@ -2,6 +2,7 @@
 title: Title coming from Riley
 date: 2017-06-16 12:16:00 -05:00
 sub-headline: 'Quick Tips to Help You Understand Hypothesis Testing and Probability '
+hero-image: "/blog/uploads/Blog_Stats_Header_opt4.png"
 meta-description: "**No matter what career you’re pursuing, if you’re struggling with
   statistics you’re not alone. Interviews with top statistics tutors on Wyzant confirm
   that students across degrees and career paths have similar struggles with statistics.
