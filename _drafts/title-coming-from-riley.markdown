@@ -73,7 +73,7 @@ It’s important to read the word problem carefully to understand which recipes 
 
 Don’t let hypothesis testing scare you. First, take a few deep breaths. Now, let’s look at the five steps in greater depth. I like to think of hypothesis testing the same way a baker thinks of a recipe.
 
-![Hypothesis%20testing%20visualized.jpg](/blog/uploads/Hypothesis%20testing%20visualized.jpg)
+![Stats_hypothesistestingvisualized_v5.jpg](/blog/uploads/Stats_hypothesistestingvisualized_v5.jpg)
 
 Steps #1, 2, 4, and 5 don’t change. In step #1, you gather all of the ingredients you need. In step #2, you preheat the oven. In step #4, you bake your dish in the oven. And in step #5, you remove your creation from the oven and serve. The only step that changes is #3, which addresses what ingredients you will use, and how to combine them. Again, you don’t have to memorize the formulas, and a computer or calculator can do the math for you. You just have to pick which formulas (or recipe) to use based on what the problem tells you (what ingredients you have).
 
