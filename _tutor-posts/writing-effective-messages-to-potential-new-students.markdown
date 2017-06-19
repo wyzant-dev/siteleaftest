@@ -15,5 +15,9 @@ Keep these three tips in mind when responding to a potential new student:
 * Ask questions and express interest in helping them find the right tutor for their specific needs. Even if this doesn’t end up being you, both of you will be better off in the long run if you ask the right questions up front.
 
 * Set up arrangements for your lesson. You will already have their availability and meeting preferences from their original request, so be sure to propose a time that works for both of you.
+
+As a reminder, here's how your message will appear on site for new students without payment information on file.
+
+![BillingTestRollOUT_BodyImage_FullSize%20(1).png](/blog/uploads/BillingTestRollOUT_BodyImage_FullSize%20(1).png)
  
-Ready to find some new students? Go to messages.
+Ready to find some new students? Go to [messages](https://www.wyzant.com/tutor/messaging/).
