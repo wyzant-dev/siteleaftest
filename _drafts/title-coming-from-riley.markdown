@@ -52,7 +52,6 @@ It’s important to read the word problem carefully to understand which recipes 
 ## Here are the basic steps to a hypothesis test:
 
 1\. Set up the null & alternative hypothesis
-
 *Translation = Define what question the researcher is asking (alternative hypothesis) and what is the status quo (null hypothesis)*
 
 2\. Decide the significance level you will use to reject or fail to reject the null hypothesis (i.e. 10%, 5%, 1%)
