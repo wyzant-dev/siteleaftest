@@ -123,4 +123,4 @@ That’s okay. Statistics is a complicated subject and sometimes a little too ea
 
 [OnlineStatBook](www.onlinestatbook.com/)
 
-![Stats_tips_v4%20(1).jpg](/blog/uploads/Stats_tips_v4%20(1).jpg)
+![Stats_tips_v5_smallerfilesize.jpg](/blog/uploads/Stats_tips_v5_smallerfilesize.jpg)
