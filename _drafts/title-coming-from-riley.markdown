@@ -133,4 +133,6 @@ Meet the experts
 
 [Ryan N.](https://www.wyzant.com/match/tutor/76086620) 
 
+[Brian P.](https://www.wyzant.com/match/tutor/78150040)
+
 [Mica W.](https://www.wyzant.com/match/tutor/75474730)
