@@ -1,7 +1,7 @@
 ---
 title: An important update to student payment information.
 date: 2017-06-19 10:52:00 -05:00
-hero-image: "/blog/uploads/TutorBlog_BillingTestRollOut_Header.jpg"
+hero-image: "/blog/uploads/TutorBlog_BillingTestRollOut_Header_v2.jpg"
 isHidden: true
 ---
 
