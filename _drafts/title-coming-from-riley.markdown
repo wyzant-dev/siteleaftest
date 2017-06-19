@@ -22,13 +22,13 @@ Oftentimes, stats can feel inescapable. That’s because people pursuing all kin
 
 No matter what career you’re pursuing, if you’re struggling with statistics you’re not alone. Here are the career paths of 235 students we surveyed who recently overcame their statistics challenges:
 
-!\[Desired%20career%20path-ecd930.jpg\](/blog/uploads/Desired%20career%20path-ecd930.jpg)
+![Desired%20career%20path-ecd930.jpg](/blog/uploads/Desired%20career%20path-ecd930.jpg)
 
 ## 70% of these students struggled with the same two concepts
 
 Interviews with top statistics tutors on Wyzant confirm that students across degrees and career paths have similar struggles with statistics.
 
-!\[Biggest%20struggles.jpg\](/blog/uploads/Biggest%20struggles.jpg)
+![Biggest%20struggles.jpg](/blog/uploads/Biggest%20struggles.jpg)
 
 Interestingly, 45% of the students we surveyed said “I’m not a math person,” which only adds to the anxiety and mystery around stats. Even more students feel overwhelmed by all the formulas and procedures, which they *think* they need to remember.
 
@@ -44,7 +44,7 @@ First off, [look at this formula sheet](https://drive.google.com/file/d/0BwGwV23
 
 See how the formulas are grouped together in different boxes?
 
-!\[Think%20about%20hypothesis%20testing.jpg\](/blog/uploads/Think%20about%20hypothesis%20testing.jpg)
+![Think%20about%20hypothesis%20testing.jpg](/blog/uploads/Think%20about%20hypothesis%20testing.jpg)
 
 It’s important to read the word problem carefully to understand which recipes or formulas to use. But once you understand what the word problem is trying to solve, all you need to do is pick out the right statistic formula and follow the steps of the recipe to get the answer.
 
@@ -72,7 +72,7 @@ It’s important to read the word problem carefully to understand which recipes 
 
 Don’t let hypothesis testing scare you. First, take a few deep breaths. Now, let’s look at the five steps in greater depth. I like to think of hypothesis testing the same way a baker thinks of a recipe.
 
-!\[Hypothesis%20testing%20visualized.jpg\](/blog/uploads/Hypothesis%20testing%20visualized.jpg)
+![Hypothesis%20testing%20visualized.jpg](/blog/uploads/Hypothesis%20testing%20visualized.jpg)
 
 Steps #1, 2, 4, and 5 don’t change. In step #1, you gather all of the ingredients you need. In step #2, you preheat the oven. In step #4, you bake your dish in the oven. And in step #5, you remove your creation from the oven and serve. The only step that changes is #3, which addresses what ingredients you will use, and how to combine them. Again, you don’t have to memorize the formulas, and a computer or calculator can do the math for you. You just have to pick which formulas (or recipe) to use based on what the problem tells you (what ingredients you have).
 
@@ -98,7 +98,7 @@ For more helpful tips, check out this guide on [hypothesis testing](https://www.
 
 *[Meet Brian](https://www.wyzant.com/match/tutor/78150040). Brian has a PhD from the University of Illinois at Chicago in Game Theory, Probability, and Statistics. He currently teaches university-level statistics courses and has experience tutoring hundreds of students 1-to-1 who are struggling to understand statistics.*
 
-!\[Probability%20is%20a%20very%20common%20struggle.jpg\](/blog/uploads/Probability%20is%20a%20very%20common%20struggle.jpg)
+![Probability%20is%20a%20very%20common%20struggle.jpg](/blog/uploads/Probability%20is%20a%20very%20common%20struggle.jpg)
 
 I’ve created a clever way to help students develop intuition about the normal distribution. I call it “the pixel normal distribution,” and it will visually help you understand probability and the area under the curve.
 
@@ -123,4 +123,4 @@ That’s okay. Statistics is a complicated subject and sometimes a little too ea
 
 [OnlineStatBook](www.onlinestatbook.com/)
 
-!\[Tutor%20tips.jpg\](/blog/uploads/Tutor%20tips.jpg)
+![Tutor%20tips.jpg](/blog/uploads/Tutor%20tips.jpg)
