@@ -20,4 +20,4 @@ As a reminder, here's how your message will appear on site for new students with
 
 ![BillingTestRollOUT_BodyImage_FullSize%20(1).png](/blog/uploads/BillingTestRollOUT_BodyImage_FullSize%20(1).png)
  
-Ready to find some new students? Go to [messages](https://www.wyzant.com/tutor/messaging/).
+Ready to try it [out](https://www.wyzant.com/tutor/messaging/)?
