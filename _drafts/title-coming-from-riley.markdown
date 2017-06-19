@@ -1,6 +1,9 @@
 ---
 title: Master the Hardest Parts of Stats in a Snap
 date: 2017-06-16 12:16:00 -05:00
+tags:
+- Statistics
+- Math
 sub-headline: Quick Tips to Help You Understand Hypothesis Testing and Probability
 hero-image: "/blog/uploads/Blog_Stats_Header_opt4.png"
 meta-description: "**No matter what career you’re pursuing, if you’re struggling with
