@@ -121,11 +121,11 @@ That’s okay. Statistics is a complicated subject and sometimes a little too ea
 
 [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
-[Annenberg Learner](www.learner.org/courses/againstallodds/index.html)
+[Annenberg Learner](http://www.learner.org/courses/againstallodds/index.html)
 
-[Statistics How To](http://www.learner.org/courses/againstallodds/index.html)
+[Statistics How To](www.statisticshowto.com/probability-and-statistics/)
 
-[OnlineStatBook](http://onlinestatbook.com/)
+[OnlineStatBook](http://www.statisticshowto.com/probability-and-statistics/)
 
 ![Stats_tips_v5_smallerfilesize.jpg](/blog/uploads/Stats_tips_v5_smallerfilesize.jpg)
 
