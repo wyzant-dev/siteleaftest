@@ -13,6 +13,8 @@ Here’s how it will work.
  
 If a student foregoes adding payment information during the signup process, they will only be able to send one message to a tutor before being prompted to add it to their account. 
  
+![BillingTestRollOUT_BodyImage_FullSize%20(1).png](/blog/uploads/BillingTestRollOUT_BodyImage_FullSize%20(1).png)
+
 We will handle all of the communication to students about how to do so—from app and dashboard notifications to a series of emails—to ensure a better experience from the get-go for both students and tutors alike. 
  
 We’ve been testing this new approach with a group of students and it’s proven to be a better experience, helping tutors communicate more efficiently, and helping students get to lessons faster. 
@@ -20,5 +22,5 @@ We’ve been testing this new approach with a group of students and it’s prove
 ## What does this mean for you?
 More time to craft better messages to potential new students. And, the more thoughtful your initial message is, the better your chances are that you will stand out from other tutors and book a new lesson.
  
-Looking for tips on how to craft a great message to potential new students? We dedicated a blog post to help you stand out from the crowd. Learn how to write effective messages.
+Looking for tips on how to craft a great message to potential new students? We dedicated a blog post to help you stand out from the crowd. Learn how to write effective messages [here](https://www.wyzant.com/blog/tutor/writing-effective-messages-to-potential-new-students/).
 
