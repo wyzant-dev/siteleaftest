@@ -1,6 +1,6 @@
 ---
 title: Writing effective messages to potential new students.
-date: 2017-06-15 17:58:00 -05:00
+date: 2017-06-19 10:00:00 -05:00
 isHidden: true
 ---
 
