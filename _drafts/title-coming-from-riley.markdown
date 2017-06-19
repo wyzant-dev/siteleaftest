@@ -1,7 +1,7 @@
 ---
-title: Title coming from Riley
+title: Master the Hardest Parts of Stats in a Snap
 date: 2017-06-16 12:16:00 -05:00
-sub-headline: 'Quick Tips to Help You Understand Hypothesis Testing and Probability '
+sub-headline: Quick Tips to Help You Understand Hypothesis Testing and Probability
 hero-image: "/blog/uploads/Blog_Stats_Header_opt4.png"
 meta-description: "**No matter what career you’re pursuing, if you’re struggling with
   statistics you’re not alone. Interviews with top statistics tutors on Wyzant confirm
@@ -11,7 +11,6 @@ post-description: "**We chatted with our community of statistics students and tu
   to understand the most frequently asked questions and biggest challenges students
   face in statistics today. Read on for the most common hiccups, and leave with a
   few pro tips that you can put to use, well, stat!**"
-isHidden: true
 ---
 
 No matter your career path, statistics can be an extremely intimidating subject. It makes most students nervous, insecure, and afraid to fail—and with good reason. Statistics uses Greek symbols and is built on concepts that are confusing for human brains to grasp. No wonder so many students struggle with this subject.
@@ -53,7 +52,6 @@ It’s important to read the word problem carefully to understand which recipes 
 ## Here are the basic steps to a hypothesis test:
 
 1\. Set up the null & alternative hypothesis
-
 *Translation = Define what question the researcher is asking (alternative hypothesis) and what is the status quo (null hypothesis)*
 
 2\. Decide the significance level you will use to reject or fail to reject the null hypothesis (i.e. 10%, 5%, 1%)
@@ -125,4 +123,4 @@ That’s okay. Statistics is a complicated subject and sometimes a little too ea
 
 [OnlineStatBook](www.onlinestatbook.com/)
 
-![Stats_tips_v4%20(1).jpg](/blog/uploads/Stats_tips_v4%20(1).jpg)
+![Stats_tips_v5_smallerfilesize.jpg](/blog/uploads/Stats_tips_v5_smallerfilesize.jpg)
