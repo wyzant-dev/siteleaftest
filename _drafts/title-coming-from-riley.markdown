@@ -116,17 +116,18 @@ For more probability tips, check out our guide on [statistics and probability](h
 
 That’s okay. Statistics is a complicated subject and sometimes a little too easy to misunderstand. Know that you’re not alone, and that there are plenty of resources to help you along your path. Here are a few of our favorite websites packed with helpful statistics tips.
 
-[Khan Academy](http://www.khanacademy.org/math/statistics-probability)
+[Khan Academy](www.khanacademy.org/math/statistics-probability)
 
-[Annenberg Learner](http://www.learner.org/courses/againstallodds/index.html)
+[Annenberg Learner](www.learner.org/courses/againstallodds/index.html)
 
-[Statistics How To](https://www.statisticshowto.com/probability-and-statistics)
+[Statistics How To](www.statisticshowto.com/probability-and-statistics/)
 
-[OnlineStatBook](http://www.onlinestatbook.com)
+[OnlineStatBook](http://onlinestatbook.com/)
 
 ![Stats_tips_v5_smallerfilesize.jpg](/blog/uploads/Stats_tips_v5_smallerfilesize.jpg)
 
-Meet the experts
+## Meet the experts
+
 [Douglas E.](https://www.wyzant.com/match/tutor/85890224)
 
 [Marlene L.](https://www.wyzant.com/match/tutor/76812940)
