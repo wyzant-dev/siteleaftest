@@ -123,9 +123,9 @@ That’s okay. Statistics is a complicated subject and sometimes a little too ea
 
 [Annenberg Learner](http://www.learner.org/courses/againstallodds/index.html)
 
-[Statistics How To](www.statisticshowto.com/probability-and-statistics/)
+[Statistics How To](http://www.statisticshowto.com/probability-and-statistics/)
 
-[OnlineStatBook](http://www.statisticshowto.com/probability-and-statistics/)
+[OnlineStatBook](http://onlinestatbook.com/)
 
 ![Stats_tips_v5_smallerfilesize.jpg](/blog/uploads/Stats_tips_v5_smallerfilesize.jpg)
 
