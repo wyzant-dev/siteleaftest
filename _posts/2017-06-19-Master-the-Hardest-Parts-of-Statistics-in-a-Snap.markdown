@@ -5,7 +5,7 @@ tags:
 - Statistics
 - Math
 sub-headline: Quick Tips to Help You Understand Hypothesis Testing and Probability
-hero-image: "/blog/uploads/Blog_Stats_Header_opt4.png"
+hero-image: "/blog/uploads/Blog_Stats_Header_opt7.jpg"
 meta-description: "**No matter what career you’re pursuing, if you’re struggling with
   statistics you’re not alone. Interviews with top statistics tutors on Wyzant confirm
   that students across degrees and career paths have similar struggles with statistics.
