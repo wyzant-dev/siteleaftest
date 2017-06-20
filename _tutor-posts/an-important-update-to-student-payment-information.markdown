@@ -23,5 +23,5 @@ We’ve been testing this new approach with a group of students and it’s prove
 ## What does this mean for you?
 More time to craft better messages to potential new students. And, the more thoughtful your initial message is, the better your chances are that you will stand out from other tutors and book a new lesson.
  
-Looking for tips on how to craft a great message to potential new students? We dedicated a blog post to help you stand out from the crowd. Get tips[here](https://www.wyzant.com/blog/tutor/writing-effective-messages-to-potential-new-students/).
+Looking for tips on how to craft a great message to potential new students? We dedicated a blog post to help you stand out from the crowd. Get tips [here](https://www.wyzant.com/blog/tutor/writing-effective-messages-to-potential-new-students/).
 
