@@ -2,7 +2,6 @@
 title: An important update to student payment information.
 date: 2017-06-20 13:02:00 -05:00
 hero-image: "/blog/uploads/Stocksy_txpd65e1f18GoX100_Medium_1411678.jpg"
-isHidden: true
 ---
 
 We’ve heard from many tutors how frustrating and time consuming it can be instructing students to add payment information to their accounts. We listened, and now we’re rolling out an important update to how we talk to students about adding payment information—so you don’t have to anymore.
