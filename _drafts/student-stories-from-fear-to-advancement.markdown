@@ -5,7 +5,7 @@ date: 2017-06-22 13:33:00 -05:00
 
 While immersing himself in a new work project, Brian Sullivan found himself at a crossroads – and realized he needed help.
 
-> “I was compelled by need and fear, as is often the case,” Sullivan says with a laugh. 
+> “I was compelled by need and fear, as is often the case,” Sullivan says with a laugh.
 
 “I’m in a position where I’ve co-founded a new business in the technology software service field, which is competitive – you have to move quickly and be willing to pivot. I didn’t anticipate just how rapidly things change, and how quickly the data iterative process has to occur. I had a need to get things done, and I was afraid that if I couldn’t move fast enough, I’d get swamped by my competition.”
 
@@ -13,7 +13,9 @@ As the chief science officer for Morphii.com, a software-as-a-service tech busin
 
 As part of the tech industry, Sullivan knew time was of the essence – with things moving so fast, he didn’t have the time to read books or do online tutorials, which he describes as being “overly laborious.” He knew he needed support until he could develop the skill set to deal with the data himself.
 
-“At the age of 49, I’d never thought of myself as needing a tutor,” he says. “It was hubris. I’d lost sight of the fact that I didn’t know what I didn’t know. Once I had the opportunity to dive more deeply into the data I was working with, I was confronted with naïveté – and the degradation of knowledge that I had years ago, but hadn’t exercised.”
+> “At the age of 49, I’d never thought of myself as needing a tutor,” he says. 
+
+“It was hubris. I’d lost sight of the fact that I didn’t know what I didn’t know. Once I had the opportunity to dive more deeply into the data I was working with, I was confronted with naïveté – and the degradation of knowledge that I had years ago, but hadn’t exercised.”
 
 Sullivan had learned statistics manipulation of data 25 years ago, while studying to become a psychologist in grad school. Not only had it had been some time since he’d used those skills, he also knew there were more recent advancements that could help him meet his research goals. Rather than throw in the towel or outsource, Sullivan came to Wyzant for support.
 
