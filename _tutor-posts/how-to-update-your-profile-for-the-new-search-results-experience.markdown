@@ -15,9 +15,7 @@ Launching this summer (giving you a head start), we’ll start displaying new su
 
 You now have the ability to write headlines that are specific to each of your subjects that showcase your relevant expertise. This change will launch [X date], but you can start writing your headlines today. Here’s how:
 
-1. In your profile, visit the [Subjects](https://www.wyzant.com/tutor/subjects/) page
-
-2. Click on a subject, and you’ll see the following pop-up:
+In your profile, visit the [Subjects](https://www.wyzant.com/tutor/subjects/) page. Click on a subject, and you’ll see the following pop-up:
 
 <br>
 
@@ -25,7 +23,7 @@ You now have the ability to write headlines that are specific to each of your su
 
 <br>
 
-3. In the first field, compose a title, up to 70 characters, specific to your expertise and qualifications in that subject. You should consider some of the following:
+In the first field, compose a title, up to 70 characters, specific to your expertise and qualifications in that subject. You should consider some of the following:
 
 * Years of experience teaching or tutoring that subject
 * Degree(s) related to the subject
