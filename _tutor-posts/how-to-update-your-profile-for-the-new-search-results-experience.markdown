@@ -1,6 +1,7 @@
 ---
 title: How to update your profile for the new search results experience.
 date: 2017-06-27 16:47:00 -05:00
+hero-image: "/blog/uploads/625733492.jpg"
 isHidden: true
 ---
 
@@ -18,7 +19,11 @@ You now have the ability to write headlines that are specific to each of your su
 
 2. Click on a subject, and you’ll see the following pop-up:
 
+<br>
+
 ![JuneComms_BlogImage_062317.png](/blog/uploads/JuneComms_BlogImage_062317.png)
+
+<br>
 
 3. In the first field, compose a title, up to 70 characters, specific to your expertise and qualifications in that subject. You should consider some of the following:
 
