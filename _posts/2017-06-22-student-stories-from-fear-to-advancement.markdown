@@ -3,6 +3,8 @@ title: 'Student Stories: From Fear to Advancement'
 date: 2017-06-22 13:33:00 -05:00
 ---
 
+![Social_June_StudentProfiles_Instagram_1080x1080.jpg](/blog/uploads/Social_June_StudentProfiles_Instagram_1080x1080.jpg)
+
 While immersing himself in a new work project, Brian Sullivan found himself at a crossroads – and realized he needed help.
 
 > “I was compelled by need and fear, as is often the case,” Sullivan says with a laugh.
@@ -32,5 +34,3 @@ Sullivan is still immersed in tutoring, which he started in March of 2017. Curre
 “We can’t learn unless we admit what we don’t know,” he says. “So if people are afraid to get started with a Wyzant tutor, I would encourage them to select one and say, ‘I’m intimidated – this is scary to me.’ Odds are good that you’ll find someone who says, “I get that – that’s okay. Tell me what you want to accomplish, and I’ll tell you how to get there.’
 
 “Joanna was really good about handling this,” he continues. “My relationship with her has made all the difference in my willingness to set up a lesson, and admit that I don’t know what she knows, but she can get me there.”
-
-![Social_June_StudentProfiles_Instagram_1080x1080.jpg](/blog/uploads/Social_June_StudentProfiles_Instagram_1080x1080.jpg)
