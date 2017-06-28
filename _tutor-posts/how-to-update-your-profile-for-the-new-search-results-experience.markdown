@@ -1,7 +1,7 @@
 ---
 title: How to update your profile for the new search results experience.
 date: 2017-06-27 16:47:00 -05:00
-hero-image: "/blog/uploads/625733492.jpg"
+hero-image: "/blog/uploads/iStock-625733492.jpg"
 isHidden: true
 ---
 
