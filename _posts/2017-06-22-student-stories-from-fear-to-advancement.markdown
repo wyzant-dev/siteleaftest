@@ -13,7 +13,7 @@ As the chief science officer for Morphii.com, a software-as-a-service tech busin
 
 As part of the tech industry, Sullivan knew time was of the essence – with things moving so fast, he didn’t have the time to read books or do online tutorials, which he describes as being “overly laborious.” He knew he needed support until he could develop the skill set to deal with the data himself.
 
-> “At the age of 49, I’d never thought of myself as needing a tutor,” he says. 
+> “At the age of 49, I’d never thought of myself as needing a tutor,” he says.
 
 “It was hubris. I’d lost sight of the fact that I didn’t know what I didn’t know. Once I had the opportunity to dive more deeply into the data I was working with, I was confronted with naïveté – and the degradation of knowledge that I had years ago, but hadn’t exercised.”
 
