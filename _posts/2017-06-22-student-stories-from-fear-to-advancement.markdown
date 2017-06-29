@@ -27,7 +27,7 @@ But it wasn’t just Joanna’s demeanor that put Sullivan at ease – it was he
 
 Sullivan appreciated Joanna’s ability to work quickly to show him what could be done, then going back to show him how it was done, allowing him to focus on his learning goals. As a result, he’s experiencing great professional strides from his tutoring experiences with Joanna.
 
-> “I’ve begun to have those moments where I’m no longer struggling to remember what to do,” he says. “Last week I had some new data to work with, and thought, ‘No, I have to put that off until I can meet with my tutor.’ But then I realized – she’d shown me how to do what I needed to do. I could use the knowledge I had so far and take a step. And now that I don’t need her for that level of learning, she and I can move on to the next higher level. That’s exciting.”
+“I’ve begun to have those moments where I’m no longer struggling to remember what to do,” he says. “Last week I had some new data to work with, and thought, ‘No, I have to put that off until I can meet with my tutor.’ But then I realized – she’d shown me how to do what I needed to do. I could use the knowledge I had so far and take a step. And now that I don’t need her for that level of learning, she and I can move on to the next higher level. That’s exciting.”
 
 Sullivan is still immersed in tutoring, which he started in March of 2017. Currently, he’s learning how to manipulate data tables with contemporary tools. His skill set is still expanding thanks to Joanna’s support. And while Sullivan in part credits his work with her for his learning advancements, he also admits he wouldn’t have gotten this far without admitting he needed help.
 
