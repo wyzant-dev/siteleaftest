@@ -1,5 +1,5 @@
 ---
-title: A Co-founder Up Against Time, Fear and Statistics
+title: A Co-founder Up Against Time, Fear, and Statistics
 date: 2017-06-22 13:33:00 -05:00
 ---
 
