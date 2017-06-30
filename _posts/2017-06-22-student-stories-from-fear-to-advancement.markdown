@@ -1,6 +1,16 @@
 ---
 title: A Co-founder Up Against Time, Fear, and Statistics
 date: 2017-06-22 13:33:00 -05:00
+categories:
+- Student Stories
+tags:
+- testimonial
+- statistics
+- online tutoring
+- tutoring
+- career
+- adult learning
+- online education
 ---
 
 ![Social_June_StudentProfiles_Instagram_1080x1080.jpg](/blog/uploads/Social_June_StudentProfiles_Instagram_1080x1080.jpg)
