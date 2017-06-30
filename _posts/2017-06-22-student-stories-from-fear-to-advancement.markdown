@@ -1,5 +1,5 @@
 ---
-title: 'Student Stories: From Fear to Advancement'
+title: Co-founder up against time, fear and statistics
 date: 2017-06-22 13:33:00 -05:00
 ---
 
