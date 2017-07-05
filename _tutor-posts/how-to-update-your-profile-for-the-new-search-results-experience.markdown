@@ -2,7 +2,6 @@
 title: How to update your profile for the new search results experience.
 date: 2017-07-05 09:00:00 -05:00
 hero-image: "/blog/uploads/iStock-625733492.jpg"
-isHidden: true
 ---
 
 We’re making some important changes to search results based on what we’ve learned creates the most effective student and tutor matches. 
