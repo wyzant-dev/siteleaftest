@@ -9,10 +9,10 @@ hero-image: "/blog/uploads/Blog_Stats_Header_opt7.jpg"
 meta-description: 'No matter what career you’re pursuing, if you’re struggling with
   statistics you’re not alone. Interviews with top statistics tutors on Wyzant confirm
   that students across degrees and career paths have similar struggles with statistics. '
-post-description: "**We chatted with our community of statistics students and tutors
+post-description: We chatted with our community of statistics students and tutors
   to understand the most frequently asked questions and biggest challenges students
   face in statistics today. Read on for the most common hiccups, and leave with a
-  few pro tips that you can put to use, well, stat!**"
+  few pro tips that you can put to use, well, stat!
 ---
 
 No matter your career path, statistics can be an extremely intimidating subject. It makes most students nervous, insecure, and afraid to fail—and with good reason. Statistics uses Greek symbols and is built on concepts that are confusing for human brains to grasp. No wonder so many students struggle with this subject.
