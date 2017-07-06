@@ -5,6 +5,7 @@ identefier: tutor-index
 paginate:
   collection: tutor-posts
   per_page: 8
+  reversed: true
 ---
 
 <main class="home">
@@ -12,6 +13,7 @@ paginate:
   <section class="row">
     <div class="column">
       <ul class="reset spc-n">
+        {% assign recentArticles =  site.tutor-posts | sort: "date" | reverse %}
         {% for post in paginator.tutor-posts reversed %}
             {% unless post.isHidden %}
               <li>
