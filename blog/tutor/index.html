@@ -14,7 +14,7 @@ paginate:
     <div class="column">
       <ul class="reset spc-n">
         {% assign recentArticles =  site.tutor-posts | sort: "date" | reverse %}
-        {% for post in paginator.tutor-posts reversed %}
+        {% for post in paginator.tutor-posts %}
             {% unless post.isHidden %}
               <li>
                 <article>
