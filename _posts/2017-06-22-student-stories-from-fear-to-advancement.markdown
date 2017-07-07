@@ -11,6 +11,7 @@ tags:
 - career
 - adult learning
 - online education
+hero-image: "/blog/uploads/StudentBlog_062017_Header.jpg"
 meta-description: As part of the tech industry, Sullivan knew time was of the essence
   – with things moving so fast, he didn’t have the time to read books or do online
   tutorials, which he describes as being “overly laborious.” He knew he needed support
