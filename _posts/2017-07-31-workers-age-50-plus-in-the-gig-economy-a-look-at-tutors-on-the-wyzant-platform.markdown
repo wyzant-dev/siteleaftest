@@ -72,7 +72,7 @@ When asked what motivated them to look into or begin tutoring, 73 percent of sur
 
 The second highest motivation—respondents could choose as many as applied to them—was “The revenue” at 59 percent, followed by “Because I can control my rate and hours” at 50 percent, and “to stay intellectually connected to my area of study” at 49 percent. (See chart for other responses.)
 
-![BLOG_OlderTutor_Chart_06_1400pxTutorMotivations.gif](/blog/uploads/BLOG_OlderTutor_Chart_06_1400pxTutorMotivations.gif)
+![BLOG_OlderTutor_Chart_06_1400pxTutorMotivations-8e5c06.gif](/blog/uploads/BLOG_OlderTutor_Chart_06_1400pxTutorMotivations-8e5c06.gif)
 
 Jacqueline James, co-director of the Center on Aging & Work at Boston College isn’t surprised that so many 50-plus people tutoring through Wyzant want to share what they’ve learned over the years. “This generation is the most educated generation in history to retire. They’ve usually had jobs that they enjoy and they want to keep doing,” she says. In addition, “we live in a work-identified culture, and a lot of people have found their way to work they like, and they want to keep doing it.”
 
@@ -108,7 +108,7 @@ James points out that as U.S. health care costs keep [outpacing](http://www.nbcn
 
 The extra income that tutors are earning to complement retirement savings—not to mention the bounty of benefits that come from staying mentally and socially active as they age—might explain why fully 75 percent of survey tutors age 50 and older plan on tutoring for as long as they are able. This data point also aligns with the 73 percent of tutors who are motivated to tutor “To share the knowledge I’ve accumulated over the years.”
 
-![BLOG_OlderTutor_Chart_09_1400pxPlansToKeepTutoring.gif](/blog/uploads/BLOG_OlderTutor_Chart_09_1400pxPlansToKeepTutoring.gif)
+![BLOG_OlderTutor_Chart_09_1400pxPlansToKeepTutoring-0f6ca9.gif](/blog/uploads/BLOG_OlderTutor_Chart_09_1400pxPlansToKeepTutoring-0f6ca9.gif)
 
 And when asked if they would continue to tutor when they are fully retired, 71 percent said yes and 26 percent said they are already retired. Only 3 percent of surveyed tutors plan to stop tutoring when they retire.
 
@@ -169,7 +169,6 @@ Over the six months she worked with him, Christine saw a huge improvement in his
 Christine has great respect for this student’s drive to improve his skill set at that point in his life. “He was a very interesting, challenging man to work with.”
 
 ### Dorothy P.
-
 
 Since 1990, [Dorothy P.](https://www.wyzant.com/match/tutor/72658730), 57, has been a full-time freelancer, working as a writer, editor, literary translator, and Spanish tutor. For 26 years, she’s been tutoring and teaching Spanish, including as an adjunct professor at numerous universities in New York City.
 
