@@ -4,11 +4,12 @@ date: 2017-07-31 11:08:00 -05:00
 tags:
 - tutors
 hero-image: "/blog/uploads/Blog_50_Older_Header.jpg"
-post-description: This post offers an inside look at the 50-plus tutor population
-  on the Wyzant platform, and then delves into the results of a June 2017 survey we
-  conducted with this tutor population. The survey aimed to find out more about who
-  these tutors are and what motivates them to do this work as they are nearing and
-  in retirement.
+meta-description: Get an inside look at the 50-plus tutor population on the Wyzant
+  platform to learn about who they are, and what motivates them to do this work as
+  they are nearing and in retirement.
+post-description: Get an inside look at the 50-plus tutor population on the Wyzant
+  platform to learn about who they are, and what motivates them to do this work as
+  they are nearing and in retirement.
 ---
 
 For many, when they think of the gig economy, a particular worker comes to mind: a millennial who is allergic to nine-to-five office employment and instead wants the flexibility to work (and play) on their terms. This picture isn’t wrong, but it isn’t complete.
