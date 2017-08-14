@@ -1,5 +1,5 @@
 ---
-title: August Student Survey
+title: August Student Survey Sweepstakes
 date: 2017-08-14 08:00:00 -05:00
 isHidden: true
 ---
