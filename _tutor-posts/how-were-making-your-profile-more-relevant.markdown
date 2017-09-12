@@ -2,7 +2,7 @@
 title: How we’re making your profile more relevant.
 date: 2017-09-12 09:00:00 -05:00
 hero-image: "/blog/uploads/TutorBlog_SeptSummary_HeaderImage-74f136.png"
-is Hidden: true
+is Hidden: false
 ---
 
 We’ve been working hard to enhance our tutor profiles and search results to better highlight your experience and expertise to students. We’ve received input from both students and tutors alike regarding what’s most important when finding the right fit—and these updates will be rolling out soon, so we want to make sure you’re in the loop. Here’s what’s changing...
