@@ -1,7 +1,7 @@
 ---
 title: How we’re making your profile more relevant.
 date: 2017-09-11 15:26:00 -05:00
-hero-image: "/blog/uploads/TutorBlog_SeptSummary_HeaderImage.png"
+hero-image: "/blog/uploads/Blog_Header_TutorComms_0917_v1-c32858.jpg"
 is Hidden: true
 ---
 
