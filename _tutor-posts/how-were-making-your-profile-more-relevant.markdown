@@ -1,6 +1,6 @@
 ---
 title: How we’re making your profile more relevant.
-date: 2017-09-11 15:26:00 -05:00
+date: 2017-09-12 09:00:00 -05:00
 hero-image: "/blog/uploads/Blog_Header_TutorComms_0917_v1-c32858.jpg"
 is Hidden: true
 ---
@@ -32,7 +32,7 @@ We’ll also be truncating your “About” section to show only the first 400 c
 ### Highlighting soft skills
 Reviews will now be searchable, and will display a subset of pre-defined searchable keywords at the top of the page. These keywords reflect your most commonly mentioned “soft” skills across all of your reviews, and make it easier for students to find a tutor with the specific experience and qualities they’re looking for. 
 
-![TutorBlog_SeptSummary_Reviews%20Keywords.png}(/blog/uploads/TutorBlog_SeptSummary_Reviews%20Keywords.png)
+![TutorBlog_SeptSummary_ReviewsKeywords.png](/blog/uploads/TutorBlog_SeptSummary_ReviewsKeywords.png)
 
 As a reminder, these changes will be rolling out over the next couple of months. And the good news is that the only one that requires a little work on your end is subject-specific titles—so if you haven’t yet, make sure to [add them today](https://www.wyzant.com/tutor/subjects/)! And we’ll handle all the rest to continue improving the Wyzant experience for both tutors and students alike.
 
