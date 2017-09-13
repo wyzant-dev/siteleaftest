@@ -25,7 +25,7 @@ We’ll be moving the ratings histogram (which currently only appears as a pop-u
 ![TutorBlog_SeptSummary_Ratings.png](/blog/uploads/TutorBlog_SeptSummary_Ratings.png)
 
 ### Your “About” section
-We’ll also be truncating your “About” section to show only the first 400 characters. The remainder of your paragraph will be viewable by selecting “read more” (as seen below). This will make it easier for students to browse your entire profile for the information they need, increasing the likelihood that they’ll more easily see your ratings and reviews section. 
+We’ll also be truncating your “About” section to show only the first 500 characters. The remainder of your paragraph will be viewable by selecting “read more” (as seen below). This will make it easier for students to browse your entire profile for the information they need, increasing the likelihood that they’ll more easily see your ratings and reviews section. 
 
 ![TutorBlog_SeptSummary_Bio.png](/blog/uploads/TutorBlog_SeptSummary_Bio.png)
 
