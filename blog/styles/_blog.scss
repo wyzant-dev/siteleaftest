@@ -23,10 +23,10 @@
 }
 .form-wrapper {
     border: 2px solid #ccd1d9;
-	margin: 20px 0;
+		margin: 20px 0;
 }
 blockquote {
-	background: $lightestGray;
+	background: $gray-50;
 	p {
 		display: initial;
 	}
@@ -74,7 +74,7 @@ blockquote {
 			padding: 0;
 		}
 		span {
-			color: $gray;
+			color: $gray-500;
 			padding: 0 3px;
 			margin: 0;
 		}
@@ -191,7 +191,7 @@ blockquote {
 
 		section,
 		div {
-			color: $charcoal;
+			color: $gray-800;
 			display: flex;
 			justify-content: space-between;
 			align-content: flex-start;
@@ -256,11 +256,11 @@ blockquote {
 	article .content {
 		h2 {
 			margin-top: 30px;
-			color: $charcoal;
+			color: $gray-800;
 		}
 		h3 {
-			color: $charcoal;
-			background: $lightGray;
+			color: $gray-800;
+			background: $gray-200;
 			padding: 5px;
 			margin-top: 30px;
 		}
@@ -270,7 +270,7 @@ blockquote {
 			padding: 40px 0 30px 0;
 			&:before {
 				content: "\201C";
-				color: $grass;
+				color: $green-500;
 				text-align: center;
 				font-family: "Times New Roman";
 				font-size: 90px;
@@ -286,7 +286,7 @@ blockquote {
 
 			&:before {
 				content: "\201C";
-				color: $bluejeans;
+				color: $blue-500;
 				position: absolute;
 				left: 20px;
 				top: 20px;
@@ -320,7 +320,7 @@ blockquote {
 			flex: 1 1 auto;
 			margin-top: 12px;
 			content: '';
-			border-top: 2px solid $lightGray;
+			border-top: 2px solid $gray-200;
 		}
 		&:before {
 			margin-right: 10px;
@@ -336,7 +336,7 @@ blockquote {
 	.flex-intro {
 		justify-content: flex-start;
 		p {
-			color: $gray;
+			color: $gray-500;
 		}
 	}
 	article p {

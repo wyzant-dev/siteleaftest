@@ -141,7 +141,7 @@ b,
     text-transform: uppercase;
 }
 .text-error {
-    color: $poppy;
+    color: $red-500;
     font-weight: 600;
 }
 // Prevent clicking from highlighting text
@@ -159,19 +159,19 @@ b,
     color: #fff;
 }
 .text-orange {
-    color: $tangerine;
+    color: $orange-500;
 }
 .text-blue {
-    color: $bluejeans;
+    color: $blue-500;
 }
 .text-green {
-    color: $grass;
+    color: $green-500;
 }
 .text-yellow {
-    color: $textSunflower;
+    color: $yellow-500;
 }
 .text-red {
-    color: $poppy;
+    color: $red-500;
 }
 @media #{$queryMedium} {
     .medium-text-left {

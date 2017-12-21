@@ -9,7 +9,7 @@
     text-align: center;
     text-transform: uppercase;
     color: #fff;
-    background: $tangerine;
+    background: $orange-500;
     border-radius: 5px;
     cursor: pointer;
     border: 0;
@@ -19,33 +19,33 @@
         border: 0;
     }
     &:focus {
-        box-shadow: 0 0 2px 2px $bluejeansLight;
+        box-shadow: 0 0 2px 2px $blue-400;
         outline: 0;
     }
     &:hover {
         text-decoration: none !important;
         color: #fff;
-        background: $tangerineLight;
+        background: $orange-400;
     }
     &:active {
-        background: $tangerine;
+        background: $orange-500;
     }
     &.btn-disabled,
     &[disabled] {
-        background: $mediumGray;
+        background: $gray-400;
         pointer-events: none;
     }
 }
 
 //========== Alternate buttons types ==========
 .btn-secondary {
-    background: $grass;
+    background: $green-500;
 
     &:hover {
-        background: $grassLight;
+        background: $green-400;
     }
     &:active {
-        background: $grass;
+        background: $green-500;
     }
 }
 .btn-alt,
@@ -54,22 +54,22 @@
     padding-bottom: 11px;
     color: $textColorStandard;
     background: transparent;
-    border: 2px solid $gray;
+    border: 2px solid $gray-500;
 
     &:hover {
         color: $textColorStandard;
         background: #fff;
-        border-color: $mediumGray;
+        border-color: $gray-400;
     }
     &:active {
         background: transparent;
-        border-color: $gray;
+        border-color: $gray-500;
     }
     &.btn-disabled,
     &[disabled] {
-        color: $mediumGray;
+        color: $gray-400;
         background: transparent;
-        border-color: $mediumGray;
+        border-color: $gray-400;
     }
 }
 .btn-ghost {

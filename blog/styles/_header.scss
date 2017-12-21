@@ -1,5 +1,5 @@
 .dark-header header:nth-child(1) {
-	background: $headerFooterBG;
+	background: $gray-700;
 }
 
 header:nth-child(1) {
@@ -22,15 +22,15 @@ header:nth-child(1) {
     }
 	ul {
 		list-style: none;
-		background: $headerFooterBG;
+		background: $gray-700;
 	}
 	li {
 		display: inline-block;
 		width: 100%;
-		border-bottom: 1px solid $lightGray;
+		border-bottom: 1px solid $gray-200;
 		font-size: 12px;
 		&:first-child {
-			border-top: 1px solid $lightGray;
+			border-top: 1px solid $gray-200;
 		}
 	}
 	a {
