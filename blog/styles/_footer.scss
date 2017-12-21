@@ -176,8 +176,13 @@
                     }
                 }
             }
-						.app-links li {
-							padding: 0 0 7px 0;
+						.app-links {
+								padding-top: 2px;
+								
+								li {
+									padding: 0 0 7px 0;
+
+							}
 						}
         }
         .mid-footer {
