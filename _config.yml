@@ -105,7 +105,7 @@ marketing-banner-background-image: "/blog/uploads/banner-background-default.png"
 marketing-banner-headline: Ready To Get Started?
 marketing-banner-sub-headline: Start Your Tutor Search Today.
 marketing-banner-cta-text: Get Started
-marketing-banner-cta-url: https://startlearning.wyzant.com/rad-subject/
+marketing-banner-cta-url: "/match"
 baseurl: 
 url: https://www.wyzant.com
 markdown: kramdown
