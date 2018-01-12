@@ -5,7 +5,7 @@ tags:
 - High School
 sub-headline: If you’re learning a second language, here’s how to make the most efficient
   use of your time.
-hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
+hero-image: "/blog/uploads/Facebook.jpg"
 ---
 
 ![Whats_the_best_way_to_learn_a_language_master_these_5_habits.jpg](/blog/uploads/Whats_the_best_way_to_learn_a_language_master_these_5_habits.jpg)
