@@ -18,7 +18,7 @@ Your progress depends on your outside work.  Try actively employing these longer
 
 ... or at least get your feet wet. If visiting a Spanish-speaking country or studying abroad aren't realistic options, find opportunities where you are. Do you have friends or coworkers who speaks Spanish? Make it a point to speak with them. For more sustained practice join a local language group. Look up awesome resources like Meetup.com, and take initiative if a group doesn't already exist.
 
-The key is sustained, regular speaking opportunities.
+The key is sustained, regular speaking opportunities. Working one on one with a private tutor provides you with a great opportunity to practice while receiving personalized feedback and guidance. 
 
 But don't forget that immersion isn't just verbal. Keep up with news online to gain more technical vocabulary. As you advance, start reading short stories. I've always kept a notebook to write down words, expressions, and constructions I don't know. Then I use them in my own writing.
 
