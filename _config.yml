@@ -11,6 +11,9 @@ collections:
   posts:
     title: Marketing Posts
     output: true
+  rad-content:
+    title: RAD Content
+    output: true
   tutor-posts:
     title: Tutor Posts
     output: true
