@@ -29,59 +29,59 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
+    path: ""
     type: authors
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    job-title: 
-    bio: 
-    profile-image: 
+    job-title:
+    bio:
+    profile-image:
     author: Wyzant
-    meta-title: 
-    meta-description: 
+    meta-title:
+    meta-description:
 - scope:
-    path: ''
+    path: ""
     type: authoring-guide
   values:
-    title: 
+    title:
     permalink: "/blog/authoring-guide/"
     layout: authoring-guide
 - scope:
-    path: ''
+    path: ""
     type: tutor-tags
   values:
-    title: 
+    title:
     identefier: tutor-tags-page
     permalink: "/blog/tutor/tag/:title/"
     layout: tutor-tag-page
-    meta-description: 
+    meta-description:
 - scope:
-    path: ''
+    path: ""
     type: posts
   values:
     identefier: marketing-posts
     permalink: "/blog/:title/"
     layout: post
-    meta-title: 
+    meta-title:
     author: Wyzant
-    sub-headline: 
-    hero-image: 
-    meta-description: 
-    post-description: 
+    sub-headline:
+    hero-image:
+    meta-description:
+    post-description:
 - scope:
-    path: ''
+    path: ""
     type: tutor-posts
   values:
     identefier: tutor-posts
     permalink: "/blog/tutor/:title/"
     layout: post
-    meta-title: 
+    meta-title:
     author: Wyzant
-    sub-headline: 
-    hero-image: 
-    meta-description: 
-    post-description: 
+    sub-headline:
+    hero-image:
+    meta-description:
+    post-description:
 meta-title: The Wyzant Blog
 gems:
 - octopress-paginate
@@ -109,6 +109,6 @@ marketing-banner-headline: Ready To Get Started?
 marketing-banner-sub-headline: Start Your Tutor Search Today.
 marketing-banner-cta-text: Get Started
 marketing-banner-cta-url: https://startlearning.wyzant.com/rad-subject/
-baseurl: 
+baseurl:
 url: https://www.wyzant.com
 markdown: kramdown
