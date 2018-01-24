@@ -1,6 +1,6 @@
 ---
 title: 4 Homemade Recipes for STEM Fun on Thanksgiving
-date: 2015-11-12 10:39:00 -06:00
+date: 2015-11-12 16:39:00 Z
 tags:
 - Help for Parents
 sub-headline: Baking experiments into Thanksgiving dinner recipes is a great way to

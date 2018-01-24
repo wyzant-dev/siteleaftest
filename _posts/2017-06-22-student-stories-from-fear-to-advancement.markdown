@@ -1,6 +1,6 @@
 ---
 title: A Co-founder Up Against Time, Fear, and Statistics
-date: 2017-06-22 13:33:00 -05:00
+date: 2017-06-22 18:33:00 Z
 categories:
 - Student Stories
 tags:

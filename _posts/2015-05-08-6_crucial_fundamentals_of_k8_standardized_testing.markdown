@@ -1,6 +1,6 @@
 ---
 title: 6 Crucial Fundamentals Of K-8 Standardized Testing
-date: 2015-05-08 11:03:00 -05:00
+date: 2015-05-08 16:03:00 Z
 tags:
 - Elementary School
 - middle school

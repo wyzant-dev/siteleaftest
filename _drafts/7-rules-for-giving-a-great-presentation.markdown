@@ -1,6 +1,6 @@
 ---
 title: 7 Rules for Giving a Great Presentation
-date: 2017-04-14 10:33:00 -05:00
+date: 2017-04-14 15:33:00 Z
 ---
 
 "Ugh. A presentation. Anything but a presentation. No really. I mean isn’t there an option for a paper or an executive summary that everyone could read? I don’t want to be the clown in front of everyone going on and on about a topic that nobody cares for. I do not need the aggravation (or the nausea, sweaty palms, and shaking heads that go along with it). Please, I beg you. NOT A PRESENTATION."

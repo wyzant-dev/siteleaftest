@@ -1,6 +1,6 @@
 ---
 title: How A Wyzant Scholarship Helped Alexandrea Find Her Life’s Work
-date: 2015-10-01 12:50:00 -05:00
+date: 2015-10-01 17:50:00 Z
 sub-headline: A winning essay was the start of one college student’s unpredictable
   journey of discovery and creation.
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"

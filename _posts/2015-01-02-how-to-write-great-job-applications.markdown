@@ -1,6 +1,6 @@
 ---
 title: How To Write Great Job Applications
-date: 2015-01-02 13:46:00 -06:00
+date: 2015-01-02 19:46:00 Z
 tags:
 - Help for Tutors
 - Build Your Tutoring Business

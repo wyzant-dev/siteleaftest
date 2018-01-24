@@ -1,6 +1,6 @@
 ---
 title: 'Avoid Summer Brain Drain: Tips For Parents Of Elementary School Children'
-date: 2015-06-19 13:13:00 -05:00
+date: 2015-06-19 18:13:00 Z
 tags:
 - Elementary School
 - Help for Parents

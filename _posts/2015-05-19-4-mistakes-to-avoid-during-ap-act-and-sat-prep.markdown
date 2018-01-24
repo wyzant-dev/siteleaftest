@@ -1,6 +1,6 @@
 ---
 title: 4 Mistakes To Avoid During AP, ACT, And SAT Prep
-date: 2015-05-19 12:44:00 -05:00
+date: 2015-05-19 17:44:00 Z
 tags:
 - High School
 - Test Prep

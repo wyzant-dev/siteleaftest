@@ -1,6 +1,6 @@
 ---
 title: Congrats To Our 2016 Wyzant Scholarship Winners
-date: 2016-06-16 13:58:00 -05:00
+date: 2016-06-16 18:58:00 Z
 tags:
 - High School
 - New on Wyzant

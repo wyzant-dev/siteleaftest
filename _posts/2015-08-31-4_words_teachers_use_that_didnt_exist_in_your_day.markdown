@@ -1,6 +1,6 @@
 ---
 title: 4 Words Teachers Use That Didn’t Exist In Your Day
-date: 2015-08-31 13:46:00 -05:00
+date: 2015-08-31 18:46:00 Z
 tags:
 - Help for Parents
 sub-headline: Even the classroom isn’t immune to new, hip (and sometimes confusing)

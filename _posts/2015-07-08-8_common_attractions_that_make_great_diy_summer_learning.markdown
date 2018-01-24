@@ -1,6 +1,6 @@
 ---
 title: 8 Common Attractions That Make Great DIY Summer Learning Opportunities
-date: 2015-07-08 10:10:00 -05:00
+date: 2015-07-08 15:10:00 Z
 tags:
 - Elementary School
 - High School

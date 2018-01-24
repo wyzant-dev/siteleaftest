@@ -1,6 +1,6 @@
 ---
 title: 3 Things to Keep in Mind When Choosing a Tutor
-date: 2016-12-14 16:14:00 -06:00
+date: 2016-12-14 22:14:00 Z
 tags:
 - Finding a Tutor
 hero-image: "/blog/uploads/how%20to%20pick%20tutor%20iStock_85687913_LARGE%20(1).jpg"

@@ -1,6 +1,6 @@
 ---
 title: Put Yourself In The Language Learning Mindset
-date: 2016-04-18 15:35:00 -05:00
+date: 2016-04-18 20:35:00 Z
 sub-headline: Learning a new language? Adopt these four values to put yourself in
   the fast lane.
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"

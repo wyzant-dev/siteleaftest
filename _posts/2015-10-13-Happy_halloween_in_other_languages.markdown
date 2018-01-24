@@ -1,6 +1,6 @@
 ---
 title: How To Say "Happy Halloween" in Other Languages
-date: 2015-10-13 11:15:00 -05:00
+date: 2015-10-13 16:15:00 Z
 sub-headline: Teach kids how to say “Happy Halloween” in 20 different countries and
   help them sound as good as they look on October 31.
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"

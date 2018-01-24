@@ -1,6 +1,6 @@
 ---
 title: 6 Hand-picked Quotes From The 2016 WyzAnt Scholarship
-date: 2016-01-25 12:25:00 -06:00
+date: 2016-01-25 18:25:00 Z
 tags:
 - High School
 - New on Wyzant

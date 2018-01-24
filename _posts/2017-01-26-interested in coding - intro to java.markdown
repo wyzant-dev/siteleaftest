@@ -1,6 +1,6 @@
 ---
 title: Snapshot Sign-Up
-date: 2017-01-26 16:45:00 -06:00
+date: 2017-01-26 22:45:00 Z
 tags:
 - Snapshot Series
 - JB
