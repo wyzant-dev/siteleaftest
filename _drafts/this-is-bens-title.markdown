@@ -4,7 +4,6 @@ date: 2018-01-24 10:57:00 -06:00
 tags:
 - nursing
 meta-title: Five Nursing Career Tips for 2018
-sub-headline: This is a subheadline that will look like what exactly?
 hero-image: "/blog/uploads/nursing-image.png"
 meta-description: We always know the New Year’s on its way and yet it never ceases
   to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to
