@@ -1,0 +1,32 @@
+{% if page.identefier == "tutor-index" or page.identefier == "tutor-posts" %}
+	{% assign navLinks = site.data.navigation.tutor-header %}
+{% else %}
+	{% assign navLinks = site.data.navigation.header %}
+	{% assign additionalClass = "marketing-blog" %}
+{% endif %}
+
+<header class="{{ additionalClass }}">
+	<section class="row">
+		<div class="column">
+			<input type="checkbox" id="nav-toggle">
+			<label for="nav-toggle" class="left">
+				<i class="wc-menu"></i>
+			</label>
+			<a href="/" class="logo-container">
+				<img src="/blog/uploads/wyzant-logo.png" alt="logo">
+			</a>
+			<nav id="nav" data-expanded="false">
+				<ul class="text-caps reset">
+					{% for item in navLinks %}
+						<li class="text-small">
+							<a href="{{ item.url }}">{{ item.title }}</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</nav>
+			{% unless page.identefier == "tutor-index" or page.identefier == "tutor-posts"  %}
+				<a href="/signup" class="btn btn-minimal-primary btn-small signup right">Sign Up</a>
+			{% endunless %}
+		</div>
+	</section>
+</header>

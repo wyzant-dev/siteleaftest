@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include meta-data.html %}
+    </head>
+        {% if layout.dark-header %}
+            <body class="dark-header">
+        {% else %}
+            <body>
+        {% endif %}
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
+        {% include scripts.html %}
+    </body>
+</html>

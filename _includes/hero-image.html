@@ -1,0 +1,20 @@
+{% if page.identefier == "marketing-index" %}
+	{% assign hero =  site.hero-image %}
+	{% assign headline =  site.title %}
+	{% assign subHeadline =  site.marketing-banner-sub-headline %}
+{% else %}
+    {% assign hero =  site.tutor-hero-image %}
+    {% assign headline =  site.tutor-title %}
+    {% assign subHeadline =  site.tutor-sub-headline %}
+{% endif %}
+
+{% if hero %}
+  <figure style='background-image: url("{{ hero }}");'>
+{% else %}
+  <figure style='background-image: url("/blog/uploads/homepage-hero-default.png");'>
+{% endif %}
+    <h1 class="text-caps text-white spc-zero-s">{{ headline }}</h1>
+    {% if subHeadline %}
+      <h2 class="text-green">{{ subHeadline }}</h2>
+    {% endif %}
+</figure>

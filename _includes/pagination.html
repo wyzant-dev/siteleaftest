@@ -1,0 +1,33 @@
+{% if page.identefier == "marketing-index" %}
+    {% assign prefix =  "/blog" %}
+{% else %}
+    {% assign prefix =  "/blog/tutor" %}
+{% endif %}
+
+{% unless paginator.total_pages == 1 %}
+  <section class="pagination">
+    <span>&laquo;</span>
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path  | replace: '//', '/' }}">&lsaquo;</a>
+    {% else %}
+      <span>&lsaquo;</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="active">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ prefix }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ prefix }}{{ site.paginate_path  | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path  | replace: '//', '/' }}">&rsaquo;</a>
+    {% else %}
+      <span>&rsaquo;</span>
+    {% endif %}
+    <span>&raquo;</span>
+  </section>
+{% endunless %}

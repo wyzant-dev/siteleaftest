@@ -1,0 +1,70 @@
+<meta name="twitter:card" content="summary">
+{% if layout.page-name == "author-page" or layout.page-name == "post-page" %}
+    {% if page.meta-title %}
+        <title>{{ page.meta-title }}</title>
+        <meta property="og:title" content="{{ page.meta-title }}">
+        <meta name="twitter:title" content="{{ page.meta-title }}">
+    {% else %}
+        <title>{{ page.title }}</title>
+        <meta property="og:title" content="{{ page.title }}">
+        <meta name="twitter:title" content="{{ page.title }}">
+    {% endif %}
+    {% if page.meta-description %}
+        <meta name="description" content="{{ page.meta-description }}">
+        <meta property="og:description" content="{{ page.meta-description }}">
+        <meta name="twitter:description" content="{{ page.meta-description }}">
+    {% elsif page.content %}
+        <meta name="description" content="{{ page.content | strip_html | truncate: 150 }}">
+        <meta property="og:description" content="{{ page.content | strip_html | truncate: 150 }}">
+        <meta name="twitter:description" content="{{ page.content | strip_html | truncate: 150 }}">
+    {% endif %}
+    {% if page.hero-image %}
+        <meta name="twitter:image" content="https://wyzant.com{{ page.hero-image }}">
+        <meta property="og:image" content="https://wyzant.com{{ page.hero-image }}">
+    {% else %}
+        <meta name="twitter:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
+        <meta property="og:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
+    {% endif %}
+{% elsif page.tag %}
+    <title>{{ page.tag | capitalize }} Posts on the Wyzant Blog</title>
+    <meta property="og:title" content="{{ page.tag | capitalize }} Posts on the Wyzant Blog">
+    <meta name="twitter:title" content="{{ page.tag | capitalize }} Posts on the Wyzant Blog">
+    <meta name="twitter:image" content="https://wyzant.com{{ site.hero-image }}">
+    <meta property="og:image" content="https://wyzant.com{{ site.hero-image }}">
+{% else %}
+    {% if site.meta-title %}
+        {% if site.meta-title %}
+            <title>{{ site.meta-title }}</title>
+            <meta property="og:title" content="{{ site.meta-title }}">
+            <meta name="twitter:title" content="{{ site.meta-title }}">
+        {% else %}
+            <title>{{ site.title }}</title>
+            <meta property="og:title" content="{{ site.title }}">
+            <meta name="twitter:title" content="{{ site.title }}">
+        {% endif %}
+    {% endif %}
+    {% if site.meta-description %}
+        <meta name="description" content="{{ site.meta-description }}">
+        <meta property="og:description" content="{{ site.meta-description }}">
+        <meta name="twitter:description" content="{{ site.meta-description }}">
+    {% endif %}
+    {% if site.hero-image %}
+        <meta name="twitter:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
+        <meta property="og:image" content="https://wyzant.com/blog/uploads/homepage-share.jpg">
+    {% endif %}
+{% endif %}
+
+<meta property="og:url" content="http://wyzant.com{{ page.url }}">
+<meta name="twitter:site" content="https://wyzant.com">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="//d1azc1qln24ryf.cloudfront.net/65664/wyzicons/style-cf.css?v=rebrand">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,300italic,400italic,600italic">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:300,400,500">
+<link rel="stylesheet" href="/blog/styles/main.css" />
+<script src="//load.sumome.com/" data-sumo-site-id="8b6bbe35f23b5979eba31207f5a4233ef3561e9962b994bcc11e5a93a45bc617" async="async"></script>
+<script type="text/javascript">(function(o){var b="https://api.autopilothq.com/anywhere/",t="909556f38a884649a9773cd705d9dbe4e4ff9dacd42947ef91c4e4bf3d005fc5",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};if(!o.noaa){z(b+"aa/"+t+'?'+p,false)};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>

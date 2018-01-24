@@ -1,0 +1,79 @@
+---
+layout: default
+page-name: home-page
+identefier: marketing-index
+paginate:
+  collection: posts
+  per_page: 8
+---
+
+<main class="home">
+  {% include hero-image.html %}
+  <section class="row">
+    <div class="column">
+      <ul class="reset spc-n">
+        {% for post in paginator.posts %}
+            {% unless post.isHidden %}
+              <li>
+                <article>
+                  {% if post.hero-image %}
+                    <a href="{{ post.url }}">
+                      <figure style='background-image: url("{{ post.hero-image }}");'></figure>
+                    </a>
+                  {% else %}
+                    <a href="{{ post.url }}">
+                        <figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
+                    </a>
+                  {% endif %}
+                  <section class="spc-tiny-n">
+                    <div>
+                      <section class="profile-image-container">
+                        <div>
+                        {% if post.author %}
+                          {% assign author = site.authors | where: "author", post.author %}
+                          {% for data in author %}
+                            {% assign photo = data.profile-image %}
+                            {% if photo %}
+                              <img src="{{ photo }}" alt="author image">
+                            {% else %}
+                              <img src="/blog/uploads/author-icon-default.png" alt="default author image">
+                            {% endif %}
+                          {% endfor %}
+                        {% else %}
+                          <img src="/blog/uploads/author-icon-default.png" alt="default author image">
+                        {% endif %}
+                      </section>
+                      {% assign author = site.authors | where: "author", post.author %}
+                      {% for data in author %}
+                        {% if post.author != "Wyzant" %}
+                          <a href="{{ data.url | prepend: site.baseurl }}">{{ post.author }}</a>
+                        {% else %}
+                          <span>Wyzant</span>
+                        {% endif %}
+                      {% endfor %}
+                    </div>
+                    <time datetime="{{ post.date | date: "%F %T" }}">{{ post.date | date: "%-m/%-d/%Y" }}</time>
+                  </section>
+                  <h2 class="text-normal spc-sm-n spc-zero-s"><a href="{{ post.url }}" class="text-green">{{ post.title | escape }}</a></h2>
+                  {% if post.sub-headline %}
+                    <h3 class="text-thin spc-tiny-n">{{ post.sub-headline | escape }}</h3>
+                  {% endif %}
+                  {% include seo-tags.html %}
+                  {% if post.post-description %}
+                    <p>{{ post.post-description | strip_html }}</p>
+                  {% else %}
+                    <p>{{ post.content | strip_html | strip | truncate: 200 }}</p>
+                  {% endif %}
+                  <a href="{{ post.url }}" class="btn">Read More</a>
+                </article>
+              </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+      {% include pagination.html %}
+      <div class="row">
+          {% include banner.html %}
+      </div>
+    </div>
+  </section>
+</main>

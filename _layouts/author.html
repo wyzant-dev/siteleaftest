@@ -1,0 +1,72 @@
+---
+layout: default
+page-name: author-page
+dark-header: true
+---
+
+<section class="post-by-author">
+	<section class="row">
+		<div class="column">
+			<section>
+				<section class="flex-intro">
+					{% if page.profile-image %}
+						<div class="profile-image-container">
+							<img src='{{ page.profile-image }}' />
+						</div>
+					{% endif %}
+					<section class="spc-w">
+						<h1 class="spc-zero text-green">{{ page.author }}</h1>
+						{% if page.job-title %}
+							<p class="spc-zero text-small">{{ page.job-title }}</p>
+						{% endif %}
+					</section>
+				</section>
+			</section>
+			<section class="spc-s">
+				{% if page.bio %}
+					<h3 class="spc-n spc-tiny-s">Profile Information</h3>
+					<p class="spc-zero-n">{{ page.bio }}</p>
+				{% endif %}
+				<h3 class="spc-n">All Articles by {{ page.author }}</h3>
+				<ul class="reset">
+					{% assign author = site.posts | where: "author", page.author %}
+					{% for data in author %}
+						<li>
+							<article>
+								{% if data.hero-image %}
+									<figure style='background-image: url("{{ data.hero-image }}");'></figure>
+								{% else %}
+									<figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
+								{% endif %}
+								<section class="spc-tiny-n">
+									{% if data.tags %}
+										<ul class="reset seo-tags">
+										{% for tag in data.tags %}
+											<li>
+												<a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
+												<span> | </span>
+											</li>
+										{% endfor %}
+										</ul>
+									{% endif %}
+									<time datetime="{{ post.date | date: "%F %T" }}">{{ data.date | date: "%-m/%-d/%Y" }}</time>
+								</section>
+								<h2 class="spc-sm-n spc-zero-s"><a href="{{ data.url }}" class="text-green">{{ data.title }}</a></h2>
+								{% if site.sub-headline %}
+									<h3 class="text-thin spc-sm-s">{{ data.sub-headline }}</h3>
+								{% endif %}
+								{% if data.post-description  %}
+									<p>{{ data.post-description | strip_html | strip }}</p>
+								{% else %}
+									{{ data.content | strip_html | strip | truncate: 200 }}
+								{% endif %}
+							</article>
+						</li>
+					{% endfor %}
+				</ul>
+			</section>
+			<a href="/blog" class="back-link">Back to all Articles</a>
+			{% include banner.html %}
+		</div>
+	</section>
+</section>

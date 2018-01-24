@@ -1,0 +1,192 @@
+@mixin wc-lg {
+    font-size: 1.33333333em;
+    line-height: 0.75em;
+    vertical-align: -15%;
+}
+
+// Helper to generate repetitive font size multipliers
+@mixin icon-sizes($start, $end, $sizePrefix: '') {
+    @while ($start <= $end) {
+        .wc-#{$sizePrefix}#{$start}x {
+            font-size: ($start * 1em);
+        }
+        $start: $start + 1
+    }
+}
+
+
+[class^="wc-"],
+[class*=" wc-"] {
+    display: inline-block;
+    font-size: inherit;
+    font-stretch: normal;
+    text-rendering: auto;
+    transform: translate(0, 0);
+}
+
+// Color classes
+.wc-white {
+    color: #fff;
+}
+.wc-charcoal {
+    color: $gray-800;
+}
+.wc-grey {
+    color: $textColorMuted;
+}
+.wc-lightgrey {
+    color: $gray-400;
+}
+.wc-blue {
+    color: $blue-500;
+}
+.wc-orange {
+    color: $orange-500;
+}
+.wc-green {
+    color: $green-500;
+}
+.wc-yellow {
+    color: $yellow-500;
+}
+.wc-red {
+    color: $red-500;
+}
+.wc-purple {
+    color: $purple-500;
+}
+
+// Makes the font 33% larger relative to the icon container
+.wc-lg {
+    @include wc-lg;
+}
+@include icon-sizes(2, 10);
+.wc-fw {
+    width: 1.28571429em;
+    text-align: center;
+}
+.wc-fw.wc-2x {
+    width: 1.8em;
+    text-align: center;
+}
+.wc-vert-align {
+    vertical-align: middle;
+}
+.wc-border {
+    padding: 0.2em 0.25em 0.15em;
+    border: solid 0.08em $gray-200;
+    border-radius: 0.1em;
+}
+.wc-spin {
+     animation: wc-spin 2s infinite linear;
+}
+.wc-pulse {
+    animation: wc-spin 1s infinite steps(8);
+}
+@keyframes wc-spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(359deg);
+    }
+}
+.wc-rotate-90 {
+    transform: rotate(90deg);
+}
+.wc-rotate-180 {
+    transform: rotate(180deg);
+}
+.wc-rotate-270 {
+    transform: rotate(270deg);
+}
+.wc-flip-horizontal {
+    transform: scale(-1, 1);
+}
+.wc-flip-vertical {
+    transform: scale(1, -1);
+}
+:root .wc-rotate-90,
+:root .wc-rotate-180,
+:root .wc-rotate-270,
+:root .wc-flip-horizontal,
+:root .wc-flip-vertical {
+    filter: none;
+}
+.wc-stack {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+}
+.wc-stack-1x,
+.wc-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.wc-stack-1x {
+    line-height: inherit;
+}
+.wc-stack-2x {
+    font-size: 2em;
+}
+.wc-inverse {
+    color: #fff;
+}
+
+// For adding an icon inside an input
+// To use, wrap the input with .input-icon and the icon class
+// Ex: <div class="icon-name input-icon"><input type="text"></div>
+.input-icon {
+    display: block;
+    position: relative;
+
+    [class^="wc-"],
+    [class*=" wc-"] {
+        position: absolute;
+        top: 0;
+        right: 0;
+        line-height: 45px;
+        width: 2.2em;
+        text-align: center;
+        padding-right: 2px;
+
+        // Let clicks fall through to the input below
+        pointer-events: none;
+    }
+    input {
+        padding-right: 2.2em;
+    }
+}
+.input-icon-left {
+    [class^="wc-"],
+    [class*=" wc-"] {
+        right: auto;
+        left: 0;
+        padding-right: initial;
+        padding-left: 2px;
+    }
+    input {
+        padding-right: initial;
+        padding-left: 2.2em;
+    }
+}
+
+// Responsive size classes
+@media #{$queryMedium} {
+    .wc-medium-lg {
+        @include wc-lg;
+    }
+    @include icon-sizes(2, 10, medium-);
+}
+
+@media #{$queryLarge} {
+    .wc-large-lg {
+        @include wc-lg;
+    }
+    @include icon-sizes(2, 10, large-);
+    }

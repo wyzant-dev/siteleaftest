@@ -1,0 +1,19 @@
+header:
+  - title: Sign Up
+    url: /signup
+  - title: Find a  Tutor
+    url: /match/search
+  - title: How it Works
+    url: /howitworks/students
+  - title: Blog
+    url: /blog
+  - title: Tutors
+    url: /tutorsignupstart
+  - title: About Wyzant
+    url: /about
+
+tutor-header:
+  - title: Dashboard
+    url: /tutor/home
+  - title: Tutor Blog
+    url: /blog/tutor

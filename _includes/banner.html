@@ -1,0 +1,7 @@
+{% unless page.identefier == "tutor-posts" %}
+	<section class="banner text-center spc-xl-s" style='background-image: url("{{ site.marketing-banner-background-image }}");'>
+		<h2 class="text-white text-caps spc-zero-s">{{ site.marketing-banner-headline }}</h2>
+		<h3 class="text-green text-caps">{{ site.marketing-banner-sub-headline }}</h3>
+		<a href="{{ site.marketing-banner-cta-url }}" class="btn spc-med-n">{{ site.marketing-banner-cta-text }}</a>
+	</section>
+{% endunless %}

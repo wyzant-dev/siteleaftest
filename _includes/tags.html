@@ -1,0 +1,10 @@
+{% if page.tags %}
+    <ul class="reset seo-tags">
+      {% for tag in page.tags %}
+        <li>
+          <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/" class="text-caps text-small">{{ tag }}</a>
+          <span> | </span>
+        </li>
+      {% endfor %}
+    </ul>
+{% endif %}
