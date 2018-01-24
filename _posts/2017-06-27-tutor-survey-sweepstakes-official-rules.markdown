@@ -1,6 +1,6 @@
 ---
 title: Tutor survey sweepstakes official rules
-date: 2017-06-27 11:31:00 -05:00
+date: 2017-06-27 16:31:00 Z
 Field name: 
 isHidden: true
 ---

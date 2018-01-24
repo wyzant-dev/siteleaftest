@@ -1,6 +1,6 @@
 ---
 title: 'Snapshot Series #1: Intro to Java'
-date: 2017-02-16 11:54:00 -06:00
+date: 2017-02-16 17:54:00 Z
 tags:
 - Java
 - Snapshot Series

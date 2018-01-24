@@ -1,6 +1,6 @@
 ---
 title: 5 Ways To Assess If Your Tutor is Right for You
-date: 2016-12-14 15:57:00 -06:00
+date: 2016-12-14 21:57:00 Z
 tags:
 - Finding a Tutor
 hero-image: "/blog/uploads/Paige%20couch%20Stocksy_txp4bc85970vD4100_Large_1046004%20(1)-b942a7.jpg"

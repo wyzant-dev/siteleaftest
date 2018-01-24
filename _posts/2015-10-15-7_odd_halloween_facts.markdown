@@ -1,6 +1,6 @@
 ---
 title: 7 Of The Oddest Halloween Facts You’ll Hear
-date: 2015-10-15 12:39:00 -05:00
+date: 2015-10-15 17:39:00 Z
 sub-headline: When you look at the long history of Halloween, some weird and fun facts
   come to light.
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"

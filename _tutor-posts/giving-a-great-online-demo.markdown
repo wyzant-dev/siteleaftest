@@ -1,6 +1,6 @@
 ---
 title: Giving a great online demo.
-date: 2017-05-02 16:30:00 -05:00
+date: 2017-05-02 21:30:00 Z
 hero-image: "/blog/uploads/GettyImages-486762589_edit.jpg"
 ---
 

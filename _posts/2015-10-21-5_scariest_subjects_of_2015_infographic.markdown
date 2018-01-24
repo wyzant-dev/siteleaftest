@@ -1,6 +1,6 @@
 ---
 title: Boo! The Top 5 “Scariest” School Subjects In 2015 [Infographic]
-date: 2015-10-21 13:53:00 -05:00
+date: 2015-10-21 18:53:00 Z
 tags:
 - help for parents
 sub-headline: 'Going from scared to prepared: Wyzant reveals which subjects students

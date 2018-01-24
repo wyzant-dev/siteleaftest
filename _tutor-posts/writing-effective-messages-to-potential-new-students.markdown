@@ -1,6 +1,6 @@
 ---
 title: Writing effective messages to potential new students.
-date: 2017-06-20 13:02:00 -05:00
+date: 2017-06-20 18:02:00 Z
 hero-image: "/blog/uploads/Stocksy_txpd65e1f18GoX100_Medium_1364167.jpg"
 ---
 

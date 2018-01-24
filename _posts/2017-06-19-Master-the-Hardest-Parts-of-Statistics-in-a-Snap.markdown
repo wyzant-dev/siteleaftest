@@ -1,6 +1,6 @@
 ---
 title: Master the Hardest Parts of Statistics in a Snap
-date: 2017-06-19 10:16:00 -05:00
+date: 2017-06-19 15:16:00 Z
 tags:
 - Statistics
 - Math

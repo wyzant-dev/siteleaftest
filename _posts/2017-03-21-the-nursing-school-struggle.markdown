@@ -1,6 +1,6 @@
 ---
 title: The Nursing School Struggle
-date: 2017-03-21 16:05:00 -05:00
+date: 2017-03-21 21:05:00 Z
 tags:
 - nursing
 - NCLEX

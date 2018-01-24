@@ -1,6 +1,6 @@
 ---
 title: What’s The Best Way To Learn A Language? Try Mastering These 5 Habits
-date: 2016-05-02 13:13:00 -05:00
+date: 2016-05-02 18:13:00 Z
 tags:
 - High School
 sub-headline: If you’re learning a second language, here’s how to make the most efficient

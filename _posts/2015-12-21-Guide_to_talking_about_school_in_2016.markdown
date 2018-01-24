@@ -1,6 +1,6 @@
 ---
 title: A Parent’s Guide To Talking Differently About School In 2016
-date: 2015-12-21 14:09:00 -06:00
+date: 2015-12-21 20:09:00 Z
 tags:
 - High School
 - middle school

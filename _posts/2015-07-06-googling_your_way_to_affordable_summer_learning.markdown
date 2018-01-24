@@ -1,6 +1,6 @@
 ---
 title: Googling Your Way To Affordable Summer Learning Activities
-date: 2015-07-06 11:55:00 -05:00
+date: 2015-07-06 16:55:00 Z
 tags:
 - Elementary School
 - middle school

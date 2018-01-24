@@ -1,6 +1,6 @@
 ---
 title: The 4 C's Of Coping With The Type Of Homework You Never Had
-date: 2015-09-03 13:57:00 -05:00
+date: 2015-09-03 18:57:00 Z
 tags:
 - Common Core
 - Help for Parents

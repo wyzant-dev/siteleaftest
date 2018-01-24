@@ -1,6 +1,6 @@
 ---
 title: 4 Mobile Apps Revolutionizing How We Learn
-date: 2016-02-08 13:07:00 -06:00
+date: 2016-02-08 19:07:00 Z
 tags:
 - New on Wyzant
 sub-headline: 'Putting the smart in smartphones: These apps have changed the way we

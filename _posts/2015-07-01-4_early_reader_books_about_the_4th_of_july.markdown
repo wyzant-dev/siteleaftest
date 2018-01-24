@@ -1,6 +1,6 @@
 ---
 title: 4 Fantastic Early Reader Books About The 4th Of July
-date: 2015-07-01 15:37:00 -05:00
+date: 2015-07-01 20:37:00 Z
 tags:
 - Elementary School
 sub-headline: Use the upcoming holiday to capture the interest of your young reader

@@ -1,6 +1,6 @@
 ---
 title: August Survey Sweepstakes
-date: 2017-08-14 08:00:00 -05:00
+date: 2017-08-14 13:00:00 Z
 isHidden: true
 ---
 

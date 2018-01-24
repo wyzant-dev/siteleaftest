@@ -1,114 +1,23 @@
 ---
-title: The Wyzant Blog
-timezone: America/Chicago
+title: Wyzant Blog DEV
+timezone: UTC
 collections:
-  authoring-guide:
-    title: Authoring Guide
-    output: true
-  authors:
-    title: Authors
-    output: true
   posts:
-    title: Marketing Posts
-    output: true
-  rad-content:
-    title: RAD Content
-    output: true
-  tutor-posts:
-    title: Tutor Posts
-    output: true
-  tutor-tags:
-    title: Tutor Tags
+    title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-    permalink: "/blog/uploads/:path/"
-  blog:
-    title: blog
-    output: true
 defaults:
 - scope:
-    path: ""
-    type: authors
-  values:
-    permalink: "/blog/authors/:title/"
-    layout: author
-    job-title:
-    bio:
-    profile-image:
-    author: Wyzant
-    meta-title:
-    meta-description:
-- scope:
-    path: ""
-    type: authoring-guide
-  values:
-    title:
-    permalink: "/blog/authoring-guide/"
-    layout: authoring-guide
-- scope:
-    path: ""
-    type: tutor-tags
-  values:
-    title:
-    identefier: tutor-tags-page
-    permalink: "/blog/tutor/tag/:title/"
-    layout: tutor-tag-page
-    meta-description:
-- scope:
-    path: ""
+    path: ''
     type: posts
   values:
-    identefier: marketing-posts
-    permalink: "/blog/:title/"
     layout: post
-    meta-title:
-    author: Wyzant
-    sub-headline:
-    hero-image:
-    meta-description:
-    post-description:
+    permalink: "/posts/:title/"
 - scope:
-    path: ""
-    type: tutor-posts
+    path: ''
+    type: pages
   values:
-    identefier: tutor-posts
-    permalink: "/blog/tutor/:title/"
-    layout: post
-    meta-title:
-    author: Wyzant
-    sub-headline:
-    hero-image:
-    meta-description:
-    post-description:
-meta-title: The Wyzant Blog
-gems:
-- octopress-paginate
-- jekyll/tagging
-tag_page_layout: tag-page
-tag_page_dir: blog/tag
-tag_permalink_style: pretty
-sub-headline: What will you learn?
-hero-image: "/blog/uploads/StudentBlog_Hero.jpg"
-tutor-title: The Tutor Blog
-tutor-sub-headline: Your source for exclusive tips, announcements and more.
-tutor-hero-image: "/blog/uploads/TutorBlog_Hero.jpg"
-meta-description: Learning is the essence of Wyzant. We’re hungry for the next fun
-  fact, deep dive and discovery session. We love to learn, and in browsing these pages,
-  we hope you will too.
-email: your-email@domain.com
-sass:
-  sass_dir: blog/styles
-  style: compressed
-description: Learning is the essence of Wyzant. We’re hungry for the next fun fact,
-  deep dive and discovery session. We love to learn, and in browsing these pages,
-  we hope you will too.
-marketing-banner-background-image: "/blog/uploads/banner-background-default.png"
-marketing-banner-headline: Ready To Get Started?
-marketing-banner-sub-headline: Start Your Tutor Search Today.
-marketing-banner-cta-text: Get Started
-marketing-banner-cta-url: https://startlearning.wyzant.com/rad-subject/
-baseurl:
-url: https://www.wyzant.com
-markdown: kramdown
+    layout: page
+permalink: pretty

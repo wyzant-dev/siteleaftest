@@ -1,6 +1,6 @@
 ---
 title: July survey sweepstakes official rules
-date: 2017-07-27 11:34:00 -05:00
+date: 2017-07-27 16:34:00 Z
 isHidden: true
 ---
 

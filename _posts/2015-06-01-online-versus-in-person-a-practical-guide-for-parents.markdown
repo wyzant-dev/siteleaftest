@@ -1,6 +1,6 @@
 ---
 title: 'Online Versus In-person: A Practical Guide for Parents'
-date: 2015-06-01 13:11:00 -05:00
+date: 2015-06-01 18:11:00 Z
 tags:
 - online tutoring
 sub-headline: Things to know (and what no one ever tells you) about online versus

@@ -1,6 +1,6 @@
 ---
 title: Dispelling Your Daughter's Middle School Math Demons
-date: 2015-07-04 11:37:00 -05:00
+date: 2015-07-04 16:37:00 Z
 tags:
 - Help for Parents
 - middle school

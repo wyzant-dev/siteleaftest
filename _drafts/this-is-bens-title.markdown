@@ -1,6 +1,6 @@
 ---
 title: Five Nursing Career Tips for 2018
-date: 2018-01-24 10:57:00 -06:00
+date: 2018-01-24 16:57:00 Z
 tags:
 - nursing
 meta-title: Five Nursing Career Tips for 2018

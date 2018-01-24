@@ -1,6 +1,6 @@
 ---
 title: 5 Ways To Beat Common Core Without Opting Out
-date: 2015-05-07 10:20:00 -05:00
+date: 2015-05-07 15:20:00 Z
 tags:
 - Common Core
 - Elementary School
