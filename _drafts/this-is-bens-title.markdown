@@ -5,7 +5,7 @@ tags:
 - nursing
 meta-title: This is a subheadline for the article
 sub-headline: This is a subheadline for the article
-hero-image: "/blog/uploads/Screen%20Shot%202018-01-24%20at%2011.00.05%20AM.png"
+hero-image: "/blog/uploads/nursing-image.png"
 meta-description: This is a subheadline for the articleThis is a subheadline for the
   articleThis is a subheadline for the articleThis is a subheadline for the articleThis
   is a subheadline for the article
