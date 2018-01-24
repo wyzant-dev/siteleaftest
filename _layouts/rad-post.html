@@ -3,18 +3,12 @@ layout: default
 page-name: post-page
 ---
 
-<main class="post">
+<main class="post rad-post" style="padding-top: 100px;">
 	{% assign author = site.authors | where: "author", page.author %}
 	{% for data in author %}
-		{% if page.hero-image %}
-			<figure style='background-image: url("{{ page.hero-image }}");'></figure>
-		{% else %}
-			<figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
-		{% endif %}
 		<article class="spc-sm-n">
 			<section class="row">
 				<div class="column">
-					<h1>RAD POST</h1>
 					<section class="group-container">
 						<div class="group">
 							<section class="flex-intro spc-tiny-n spc-s">
@@ -56,7 +50,7 @@ page-name: post-page
 			</section>
 			<div class="row">
 				<div class="column">
-					{% include rad-banner.html %}
+					<h2 style="padding: 50px 0; text-align: center;">3rd Party Email Tool</h2>
 				</div>
 			</div>
 		</article>
