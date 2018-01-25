@@ -3,7 +3,9 @@ title: How to Choose a Programming Language
 date: 2018-01-25 11:55:00 -06:00
 ---
 
-Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start. With all of the programming languages and resources available today, taking the first steps can be daunting. Adam Levenson, a friend of ours at Thinkful, put together a brief overview and some recommendations to help you choose your first programming language and begin the learning process.
+*Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start. With all of the programming languages and resources available today, taking the first steps can be daunting. 
+
+We reached out to Adam Levenson of Thinkful, who put together a brief overview and some recommendations to help you choose your first programming language and begin the learning process.*
 
 ## What is programming, anyway?
 
@@ -54,5 +56,3 @@ Now that you’ve done your research, it’s time to start learning. There are m
 Learning to code is difficult, especially if you’re coming from a non-technical background. The best thing you can do is to seek help from a knowledgeable mentor or tutor. Their guidance will help you learn faster, stay committed, and even [achieve more](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem). There are no limits to what you can achieve with the help of an expert tutor – and you can often attend tutoring sessions from anywhere in the world, on a schedule that works for you. 
 
 Wyzant has a network of [over 23k coding tutors](https://www.wyzant.com/coding_tutors.aspx). Search for a tutor with expertise in the languages and technologies you’re interested in, and start lessons as soon as you’re ready to dive into programming. Happy coding!
-
-**Adam Levenson is a Storyteller, Amateur Coder @Thinkful.
