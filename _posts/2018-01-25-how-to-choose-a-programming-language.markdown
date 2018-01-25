@@ -66,7 +66,9 @@ Now that you’ve done your research, it’s time to start learning. There are m
 
 Learning to code is difficult, especially if you’re coming from a non-technical background. The best thing you can do is to seek help from a knowledgeable mentor or tutor. Their guidance will help you learn faster, stay committed, and even [achieve more](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem). There are no limits to what you can achieve with the help of an expert tutor – and you can often attend tutoring sessions from anywhere in the world, on a schedule that works for you.
 
-Wyzant has a network of [over 23k coding tutors](https://www.wyzant.com/coding_tutors.aspx). Search for a tutor with expertise in the languages and technologies you’re interested in, and start lessons as soon as you’re ready to dive into programming. Happy coding!
+Wyzant has a network of [over 23k coding tutors](https://www.wyzant.com/coding_tutors.aspx). Search for a tutor with expertise in the languages and technologies you’re interested in, and start lessons as soon as you’re ready to dive into programming. 
+
+Happy coding!
 
 ---
 
