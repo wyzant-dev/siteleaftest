@@ -27,7 +27,7 @@ Look for languages with easier syntax first. This way, you can focus on learning
 
 ### 3. Job prospects
 
-If you’re interested in making a career change, research languages that are in high demand. If you visit job sites like Indeed, you can see how many job openings there are for a particular language and use that information to guide your decision.  
+If you’re interested in making a career change, research languages that are in high demand. If you visit job sites like Indeed, you can see how many job openings there are for a particular language and use that information to guide your decision.
 
 ### 4. Longevity
 
@@ -51,10 +51,12 @@ In 2017, Python was the second most popular programming language [according to G
 
 ## How to learn to code
 
-Now that you’ve done your research, it’s time to start learning. There are many paths you can take when learning to code, no matter which language you choose. You may choose to build your skills and knowledge in a formal degree program, like [Stanford’s](https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861). Technology schools like [Thinkful](https://www.thinkful.com/) are gaining popularity as well, offering a streamlined curriculum, fast-paced immersive programs, and even career services. You can also take advantage of free online resources like [The Odin Project](https://www.theodinproject.com/) or [Codecademy](https://www.codecademy.com/) and teach yourself coding concepts or supplement the knowledge you gain in a more structured program. 
+Now that you’ve done your research, it’s time to start learning. There are many paths you can take when learning to code, no matter which language you choose. You may choose to build your skills and knowledge in a formal degree program, like [Stanford’s](https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861). Technology schools like [Thinkful](https://www.thinkful.com/) are gaining popularity as well, offering a streamlined curriculum, fast-paced immersive programs, and even career services. You can also take advantage of free online resources like [The Odin Project](https://www.theodinproject.com/) or [Codecademy](https://www.codecademy.com/) and teach yourself coding concepts or supplement the knowledge you gain in a more structured program.
 
-Learning to code is difficult, especially if you’re coming from a non-technical background. The best thing you can do is to seek help from a knowledgeable mentor or tutor. Their guidance will help you learn faster, stay committed, and even [achieve more](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem). There are no limits to what you can achieve with the help of an expert tutor – and you can often attend tutoring sessions from anywhere in the world, on a schedule that works for you. 
+Learning to code is difficult, especially if you’re coming from a non-technical background. The best thing you can do is to seek help from a knowledgeable mentor or tutor. Their guidance will help you learn faster, stay committed, and even [achieve more](https://en.wikipedia.org/wiki/Bloom%27s_2_Sigma_Problem). There are no limits to what you can achieve with the help of an expert tutor – and you can often attend tutoring sessions from anywhere in the world, on a schedule that works for you.
 
 Wyzant has a network of [over 23k coding tutors](https://www.wyzant.com/coding_tutors.aspx). Search for a tutor with expertise in the languages and technologies you’re interested in, and start lessons as soon as you’re ready to dive into programming. Happy coding!
+
+---
 
 ***Adam Levenson is a Storyteller, Amateur Coder @Thinkful.***
