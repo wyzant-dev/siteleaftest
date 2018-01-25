@@ -7,9 +7,9 @@ tags:
 - Python
 ---
 
-*Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start. With all of the programming languages and resources available today, taking the first steps can be daunting.*
+*Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start.*
 
-*We reached out to our friend Adam Levenson at Thinkful, who put together the below overview and recommendations to help you choose your first programming language and begin the learning process.*
+*With all of the programming languages and resources available today, taking the first steps can be daunting. We reached out to our friend Adam Levenson at Thinkful, who put together the below overview and recommendations to help you choose your first programming language and begin the learning process.*
 
 ## What is programming, anyway?
 
