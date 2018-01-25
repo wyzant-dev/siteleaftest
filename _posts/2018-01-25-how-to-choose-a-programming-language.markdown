@@ -1,6 +1,11 @@
 ---
 title: How to Choose a Programming Language
 date: 2018-01-25 11:55:00 -06:00
+tags:
+- Coding
+- Computer Programming
+- JavaScript
+- Python
 ---
 
 *Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start. With all of the programming languages and resources available today, taking the first steps can be daunting.*
