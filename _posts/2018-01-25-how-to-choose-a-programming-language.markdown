@@ -6,7 +6,7 @@ tags:
 - Java
 - Python
 meta-title: How to Choose a Programming Language
-hero-image: "/blog/uploads/hero-images/default-hero-4.jpg"
+hero-image: "/blog/uploads/Blog_50_Older_Header.jpg"
 meta-description: Are you a natural problem solver who’s curious about coding? Do
   you have an idea for a website or app and need to build your skills to bring your
   concept to life? If so, you may be wondering where to start.
