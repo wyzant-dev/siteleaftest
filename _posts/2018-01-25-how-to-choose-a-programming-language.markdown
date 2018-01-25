@@ -3,9 +3,9 @@ title: How to Choose a Programming Language
 date: 2018-01-25 11:55:00 -06:00
 ---
 
-*Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start. With all of the programming languages and resources available today, taking the first steps can be daunting. 
+** Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start. With all of the programming languages and resources available today, taking the first steps can be daunting. 
 
-We reached out to Adam Levenson of Thinkful, who put together a brief overview and some recommendations to help you choose your first programming language and begin the learning process.*
+** We reached out to Adam Levenson of Thinkful, who put together a brief overview and some recommendations to help you choose your first programming language and begin the learning process.
 
 ## What is programming, anyway?
 
