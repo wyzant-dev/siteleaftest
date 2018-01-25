@@ -57,5 +57,7 @@ Learning to code is difficult, especially if you’re coming from a non-technica
 
 Wyzant has a network of [over 23k coding tutors](https://www.wyzant.com/coding_tutors.aspx). Search for a tutor with expertise in the languages and technologies you’re interested in, and start lessons as soon as you’re ready to dive into programming. Happy coding!
 
-**-**
-***Adam Levenson is a Storyteller, Amateur Coder @Thinkful.***
+
+
+
+**** Adam Levenson is a Storyteller, Amateur Coder @Thinkful.***
