@@ -5,6 +5,12 @@ tags:
 - Coding
 - Java
 - Python
+meta-description: Are you a natural problem solver who’s curious about coding? Do
+  you have an idea for a website or app and need to build your skills to bring your
+  concept to life? If so, you may be wondering where to start.
+post-description: Are you a natural problem solver who’s curious about coding? Do
+  you have an idea for a website or app and need to build your skills to bring your
+  concept to life? If so, you may be wondering where to start.
 ---
 
 *Are you a natural problem solver who’s curious about coding? Do you have an idea for a website or app and need to build your skills to bring your concept to life? If so, you may be wondering where to start.*
