@@ -1,5 +1,8 @@
 {% if page.identefier == "tutor-index" or page.identefier == "tutor-posts" %}
 	{% assign navLinks = site.data.navigation.tutor-header %}
+{% elsif page.identefier == "nursing-index" or page.identefier == "nursing-posts" %}
+	{% assign navLinks = site.data.navigation.header %}
+	{% assign additionalClass = "nursing-blog" %}
 {% else %}
 	{% assign navLinks = site.data.navigation.header %}
 	{% assign additionalClass = "marketing-blog" %}

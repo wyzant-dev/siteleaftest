@@ -112,6 +112,12 @@ header:nth-child(1) {
 				display: none;
 			}
 		}
+		&.nursing-blog {
+			background: #464241;
+			li:first-child {
+				display: none;
+			}
+		}
 		label {
 			display: none;
 		}
