@@ -1,0 +1,30 @@
+.nursing-post {
+  article {
+    max-width: none;
+    
+    section.row {
+      padding-left: 25px;
+      padding-right: 13px;
+      
+      .seo-tags {
+        padding-top: 12px;
+        
+        a {
+          font-size: 14px;
+          text-transform: none;
+        }
+      }
+    }
+  }
+
+  .sidebar {
+    visibility: hidden;
+    @media #{$queryMedium} {
+      visibility: visible;
+    }
+  }
+  
+  .no-padding {
+    padding: 0;
+  }
+}

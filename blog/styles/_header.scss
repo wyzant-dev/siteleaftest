@@ -114,6 +114,7 @@ header:nth-child(1) {
 		}
 		&.nursing-blog {
 			background: #464241;
+			position: relative;
 			li:first-child {
 				display: none;
 			}
