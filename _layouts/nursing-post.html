@@ -1,0 +1,65 @@
+---
+layout: default
+page-name: post-page
+---
+
+<main class="post">
+	{% assign author = site.authors | where: "author", page.author %}
+	{% for data in author %}
+		{% if page.hero-image %}
+			<figure style='background-image: url("{{ page.hero-image }}");'></figure>
+		{% else %}
+			<figure style='background-image: url("/blog/uploads/hero-images/default-hero-4.jpg");'></figure>
+		{% endif %}
+		<article class="spc-sm-n">
+			<section class="row">
+				<div class="column">
+					<section class="group-container">
+						<div class="group">
+							<section class="flex-intro spc-tiny-n spc-s">
+								<div>
+									<section class="profile-image-container">
+										{% if data.profile-image %}
+											<img src="{{ data.profile-image }}" alt="author profile">
+										{% else %}
+											<img src="/blog/uploads/author-icon-default.png" alt="default author profile">
+										{% endif %}
+									</section>
+									{% if data.author != "Wyzant" %}
+										<a href="{{ data.url | prepend: site.baseurl }}">{{ data.author }}</a>
+									{% else %}
+										<span>Wyzant</span>
+									{% endif %}
+								</div>
+								<time class="spc-med-n spc-" datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
+							</section>
+						</div>
+						<div class="group">
+							<div class="flex-intro">
+								<section>
+									{% if page.title %}
+										<h1 class="text-green spc-n spc-tiny-s">{{ page.title }}</h1>
+									{% endif %}
+									{% if page.sub-headline %}
+										<h3 class="light-header spc-tiny">{{ page.sub-headline }}</h3>
+									{% endif %}
+									{% include tags.html %}
+								</section>
+							</div>
+						</div>
+					</section>
+					<div class="content">
+						{{ content }}
+					</div>
+				</div>
+			</section>
+	        <div class="row">
+	            <div class="column">
+	            	{% include recent-articles.html %}
+	                {% include banner.html %}
+	            </div>
+	        </div>
+		</article>
+	{% include schema.html %}
+	{% endfor %}
+</main>
