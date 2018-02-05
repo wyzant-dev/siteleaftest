@@ -11,6 +11,9 @@ collections:
   posts:
     title: Marketing Posts
     output: true
+  nursing-posts:
+    title: Nursing Posts
+    output: true
   rad-posts:
     title: RAD Posts
     output: true
@@ -26,9 +29,6 @@ collections:
     permalink: "/blog/uploads/:path/"
   blog:
     title: blog
-    output: true
-  nursing-posts:
-    title: Nursing Posts
     output: true
 defaults:
 - scope:
