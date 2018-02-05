@@ -9,93 +9,63 @@ page-name: post-page
 		<article>
 			<section class="row">
 				<div class="row">
-					<div class="column no-padding" style="background-color: #d9d9ff;">
-						<section>
+					<div class="column no-padding">
+						<section class="spc-med-n">
 							{% include tags.html %}
 							{% if page.title %}
-								<h1 class="spc-tiny-s">{{ page.title }}</h1>
+								<h1 class="spc-sm-s">{{ page.title }}</h1>
 							{% endif %}
 						</section>
 					</div>
 				</div>
-				
+
 				<div class="row">
-					<div class="column no-padding medium-8" style="background-color: #ffcfcf;">
+					<div class="column no-padding medium-8">
 						<section>
 							{% if page.sub-headline %}
-								<h3 class="light-header spc-tiny">{{ page.sub-headline }}</h3>
+								<h3 class="light-header spc-med-s">{{ page.sub-headline }}</h3>
 							{% endif %}
 						</section>
-						<section class="flex-intro spc-tiny-n spc-s">
-							<div>
-								<section class="profile-image-container">
+						<section class="author">
+							<div class="row">
+								<div class="column no-padding author-icon-block">
 									{% if data.profile-image %}
-										<img src="{{ data.profile-image }}" alt="author profile">
+										<img src="{{ data.profile-image }}" class="author-icon" alt="author profile">
 									{% else %}
-										<img src="/blog/uploads/author-icon-default.png" alt="default author profile">
+										<img src="/blog/uploads/author-icon-default.png" class="author-icon" alt="default author profile">
 									{% endif %}
-								</section>
-								{% if data.author != "Wyzant" %}
-									<a href="{{ data.url | prepend: site.baseurl }}">{{ data.author }}</a>
-								{% else %}
-									<span>Wyzant</span>
-								{% endif %}
+								</div>
+								<div class="column no-padding author-details-block">
+									{% if data.author != "Wyzant" %}
+										<a href="{{ data.url | prepend: site.baseurl }}" class="author-name">{{ data.author }}</a>
+									{% else %}
+										<span class="author-name">Wyzant</span>
+									{% endif %}
+									<br>
+									<time datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
+								</div>
 							</div>
-							<time class="spc-med-n spc-" datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
 						</section>
+						<div class="content">
+							{{ content }}
+						</div>
+						<div class="row">
+							<div class="column">
+								<div id="om-dg1ladq5c00lihiq3ghu-holder"></div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="column no-padding">
+								{% include related-articles.html %}
+							</div>
+						</div>
 					</div>
 					
 					<div class="column medium-4 sidebar">
 						<div id="om-dg1ladq5c00lihiq3ghu-holder"></div>
 					</div>
 				</div>
-				
-				
-				<!-- <div class="column">
-					<section class="group-container">
-						<div class="group">
-							<section class="flex-intro spc-tiny-n spc-s">
-								<div>
-									<section class="profile-image-container">
-										{% if data.profile-image %}
-											<img src="{{ data.profile-image }}" alt="author profile">
-										{% else %}
-											<img src="/blog/uploads/author-icon-default.png" alt="default author profile">
-										{% endif %}
-									</section>
-									{% if data.author != "Wyzant" %}
-										<a href="{{ data.url | prepend: site.baseurl }}">{{ data.author }}</a>
-									{% else %}
-										<span>Wyzant</span>
-									{% endif %}
-								</div>
-								<time class="spc-med-n spc-" datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
-							</section>
-						</div>
-						<div class="group">
-							<div class="flex-intro">
-								<section>
-									{% if page.title %}
-										<h1 class="text-green spc-n spc-tiny-s">{{ page.title }}</h1>
-									{% endif %}
-									{% if page.sub-headline %}
-										<h3 class="light-header spc-tiny">{{ page.sub-headline }}</h3>
-									{% endif %}
-									{% include tags.html %}
-								</section>
-							</div>
-						</div>
-					</section>
-					<div class="content">
-						{{ content }}
-					</div>
-				</div> -->
 			</section>
-      <!-- <div class="row">
-          <div class="column">
-          	{% include recent-articles.html %}
-          </div>
-      </div> -->
 		</article>
 		{% include schema.html %}
 	{% endfor %}

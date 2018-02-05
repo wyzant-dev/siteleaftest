@@ -1,0 +1,42 @@
+{% assign recentArticles = site.nursing-posts | sort: "date" | reverse %}
+
+<section class="related-articles">
+	<h4>Related Articles</h4>
+
+	<div class="row">
+		{% assign currentArticle = page.title | downcase %}
+		{% assign counter = 0 %}
+		{% for article in recentArticles %}
+			{% assign currentArticleInLoop = article.title | downcase %}
+			{% if article.isHidden %}
+				{% continue %}
+			{% elsif currentArticle == currentArticleInLoop %}
+				{% continue %}
+			{% elsif counter < 2 %}
+				{% assign counter = counter | plus: 1 %}
+				<div class="column medium-6 article-preview">
+					<h5><a href="{{ article.url }}">{{ article.title }}</a></h5>
+					<p>{{ article.short-sub-headline }}</p>
+				</div>
+			{% endif %}
+		{% endfor %}
+	</div>
+
+	<div class="row">
+		{% assign currentArticle = page.title | downcase %}
+		{% assign counter = 0 %}
+		{% for article in recentArticles %}
+			{% assign currentArticleInLoop = article.title | downcase %}
+			{% if article.isHidden %}
+				{% continue %}
+			{% elsif currentArticle == currentArticleInLoop %}
+				{% continue %}
+			{% elsif counter < 2 %}
+				{% assign counter = counter | plus: 1 %}
+				<div class="column medium-6 no-padding">
+					<hr>
+				</div>
+			{% endif %}
+		{% endfor %}
+	</div>
+</section>

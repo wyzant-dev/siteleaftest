@@ -1,12 +1,10 @@
 ---
-title: Workers Age 50-Plus in the Gig Economy
+title: Workers Age 50-Plus in the Gig Economy No Subheader
 date: 2017-03-20 09:00:00 -05:00
 tags:
 - Nursing
 - Tutors
 - Medical
-sub-headline: 'This is what it would look like if we had a secondary line that also
-ran pretty long'
 ---
 
 ![Online_vs_Inperson_tutoring.jpg](/blog/uploads/Online_vs_Inperson_tutoring.jpg)
