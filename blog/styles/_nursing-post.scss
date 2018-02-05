@@ -3,8 +3,8 @@
     max-width: none;
 
     section.row {
-      padding-left: 25px;
-      padding-right: 13px;
+      padding-left: 14px;
+      padding-right: 14px;
     }
   }
 
@@ -14,9 +14,6 @@
 
   .sidebar {
     visibility: hidden;
-    @media #{$queryMedium} {
-      visibility: visible;
-    }
   }
 
   .no-padding {
@@ -85,11 +82,8 @@
       text-transform: uppercase;
     }
 
-    .column {
-      width: 48%;
-    }
-
     .article-preview {
+      border-bottom: 1px solid #F4F3F2;
       padding: 20px 0 30px;
       margin: 0;
 
@@ -100,6 +94,7 @@
 
       p {
         font-size: 16px;
+        margin: 10px 0 0;
       }
     }
 
@@ -110,6 +105,39 @@
       height: 1px;
       margin: 0;
       padding: 0;
+    }
+  }
+
+  .separators {
+    visibility: hidden;
+  }
+}
+
+@media #{$queryMedium} {
+  .nursing-post {
+    article {
+      section.row {
+        padding-left: 25px;
+        padding-right: 13px;
+      }
+    }
+
+    .sidebar {
+      visibility: visible;
+    }
+
+    .related-articles {
+      .column {
+        width: 48%;
+      }
+
+      .article-preview {
+        border: none;
+      }
+    }
+
+    .separators {
+      visibility: visible;
     }
   }
 }
