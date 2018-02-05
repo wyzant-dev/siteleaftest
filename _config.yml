@@ -14,9 +14,6 @@ collections:
   nursing-posts:
     title: Nursing Posts
     output: true
-  rad-posts:
-    title: RAD Posts
-    output: true
   tutor-posts:
     title: Tutor Posts
     output: true
@@ -79,19 +76,6 @@ defaults:
     identefier: tutor-posts
     permalink: "/blog/tutor/:title/"
     layout: post
-    meta-title: 
-    author: Wyzant
-    sub-headline: 
-    hero-image: 
-    meta-description: 
-    post-description: 
-- scope:
-    path: ''
-    type: rad-posts
-  values:
-    identefier: rad-posts
-    permalink: "/blog/rad/:title/"
-    layout: rad-post
     meta-title: 
     author: Wyzant
     sub-headline: 
