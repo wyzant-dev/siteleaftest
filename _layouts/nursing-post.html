@@ -1,0 +1,72 @@
+---
+layout: default
+page-name: post-page
+---
+
+<main class="post nursing-post">
+	{% assign author = site.authors | where: "author", page.author %}
+	{% for data in author %}
+		<article>
+			<section class="row">
+				<div class="row">
+					<div class="column no-padding">
+						<section class="spc-med-n">
+							{% include tags.html %}
+							{% if page.title %}
+								<h1 class="spc-sm-s">{{ page.title }}</h1>
+							{% endif %}
+						</section>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="column no-padding medium-8">
+						<section>
+							{% if page.sub-headline %}
+								<h3 class="light-header spc-med-s">{{ page.sub-headline }}</h3>
+							{% endif %}
+						</section>
+						<section class="author">
+							<div class="row">
+								<div class="column no-padding author-icon-block">
+									{% if data.profile-image %}
+										<img src="{{ data.profile-image }}" class="author-icon" alt="author profile">
+									{% else %}
+										<img src="/blog/uploads/author-icon-default.png" class="author-icon" alt="default author profile">
+									{% endif %}
+								</div>
+								<div class="column no-padding author-details-block">
+									{% if data.author != "Wyzant" %}
+										<a href="{{ data.url | prepend: site.baseurl }}" class="author-name">{{ data.author }}</a>
+									{% else %}
+										<span class="author-name">Wyzant</span>
+									{% endif %}
+									<br>
+									<time datetime="{{ page.date | date: "%F %T" }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
+								</div>
+							</div>
+						</section>
+						<div class="content">
+							{{ content }}
+						</div>
+						<div class="row">
+							<div class="column">
+								<div id="om-dg1ladq5c00lihiq3ghu-holder"></div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="column no-padding">
+								{% include related-articles.html %}
+							</div>
+						</div>
+					</div>
+					
+					<div class="column medium-4 sidebar">
+						<div id="om-dg1ladq5c00lihiq3ghu-holder"></div>
+					</div>
+				</div>
+			</section>
+		</article>
+		{% include schema.html %}
+	{% endfor %}
+</main>
