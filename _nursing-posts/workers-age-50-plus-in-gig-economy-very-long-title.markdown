@@ -5,7 +5,7 @@ tags:
 - Nursing
 - Tutors
 - Medical
-sub-headline: 'This is what it would look like if we had'
+sub-headline: This is what it would look like if we had
 ---
 
 ## Intellectual Independence
