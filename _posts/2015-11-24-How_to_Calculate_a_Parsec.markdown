@@ -1,6 +1,6 @@
 ---
 title: How To Calculate A Parsec
-date: 2015-11-24 11:20:00 -06:00
+date: 2015-11-24 17:20:00 Z
 tags:
 - High School
 - middle school

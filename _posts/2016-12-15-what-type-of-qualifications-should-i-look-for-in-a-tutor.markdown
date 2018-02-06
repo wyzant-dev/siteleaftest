@@ -1,6 +1,6 @@
 ---
 title: What Type of Qualifications Should I Look for in a Tutor?
-date: 2016-12-15 10:37:00 -06:00
+date: 2016-12-15 16:37:00 Z
 tags:
 - Finding a Tutor
 hero-image: "/blog/uploads/what%20type%20of%20qualificiations%20iStock_81800873_LARGE%20(1)%20(1)-ee594a.jpg"

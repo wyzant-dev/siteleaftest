@@ -1,6 +1,6 @@
 ---
 title: The School Supply They'll Need The Most
-date: 2015-08-25 13:09:00 -05:00
+date: 2015-08-25 18:09:00 Z
 tags:
 - High School
 sub-headline: Back to school can be as exciting as it is nerve-wracking for high school

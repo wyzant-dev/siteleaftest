@@ -11,8 +11,8 @@ collections:
   posts:
     title: Marketing Posts
     output: true
-  rad-content:
-    title: RAD Content
+  nursing-posts:
+    title: Nursing Posts
     output: true
   tutor-posts:
     title: Tutor Posts
@@ -80,6 +80,18 @@ defaults:
     author: Wyzant
     sub-headline: 
     hero-image: 
+    meta-description: 
+    post-description: 
+- scope:
+    path: ''
+    type: nursing-posts
+  values:
+    identefier: nursing-posts
+    permalink: "/blog/nursing/:title/"
+    layout: nursing-post
+    meta-title: 
+    author: Wyzant
+    sub-headline: 
     meta-description: 
     post-description: 
 meta-title: The Wyzant Blog

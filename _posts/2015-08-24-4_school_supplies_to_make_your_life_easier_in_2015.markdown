@@ -1,6 +1,6 @@
 ---
 title: The 4 School Supplies To Make Your Life Easier In 2015
-date: 2015-08-24 13:40:00 -05:00
+date: 2015-08-24 18:40:00 Z
 tags:
 - High School
 sub-headline: Don’t miss a beat this fall by adding these four essentials to your

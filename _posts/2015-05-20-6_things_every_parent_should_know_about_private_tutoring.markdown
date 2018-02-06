@@ -1,6 +1,6 @@
 ---
 title: 6 Things Every Parent Should Know About Private Tutoring
-date: 2015-05-20 12:54:00 -05:00
+date: 2015-05-20 17:54:00 Z
 tags:
 - Help for Parents
 - Why Choose Private Tutoring

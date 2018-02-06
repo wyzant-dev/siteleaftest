@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Tutor Blog
-date: 2017-03-19 14:18:00 -05:00
+date: 2017-03-19 19:18:00 Z
 sub-headline: Let’s get this thing started.
 hero-image: "/blog/uploads/TutorBlogPost_Header_Workspace-105b01.jpg"
 ---

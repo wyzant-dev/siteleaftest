@@ -1,6 +1,6 @@
 ---
 title: A High School Student Embraced The Unknown (And Found Her Dream Job)
-date: 2016-01-11 13:16:00 -06:00
+date: 2016-01-11 19:16:00 Z
 sub-headline: When opportunity knocked, Jesse turned her passion for science into
   the basis of a career in STEM.
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"

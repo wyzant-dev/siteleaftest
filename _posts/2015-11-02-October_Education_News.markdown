@@ -1,6 +1,6 @@
 ---
 title: October In Education News
-date: 2015-11-02 13:02:00 -06:00
+date: 2015-11-02 19:02:00 Z
 tags:
 - In The News
 sub-headline: Understanding the Nation’s Report Card, what learners want, and how

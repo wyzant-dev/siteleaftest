@@ -1,6 +1,6 @@
 ---
 title: 'Everyday Math: How To Bring A “Boring” Subject To Life'
-date: 2016-03-22 13:38:00 -05:00
+date: 2016-03-22 18:38:00 Z
 tags:
 - Help for Parents
 - High School

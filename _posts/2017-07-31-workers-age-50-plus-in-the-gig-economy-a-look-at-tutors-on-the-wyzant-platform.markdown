@@ -1,6 +1,6 @@
 ---
 title: 'Workers Age 50-Plus in the Gig Economy: A Look at Tutors on the Wyzant Platform'
-date: 2017-07-31 11:08:00 -05:00
+date: 2017-07-31 16:08:00 Z
 tags:
 - tutors
 hero-image: "/blog/uploads/Blog_50_Older_Header.jpg"

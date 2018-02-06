@@ -1,6 +1,6 @@
 ---
 title: The Secrets of Back-To-School Success
-date: 2015-09-16 13:31:00 -05:00
+date: 2015-09-16 18:31:00 Z
 tags:
 - Help for Parents
 sub-headline: Being prepared means more than backpacks and binders. Three tips for

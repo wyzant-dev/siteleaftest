@@ -1,6 +1,6 @@
 ---
 title: '10 Facts That Changed Since You Were In School: #6-10'
-date: 2015-08-19 12:59:00 -05:00
+date: 2015-08-19 17:59:00 Z
 tags:
 - Help for Parents
 sub-headline: Find out five more facts that your children will be taught in school,
