@@ -1,7 +1,10 @@
 {% if page.identefier == "tutor-index" or page.identefier == "tutor-posts" %}
-    {% assign navLinks = site.data.navigation.tutor-header %}
+	{% assign navLinks = site.data.navigation.tutor-header %}
+{% elsif page.identefier == "nursing-index" or page.identefier == "nursing-posts" %}
+	{% assign navLinks = site.data.navigation.header %}
+	{% assign additionalClass = "nursing-blog" %}
 {% else %}
-    {% assign navLinks = site.data.navigation.header %}
+	{% assign navLinks = site.data.navigation.header %}
 	{% assign additionalClass = "marketing-blog" %}
 {% endif %}
 
@@ -16,17 +19,17 @@
 				<img src="/blog/uploads/wyzant-logo.png" alt="logo">
 			</a>
 			<nav id="nav" data-expanded="false">
-			    <ul class="text-caps reset">
-			      {% for item in navLinks %}
-			      <li class="text-small">
-			        <a href="{{ item.url }}">{{ item.title }}</a>
-			      </li>
-			      {% endfor %}
-			    </ul>
-		    </nav>
+				<ul class="text-caps reset">
+					{% for item in navLinks %}
+						<li class="text-small">
+							<a href="{{ item.url }}">{{ item.title }}</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</nav>
 			{% unless page.identefier == "tutor-index" or page.identefier == "tutor-posts"  %}
-		    	<a href="/signup" class="btn btn-minimal-primary btn-small signup right">Sign Up</a>
+				<a href="/signup" class="btn btn-minimal-primary btn-small signup right">Sign Up</a>
 			{% endunless %}
-	    </div>
-    </section>
+		</div>
+	</section>
 </header>
