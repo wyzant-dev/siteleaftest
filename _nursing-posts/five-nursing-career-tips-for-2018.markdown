@@ -25,5 +25,4 @@ Besides strengthening your resume´, learning a second language can benefit you 
 This one is a no-brainer. As soon as you obtain new continuing education credits or celebrate an anniversary at work, update your portfolio and career plan to reflect your most recent experience and qualifications. This way, you will always have an up-to-date resume´ on hand to submit to prospective employers as soon as new opportunities arise.
 
 **Become a coach or mentor**
-
 Nursing isn’t a career–it’s a calling. The reason that so many employers require 3-5 years of patient care experience (and often more) is that a great deal of what it truly means to be a nurse simply can’t be taught in school. Help shape the next generation of care directly by working with those just starting out in their careers. In the process, you’ll very likely be reminded of why you answered that call in the first place.
