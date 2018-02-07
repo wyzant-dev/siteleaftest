@@ -13,7 +13,7 @@
   }
 
   .sidebar {
-    visibility: hidden;
+    display: none;
   }
 
   .no-padding {
@@ -123,7 +123,7 @@
     }
 
     .sidebar {
-      visibility: visible;
+      display: block;
     }
 
     .related-articles {
