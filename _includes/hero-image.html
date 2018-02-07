@@ -2,6 +2,10 @@
 	{% assign hero =  site.hero-image %}
 	{% assign headline =  site.title %}
 	{% assign subHeadline =  site.marketing-banner-sub-headline %}
+{% elsif page.identefier == "nursing-index" %}
+	{% assign hero =  site.nursing-hero-image %}
+	{% assign headline =  site.nursing-title %}
+	{% assign subHeadline =  site.nursing-sub-headline %}
 {% else %}
     {% assign hero =  site.tutor-hero-image %}
     {% assign headline =  site.tutor-title %}
