@@ -8,7 +8,7 @@ author: Ben Reedus
 
 > We always know the New Year’s on its way and yet it never ceases to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking on a new diet and resolving to exercise more, take a look at your professional fitness. We’ve outlined a few steps to get you started.
 
-![Online_vs_Inperson_tutoring.jpg](/blog/uploads/rectangle.jpg)
+![rectangle.jpg](/blog/uploads/rectangle.jpg)
 
 ## Evaluate your current position
 
