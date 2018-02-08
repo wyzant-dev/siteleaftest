@@ -4,10 +4,6 @@ date: 2018-02-07 14:10:00 -06:00
 tags:
 - Nursing
 author: Ben Reedus
-sub-headline: We always know the New Year’s on its way and yet it never ceases to
-  catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking
-  on a new diet and resolving to exercise more, take a look at your professional fitness.
-  We’ve outlined a few steps to get you started.
 meta-description: We always know the New Year’s on its way and yet it never ceases
   to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to
   taking on a new diet and resolving to exercise more, take a look at your professional
@@ -18,7 +14,7 @@ post-description: We always know the New Year’s on its way and yet it never ce
   fitness. We’ve outlined a few steps to get you started.
 ---
 
-> We always know the New Year’s on its way and yet it never ceases to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking on a new diet and resolving to exercise more, take a look at your professional fitness. We’ve outlined a few steps to get you started.
+We always know the New Year’s on its way and yet it never ceases to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking on a new diet and resolving to exercise more, take a look at your professional fitness. We’ve outlined a few steps to get you started.
 
 ![img-Five-Nursing-Career-Tips.jpg](/blog/uploads/img-Five-Nursing-Career-Tips.jpg)
 
