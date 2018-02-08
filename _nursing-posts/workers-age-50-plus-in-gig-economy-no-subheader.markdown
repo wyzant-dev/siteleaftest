@@ -9,7 +9,7 @@ tags:
 
 ![Online_vs_Inperson_tutoring.jpg](/blog/uploads/Online_vs_Inperson_tutoring.jpg)
 
-## Intellectual Independence
+##Intellectual Independence
 
 The backbone of the tutor-tutee dynamic is that it gives students the tools they need to be successful in their education. Tutoring helps a student develop the cognitive skills that enable them to identify problems and solutions related to their learning experience.
 
