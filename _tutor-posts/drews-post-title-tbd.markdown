@@ -21,17 +21,17 @@ Over the last several years, online tutoring has surged in popularity. In fact, 
 
 Why such growth in online tutoring? There are many reasons:
 
-Students find it to be a better learning experience. They’re more comfortable and productive with online lessons. 
+1. Students find it to be a better learning experience. They’re more comfortable and productive with online lessons. 
 
-Online learning is convenient for both tutors and students. It provides greater scheduling flexibility by eliminating travel time and costs, which helps tutors to grow their businesses. 
+2. Online learning is convenient for both tutors and students. It provides greater scheduling flexibility by eliminating travel time and costs, which helps tutors to grow their businesses. 
 
-Using Wyzant’s market-leading online learning tool is better than sitting in the same room.
-The shared whiteboard makes collaboration a breeze. 
-Documents are easy to access and share. 
-Graphing and editing tools make working through problems simple and easy. 
+3. Using Wyzant’s market-leading online learning tool is better than sitting in the same room.
+* The shared whiteboard makes collaboration a breeze. 
+* Documents are easy to access and share. 
+* Graphing and editing tools make working through problems simple and easy. 
 Work can be saved, and lesson recordings reviewed, at any time. 
 
-Students can connect with their perfect tutor for their individual needs regardless of location. Likewise, tutors can work with more students who fit their unique expertise and preferences. 
+4. Students can connect with their perfect tutor for their individual needs regardless of location. Likewise, tutors can work with more students who fit their unique expertise and preferences. 
 
 For all of the above reasons and beyond, online tutoring is only going to continue to grow. That’s why after significant testing, research and analysis, we are making some important changes to how Wyzant works. I will be writing a series of blog posts to share all the exciting developments as they occur. 
 
@@ -39,10 +39,13 @@ The first big change is that most Wyzant searches now default to online tutors r
 
 With this change, it’s important to make sure you’ve taken the following steps: 
 
-If you haven’t already been certified for online tutoring, get certified now! Since the vast majority of prospective students are now being directed to online tutors, you don’t want to miss out.
-Write unique titles and descriptions for each of your subjects. Your profile is dynamic and changes based on the subject being searched. With our updated online search algorithm, the more relevant your subject title and descriptions are the higher in the search results you will appear and more students will visit your profile. Along with your photo, this is the main thing that drives clicks in search results, and is especially important now with online tutoring since you will be compared with tutors across the country.
-Use Wyzant’s online tool. If you’re more comfortable using Skype or something else for your online tutoring, try ours. It’s better. Seriously. Students have higher satisfaction with lessons on our online tool as well, which is why nearly 70% of online lessons occur through it. Be sure to familiarize yourself with the tool by watching the tutorial videos and reading the FAQ’s. 
-Remember that responsiveness to student contacts and job posts is critically important to securing new clients, especially for online tutoring. The best way to reply quickly is with the free IOS or Android Tutor App, so make sure to download it if you haven’t already. The app also allows you to schedule your lessons, which students love and is a best practice utilized by 19 of the 20 top earning tutors on the Wyzant.  
+1. If you haven’t already been certified for online tutoring, get certified now! Since the vast majority of prospective students are now being directed to online tutors, you don’t want to miss out.
+
+2. Write unique titles and descriptions for each of your subjects. Your profile is dynamic and changes based on the subject being searched. With our updated online search algorithm, the more relevant your subject title and descriptions are the higher in the search results you will appear and more students will visit your profile. Along with your photo, this is the main thing that drives clicks in search results, and is especially important now with online tutoring since you will be compared with tutors across the country.
+
+3. Use Wyzant’s online tool. If you’re more comfortable using Skype or something else for your online tutoring, try ours. It’s better. Seriously. Students have higher satisfaction with lessons on our online tool as well, which is why nearly 70% of online lessons occur through it. Be sure to familiarize yourself with the tool by watching the tutorial videos and reading the FAQ’s. 
+
+4. Remember that responsiveness to student contacts and job posts is critically important to securing new clients, especially for online tutoring. The best way to reply quickly is with the free IOS or Android Tutor App, so make sure to download it if you haven’t already. The app also allows you to schedule your lessons, which students love and is a best practice utilized by 19 of the 20 top earning tutors on the Wyzant.  
 
 The growth of online tutoring presents an exciting opportunity for tutors anywhere to expand their businesses and help more students. We understand the transition may take some getting used to, but it will be worth it. I have no doubt that online tutoring is the future of one on one learning and together, we can make it a resource that benefits millions of struggling learners across the globe. 
 
