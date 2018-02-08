@@ -12,7 +12,7 @@ author: Ben Reedus
 
 Whether you’re a RN or BSN,  a MSN or NP, a life in nursing means a life in ongoing education. As you begin 2018, consider your current level of happiness with your degree and certifications. If you’re interested in transitioning into a new role, this may be the year to start thinking about getting back to school.
 
-![Online_vs_Inperson_tutoring.jpg](/blog/uploads/Online_vs_Inperson_tutoring.jpg)
+![Online_vs_Inperson_tutoring.jpg](/blog/uploads/rectangle.jpg)
 
 Today's availability of accredited online programs makes obtaining a new degree and certifications easier than ever before, and if there are courses you’re dreading, consider finding a private tutor who can work with you and your busy schedule. The key to following through on your goals is pursuing them on your terms.
 
