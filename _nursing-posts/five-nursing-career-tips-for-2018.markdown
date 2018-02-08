@@ -6,7 +6,7 @@ tags:
 author: Ben Reedus
 ---
 
-> We always know the New Year’s on its way and yet it never ceases to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking on a new diet and resolving to exercise more, take a look at your professional fitness. We’ve outlined a few steps to get you started.
+We always know the New Year’s on its way and yet it never ceases to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking on a new diet and resolving to exercise more, take a look at your professional fitness. We’ve outlined a few steps to get you started.
 
 **Evaluate your current position**
 Whether you’re a RN or BSN,  a MSN or NP, a life in nursing means a life in ongoing education. As you begin 2018, consider your current level of happiness with your degree and certifications. If you’re interested in transitioning into a new role, this may be the year to start thinking about getting back to school.
