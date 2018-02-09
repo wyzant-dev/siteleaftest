@@ -5,6 +5,7 @@ tags:
 - NCLEX
 - math
 - Nursing
+identefier: nursing-post
 meta-title: The 6 Obstacles All Nursing Students Face
 sub-headline: 6 Obstacles That All Students Face
 hero-image: "/blog/uploads/Nursing_BlogHeader_Article-28e667.jpg"
