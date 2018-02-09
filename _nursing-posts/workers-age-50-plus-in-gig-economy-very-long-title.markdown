@@ -3,9 +3,7 @@ title: Workers Age 50-Plus in the Gig Economy With Very Long Title
 date: 2017-03-20 09:00:00 -05:00
 published: false
 tags:
-- Nursing
 - Tutors
-- Medical
 sub-headline: This is what it would look like if we had
 ---
 
