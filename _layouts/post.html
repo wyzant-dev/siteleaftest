@@ -26,7 +26,7 @@ page-name: post-page
 										{% endif %}
 									</section>
 									{% if data.author != "Wyzant" %}
-										<a href="{{ data.url | prepend: site.baseurl }}">{{ data.author }}</a>
+										<span class="text-blue">{{ data.author }}</span>
 									{% else %}
 										<span>Wyzant</span>
 									{% endif %}

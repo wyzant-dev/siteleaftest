@@ -46,7 +46,7 @@ paginate:
                       {% assign author = site.authors | where: "author", post.author %}
                       {% for data in author %}
                         {% if post.author != "Wyzant" %}
-                          <a href="{{ data.url | prepend: site.baseurl }}">{{ post.author }}</a>
+                          <span class="text-blue">{{ post.author }}</span>
                         {% else %}
                           <span>Wyzant</span>
                         {% endif %}

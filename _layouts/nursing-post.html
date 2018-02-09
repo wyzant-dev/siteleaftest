@@ -37,7 +37,7 @@ page-name: post-page
 								</div>
 								<div class="column no-padding author-details-block">
 									{% if data.author != "Wyzant" %}
-										<a href="{{ data.url | prepend: site.baseurl }}" class="author-name">{{ data.author }}</a>
+										<span class="text-blue author-name">{{ data.author }}</span>
 									{% else %}
 										<span class="author-name">Wyzant</span>
 									{% endif %}
