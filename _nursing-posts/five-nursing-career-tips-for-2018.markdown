@@ -12,6 +12,7 @@ post-description: We always know the New Year’s on its way and yet it never ce
   to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to
   taking on a new diet and resolving to exercise more, take a look at your professional
   fitness. We’ve outlined a few steps to get you started.
+Field name: 
 ---
 
 We always know the New Year’s on its way and yet it never ceases to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking on a new diet and resolving to exercise more, take a look at your professional fitness. We’ve outlined a few steps to get you started.
@@ -32,7 +33,7 @@ Conferences provide great opportunities to stay up to date on the latest trends 
 
 Native Spanish speakers now account for just over 18% of the U.S. population. In fact, the U.S. currently has more Spanish speakers than Spain. In states where the Spanish-speaking population is densest, such as California, Texas, New York, Illinois, and Florida, knowing your patients’ native language can have significant implications on the caliber of care you’re able to provide. In light of this fact, many health care systems incentivize bilingualism with higher pay or bonuses.
 
-Besides strengthening your resume´, learning a second language can benefit you in your personal life too. Studying a new language has been demonstrated to increase memory and attention span, boost creativity, and bolster self-confidence. If trying to learn on your own sounds a little daunting, finding a tutor may be a good idea. Working one-on-one with a private tutor online provides a great avenue for receiving personalized instruction, guidance, and feedback without having to leave home.
+Besides strengthening your resumé, learning a second language can benefit you in your personal life too. Studying a new language has been demonstrated to increase memory and attention span, boost creativity, and bolster self-confidence. If trying to learn on your own sounds a little daunting, finding a tutor may be a good idea. Working one-on-one with a private tutor online provides a great avenue for receiving personalized instruction, guidance, and feedback without having to leave home.
 
 ## Maintain an updated resume´
 
