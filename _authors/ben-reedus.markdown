@@ -6,3 +6,4 @@ profile-image: "/blog/uploads/img-ben-reedus.png"
 author: Ben Reedus
 ---
 
+[Five Nursing Career Tips for 2018](https://www.wyzant.com/blog/nursing/five-nursing-career-tips-for-2018/)
