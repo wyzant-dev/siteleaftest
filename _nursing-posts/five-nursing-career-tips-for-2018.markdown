@@ -1,5 +1,5 @@
 ---
-title: Five Nursing Career Tips for 2018
+title: 5 Nursing Career Tips for 2018
 date: 2018-02-07 14:10:00 -06:00
 tags:
 - Nursing
