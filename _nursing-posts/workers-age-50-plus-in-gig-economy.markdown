@@ -8,6 +8,7 @@ tags:
 - Medical
 sub-headline: This is what it would look like if we had a secondary line that also
   ran pretty long
+layout: default
 ---
 
 ![Online_vs_Inperson_tutoring.jpg](/blog/uploads/Online_vs_Inperson_tutoring.jpg)
