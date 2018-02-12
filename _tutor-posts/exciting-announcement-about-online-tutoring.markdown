@@ -14,9 +14,9 @@ Over the past twelve years, Wyzant has changed the way tutors and students conne
 
 *Like Lauren, who after multiple attempts, finally passed the NCLEX with [Rachel’s](https://www.wyzant.com/match/tutor/77882410)  support and could realize her dream of becoming a nurse.*
 
-Or Shaohua’s five year old daughter who never enjoyed learning, but now looks forward to her online phonics sessions with [Brenda](https://www.wyzant.com/match/tutor/78036510).
+*Or Shaohua’s five year old daughter who never enjoyed learning, but now looks forward to her online phonics sessions with [Brenda](https://www.wyzant.com/match/tutor/78036510).*
 
-And Michael who learned “more in an hour session than weeks of college” from [Jenn](https://www.wyzant.com/match/tutor/86675200) and [Craig](https://www.wyzant.com/match/tutor/76173930) in order to design a website for his business.
+*And Michael who learned “more in an hour session than weeks of college” from [Jenn](https://www.wyzant.com/match/tutor/86675200) and [Craig](https://www.wyzant.com/match/tutor/76173930) in order to design a website for his business.*
 
 Imagine if, together, we could help even more students, everywhere, with a more empowering learning experience. Online tutoring now makes that possible.
 
