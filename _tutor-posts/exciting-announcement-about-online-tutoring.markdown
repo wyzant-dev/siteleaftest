@@ -1,10 +1,8 @@
 ---
 title: We're excited about online tutoring. You should be too.
 date: 2018-02-13 08:34:00 -06:00
-published: false
 author: Andrew Geant, CEO
 hero-image: "/blog/uploads/blog-post-hero-B.png"
-isHidden: true
 ---
 
 In 2005, I started Wyzant with my cofounder, Mike, to create a better way for tutors to connect and work with students. A lot has changed since then, for Wyzant and in education. Perhaps the most profound development is the rise of online learning. Today, 30% of high school and college students take some or all of their courses online. And based on our internal data, adult learners are even more inclined toward online learning.
