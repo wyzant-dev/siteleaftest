@@ -17,7 +17,6 @@ Over the past twelve years, Wyzant has changed the way tutors and students conne
 * Or Shaohua’s five year old daughter who never enjoyed learning, but now **looks forward to her online phonics sessions** with [Brenda](https://www.wyzant.com/match/tutor/78036510).
 
 * And Michael who learned “more in an hour session than weeks of college” from [Jenn](https://www.wyzant.com/match/tutor/86675200) and [Craig](https://www.wyzant.com/match/tutor/76173930) in order to **design a website for his business**.
-
 Imagine if, together, we could help even more students, everywhere, with a more empowering learning experience. Online tutoring now makes that possible.
 
 Over the last several years, **online tutoring has surged in popularity**. In fact, last year 95 out of the top 100 highest earning tutors on Wyzant held lessons online. Why such growth in online tutoring? There are many reasons:
