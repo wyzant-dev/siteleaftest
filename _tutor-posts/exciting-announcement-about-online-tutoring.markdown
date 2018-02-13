@@ -29,13 +29,9 @@ Over the last several years, online tutoring has surged in popularity. In fact, 
 3. Students can connect with their perfect tutor for their individual needs regardless of location. Likewise, tutors can work with more students who fit their unique expertise and preferences.
 
 4. Using Wyzant’s market-leading online learning tool is better than sitting in the same room:
-
-&nbsp;* **The shared whiteboard makes collaboration a breeze.**
-
+* **The shared whiteboard makes collaboration a breeze.**
 * **Documents are easy to access and share.**
-
 * **Graphing and editing tools make working through problems simple and easy.**
-
 * **Work can be saved, and lesson recordings reviewed, at any time.**
 
 For all of the above reasons and beyond, online tutoring is only going to continue to grow. That’s why after significant testing, research and analysis, we are making some important changes to how Wyzant works. I will be writing a series of blog posts to share all the exciting developments as they occur.
