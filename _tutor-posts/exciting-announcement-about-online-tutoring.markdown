@@ -12,11 +12,11 @@ In order for Wyzant to fulfill our mission of making the world a better place by
 
 Over the past twelve years, Wyzant has changed the way tutors and students connect, and none of it would be possible without the amazing tutors who use Wyzant to build and manage their tutoring business. Since we began, tutors like you have championed over 500,000 students across hundreds of different subject areas, helping them overcome their unique struggles and accomplish their goals:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Like Lauren, who after multiple attempts, finally passed the NCLEX with [Rachel’s](https://www.wyzant.com/match/tutor/77882410)  support and could realize her dream of becoming a nurse.*
+*Like Lauren, who after multiple attempts, finally passed the NCLEX with [Rachel’s](https://www.wyzant.com/match/tutor/77882410)  support and could realize her dream of becoming a nurse.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Or Shaohua’s five year old daughter who never enjoyed learning, but now looks forward to her online phonics sessions with [Brenda](https://www.wyzant.com/match/tutor/78036510).*
+*Or Shaohua’s five year old daughter who never enjoyed learning, but now looks forward to her online phonics sessions with [Brenda](https://www.wyzant.com/match/tutor/78036510).*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*And Michael who learned “more in an hour session than weeks of college” from [Jenn](https://www.wyzant.com/match/tutor/86675200) and [Craig](https://www.wyzant.com/match/tutor/76173930) in order to design a website for his business.*
+*And Michael who learned “more in an hour session than weeks of college” from [Jenn](https://www.wyzant.com/match/tutor/86675200) and [Craig](https://www.wyzant.com/match/tutor/76173930) in order to design a website for his business.*
 
 Imagine if, together, we could help even more students, everywhere, with a more empowering learning experience. Online tutoring now makes that possible.
 
