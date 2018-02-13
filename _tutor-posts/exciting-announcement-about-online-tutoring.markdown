@@ -1,5 +1,5 @@
 ---
-title: Exciting announcement about online tutoring.
+title: We're excited about online tutoring. You should be too.
 date: 2018-02-12 15:34:00 -06:00
 published: false
 author: Andrew Geant
@@ -30,7 +30,7 @@ Over the last several years, online tutoring has surged in popularity. In fact, 
 
 4. Using Wyzant’s market-leading online learning tool is better than sitting in the same room:
 
-* **The shared whiteboard makes collaboration a breeze.**
+&nbsp;* **The shared whiteboard makes collaboration a breeze.**
 
 * **Documents are easy to access and share.**
 
