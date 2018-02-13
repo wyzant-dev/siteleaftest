@@ -1,9 +1,9 @@
 ---
 title: We're excited about online tutoring. You should be too.
-date: 2018-02-12 15:34:00 -06:00
+date: 2018-02-13 08:34:00 -06:00
 published: false
 author: Andrew Geant, CEO
-hero-image: "/blog/uploads/blog-post-hero-A.png"
+hero-image: "/blog/uploads/blog-post-hero-B.png"
 isHidden: true
 ---
 
