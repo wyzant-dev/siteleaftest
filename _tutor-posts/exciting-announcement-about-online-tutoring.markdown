@@ -27,7 +27,6 @@ Over the last several years, online tutoring has surged in popularity. In fact, 
 2. Online learning is convenient for both tutors and students. It provides greater scheduling flexibility by eliminating travel time and costs, which helps tutors to grow their businesses. 
 
 3. Using Wyzant’s market-leading online learning tool is better than sitting in the same room.
-
 * **The shared whiteboard makes collaboration a breeze.** 
 * **Documents are easy to access and share.** 
 * **Graphing and editing tools make working through problems simple and easy.** 
