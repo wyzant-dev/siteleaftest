@@ -17,6 +17,7 @@ Over the past twelve years, Wyzant has changed the way tutors and students conne
 * Or Shaohua’s five year old daughter who never enjoyed learning, but now **looks forward to her online phonics sessions** with [Brenda](https://www.wyzant.com/match/tutor/78036510).
 
 * And Michael who learned “more in an hour session than weeks of college” from [Jenn](https://www.wyzant.com/match/tutor/86675200) and [Craig](https://www.wyzant.com/match/tutor/76173930) in order to **design a website for his business**.
+
 Imagine if, together, we could help even more students, everywhere, with a more empowering learning experience. Online tutoring now makes that possible.
 
 Over the last several years, **online tutoring has surged in popularity**. In fact, last year 95 out of the top 100 highest earning tutors on Wyzant held lessons online. Why such growth in online tutoring? There are many reasons:
@@ -28,10 +29,9 @@ Over the last several years, **online tutoring has surged in popularity**. In fa
 3. **Students can connect with their perfect tutor for their individual needs regardless of location**. Likewise, tutors can work with more students who fit their unique expertise and preferences.
 
 4. Using Wyzant’s market-leading online learning tool is better than sitting in the same room:
-
-* **The shared whiteboard makes collaboration a breeze.**
-* **Documents are easy to access and share.**
-* **Graphing and editing tools make working through problems simple and easy.**
+  * **The shared whiteboard makes collaboration a breeze.**  
+* **Documents are easy to access and share.**  
+* **Graphing and editing tools make working through problems simple and easy.**  
 * **Work can be saved, and lesson recordings reviewed, at any time.**
 
 For all of the above reasons and beyond, online tutoring is only going to continue to grow. That’s why after significant testing, research and analysis, we are making some important changes to how Wyzant works. I will be writing a series of blog posts to share all the exciting developments as they occur.
