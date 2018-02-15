@@ -1,8 +1,8 @@
 ---
 title: You Failed the NCLEX - How To Bounce Back
 date: 2018-02-15 17:15:00 -06:00
-categories:
-- nursing
+tags:
+- Nursing
 author: Ben Reedus
 sub-headline: "“If you have made mistakes, even serious mistakes, you may have a fresh
   start any moment you choose, for this thing we call ‘failure’ is not the falling
