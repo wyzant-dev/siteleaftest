@@ -17,9 +17,9 @@ post-description: 'It’s been a tense 48 hours and you can finally purchase you
   knocked out too early in a heavyweight fight - but you’re not down for the count.'
 ---
 
-It’s been a tense 48 hours and you can finally purchase your “unofficial results” for the NCLEX -. Some hand-wringing and $8 later, you see the word that you never thought you’d see, and your heart sinks: **fail**. It feels like you were knocked out too early in a heavyweight fight - but you’re not down for the count.
-
 ![img-Five-Nursing-Career-Tips.jpg](/blog/uploads/img-blog-failed-nclex.jpg)
+
+It’s been a tense 48 hours and you can finally purchase your “unofficial results” for the NCLEX -. Some hand-wringing and $8 later, you see the word that you never thought you’d see, and your heart sinks: **fail**. It feels like you were knocked out too early in a heavyweight fight - but you’re not down for the count.
 
 ## Take a deep breath… and some time
 
