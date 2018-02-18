@@ -1,5 +1,5 @@
 ---
-title: You Failed the NCLEX - How To Bounce Back
+title: You Failed the NCLEX - How to Bounce Back
 date: 2018-02-15 17:15:00 -06:00
 tags:
 - Nursing
