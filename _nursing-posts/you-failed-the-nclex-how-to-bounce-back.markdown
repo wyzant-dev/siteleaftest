@@ -57,6 +57,6 @@ Remember when building your plan that the difficulty of the questions you answer
 
 With a plan and program in place, it’s time to get back in the ring.
 
-It might seem far off from now, but soon you’ll be in your new review course, with a more personalized study plan. While you may feel some brief moments of dèjà vu, you’ll remind yourself that you’re further along than you were last time. You’ll give yourself some more room to work on the material you know you need to work on. You will have stopped freaking out, because you’re on your way to passing this time.
+It might seem far off from now, but soon you’ll be in your new review course, with a more personalized study plan. While you may feel some brief moments of déjà vu, you’ll remind yourself that you’re further along than you were last time. You’ll give yourself some more room to work on the material you know you need to work on. You will have stopped freaking out, because you’re on your way to passing this time.
 
 In a few weeks, it’ll be time to sign up for the test again. It’ll be easier to sign up this time, since they’ll have some of your information already. The test will also be easier this time, because you already know what you need to do to pass it. You got this, champ.
