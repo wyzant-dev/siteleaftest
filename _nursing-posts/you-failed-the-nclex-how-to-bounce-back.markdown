@@ -31,7 +31,7 @@ Take a step back and a deep breath. Once you're ready, share the news with your 
 
 * **Work out.** You certainly have a lot of built-up anxiety coming out of this, so spend some of it on the treadmill.
 
-* **Eat a lot of ice cream and watch some comfort movies.** Might we recommend mint chocolate chip and _Rocky_?
+* **Eat a lot of ice cream and watch some comfort movies.** Might we recommend mint chocolate chip and *Rocky*?
 
 ## Put everything in order
 
@@ -47,16 +47,16 @@ While you may not be in the perfect place to start planning your next move, or p
 
 ## Build a plan
 
-With everything in line, you can start working on a plan for your next steps. Does your nursing school or review program provide support for those who fail the NCLEX? Either way, you need to be proactive and try to identify your testing weak spots as best you can and write them down while the test is fresh. Was it the wording or format of some of the questions? Was it a specific topic or two? A review course or a tutor can also help with this evaluation, but it’s always a good idea to know where you need to focus before beginning a new program. While the state will mail you a form giving you some specifics on parts to work on, we wouldn’t count on it in the short term. since the official NCLEX results can take up to six weeks to arrive.
+With everything in line, you can start working on a plan for your next steps. Does your nursing school or review program provide support for those who fail the NCLEX? Either way, you need to be proactive and try to identify your testing weak spots as best you can and write them down while the test is fresh. Was it the wording or format of some of the questions? Was it a specific topic or two? A review course or a tutor can also help with this evaluation, but it’s always a good idea to know where you need to focus before beginning a new program. While the state will mail you a form giving you some specifics on parts to work on, we wouldn’t count on it in the short term, since the official NCLEX results can take up to six weeks to arrive.
 
 Build a study plan based on the material you know you have to cover, and find a review course that supports that strategy - preferably a different one from your first course  - or a tutor or mentor who is keyed into your needs. Contact some of your former instructors and get their advice; they’ve seen it all before and can help you with your study plan or suggest new programs to look into.
 
-Remember when building your plan that the difficulty of the questions you answer on the NCLEX counts, not the quantity. While the test might shut off after 75 or so questions, it will be because you answered correctly a number of difficult questions. Don’t shy away from the tough material in your planning.
+Remember when building your plan that the difficulty of the questions you answer on the NCLEX counts, not the quantity. While the test might shut off after 75 questions or so, it will because you answered a number of difficult ones correctly. Don’t shy away from the tough material in your planning.
 
 ## Get ready for round two
 
 With a plan and program in place, it’s time to get back in the ring.
 
-It might seem far off from now, but soon you’ll be in your new review course, with a more personalized study plan. While you may feel some brief moments of deja vu, you’ll remind yourself that you’re further along than you were last time. You’ll give yourself some more room to work on the material you know you need to work on. You will have stopped freaking out, because you’re on your way to passing this time.
+It might seem far off from now, but soon you’ll be in your new review course, with a more personalized study plan. While you may feel some brief moments of dèjà vu, you’ll remind yourself that you’re further along than you were last time. You’ll give yourself some more room to work on the material you know you need to work on. You will have stopped freaking out, because you’re on your way to passing this time.
 
 In a few weeks, it’ll be time to sign up for the test again. It’ll be easier to sign up this time, since they’ll have some of your information already. The test will also be easier this time, because you already know what you need to do to pass it. You got this, champ.
