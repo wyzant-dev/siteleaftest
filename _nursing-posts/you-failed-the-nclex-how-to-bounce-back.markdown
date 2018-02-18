@@ -31,7 +31,7 @@ Take a step back and a deep breath. Once you're ready, share the news with your 
 
 * **Work out.** You certainly have a lot of built-up anxiety coming out of this, so spend some of it on the treadmill.
 
-* **Eat a lot of ice cream and watch some comfort movies.** Might we recommend mint chocolate chip and Rocky?
+* **Eat a lot of ice cream and watch some comfort movies.** Might we recommend mint chocolate chip and _Rocky_?
 
 ## Put everything in order
 
