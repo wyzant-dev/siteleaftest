@@ -25,11 +25,11 @@ It’s been a tense 48 hours and you can finally purchase your “unofficial res
 
 It’s been two long days of waiting already, not to mention taking the test itself, and the last month of stress as you worked up to it. You likely told all of your friends and family about this test and the messages have been coming in asking how it went. The very last thing you want to do is talk about it.
 
-Take a step back and a deep breath. Once you're ready, share the news with your closest circle and anyone else who needs to know. Then disconnect from it all for a few days - social media, texts, all of it! This is time for self-care, and while it looks different from person to person, here are some tips:
+Take a step back and a deep breath. Once you're ready, share the news with your closest circle and anyone else who needs to know. Then isconnect from it all for a few days - social media, texts, all of it! This is time for self-care, and while it looks different from person to person, here are some tips:
 
 * **Get some sleep.** You have a lot of sleep to catch up on. Time to recoup.
 
-* **Work out** You certainly have a lot of built-up anxiety coming out of this, spend some of it on the treadmill.
+* **Work out.** You certainly have a lot of built-up anxiety coming out of this, spend some of it on the treadmill.
 
 * **Eat a lot of ice cream and watch some comfort movies.** Might we recommend mint chocolate chip and Rocky?
 
