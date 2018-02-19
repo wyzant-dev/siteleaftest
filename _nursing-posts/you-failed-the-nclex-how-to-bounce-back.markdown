@@ -4,7 +4,7 @@ date: 2018-02-15 17:15:00 -06:00
 author: Chris Geiger
 sub-headline: "“If you have made mistakes, even serious mistakes, you may have a fresh
   start any moment you choose, for this thing we call ‘failure’ is not the falling
-  down, but the staying down.”"
+  down, but the staying down.” -Mary Pickford"
 meta-description: 'It’s been a tense 48 hours and you can finally purchase your “unofficial
   results” for the NCLEX -. Some hand-wringing and $8 later, you see the word that
   you never thought you’d see, and your heart sinks: **fail**. It feels like you were
