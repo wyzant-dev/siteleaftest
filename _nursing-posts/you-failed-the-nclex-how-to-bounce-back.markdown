@@ -26,7 +26,7 @@ Take a step back and a deep breath. Once you're ready, share the news with your 
 
 * **Get some sleep.** You have a lot of sleep to catch up on. Time to recoup.
 
-* **Work out.** You certainly have a lot of built-up anxiety coming out of this, so spend some of it on the treadmill.
+* **Work out.** You certainly have a lot of built-up anxiety. Hitting the gym or going for a run can help with that. 
 
 * **Eat a lot of ice cream and watch some comfort movies.** Might we recommend mint chocolate chip and *Rocky*?
 
