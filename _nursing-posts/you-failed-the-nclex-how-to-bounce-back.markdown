@@ -49,8 +49,6 @@ With everything in line, you can start working on a plan for your next steps. Do
 Build a study plan based on the material you know you have to cover, and find a review course that supports that strategy - preferably a different one from your first course  - or a tutor or mentor who is keyed into your needs. Contact some of your former instructors and get their advice; they’ve seen it all before and can help you with your study plan or suggest new programs to look into.
 
 Remember when building your plan that the difficulty of the questions you answer on the NCLEX counts, not the quantity. While the test might shut off after 75 questions or so, it will because you answered a number of difficult ones correctly. Don’t shy away from the tough material in your planning.
-[
-![300x250-blog-ad.jpg](/blog/uploads/300x250-blog-ad.jpg)](https://www.wyzant.com/match/intro?loc=Online&ol=true&flow=search&kw=NCLEX)
 
 ## Get ready for round two
 
