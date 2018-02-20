@@ -36,7 +36,7 @@ You’ve had a day or two of disconnection and you’re getting antsy...or you�
 
 * **You are not the first to fail the NCLEX - and you won’t be the last.** While failing the NCLEX may feel like a badge of shame, it isn’t. Do not compare your journey with anyone else’s. You just need to take an extra step or two to get where you need to go.
 
-* **Roughly [50% of people](https://www.ncsbn.org/Table_of_Pass_Rates_2017.pdf) who retake the NCLEX pass it.** And that percentage is going to include you.
+* **Roughly [50% of people](https://www.ncsbn.org/10645.htm) who retake the NCLEX pass it.** And that percentage is going to include you.
 
 * **[Nurses are in high demand](https://nurse.org/articles/nursing-demand-by-state/) - and will continue to be.** No matter when you pass the NCLEX, there will be a hospital ready to hire you. This is not the end of your career. It’s just getting started.
 
