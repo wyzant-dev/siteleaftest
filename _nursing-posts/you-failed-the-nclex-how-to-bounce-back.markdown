@@ -50,6 +50,8 @@ Build a study plan based on the material you know you have to cover, and find a 
 
 Remember when building your plan that the difficulty of the questions you answer on the NCLEX counts, not the quantity. While the test might shut off after 75 questions or so, it will because you answered a number of difficult ones correctly. Don’t shy away from the tough material in your planning.
 
+[![300x250-blog-ad.jpg](/blog/uploads/300x250-blog-ad.jpg)](https://startlearning.wyzant.com/rad-nclex-blog-ad/)
+
 ## Get ready for round two
 
 With a plan and program in place, it’s time to get back in the ring.
