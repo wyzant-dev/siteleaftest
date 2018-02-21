@@ -14,7 +14,7 @@ post-description: 'It’s been a tense 48 hours and you can finally purchase you
   knocked out too early in a heavyweight fight - but you’re not down for the count.'
 ---
 
-[![img-Five-Nursing-Career-Tips.jpg](/blog/uploads/img-blog-failed-nclex.jpg)](https://startlearning.wyzant.com/rad-nclex-blog-ad/)
+![img-Five-Nursing-Career-Tips.jpg](/blog/uploads/img-blog-failed-nclex.jpg)
 
 It’s been a tense 48 hours and you can finally purchase your “unofficial results” for the NCLEX. Some hand-wringing and $8 later, you see the word you never thought you’d see, and your heart sinks: **fail**. It feels like you were knocked out too early in a heavyweight fight - but you’re not down for the count.
 
@@ -51,7 +51,7 @@ Build a study plan based on the material you know you have to cover, and find a 
 Remember when building your plan that the difficulty of the questions you answer on the NCLEX counts, not the quantity. While the test might shut off after 75 questions or so, it will because you answered a number of difficult ones correctly. Don’t shy away from the tough material in your planning.
 
 [
-![nclex-blog-ad.jpg](/blog/uploads/nclex-blog-ad.jpg)](https://startlearning.wyzant.com/rad-nclex-blog-ad/)
+](https://startlearning.wyzant.com/rad-nclex-blog-ad/)![nclex-blog-ad.jpg](/blog/uploads/nclex-blog-ad.jpg){: .center-image }
 
 ## Get ready for round two
 
