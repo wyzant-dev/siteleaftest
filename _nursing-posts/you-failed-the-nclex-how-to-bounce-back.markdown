@@ -26,7 +26,7 @@ Take a step back and a deep breath. Once you're ready, share the news with your 
 
 * **Get some sleep.** You have a lot of sleep to catch up on. Time to recoup.
 
-* **Work out.** You certainly have a lot of built-up anxiety. Hitting the gym or going for a run can help with that.
+* **Work out.** You certainly have a lot of built-up anxiety. Hitting the gym or going for a run can help with that. 
 
 * **Eat a lot of ice cream and watch some comfort movies.** Might we recommend mint chocolate chip and *Rocky*?
 
@@ -50,7 +50,7 @@ Build a study plan based on the material you know you have to cover, and find a 
 
 Remember when building your plan that the difficulty of the questions you answer on the NCLEX counts, not the quantity. While the test might shut off after 75 questions or so, it will because you answered a number of difficult ones correctly. Don’t shy away from the tough material in your planning.
 
-![300x250-blog-ad.jpg](/blog/uploads/300x250-blog-ad.jpg)
+![nclex-blog-ad.jpg](/blog/uploads/nclex-blog-ad.jpg)
 
 ## Get ready for round two
 
