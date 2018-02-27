@@ -1,5 +1,5 @@
 ---
-title: 5 Ways to Boost Your Nursing Career
+title: 5 Nursing Career Tips
 date: 2018-02-07 14:10:00 -06:00
 tags:
 - Nursing
