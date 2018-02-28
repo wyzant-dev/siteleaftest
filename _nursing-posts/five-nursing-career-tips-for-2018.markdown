@@ -3,11 +3,11 @@ title: 5 Tips for Your Nursing Career
 date: 2018-02-07 14:10:00 -06:00
 tags:
 - Nursing
+meta-title: 5 Tips for Your Nursing Career
 author: Ben Reedus
-meta-description: We always know the New Year’s on its way and yet it never ceases
-  to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to
-  taking on a new diet and resolving to exercise more, take a look at your professional
-  fitness. We’ve outlined a few steps to get you started.
+meta-description: When you spend your days helping others, it can be easy to forget
+  about taking care of yourself. Here are a few helpful tips to gauge the wellbeing
+  of your career in 2018.
 post-description: We always know the New Year’s on its way and yet it never ceases
   to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to
   taking on a new diet and resolving to exercise more, take a look at your professional
@@ -15,7 +15,7 @@ post-description: We always know the New Year’s on its way and yet it never ce
 Field name: 
 ---
 
-We always know the New Year’s on its way and yet it never fails to catch us by surprise. Still finalizing your 2018 Resolutions? In addition to taking on a new diet and resolving to exercise more, take a look at your professional fitness. We’ve outlined a few steps to get you started.
+When you spend your days helping others, it can be easy to forget about taking care of yourself. Here are a few helpful tips to gauge the wellbeing of your career in 2018.
 
 ![img-Five-Nursing-Career-Tips.jpg](/blog/uploads/img-Five-Nursing-Career-Tips.jpg)
 
