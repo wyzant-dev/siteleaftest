@@ -5,6 +5,9 @@ tags:
 - Nursing
 meta-title: 5 Tips for Your Nursing Career
 author: Ben Reedus
+sub-headline: When you spend your days helping others, it can be easy to forget about
+  taking care of yourself. Here are a few helpful tips to gauge the wellbeing of your
+  career in 2018.
 meta-description: When you spend your days helping others, it can be easy to forget
   about taking care of yourself. Here are a few helpful tips to gauge the wellbeing
   of your career in 2018.
@@ -14,8 +17,6 @@ post-description: We always know the New Year’s on its way and yet it never ce
   fitness. We’ve outlined a few steps to get you started.
 Field name: 
 ---
-
-When you spend your days helping others, it can be easy to forget about taking care of yourself. Here are a few helpful tips to gauge the wellbeing of your career in 2018.
 
 ![img-Five-Nursing-Career-Tips.jpg](/blog/uploads/img-Five-Nursing-Career-Tips.jpg)
 
