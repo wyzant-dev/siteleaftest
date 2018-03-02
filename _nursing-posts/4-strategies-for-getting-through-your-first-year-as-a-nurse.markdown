@@ -44,8 +44,6 @@ Because of that, it’s incredibly important to maintain normality where you can
 
 Lastly, while on the job, take breaks - especially when you think you don’t need them. A twelve hour shift can cause burnout, so take some time off the floor, even if it is only a nap for ten minutes here or there.
 
-[![nclex-blog-ad.jpg](/blog/uploads/nclex-blog-ad.jpg)](https://startlearning.wyzant.com/rad-nclex-blog-ad/)
-
 ## Stay Positive
 
 While this mentality doesn’t explicitly deal with managing your time effectively, it does factor greatly into it. If you feel dull and unhappy at work, you’ll be less focused on your job and more tasks will stack up. Some of this is externally driven and you can’t do much about it - but a lot of it comes from inside. When in doubt: choose positivity. Lean into it. Try to see the good in the scenarios you face, even when the charts are stacking up.
