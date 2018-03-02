@@ -20,7 +20,7 @@ post-description: 'After years of schooling and tests, preparing for the NCLEX, 
 '
 ---
 
-![img-Five-Nursing-Career-Tips.jpg](/blog/uploads/img-blog-failed-nclex.jpg)
+![img-blog-4-nursing-strategies.jpg](/blog/uploads/img-blog-4-nursing-strategies.jpg)
 
 After years of schooling and tests, preparing for the NCLEX, and making tough decisions, you’ve finally made it to those first few shifts as a nurse. You’re ready to settle into the stability of having the day-to-day job after all the uncertainty of your tests and school, but now you’re faced with a new struggle: how do you manage your time during the actual job?
 
