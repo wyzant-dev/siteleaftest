@@ -58,8 +58,6 @@ In 2014, a 628-bed hospital instituted an initiative to improve compliance of ob
 
 Observations are a form of data visualization. You’ll be tired of seeing pie charts by the time you ace your NCLEX. Basic statistic principles learned in your nursing program will provide you with the ability to identify patterns, achievements, and areas of improvement in treatment, which can lead to more productive and efficient care...something your fellow nurses will thank you for!
 
-[![nclex-blog-ad.jpg](/blog/uploads/nclex-blog-ad.jpg)](https://startlearning.wyzant.com/rad-nclex-blog-ad/)
-
 ## Enhanced Patient Care Starts with Stats
 
 Patients are priority. Whatever you do in a typical day as a nurse will always be oriented toward promoting safety and thus, improving patient outcomes. 
