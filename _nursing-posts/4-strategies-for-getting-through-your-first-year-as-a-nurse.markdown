@@ -1,6 +1,7 @@
 ---
 title: 4 Strategies for Getting Through Your First Year as a Nurse
 date: 2018-03-02 14:38:00 -06:00
+author: Chris Geiger
 sub-headline: 'This is a good sub headline for this page that we can come up with
   soon. '
 meta-description: 'After years of schooling and tests, preparing for the NCLEX, and
@@ -44,6 +45,8 @@ Let’s face it, your life as a nurse is hectic, with long hours at weird times.
 Because of that, it’s incredibly important to maintain normality where you can. When you have time off, use it! Enjoy time with loved ones and try not to think about the work that’s potentially waiting for you when you get back in. While your career is based on caring for others, make sure you also take time to care for yourself. Be unapologetic about it.
 
 Lastly, while on the job, take breaks - especially when you think you don’t need them. A twelve hour shift can cause burnout, so take some time off the floor, even if it is only a nap for ten minutes here or there.
+
+[![nclex-blog-ad.jpg](/blog/uploads/nclex-blog-ad.jpg)](https://startlearning.wyzant.com/rad-nclex-blog-ad/)
 
 ## Stay Positive
 
