@@ -2,6 +2,7 @@
 title: Think You Don’t Need Stats? Think Again.
 date: 2018-03-02 16:35:00 -06:00
 author: Chris Geiger
+sub-headline: Why you should pay attention to the one subject you'll use everyday.
 meta-description: 'When Florence Nightingale arrived in Turkey with her thirty-eight
   fellow nurses in November 1854, in the thick of the Crimean War, mortality rates
   were extremely high, rates of infection had begun to cause complications with non-serious
