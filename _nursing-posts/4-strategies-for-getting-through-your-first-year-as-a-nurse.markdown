@@ -2,6 +2,8 @@
 title: 4 Strategies for Getting Through Your First Year as a Nurse
 date: 2018-03-02 14:38:00 -06:00
 author: Chris Geiger
+sub-headline: Start your career off on the the right foot with these professional
+  tips.
 meta-description: 'After years of schooling and tests, preparing for the NCLEX, and
   making tough decisions, you’ve finally made it to those first few shifts as a nurse.
   You’re ready to settle into the stability of having the day-to-day job after all
