@@ -29,7 +29,7 @@ Because statistics affects every single part of a nurse’s job.
 
 Nurses should be able to identify a problem and determine what data needs to be collected to ascertain if a current course of treatment is the best option for a patient. Modern health care is reliant on evidence-based practice, statistics at its finest, as the most effective way to improve patient care. 
 
-![img-blog-statistics-quote.jpg](/blog/uploads/img-blog-statistics-quote.jpg)
+![img-blog-statistics-quote-V2.jpg](/blog/uploads/img-blog-statistics-quote-v2.jpg)
 
 So EBP is a fancy way of saying, “The best way to help people is to do what’s proved to best.”
 
