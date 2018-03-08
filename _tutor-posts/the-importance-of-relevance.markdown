@@ -3,7 +3,7 @@ title: The importance of "relevance" in Wyzant's search results.
 date: 2018-03-08 11:08:00 -06:00
 published: false
 author: Andrew Geant, CEO
-hero-image: "/blog/uploads/relevanceblogpost_A.jpg"
+hero-image: "/blog/uploads/relevanceblogpost_B.jpg"
 ---
 
 As a tutor, you pride yourself on your ability to work with different types of learners in a variety of subject areas. **In fact, 70% of tutors listed on Wyzant offer lessons in multiple subjects.** However, students aren’t immediately interested in your breadth of knowledge. All they want is a tutor who matches their specific needs as precisely as possible. Herein lies the paradox: how do you make yourself appeal to a wide array of students, many of whom are seeking something slightly different?
