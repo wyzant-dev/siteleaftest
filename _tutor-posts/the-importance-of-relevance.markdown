@@ -1,7 +1,6 @@
 ---
-title: The importance of "relevance" in Wyzant's search results.
+title: The importance of "relevance" in our search results.
 date: 2018-03-08 11:08:00 -06:00
-published: false
 author: Andrew Geant, CEO
 hero-image: "/blog/uploads/relevanceblogpost_B.jpg"
 ---
@@ -12,9 +11,9 @@ We’ve been working on creating better tutor/student connections for years, and
 
 With the rise of online tutoring, students are now no longer limited by geography and can choose from tutors across the country. This is really exciting because it greatly improves the opportunity to create better tutor and student connections; having previously tutored for many years myself, I’ve seen first hand how powerful one to one learning can be, especially when there’s that perfect fit between the tutor and student. However, this increased selection with online tutoring also exacerbates the issues with relevance for tutors who want to offer multiple subjects. So what are some ways to enhance that relevance and help grow your business?
 
-You may have noticed our many requests over the past few months for you to add subject specific titles and qualifications. With online tutoring, it’s now more critical than ever that you update this information in order to continue to rank highly and convert students.
+You may have noticed our many requests over the past few months for you to add subject specific titles and qualifications. **With online tutoring, it’s now more critical than ever that you update this information in order to continue to rank highly and convert students.**
 
-Here’s why: while technically Wyzant offers 302 different subjects that you can submit lessons and write qualifications and titles for, in practice the number of skills and subject areas students are learning is nearly infinite. In fact, students search *over 12,000 unique queries every month.*
+Here’s why: while technically Wyzant offers 287 different subjects that you can submit lessons and write qualifications and titles for, in practice the number of skills and subject areas students are learning is nearly infinite. In fact, students search *over 12,000 unique queries every month.*
 
 For example, here is a random list of 50 search queries students have performed on Wyzant. Bold font indicates a subject we officially offer through the platform:
 
@@ -23,7 +22,7 @@ For example, here is a random list of 50 search queries students have performed 
 The first immediate takeaway from the above list is that the majority of searches don’t perfectly match official Wyzant subjects. The other important thing to note is that the vast majority of the search queries are, however, *related* to official subjects. As you can see below, the search for “med surg” has seven subjects that are related to it:
 
 ![Alt](/blog/uploads/img-blog-search-mapping%20V2.jpg "Search Results")
-               *The size of the circle indicates how strong our official subject relates to the search.*
+*The size of the circle indicates how strong our official subject relates to the search.*
 
 By adding rich, detailed subject descriptions and titles, you can speak to your specific areas of expertise *within* or *related* to each official subject. In doing so, you’ll naturally mention many of the keywords that people are searching for.
 
@@ -35,13 +34,13 @@ Assuming you have created multiple subject specific titles, our relevant data en
 
 Some tutors, like Norma B. below, are already taking advantage of our relevant data engine.  **Here are some examples of Norma’s profile, with titles and qualifications specific to the subject being searched:**
 
-*Piano search*
+*Piano search:*
 ![Alt](/blog/uploads/Piano%20tutor.png "Piano")
 
-*Photoshop search*
+*Photoshop search:*
 ![Alt](/blog/uploads/Photoshop%20tutor.png "Photoshop")
 
-*Spanish search*
+*Spanish search:*
 ![Alt](/blog/uploads/Spanishtutor.png "Spanish")
 
 Every week there are new skills popping up that people want to learn. This is especially true for technical skills, which are growing quickly in demand. Collectively, tutors using Wyzant can teach darn near anything. The breadth, depth and power of the tutors on the Wyzant platform is seriously incredible. Yet, what good is that strength if we are unable to adequately surface your talents in the right way? Thanks to the new relevant data engine, students can now much more easily find the tutors who specialize in whatever they want to learn and tutors can stand out as specialists in multiple areas. It’s up to you to take advantage of it to grow your business, so **[add your subject specific titles and qualifications today](https://www.wyzant.com/tutor/subjects/).**
