@@ -3,6 +3,7 @@ title: The importance of "relevance" in Wyzant's search results.
 date: 2018-03-08 11:08:00 -06:00
 published: false
 author: Andrew Geant, CEO
+hero-image: "/blog/uploads/relevanceblogpost_A.jpg"
 ---
 
 As a tutor, you pride yourself on your ability to work with different types of learners in a variety of subject areas. **In fact, 70% of tutors listed on Wyzant offer lessons in multiple subjects.** However, students aren’t immediately interested in your breadth of knowledge. All they want is a tutor who matches their specific needs as precisely as possible. Herein lies the paradox: how do you make yourself appeal to a wide array of students, many of whom are seeking something slightly different?  
@@ -22,7 +23,7 @@ For example, here is a random list of 50 search queries students have performed 
 The first immediate takeaway from the above list is that the majority of searches don’t perfectly match official Wyzant subjects. The other important thing to note is that the vast majority of the search queries are, however, *related* to official subjects. As you can see below, the search for “med surg” has seven subjects that are related to it: 
 
 ![Alt](/blog/uploads/img-blog-search-mapping%20V2.jpg "Search Results")
-*The size of the circle indicates how strong our official subject relates to the search.*
+<sub><sup>*The size of the circle indicates how strong our official subject relates to the search.*</sub></sup>
 
 By adding rich, detailed subject descriptions and titles, you can speak to your specific areas of expertise *within* or *related* to each official subject. In doing so, you’ll naturally mention many of the keywords that people are searching for. 
 
