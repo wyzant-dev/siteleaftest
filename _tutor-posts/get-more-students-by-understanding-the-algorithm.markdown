@@ -24,15 +24,15 @@ The conversion that matters the most is **the conversion that results when a stu
  
 ### Tips to maximize conversion:
  
-1. Respond quickly to all student requests with the free Wyzant mobile [app](https://www.wyzant.com/app)
-2. Reply with a thoughtful, personalized message
-3. Follow up with the student in the thread if you don’t hear back after a couple days
-4. Be extra flexible in accommodating your first new students
-5. If you’re new to Wyzant, consider starting with a lower hourly rate than comparable tutors with more experience
+1. Respond quickly to all student requests with the free Wyzant mobile [app](https://www.wyzant.com/app).
+2. Reply with a thoughtful, personalized message.
+3. Follow up with the student in the thread if you don’t hear back after a couple days.
+4. Be extra flexible in accommodating your first new students.
+5. If you’re new to Wyzant, consider starting with a lower hourly rate than comparable tutors with more experience.
 6. Sell yourself!
-7. Follow [these best practices](https://www.wyzant.com/blog/tutor/tips-for-getting-students-on-board-with-online-lessons/) for getting students started with online tutoring
-8. Offer an [online demo](https://www.wyzant.com/blog/tutor/giving-a-great-online-demo/)
-9. [Hide your profile](https://www.wyzant.com/tutor/settings/status) when you’re not taking new students
+7. Follow [these best practices](https://www.wyzant.com/blog/tutor/tips-for-getting-students-on-board-with-online-lessons/) for getting students started with online tutoring.
+8. Offer an [online demo](https://www.wyzant.com/blog/tutor/giving-a-great-online-demo/).
+9. [Hide your profile](https://www.wyzant.com/tutor/settings/status) when you’re not taking new students.
  
 ## Retention
  
@@ -42,12 +42,12 @@ We understand that different subjects and situations call for varied numbers of 
  
 ### Tips to maximize retention:
  
-1. Be extra prepared for the first few lessons
-2. Write effective, helpful lesson reviews
-3. At the end of your lessons, check in with students about scheduling their next one
-4. Schedule all your lessons through the platform - our data shows convincingly that doing so increases retention
-5. Be judicious with cancellation fees
-6. Enter all your lessons through Wyzant within 24 hours of the lesson
+1. Be extra prepared for the first few lessons.
+2. Write effective, helpful lesson reviews.
+3. At the end of your lessons, check in with students about scheduling their next one!
+4. Schedule all your lessons through the platform - our data shows convincingly that doing so increases retention.
+5. Be judicious with cancellation fees.
+6. Enter all your lessons through Wyzant within 24 hours of the lesson.
  
 We’re aware that some students and tutors are tempted to go “off-platform,” presumably to save money. Disintermediation, as we call it, is a surefire way to hurt your conversion and retention rates, lose rank in the search results, and stop getting new business. With the increased competition from online tutoring, this is now truer than ever.
  
