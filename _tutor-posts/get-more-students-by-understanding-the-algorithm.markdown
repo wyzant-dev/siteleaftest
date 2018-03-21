@@ -12,7 +12,7 @@ The best way to generate new opportunities is to rank highly in Wyzant’s searc
  
 Simply put, **the more hours you log on our platform, the higher you’ll rank in the search results**. Note, there’s a significant “recency” factor here: lessons you log in the last few months are weighted much more than tutoring logged six months ago or longer.
  
-I’m aware that this creates a fundamental chicken or egg problem: if you need to rank well to get students, but you need students in order to rank well, how do you get started? This blog contains a number of simple, practical tips that should help both new and established tutors alike. Also, I recognize that tutors new to Wyzant have an even more uphill battle as they try to secure their first students without any testimonials on their profile or a history of performance on the platform, and [I’ll be writing another blog post soon specifically about this challenge](https://www.wyzant.com/tutor/tips).
+I’m aware that this creates a fundamental chicken or egg problem: if you need to rank well to get students, but you need students in order to rank well, how do you get started? This blog contains a number of simple, practical tips that should help both new and established tutors alike. Also, I recognize that tutors new to Wyzant have an even more uphill battle as they try to secure their first students without any testimonials on their profile or a history of performance on the platform, and I’ll be writing [another blog post soon](https://www.wyzant.com/tutor/tips) specifically about this challenge.
  
 It’s important to first have a basic understanding of how the algorithm works. The two most important algo factors are **conversion** and **retention**.
  
