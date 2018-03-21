@@ -3,6 +3,7 @@ title: Get more students by understanding the algorithm.
 date: 2018-03-21 14:44:00 -05:00
 published: false
 author: Andrew Geant, CEO
+hero-image: "/blog/uploads/algohero1.jpg"
 ---
 
 We work hard to connect tutors with thousands of new tutoring opportunities each day. Many tutors are able to build their businesses to great heights on the platform, but at the same time, a lot of tutors struggle to gain traction. The good news is that your success using Wyzant is in your control.
