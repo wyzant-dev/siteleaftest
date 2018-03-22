@@ -49,6 +49,8 @@ For evidence-based practice to work in the field, nurses need an elementary comm
 
 You won’t be performing intricate calculations on the fly, but by learning valuable statistics basics in your undergrad program, you’re gaining access to tools you need to understand research and its implications in everyday nursing practices. You also develop vocabulary that you can use to communicate issues with MDs based on rational and informed data rather than anecdotal evidence, and will be able to better provide information to your patients and their families about their care.
 
+[![inline_ad-1704ef.jpg](/blog/uploads/inline_ad-1704ef.jpg)](https://startlearning.wyzant.com/rad-nursing-blog-lp/?urlname=Nursing&utm_source=rad-blog)
+
 ## Statistics Reduces Workload
 
 That’s right, it makes your work life easier.
