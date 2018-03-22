@@ -30,6 +30,8 @@ You’ve likely built up a stable of excellent time management tools in your jou
 
 You might not be working ideal hours right now, but arriving to your shift twenty minutes early is one of the best ways to start off on the right foot. Not only will you be able to prep your charts and handoffs ahead of time, but being in the right headspace before you begin your shift will allow you to promptly leave it when it’s over - rather than stressing to wrap up tasks when you’re tired at the end of your shift.
 
+[![inline_ad-a9c8a3.jpg](/blog/uploads/inline_ad-a9c8a3.jpg)](https://startlearning.wyzant.com/rad-nursing-blog-lp/?urlname=Nursing&utm_source=nursing-blog)
+
 And the best part? As you get used to your day-to-day responsibilities, you’ll feel more comfortable when you arrive, meaning that even if you hate getting there early in the beginning, you won’t have to do it forever.
 
 ## Package Your Tasks Together
