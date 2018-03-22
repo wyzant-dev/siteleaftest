@@ -31,7 +31,7 @@ Today's availability of accredited online programs makes obtaining a new degree 
 Conferences provide great opportunities to stay up to date on the latest trends in your field, and likewise enable you to expand your professional network beyond the scope of your current role. In many cases, your employer will cover the cost of traveling to and attending conferences under a professional development stipend. Not sure where to start? Here’s a list of [conferences](https://www.nursingconference.com/) happening 
 across the country and internationally in 2018.
 
-[![300x250_v2@2x.jpg](/blog/uploads/300x250_v2@2x.jpg)](htttps://www.wyzant.com)
+![inline_ad.jpg](/blog/uploads/inline_ad.jpg)
 
 ## Learn a second language
 
