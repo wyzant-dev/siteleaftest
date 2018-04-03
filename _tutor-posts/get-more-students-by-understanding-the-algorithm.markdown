@@ -28,7 +28,7 @@ The conversion that matters the most is **the conversion that results when a stu
 3. Check in with the student in the thread if you don’t hear back after a couple days.
 4. Be extra flexible in accommodating your first new students.
 5. If you’re new to Wyzant, consider starting with a lower hourly rate than comparable tutors with more experience.
-6. Sell yourself! I’ll be writing [another blog post soon](https://www.wyzant.com/tutor/tips) specifically about this.
+6. Sell yourself! I’ll be writing [another blog post](https://www.wyzant.com/tutor/tips) specifically about this soon.
 7. Follow [these best practices](https://www.wyzant.com/blog/tutor/tips-for-getting-students-on-board-with-online-lessons/) for getting students started with online tutoring.
 8. Offer an [online demo](https://www.wyzant.com/blog/tutor/giving-a-great-online-demo/).
 9. [Hide your profile](https://www.wyzant.com/tutor/settings/status) when you’re not taking new students.
