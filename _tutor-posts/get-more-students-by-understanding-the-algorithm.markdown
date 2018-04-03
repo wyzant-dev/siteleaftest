@@ -1,6 +1,6 @@
 ---
 title: Get more students by understanding the algorithm.
-date: 2018-04-03 14:44:00 -05:00
+date: 2018-04-03 12:00:00 -05:00
 author: Andrew Geant, CEO
 hero-image: "/blog/uploads/algohero1.jpg"
 ---
