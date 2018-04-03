@@ -26,7 +26,7 @@ The conversion that matters the most is **the conversion that results when a stu
  
 1. Respond quickly to all student requests with the free Wyzant mobile [app](https://www.wyzant.com/app).
 2. Reply with a thoughtful, personalized message.
-3. Follow up with the student in the thread if you don’t hear back after a couple days.
+3. Check in with the student in the thread if you don’t hear back after a couple days.
 4. Be extra flexible in accommodating your first new students.
 5. If you’re new to Wyzant, consider starting with a lower hourly rate than comparable tutors with more experience.
 6. Sell yourself!
