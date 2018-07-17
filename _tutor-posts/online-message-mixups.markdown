@@ -1,12 +1,12 @@
 ---
-title: Online Message Mixups
+title: Let's talk about online messaging mixups.
 date: 2018-07-17 10:48:00 -05:00
 published: false
 ---
 
 Wyzant recently started taking steps to feature online tutoring more prominently in our Marketplace. You can read [our CEO's blog post](https://www.wyzant.com/blog/tutor/exciting-announcement-about-online-tutoring/) if you’d like to get more information. With growth comes change, and change can be confusing. If you’re approved to use the Wyzant online tool for your tutoring services, you might be unsure why you’ve received requests from a student who wanted in-person lessons, but mistakenly (or unknowingly) requested the lesson to be conducted online.
 
-We’ve learned from both students and tutors that this can turn into a negative experience for one or both parties involved. But there’s good news: this mixup has also resulted in a lot of lessons! When a student messages you and isn’t initially interested in online lessons, you may still be able to help them and in turn grow your business. Let us show you how.
+We’ve learned from both students and tutors that this can turn into a negative experience for one or both parties involved. **But there’s good news:** this mixup has also resulted in a lot of lessons! When a student messages you and isn’t initially interested in online lessons, you may still be able to help them and in turn grow your business. **Let us show you how.**
 
 ## How does it happen?
 
@@ -36,9 +36,9 @@ Students are able to opt in and out of a feature called “Share My Requests,”
 
 ### Address the student’s needs
 	
-When a student reaches out for in-person help, but the student is not local to you, keep in mind that your profile may have been viewed primarily because there is a lack of in-person tutors in their area.  This is especially true if the student is located in a rural or remote area, or is asking for help in a specialized subject for which there are not many tutors listed on Wyzant who specialize in the area.
+When a student reaches out for in-person help, but the student is not local to you, keep in mind that your profile may have been viewed primarily because there is a **lack of in-person tutors in their area**.  This is especially true if the student is located in a rural or remote area, or is asking for help in a specialized subject for which there are not many tutors listed on Wyzant who specialize in the area.
 
-It’s easy to respond to these requests with suspicion, or even frustration.  However, remember that the student is actively seeking help and liked your profile! A mistaken online request from a student can be an unexpected opportunity for your tutoring business.
+It’s easy to respond to these requests with suspicion, or even frustration.  However, remember that **the student is actively seeking help and liked your profile!** A mistaken online request from a student can be an unexpected opportunity for your tutoring business.
 
 ### Understand concerns about online lessons
 
@@ -63,7 +63,7 @@ Past reviews, testimonials, and feedback from students illustrate that many user
 
 ### Offer to connect via an online demo
 
-Students often want to speak directly with a tutor before they move forward with scheduling sessions. It’s normal! This is their chance to break the ice, get know you better, and have a more in-depth conversation about their goals.  
+Students often want to **speak directly with a tutor** before they move forward with scheduling sessions. It’s normal! This is their chance to break the ice, get know you better, and have a more in-depth conversation about their goals.  
 
 This is also the perfect time to offer a student a free demo of the Wyzant online tool.
 
@@ -75,17 +75,17 @@ This will send a link to your student, inviting them to an online room where you
 
 ### Help students prepare
 
-Here are some top tips for preparing for an online lesson that can help your student - and maybe you! - feel ready when a session starts:
+Here are some top tips for preparing for an online lesson that can help your student - _and maybe you!_ - feel ready when a session starts:
 
-* Find a quiet place with no distractions
-* Make sure you’re on a desktop or laptop computer
-* Use Google Chrome for the best experience
-* Test your audio and video before the lesson
-* Wear headphones to reduce outside noise and prevent echoes
+* Find a **quiet place** with no distractions
+* Make sure you’re on a **desktop or laptop computer**
+* Use **Google Chrome** for the best experience
+* **Test your audio and video** before the lesson
+* **Wear headphones** to reduce outside noise and prevent echoes
 
 ### Prepare for the unexpected
 
-Sometimes things simply go wrong. Even when everyone is prepared, technical hiccups can pop up and, just like real hiccups, if they aren’t addressed quickly, can be frustrating.  Familiarize yourself with the following troubleshooting steps to help ease students into the new online environment and begin building a trusting, productive relationship:
+Sometimes things simply go wrong. Even when everyone is prepared, technical hiccups can pop up and, just like real hiccups, if they aren’t addressed quickly, can be **frustrating**.  Familiarize yourself with the following troubleshooting steps to help ease students into the new online environment and begin building a trusting, productive relationship:
 
 1. **Update your browser:** The first and most important tip because it addresses such a wide range of issues!  Having the most up-to-date version of your browser is crucial to ensure that the online tool runs smoothly. 
 2. **Restart your browser:** Restarting your browser often helps to address issues affecting your online lesson. You’ll want to make sure your browser is completely shut down before you restart it.
