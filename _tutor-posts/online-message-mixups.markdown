@@ -59,7 +59,7 @@ We are hard at work to address these misconceptions while improving the online t
 
 Past reviews, testimonials, and feedback from students illustrate that many users who expressed disinterest in online lessons ended up loving them, all thanks to a positive first experience with their online tutor.
 
-> "At first, I was very hesitant to use the online tutor system and only used Wyzant for in-person tutoring.  However, after using the online practice sessions allowed by Wyzant, I discovered this online system to be quite remarkable.  I was thrilled to see this, as my tutor search results for online tutors went through the roof, offering way more variety of teachers.  I feel this enabled me to really pick an amazing teacher out of the 229 results I had to choose from!  Thank you Wyzant!" - *Daniel, Wyzant Student*
+> "At first, I was very hesitant to use the online tutor system and only used Wyzant for in-person tutoring.  However, after using the online practice sessions allowed by Wyzant, I discovered this online system to be quite remarkable.  I was thrilled to see this, as my tutor search results for online tutors went through the roof, offering way more variety of teachers.  I feel this enabled me to really pick an amazing teacher out of the 229 results I had to choose from!  Thank you Wyzant!" - Daniel, Wyzant Student
 
 ## Offer to Connect Via an Online Demo
 
@@ -69,7 +69,7 @@ This is also the perfect time to offer a student a free demo of the Wyzant onlin
 
 You can send a link to join an online lesson demo with just a few clicks. Directly from your “Messages” page, click on the blue computer icon:  
 
-[onlinedemo.PNG](/blog/uploads/onlinedemo.PNG)
+![onlinedemo.PNG](/blog/uploads/onlinedemo.PNG)
 
 This will send a link to your student, inviting them to an online room where you can discuss details and availability, all while illustrating the ease and convenience of meeting through the online tool.
 
