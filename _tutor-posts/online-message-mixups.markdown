@@ -83,7 +83,7 @@ Here are some top tips for preparing for an online lesson that can help your stu
 * **Test your audio and video** before the lesson
 * **Wear headphones** to reduce outside noise and prevent echoes
 
-### Prepare for the unexpected
+### Get ready for the unexpected
 
 Sometimes things simply go wrong. Even when everyone is prepared, technical hiccups can pop up and, just like real hiccups, if they aren’t addressed quickly, can be **frustrating**.  Familiarize yourself with the following troubleshooting steps to help ease students into the new online environment and begin building a trusting, productive relationship:
 
