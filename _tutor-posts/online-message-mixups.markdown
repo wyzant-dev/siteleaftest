@@ -8,17 +8,17 @@ Wyzant recently started taking steps to feature online tutoring more prominently
 
 We’ve learned from both students and tutors that this can turn into a negative experience for one or both parties involved. But there’s good news: this mixup has also resulted in a lot of lessons! When a student messages you and isn’t initially interested in online lessons, you may still be able to help them and in turn grow your business. Let us show you how.
 
-## How Does it Happen?
+## How does it happen?
 
 If a student accidentally reaches out to a tutor offering online tutoring, it’s commonly the result of one of three reasons:
 
-### Online by Default
+### Online by default
 
 When a student performs a search, they’re asked for information that will help refine their request - specifics like subject, availability, goals, and grade level. Since the Wyzant search Blog results for tutors defaults to tutors who offer online tutoring for high school-level and above, students are presented with a list of online tutors who fit the criteria of their search. 
 
 Included in search results is an option to specify “In-Person” lessons (you can find it in the left navigation of the Wyzant desktop site, and under the “Local” tab in the Wyzant app). Students may not notice this detail and assume that they are seeing only in-person tutor options, and reach out accordingly. 
 
-### Online by Necessity
+### Online by necessity
 
 If a student performs a search for a tutor offering in-person tutoring and there are few or no tutors in their area who match their search criteria, they’re presented with the banner below:
 
@@ -28,11 +28,11 @@ A list of online tutors who meet the student’s search criteria will be listed 
 
 Sometimes students will mistakenly message tutors whose profiles appear below this banner, but these students aren’t necessarily actively seeking online lessons.
 
-### Online Jobs
+### Online jobs
 
 Students are able to opt in and out of a feature called “Share My Requests,” which uses the criteria of a student’s search to generate a post to the Wyzant Jobs board. Since it’s a default feature - students must opt-out via their dashboard - if a student mistakenly specifies they wish to have their tutoring conducted online, their request will be shared to the online Jobs board.
 
-## What Can Tutors Do?
+## What can tutors do?
 
 ### Address the student’s needs
 	
@@ -40,7 +40,7 @@ When a student reaches out for in-person help, but the student is not local to y
 
 It’s easy to respond to these requests with suspicion, or even frustration.  However, remember that the student is actively seeking help and liked your profile! A mistaken online request from a student can be an unexpected opportunity for your tutoring business.
 
-### Understand Concerns about Online Lessons
+### Understand concerns about online lessons
 
 Students are often reluctant to try online tutoring because of misconceptions regarding how those lessons actually work. The most common misunderstandings, according to our own research, are:
 
@@ -61,7 +61,7 @@ Past reviews, testimonials, and feedback from students illustrate that many user
 
 > "At first, I was very hesitant to use the online tutor system and only used Wyzant for in-person tutoring.  However, after using the online practice sessions allowed by Wyzant, I discovered this online system to be quite remarkable.  I was thrilled to see this, as my tutor search results for online tutors went through the roof, offering way more variety of teachers.  I feel this enabled me to really pick an amazing teacher out of the 229 results I had to choose from!  Thank you Wyzant!" - _Daniel, Wyzant Student_
 
-### Offer to Connect Via an Online Demo
+### Offer to connect via an online demo
 
 Students often want to speak directly with a tutor before they move forward with scheduling sessions. It’s normal! This is their chance to break the ice, get know you better, and have a more in-depth conversation about their goals.  
 
@@ -73,7 +73,7 @@ You can send a link to join an online lesson demo with just a few clicks. Direct
 
 This will send a link to your student, inviting them to an online room where you can discuss details and availability, all while illustrating the ease and convenience of meeting through the online tool.
 
-### Help Students Prepare
+### Help students prepare
 
 Here are some top tips for preparing for an online lesson that can help your student - and maybe you! - feel ready when a session starts:
 
@@ -83,7 +83,7 @@ Here are some top tips for preparing for an online lesson that can help your stu
 * Test your audio and video before the lesson
 * Wear headphones to reduce outside noise and prevent echoes
 
-### Prepare For the Unexpected
+### Prepare for the unexpected
 
 Sometimes things simply go wrong. Even when everyone is prepared, technical hiccups can pop up and, just like real hiccups, if they aren’t addressed quickly, can be frustrating.  Familiarize yourself with the following troubleshooting steps to help ease students into the new online environment and begin building a trusting, productive relationship:
 
