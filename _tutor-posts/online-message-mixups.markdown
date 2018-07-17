@@ -59,7 +59,7 @@ We are hard at work to address these misconceptions while improving the online t
 
 Past reviews, testimonials, and feedback from students illustrate that many users who expressed disinterest in online lessons ended up loving them, all thanks to a positive first experience with their online tutor.
 
-> "At first, I was very hesitant to use the online tutor system and only used Wyzant for in-person tutoring.  However, after using the online practice sessions allowed by Wyzant, I discovered this online system to be quite remarkable.  I was thrilled to see this, as my tutor search results for online tutors went through the roof, offering way more variety of teachers.  I feel this enabled me to really pick an amazing teacher out of the 229 results I had to choose from!  Thank you Wyzant!" - *Daniel, Wyzant Student*
+> "At first, I was very hesitant to use the online tutor system and only used Wyzant for in-person tutoring.  However, after using the online practice sessions allowed by Wyzant, I discovered this online system to be quite remarkable.  I was thrilled to see this, as my tutor search results for online tutors went through the roof, offering way more variety of teachers.  I feel this enabled me to really pick an amazing teacher out of the 229 results I had to choose from!  Thank you Wyzant!" - _Daniel, Wyzant Student_
 
 ## Offer to Connect Via an Online Demo
 
