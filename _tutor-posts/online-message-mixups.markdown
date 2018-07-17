@@ -44,15 +44,15 @@ It’s easy to respond to these requests with suspicion, or even frustration.  H
 
 Students are often reluctant to try online tutoring because of misconceptions regarding how those lessons actually work. The most common misunderstandings, according to our own research, are:
 
-1. “It’s not one-on-one.”
+1. **“It’s not one-on-one.”**
 * Universities and colleges often offer online courses in which one professor works with many students, posting resources and questions on a message board or shared folder.  Students with experience taking these sorts of classes often assume online lessons using the Wyzant online tool will work the same way.
-2. “It’s not face-to-face.”
+2. **“It’s not face-to-face.”**
 * Without having seen the online tool, some students have a hard time imagining how an online lesson will work. They often think a lesson would occur via email correspondence, or the “Messages” page, meaning they won’t be able to get answers, express themselves, and work with tutors in real time.  They also feel they won’t be able to experience that person-to-person connection.
-3. “It’s just another pre-recorded tutorial video.”
+3. **“It’s just another pre-recorded tutorial video.”**
 * You can find tutorial videos on how to do everything from tying your shoes, to how to beat a high level on an unpopular video game from 30 years ago. While these videos can be helpful, students reaching out for tutoring are looking for more than a video. Lessons using the online tool are not pre-recorded, giving students the ability to ask questions, find guidance, and interact with their tutor in the same ways as in-person lessons.
-4. “It won’t be as effective as in-person tutoring.”
+4. **“It won’t be as effective as in-person tutoring.”**
 * If a student is unfamiliar with online tutoring, they’ll often avoid seeking online help as they feel it won’t provide them with the face to face, one to one, personalized help they need.
-5. “It costs more than in-person tutoring.”
+5. **“It costs more than in-person tutoring.”**
 * As students learn about the Wyzant online tool, and its features, some come to the conclusion that access to powerful platform has to cost extra, and it’s common that they assume they will have to pay a subscription or an extra fee each lesson to use the tool, and focus on in person to avoid an extra cost.
 
 We are hard at work to address these misconceptions while improving the online tool, in order to help both tutors and their students maximize their lessons. For some, seeing is believing, and many students just aren’t comfortable with online lessons until they’ve had a chance to experience it themselves.
