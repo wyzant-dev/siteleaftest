@@ -2,6 +2,7 @@
 title: Let's talk about online messaging mixups.
 date: 2018-07-17 10:48:00 -05:00
 published: false
+hero-image: "/blog/uploads/onlinebanner.png"
 ---
 
 Wyzant recently started taking steps to feature online tutoring more prominently in our Marketplace. You can read [our CEO's blog post](https://www.wyzant.com/blog/tutor/exciting-announcement-about-online-tutoring/) if you’d like to get more information. With growth comes change, and change can be confusing. If you’re approved to use the Wyzant online tool for your tutoring services, you might be unsure why you’ve received requests from a student who wanted in-person lessons, but mistakenly (or unknowingly) requested the lesson to be conducted online.
