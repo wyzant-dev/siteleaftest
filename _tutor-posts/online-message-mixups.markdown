@@ -1,7 +1,6 @@
 ---
 title: Let's talk about online messaging mixups.
 date: 2018-07-17 10:48:00 -05:00
-published: false
 hero-image: "/blog/uploads/onlinebanner.png"
 ---
 
