@@ -14,7 +14,7 @@ If a student accidentally reaches out to a tutor offering online tutoring, it’
 
 ### Online by default
 
-When a student performs a search, they’re asked for information that will help refine their request - specifics like subject, availability, goals, and grade level. Since the Wyzant search Blog results for tutors defaults to tutors who offer online tutoring for high school-level and above, students are presented with a list of online tutors who fit the criteria of their search. 
+When a student performs a search, they’re asked for information that will help refine their request - specifics like subject, availability, goals, and grade level. Since the Wyzant search results for tutors defaults to tutors who offer online tutoring for high school-level and above, students are presented with a list of online tutors who fit the criteria of their search. 
 
 Included in search results is an option to specify “In-Person” lessons (you can find it in the left navigation of the Wyzant desktop site, and under the “Local” tab in the Wyzant app). Students may not notice this detail and assume that they are seeing only in-person tutor options, and reach out accordingly. 
 
