@@ -2,6 +2,7 @@
 title: Are you saving your work?
 date: 2018-08-01 13:23:00 -05:00
 published: false
+hero-image: "/blog/uploads/savingblog.jpg"
 ---
 
 One of the advantages of the Wyzant online tool is the ability to save your whiteboards. All users can save their progress to easily keep snapshots of their lessons to use as notes or references for future lessons.
