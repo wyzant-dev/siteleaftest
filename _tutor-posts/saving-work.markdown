@@ -11,7 +11,7 @@ We want to be sure you know all the ways to save your work, and give you some ti
 
 ## The Whiteboard
 
-First thing’s first! You can save *any* whiteboard you’re currently viewing by clicking the “File” option then selecting “Download whiteboard as .jpg”.  This converts the whiteboard you are viewing into an image and saves it to your computer. If you have difficulty locating your saved images, try looking in your computer or device’s Downloads folder, or create a specific place to save all your whiteboard images.
+First thing’s first! You can save *any* whiteboard you’re currently viewing by clicking the *“File”* option then selecting *“Download whiteboard as .jpg”*.  This converts the whiteboard you are viewing into an image and saves it to your computer. If you have difficulty locating your saved images, try looking in your computer or device’s Downloads folder, or create a specific place to save all your whiteboard images.
 
 ![saving1.PNG](/blog/uploads/saving1.PNG)
 
@@ -21,7 +21,7 @@ Keep in mind that this will save *only* the current whiteboard! Don’t worry - 
 
 ### Show Your Steps
 
-Since there’s no limit to the number of times you can save a whiteboard, you can also save as you complete each step of a problem. By saving each sequential step as its own .jpg using the instructions detailed above, you can provide a powerful tool for your students: step-by-step instructions they can reference when studying later. Here’s an example:
+Since there’s no limit to the number of times you can save a whiteboard, you can also save as you complete each step of a problem. By saving each sequential step as its own .jpg using the instructions detailed above, you can provide a powerful tool for your students: *step-by-step instructions they can reference when studying later.* Here’s an example:
 
 **Step 1:**
 
@@ -37,7 +37,7 @@ Since there’s no limit to the number of times you can save a whiteboard, you c
 
 ### Create resources for future lessons
 
-When you set up a whiteboard during a session with an excellent example problem or diagram, consider saving it!  You can upload .jpg files from your computer or tablet to a whiteboard at any time. Particularly effective whiteboards may come in handy later when working with other students.  
+When you set up a whiteboard during a session with an excellent example problem or diagram, **consider saving it!**  You can upload .jpg files from your computer or tablet to a whiteboard at any time. Particularly effective whiteboards may come in handy later when working with other students.  
 
 ### Pick Up Where You Left Off
 
@@ -51,7 +51,7 @@ You can save your work in the text editor by clicking the “File” option whil
 
 ![saving6.PNG](/blog/uploads/saving6.PNG)
 
-If you see a message indicating that, “The exporter does not currently support fonts,” just click the blue “OK, Download PDF” button. 
+If you see a message indicating that, *“The exporter does not currently support fonts,”* just click the blue *“OK, Download PDF”* button. 
 
 ![saving7.PNG](/blog/uploads/saving7.PNG)
 
