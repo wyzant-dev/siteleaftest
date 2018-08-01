@@ -19,7 +19,7 @@ Keep in mind that this will save *only* the current whiteboard! Don’t worry - 
 
 ![saving2.PNG](/blog/uploads/saving2.PNG)
 
-### Show Your Steps
+### Show your steps
 
 Since there’s no limit to the number of times you can save a whiteboard, you can also save as you complete each step of a problem. By saving each sequential step as its own .jpg using the instructions detailed above, you can provide a powerful tool for your students: *step-by-step instructions they can reference when studying later.* Here’s an example:
 
@@ -39,7 +39,7 @@ Since there’s no limit to the number of times you can save a whiteboard, you c
 
 When you set up a whiteboard during a session with an excellent example problem or diagram, **consider saving it!**  You can upload .jpg files from your computer or tablet to a whiteboard at any time. Particularly effective whiteboards may come in handy later when working with other students.  
 
-### Pick Up Where You Left Off
+### Pick up where you left off
 
 If you save a whiteboard at the end of a lesson, you can also upload it at the start of your next lesson, allowing you to continue exploring concepts or problems without the extra work of re-creating the last session. 
 
@@ -47,7 +47,7 @@ Just upload the saved .jpg to your new whiteboard. Since it will be displayed as
 
 ## The Text Editor
 
-You can save your work in the text editor by clicking the “File” option while viewing the text editor, then selecting the “Download as .pdf” option.
+You can save your work in the text editor by clicking the *“File”* option while viewing the text editor, then selecting the *“Download as .pdf”* option.
 
 ![saving6.PNG](/blog/uploads/saving6.PNG)
 
@@ -71,13 +71,13 @@ If your student wants to edit or change the material later, copy/pasting it into
 
 ## The Code Editor
 
-Save your work in the code editor by clicking “File” while viewing the code editor, then selecting the “Download as text” option.
+Save your work in the code editor by clicking *“File”* while viewing the code editor, then selecting the *“Download as text”* option.
 
 ![saving10.PNG](/blog/uploads/saving10.PNG)
 
 This will save your code as the file type associated with the language you selected. 
 
-Additionally, if your browser identifies the file type as “dangerous” you may see an error message similar to the one below.  Selecting “Keep” will save your code; “Discard” will prevent the code from being saved. Most browsers display a routine security message when attempting to download a code or .exe file, and it does not indicate that your code editor file is corrupted or otherwise harmful.
+Additionally, if your browser identifies the file type as “dangerous” you may see an error message similar to the one below.  Selecting *“Keep”* will save your code; *“Discard”* will prevent the code from being saved. Most browsers display a routine security message when attempting to download a code or .exe file, and it does not indicate that your code editor file is corrupted or otherwise harmful.
 
 ![saving11.PNG](/blog/uploads/saving11.PNG)
 
@@ -87,11 +87,11 @@ While students can exit an online lesson at any time, only tutors have the capab
 
 If you accidentally end the lesson, however, the tool will provide you with one last chance to save your lesson material. 
 
-A box will appear offering you the opportunity to save your whiteboards. Click the “Save Whiteboards” button to save all of your currently opened whiteboards at once as a .zip file. If your computer does not have a program to unzip files of this type, you may need to download one.
+A box will appear offering you the opportunity to save your whiteboards. Click the *“Save Whiteboards”* button to save all of your currently opened whiteboards at once as a .zip file. If your computer does not have a program to unzip files of this type, you may need to download one.
 
-But wait! **The final “Save Whiteboards” button will NOT save anything in your Text Editor, or Code Editor!**
+But wait! **The final *“Save Whiteboards”* button will NOT save anything in your Text Editor, or Code Editor!**
 
-If you need to save material in those tools before you wrap up, click the “X” icon in the box below so you can go back and make sure you’ve got what you need before exiting.
+If you need to save material in those tools before you wrap up, click the *“X”* icon in the box below so you can go back and make sure you’ve got what you need before exiting.
 
 ![saving12.PNG](/blog/uploads/saving12.PNG)
 
