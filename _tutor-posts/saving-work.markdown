@@ -1,7 +1,6 @@
 ---
 title: Are you saving your work?
 date: 2018-08-01 13:23:00 -05:00
-published: false
 hero-image: "/blog/uploads/savingblog.jpg"
 ---
 
