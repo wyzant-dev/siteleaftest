@@ -1,7 +1,6 @@
 ---
 title: The student side of online lessons.
 date: 2018-08-08 12:51:00 -05:00
-published: false
 hero-image: "/blog/uploads/joinheader.jpg"
 ---
 
