@@ -2,6 +2,7 @@
 title: The student side of online lessons.
 date: 2018-08-08 12:51:00 -05:00
 published: false
+hero-image: "/blog/uploads/joinheader.jpg"
 ---
 
 We do our best to ensure that the online lesson experience for new students is empowering and efficient by providing an easy to navigate student dashboard, along with resources in our [Help Center](https://support.wyzant.com/hc/en-us) and direct assistance from Customer Support. But we also realize that many new students depend upon their tutor to help them navigate the site and join an online lesson for the first time. We’d like to fill you in on the student experience, so you can effectively guide your new students.
