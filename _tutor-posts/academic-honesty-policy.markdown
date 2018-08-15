@@ -50,4 +50,4 @@ When a student violates the Academic Honesty Policy, it puts the student, tutor 
 
 Because of the seriousness of these kinds of violations, included in the policy is Wyzant’s right to deny, revoke or limit access to the platform to students or tutors who do not abide by the AHP. To avoid being in a position of violating the AHP, when a student asks for assistance that may run against the AHP, we suggest to decline the request. 
 
-We encourage you to contact Wyzant Customer Support if you have any concerns about a student’s tutoring request, or just need further clarification or guidance. We are always happy to help.
+We encourage you to [contact Wyzant Customer Support](https://support.wyzant.com/hc/en-us/articles/115005841543-Contact-Us) if you have any concerns about a student’s tutoring request, or just need further clarification or guidance. We are always happy to help.
