@@ -8,13 +8,13 @@ Wyzant connects tutors and students who are seeking tutoring services. We do not
 
 Tutors have asked us what constitutes an illegitimate inquiry, so we want to address one of the most common reasons a student’s request may not be legitimate: violation of Wyzant’s Academic Honesty Policy.
 
-##What is the Academic Honesty Policy?
+## What is the Academic Honesty Policy?
 
 Wyzant’s [Academic Honesty Policy](https://support.wyzant.com/hc/en-us/articles/115002086886-Wyzant-Academic-Honesty-Policy) (“AHP”) is included in the platform’s [Terms of Use](https://www.wyzant.com/termsofuse). If a tutor assists a student in a way that violates the AHP, it puts all parties - student, tutor, and Wyzant - at risk for a liability claim, which is why it is clearly outlined in the Terms of Use that this kind of activity is prohibited.
 
 It’s important to understand the types of assistance that are not permitted in accordance with the AHP. The important question to consider with AHP is, “Does this student want me to do work *for* them, or does this student want me to teach them how to do the work *on their own*?”
 
-##Identifying AHP issues
+## Identifying AHP issues
 
 Our team always errs on the side of caution when there is the appearance of cheating and will consider the activity as a violation of the AHP. We encourage tutors to do the same. Here are the most common types of requests that violate the AHP:
 
@@ -44,7 +44,7 @@ Tutors may provide students with proofreading and editing assistance, but here�
 
 In this example, a student requesting a tutor perform data analysis or data interpretation for a project on their behalf falls under a request to complete an assignment or research. This is considered as a violation of the AHP and should not be facilitated. 
 
-##What happens when the AHP is violated
+## What happens when the AHP is violated
 
 When a student violates the Academic Honesty Policy, it puts the student, tutor and Wyzant at risk. We have the AHP in place to minimize that risk. It’s a tutor’s responsibility to ensure that the services they are providing are in accordance with Wyzant policies.
 
