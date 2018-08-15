@@ -2,7 +2,7 @@
 title: Understanding our Academic Honesty Policy.
 date: 2018-08-15 17:46:00 -05:00
 published: false
-hero-image: "/blog/uploads/academicheader.jpg"
+hero-image: "/blog/uploads/academicheader-028bd7.jpg"
 ---
 
 Wyzant connects tutors and students who are seeking tutoring services. We do not facilitate cheating. Frequently, when a student’s account is closed for an “illegitimate request”, tutors in contact with the student are notified when the student’s account is closed. 
