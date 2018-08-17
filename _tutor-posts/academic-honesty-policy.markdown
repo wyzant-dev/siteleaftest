@@ -31,7 +31,7 @@ Would helping a student with an open book test be considered a violation of the 
 
 ![academic3.PNG](/blog/uploads/academic3.PNG)
 
-The response to ‘whether this violates the Academic Honesty Policy’ is similar to the previous example. Wyzant considers assisting students in taking practice exams a violation of the AHP policy. This request cannot be facilitated through the Wyzant platform. Tutors have absolute discretion as to whether they want to help a student prepare or study for a practice test, but assisting a student during a test itself is considered a violation of the AHP.
+The response to ‘whether this violates the Academic Honesty Policy’ is similar to the previous example. Wyzant considers assisting students in taking practice exams a violation of the AHP policy. This request *cannot* be facilitated through the Wyzant platform. Tutors have absolute discretion as to whether they want to help a student prepare or study for a practice test, but assisting a student during a test itself is considered a violation of the AHP.
 
 ![academic4.JPG](/blog/uploads/academic4.JPG)
 
@@ -41,7 +41,7 @@ Sometimes a student may have a study guide provided by their teacher to help the
 
 Tutors may provide students with proofreading and editing assistance, but here’s a good rule of thumb: if a tutor is expected to *write* or *rewrite* any part of a student’s existing assignment, it is considered academic dishonesty.
 
-![academic6.PNG](/blog/uploads/academic6.PNG)
+![academic6-220de0.PNG](/blog/uploads/academic6-220de0.PNG)
 
 In this example, a student requesting a tutor perform data analysis or data interpretation for a project on their behalf falls under a request to complete an assignment or research. This is considered as a violation of the AHP and should not be facilitated. 
 
