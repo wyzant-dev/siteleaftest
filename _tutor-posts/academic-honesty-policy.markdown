@@ -1,7 +1,6 @@
 ---
 title: Understanding our Academic Honesty Policy.
 date: 2018-08-15 17:46:00 -05:00
-published: false
 hero-image: "/blog/uploads/academicheader-028bd7.jpg"
 ---
 
