@@ -2,6 +2,7 @@
 title: 10 Ways to Improve Your Job Applications
 date: 2018-08-23 08:45:00 -05:00
 published: false
+hero-image: "/blog/uploads/improvebanner.jpg"
 ---
 
 Replying to opportunities listed on the Jobs board can take a lot of a tutor’s time. Planning ahead by optimizing the info you include **in the rest of your profile** can make that time more profitable. Students have shared that, when receiving responses from tutors to Jobs board posts, it’s most important to easily be able see that a prospective tutor has the right qualifications...which means a thorough and informative profile goes a very long way.
