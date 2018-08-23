@@ -49,7 +49,7 @@ To add written descriptions and subject-specific titles for your subjects, just 
 
 ![improve6.PNG](/blog/uploads/improve6.PNG)
 
-### Free response
+### Refresh your Free Response
 
 Your Free Response is the most important portion of your profile. Think about making sure your Free Response not only illustrates your expertise and how you’ve helped previous students, but answers larger questions about your tutoring approach, style, and philosophy. 
 
@@ -57,7 +57,7 @@ And one more thing: a student who is intrigued by your subject descriptions can 
 
 ![improve7.png](/blog/uploads/improve7.png)
 
-### Student feedback
+### Ask for student feedback
 
 The more your students convey their satisfaction with your services, the more likely it is that new students will contact you. Any student you have previously worked with can write a review to be posted on your profile, as long as you have worked with them within the past 14 days. You can request reviews from your [Students page](https://www.wyzant.com/tutor/students/index), located in your *"My Business"* menu. Keep in mind that each student can only submit one written review for each tutor.
 
@@ -75,7 +75,7 @@ You can adjust your schedule anytime on the [Availability page](https://www.wyza
 
 ![improve9.png](/blog/uploads/improve9.png)
 
-### Preferences
+### Update your preferences
 
 Do you prefer to only work with adults? Do kids younger than middle school tend to cause frustration? You have the ability to update your [Preferences](https://www.wyzant.com/tutor/preferences) for the levels/types of students you wish to work with, just like your availability. Adjusting this part of your profile offers up another chance improve your chances of attracting more students that are specifically well-fit for what you are willing to provide.
 
