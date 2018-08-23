@@ -1,7 +1,6 @@
 ---
 title: 10 Ways to Improve Your Job Applications
 date: 2018-08-23 08:45:00 -05:00
-published: false
 hero-image: "/blog/uploads/improvebanner.jpg"
 ---
 
