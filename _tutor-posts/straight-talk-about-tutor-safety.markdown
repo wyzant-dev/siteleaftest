@@ -1,7 +1,6 @@
 ---
 title: Some straight talk about tutor safety.
 date: 2018-09-04 14:18:00 -05:00
-published: false
 hero-image: "/blog/uploads/safetybanner-efa251.jpg"
 ---
 
