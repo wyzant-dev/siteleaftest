@@ -2,6 +2,7 @@
 title: Straight Talk About Tutor Safety
 date: 2018-09-04 14:18:00 -05:00
 published: false
+hero-image: "/blog/uploads/safetybanner.jpg"
 ---
 
 *This article contains information that can help you tutor with more comfort and confidence, but most importantly, remember that as an independent tutor, you are **never** under any obligation to work with a particular student. If you ever feel uncomfortable, for any reason, please always feel free to decline a student’s request, or let us help.*
