@@ -1,6 +1,6 @@
 ---
 title: We now support tablets for online lessons!
-date: 2018-09-11 12:42:00 -05:00
+date: 2018-09-17 12:42:00 -05:00
 hero-image: "/blog/uploads/Blog%20-%20Hero%20image.jpg"
 ---
 
