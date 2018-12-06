@@ -31,4 +31,4 @@ A full explanation of this new functionality will be shared when it is launched 
 
 ![separate2.png](/blog/uploads/separate2.png)
 
-* Finally, for tutors that are certified to tutor online and have chosen to be included in online search results, both the in-person and online hourly rates will be listed on your public tutor profile. 
+* Finally, for tutors that are certified to tutor online and have chosen to be included in online search results, both the in-person and online hourly rates will be listed in the *Policies* section on your public tutor profile. 
