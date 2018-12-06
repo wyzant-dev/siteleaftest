@@ -4,7 +4,7 @@ title: Details about the tutor platform fee changes going into effect January 15
 date: 2018-12-06 09:20:00 -06:00
 published: false
 author: Andrew Geant, CEO
-hero-image: "/blog/uploads/StudentBlog_Hero.png"
+hero-image: "/blog/uploads/Is_Online_Private_Tutoring_Right_For_Us.jpg"
 ---
 
 A lot has changed since we started Wyzant in 2005, including the growth in subject matter taught by tutors, the rise of online tutoring, and the world around us in which education is even more critical. One area of Wyzant that has not changed in our 13 years is the tutor fee for the use of the platform. We recently made the decision to move away from the current graduated 40% - 20% platform fee percentage scale to a flat 25% platform fee, taking effect January 15. This blog post elaborates on the changes and reasoning behind them. 
