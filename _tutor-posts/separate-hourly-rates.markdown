@@ -25,7 +25,7 @@ A full explanation of this new functionality will be shared when it is launched 
 
 ![separate1.png](/blog/uploads/separate1.png)
 
-* Then, depending on a student’s search - in-person or online - we will be able to show the corresponding rate in search results and on your profile. 
+* Then, depending on a student’s search - in-person or online - we will show the corresponding rate in search results and on your profile.
 
 * As we know some tutors provide both in-person and online tutoring for the same student, you will be able to manage two separate custom rates for each student from you *Student Connections* page.
 
