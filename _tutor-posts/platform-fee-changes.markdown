@@ -19,7 +19,7 @@ Beginning on January 15, 2019 at 10:00 am Central Time all tutors will move to a
 * **If your current platform fee percentage is 25%:** Nothing will change when the new flat fee goes into effect, unless you cross the 400-hour lesson threshold before January 15, 2019 at 10:00 am Central Time. If this occurs you will fall into the 20% platform fee percentage described below.    
 * **If your current platform fee percentage is 20%:** Your fee will remain unchanged for students* with whom you have had lessons before January 15, 2019 at 10:00 am Central Time, for a “grandfathering” period ending July 1, 2019 at 10:00 am Central Time. After that, the flat 25% fee percentage will apply to lessons submitted for all students, old and new.  
 
-    **For students to be included in the grandfathering period, you must have submitted at least one lesson with them before January 15, 2019 at 10:00 am Central Time.*
+    * **For students to be included in the grandfathering period, you must have submitted at least one lesson with them before January 15, 2019 at 10:00 am Central Time.*
 * Our referral program will remain unchanged, meaning you will receive 100% of your posted hourly rate for lessons, and all other [tutor](https://support.wyzant.com/hc/en-us/articles/208804266-Tutor-Payment-Policies) and [student](https://support.wyzant.com/hc/en-us/articles/208804826-Student-Payment-Policies) payment policies, including the student service fee, remain the same.  
 
 Not sure what your current platform fee percentage is? Check our the % listed in the “Pay” column on your [Lessons](https://www.wyzant.com/tutor/lessons/) page to find out!
@@ -46,9 +46,7 @@ Finally, let me clarify that overall, the new pricing is not an increase in Wyza
 
 Remember, as part of our commitment to provide you with the capabilities to control your tutoring business, you can change your hourly rate at any time by visiting your [Rates and Policies](https://www.wyzant.com/tutor/rateandpolicies.aspx) page.
 
-* For newer tutors who want to build their business faster, lowering your hourly rate temporarily can help, and hopefully this new pay structure enables you do so while still making a good wage.
-
-    * In short, you need to do everything in your power to *a) build more tutoring hours in order to drive more leads*, and *b) deliver a wonderful tutoring experience to your first few students* so that you can earn positive ratings and reviews for your profile and good conversion and retention metrics. (Learn more about why this matters in [this blog post](https://www.wyzant.com/blog/tutor/get-more-students-by-understanding-the-algorithm/).) 
+* For newer tutors who want to build their business faster, lowering your hourly rate temporarily can help, and hopefully this new pay structure enables you do so while still making a good wage. In short, you need to do everything in your power to **a) build more tutoring hours in order to drive more leads**, and **b) deliver a wonderful tutoring experience to your first few students** so that you can earn positive ratings and reviews for your profile and good conversion and retention metrics. (Learn more about why this matters in [this blog post](https://www.wyzant.com/blog/tutor/get-more-students-by-understanding-the-algorithm/).) 
 
 * For tutors who are currently at the 20% level, you may want to consider increasing your hourly rate to offset the 5% fee increase for new students beginning January 15, 2019. Once you have a strong history of performance on Wyzant and a good number of positive ratings and reviews, a few dollars difference in hourly rate shouldn’t affect your ability to attract new students.
 
