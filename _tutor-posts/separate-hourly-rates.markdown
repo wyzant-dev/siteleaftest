@@ -1,7 +1,6 @@
 ---
 title: Details about separate online and in-person hourly rates
-date: 2018-12-06 10:37:00 -06:00
-published: false
+date: 2018-12-06 12:55:00 -06:00
 author: Andrew Geant, CEO
 ---
 
