@@ -13,4 +13,12 @@ Overall, the new platform fee structure will immediately benefit the majority of
 
 ##What is happening?
 
-Beginning on January 15, 2019 at 10:00 am Central Time all tutors will move to a flat 25% platform fee, meaning 75% of your submitted hourly rate will be distributed to you. Please see below for how this will impact you based on your current platform fee:  
+Beginning on January 15, 2019 at 10:00 am Central Time all tutors will move to a flat 25% platform fee, meaning 75% of your submitted hourly rate will be distributed to you. Please see below for how this will impact you based on your current platform fee: 
+
+* **If your current platform fee percentage is 40%, 35%, or 30%:** The new 25% fee percentage will apply to lessons with all students, old and new, beginning for lessons that are submitted on or after January 15, 2019 at 10:00 am Central Time. 
+* **If your current platform fee percentage is 25%:** Nothing will change when the new flat fee goes into effect, unless you cross the 400-hour lesson threshold before January 15, 2019 at 10:00 am Central Time. If this occurs you will fall into the 20% platform fee percentage described below.    
+* **If your current platform fee percentage is 20%:** Your fee will remain unchanged for students* with whom you have had lessons before January 15, 2019 at 10:00 am Central Time, for a “grandfathering” period ending July 1, 2019 at 10:00 am Central Time. After that, the flat 25% fee percentage will apply to lessons submitted for all students, old and new. 
+
+ * For students to be included in the grandfathering period, you must have submitted at least one lesson with them before January 15, 2019 at 10:00 am Central Time.   
+
+* Our referral program will remain unchanged, meaning you will receive 100% of your posted hourly rate for lessons, and all other tutor and student payment policies, including the student service fee, remain the same.  
