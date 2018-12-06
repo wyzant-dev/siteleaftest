@@ -44,11 +44,11 @@ Finally, let me clarify that overall, the new pricing is not an increase in Wyza
 
 ## What can I do to take advantage of the new flat rate?
 
-* Remember, as part of our commitment to provide you with the capabilities to control your tutoring business, you can change your hourly rate at any time by visiting your [Rates and Policies](https://www.wyzant.com/tutor/rateandpolicies.aspx) page.
+Remember, as part of our commitment to provide you with the capabilities to control your tutoring business, you can change your hourly rate at any time by visiting your [Rates and Policies](https://www.wyzant.com/tutor/rateandpolicies.aspx) page.
 
 * For newer tutors who want to build their business faster, lowering your hourly rate temporarily can help, and hopefully this new pay structure enables you do so while still making a good wage. 
 
-In short, you need to do everything in your power to a) build more tutoring hours in order to drive more leads, and b) deliver a wonderful tutoring experience to your first few students so that you can earn positive ratings and reviews for your profile and good conversion and retention metrics. (Learn more about why this matters in [this blog post](https://www.wyzant.com/blog/tutor/get-more-students-by-understanding-the-algorithm/).) 
+    In short, you need to do everything in your power to a) build more tutoring hours in order to drive more leads, and b) deliver a wonderful tutoring experience to your first few students so that you can earn positive ratings and reviews for your profile and good conversion and retention metrics. (Learn more about why this matters in [this blog post](https://www.wyzant.com/blog/tutor/get-more-students-by-understanding-the-algorithm/).) 
 
 * For tutors who are currently at the 20% level, you may want to consider increasing your hourly rate to offset the 5% fee increase for new students beginning January 15, 2019. Once you have a strong history of performance on Wyzant and a good number of positive ratings and reviews, a few dollars difference in hourly rate shouldn’t affect your ability to attract new students.
 
