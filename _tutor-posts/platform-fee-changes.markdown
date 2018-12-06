@@ -11,6 +11,6 @@ A lot has changed since we started Wyzant in 2005, including the growth in subje
 
 Overall, the new platform fee structure will immediately benefit the majority of tutors. However, I recognize it is a significant change, especially for tutors who are at or near the 20% fee percentage. Long-term, my expectation is that you will all benefit by being part of a bigger, stronger marketplace with greater opportunities to build your business and help more students.
 
-What is happening?
+##What is happening?
 
 Beginning on January 15, 2019 at 10:00 am Central Time all tutors will move to a flat 25% platform fee, meaning 75% of your submitted hourly rate will be distributed to you. Please see below for how this will impact you based on your current platform fee:  
