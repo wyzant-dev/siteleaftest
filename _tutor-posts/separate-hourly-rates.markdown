@@ -17,7 +17,7 @@ Offering students a lower hourly rate for online tutoring can help encourage the
 
 While online tutoring is growing in popularity at a rapid rate, many students still do opt for in-person lessons. The capability to maintain separate hourly rates for online and in-person tutoring will provide you with the control you need to effectively manage your offering for these two different markets, and will give you an additional tool to help manage the transition to the [25% platform fee](http://www.wyzant.com/blog/tutor/platform-fee-changes/).
 
-What you can expect on December 12
+## What you can expect on December 12
 
 A full explanation of this new functionality will be shared when it is launched on December 12, 2018. For now, here are some of the highlights we are most excited about: 
 
