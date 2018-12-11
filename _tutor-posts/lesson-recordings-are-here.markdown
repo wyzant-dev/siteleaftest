@@ -22,7 +22,7 @@ Streaming video of your recorded lessons will be available **to you and your stu
 
 Along with the ability to review past sessions any time you wish, lesson recordings can help you plan future lessons by allowing you to review a student’s understanding of materials in real-time. You’ll have access to the entirety of work done during an online lesson, helping you to locate opportunities for improvement for your students and yourself. And since online tutoring is quickly becoming the go-to lesson format for busy students, lesson recording is a tangible incentive you can offer potential students that may have reservations about the effectiveness of online tutoring.
 
-### Recording offers an alternative follow-up review option for both tutors and students.  It's a convenient source of online self-critiques for improvement. *- Mary W., Tutor*
+#### Recording offers an alternative follow-up review option for both tutors and students.  It's a convenient source of online self-critiques for improvement. *- Mary W., Tutor*
 
 ## It can also grow your business
 
@@ -36,7 +36,7 @@ The most recent data available illustrates more potential for improving and expa
 
 Ever heard of the spacing effect? It’s a phenomenon that suggests that if you take a break between learning something and reviewing it, your long-term memory of that information will be stronger than if you cram it all in at once. Reactivating what you learned earlier enhances your understanding and improves your ability to apply that knowledge to different contexts. By opting in to lesson recordings, students are asking for an incredibly versatile - and **free** - study material that is essential to helping them retain what they learn and apply it later.
 
-### I think they are extremely helpful for students. ESL/pronunciation students need to improve their listening and self-correction skills. Recorded lessons are a very valuable post-session self-directed learning tool. *- Maggie H., Tutor*
+#### I think they are extremely helpful for students. ESL/pronunciation students need to improve their listening and self-correction skills. Recorded lessons are a very valuable post-session self-directed learning tool. *- Maggie H., Tutor*
 
 There’s a reason that video tutorials are so popular: students want access to important information when it works for them. The problem? Run-of-the-mill video tutorials are to lesson recordings what freshman lectures are to expert, private tutoring: all the information is there, but none of the wisdom.
 
