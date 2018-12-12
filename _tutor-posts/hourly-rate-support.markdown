@@ -1,7 +1,7 @@
 ---
 title: We now support separate online and in-person hourly rates.
 date: 2018-12-12 12:50:00 -06:00
-hero-image: "/blog/uploads/what%20type%20of%20qualificiations%20iStock_81800873_LARGE%20(1)%20(1).jpg"
+hero-image: "/blog/uploads/how%20to%20pick%20tutor%20iStock_85687913_LARGE%20(1).jpg"
 ---
 
 On December 6, 2018 we announced the upcoming launch of separate online and in-person hourly rates. For some background on why added this feature and some tips on how to use the separate rates strategically, check out this [blog post](https://www.wyzant.com/blog/tutor/separate-hourly-rates/).
