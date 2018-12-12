@@ -14,6 +14,8 @@ Technically, every tutor who is certified to tutor online will have an online ho
 
 If you are certified to tutor online, but do not want to offer different in-person and online rates, set these two values to be the same amount. Tutors who are not certified to tutor online will still be given the option to schedule or submit online lessons, but in these cases the tutor’s default in-person hourly rate will be used. 
 
+As always, your updated default rates will not apply to existing students. Your updated online and in-person rates will affect, **a)** students who contact you after the change is made and, **b)** students who have not contacted you in over 90 days and who have never received a lesson from you. If you want to update in-person or online rates for existing students, you will need to do so on a per-student basis by requesting a rate change from your [Student Connections](https://www.wyzant.com/tutor/students/index) table. 
+
 ### View if certified for online tutoring:
 
 ![hourly1.png](/blog/uploads/hourly1.png)
