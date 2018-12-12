@@ -10,7 +10,9 @@ On December 6, 2018 we announced the upcoming launch of separate online and in-p
 
 Tutors who are [certified](https://www.wyzant.com/online/approval) for online tutoring will have the option to set a separate online and in-person hourly rates on their [Rates and Policies](https://www.wyzant.com/tutor/rateandpolicies.aspx) page. 
 
-Technically, every tutor who is certified to tutor online will have an online hourly rate. If you are certified to tutor online, but do not want to offer different in-person and online rates, set these two values to be the same amount. Tutors who are not certified to tutor online will still be given the option to schedule or submit online lessons, but in these cases the tutor’s default in-person hourly rate will be used. 
+Technically, every tutor who is certified to tutor online will have an online hourly rate, even if you are opted out of showing up in online searches. The settings on your [Profile Visibility](https://www.wyzant.com/tutor/settings/status) page will still control what searches you show up in and what rates are visible in the *Policies* section of your tutor profile.  
+
+If you are certified to tutor online, but do not want to offer different in-person and online rates, set these two values to be the same amount. Tutors who are not certified to tutor online will still be given the option to schedule or submit online lessons, but in these cases the tutor’s default in-person hourly rate will be used. 
 
 ### View if certified for online tutoring:
 
