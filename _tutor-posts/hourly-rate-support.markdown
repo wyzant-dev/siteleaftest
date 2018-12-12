@@ -17,7 +17,7 @@ Technically, every tutor who is certified to tutor online will have an online ho
 
 ![hourly1.png](/blog/uploads/hourly1.png)
 
-### View if _not_ certified for online tutoring:
+### View if ~not~ certified for online tutoring:
 
 ![hourly2.png](/blog/uploads/hourly2.png)
 
