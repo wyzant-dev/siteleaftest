@@ -4,7 +4,7 @@ date: 2018-12-11 15:36:00 -06:00
 published: false
 sub-headline: Your students can get the video review tool they need with no additional
   effort from you.
-hero-image: "/blog/uploads/Blog%20-%20Hero%20image-4ca268.jpg"
+hero-image: "/blog/uploads/hero-images/default-hero-1.jpg"
 ---
 
 The popularity of online lessons continues to grow, and Wyzant will continue to feature online tutors more prominently in search results (read more about that [here](https://www.wyzant.com/blog/tutor/the-importance-of-relevance/)). To make lessons on our online platform more valuable to tutors and students, **we’ve launched lesson recording.**
