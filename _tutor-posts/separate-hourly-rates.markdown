@@ -6,7 +6,7 @@ author: Andrew Geant, CEO
 
 For years, tutors have been requesting the ability to offer separate hourly rates for in-person and online tutoring. The big reason for this is that in-person tutoring is generally more expensive for tutors to offer because it requires extra time and cost for travel. It also means that tutors can be filtered out of a student's search results based on price filters, even if that tutor supports a lower-cost online tutoring option, as the higher in-person rate is often the primary hourly rate listed on a tutor’s profile.  
 
-Starting on December 12, 2018, we are pleased to make this functionality available to tutors. 
+Starting on [December 12, 2018](https://www.wyzant.com/blog/tutor/hourly-rate-support/), we are pleased to make this functionality available to tutors. 
 
 ## Using the separate rates strategically 
 
