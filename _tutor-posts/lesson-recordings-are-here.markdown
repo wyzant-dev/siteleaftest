@@ -1,6 +1,6 @@
 ---
 title: Keep your students coming back with free lesson recordings.
-date: 2018-12-12 12:45:00 -06:00
+date: 2018-12-12 12:50:00 -06:00
 sub-headline: Your students can get the video review tool they need with no additional
   effort from you.
 hero-image: "/blog/uploads/Blog%20-%20Hero%20image-4ca268.jpg"
