@@ -1,7 +1,6 @@
 ---
 title: We now support separate online and in-person hourly rates.
-date: 2018-12-12 10:59:00 -06:00
-published: false
+date: 2018-12-12 12:45:00 -06:00
 hero-image: "/blog/uploads/what%20type%20of%20qualificiations%20iStock_81800873_LARGE%20(1)%20(1).jpg"
 ---
 
