@@ -19,7 +19,7 @@ Ask An Expert is designed to provide tutors with the robust tools and platform n
 
 ## Convert visits into lessons
 
-Using Ask An Expert strategically by answering questions in your key subject areas can help expand your business by providing students with a more-nuanced look at your skills and approach. All of your answers are displayed in a new section of your public profile titled “Examples of Expertise,” and contribute to your profile’s overall relevance to students seeking help with specific subjects. 
+Using Ask An Expert strategically by answering questions in your key subject areas can help expand your business by providing students with a more-nuanced look at your skills and approach. All of your answers are displayed in a new section of your public profile titled “[Examples of Expertise](https://www.wyzant.com/tutor/profile/examples-of-expertise),” and contribute to your profile’s overall relevance to students seeking help with specific subjects. 
 
 ![blog-image-examples-of-expertise.jpg](/blog/uploads/blog-image-examples-of-expertise.jpg)
 
@@ -39,4 +39,4 @@ Your Ask An Expert content, beyond its role in helping students find and underst
 
 Get started with [Ask An Expert](http://www.wyzant.com/resources/answers) today.
 
-You’ll find a detailed guide on to how to navigate and use Ask An Expert’s features here. For more info about how you can use Ask An Expert to expand your tutoring business, check out TITLE OF BLOG 3 AND LINK.
+You’ll find a detailed guide on to how to navigate and use Ask An Expert’s features in [our next blog here](http://www.wyzant.com/blog/tutor/learn-answer-expert/). For more info about how you can use Ask An Expert to expand your tutoring business, check out our [other blog in this series here](http://www.wyzant.com/blog/tutor/answer-impress-convert/).
