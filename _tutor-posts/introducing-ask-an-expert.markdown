@@ -39,4 +39,4 @@ Your Ask An Expert content, beyond its role in helping students find and underst
 
 Get started with [Ask An Expert](http://www.wyzant.com/resources/answers) today.
 
-You’ll find a detailed guide on to how to navigate and use Ask An Expert’s features in [our next blog here](http://www.wyzant.com/blog/tutor/learn-answer-expert/). For more info about how you can use Ask An Expert to expand your tutoring business, check out our [other blog in this series here](http://www.wyzant.com/blog/tutor/answer-impress-convert/).
+You’ll find a detailed guide on to how to navigate and use Ask An Expert’s features in our next blog [here](http://www.wyzant.com/blog/tutor/learn-answer-expert/). For more info about how you can use Ask An Expert to expand your tutoring business, check out our other blog in this series [here](http://www.wyzant.com/blog/tutor/answer-impress-convert/).
