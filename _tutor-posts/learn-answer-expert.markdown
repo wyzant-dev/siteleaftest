@@ -81,7 +81,7 @@ You can leave a comment on any piece of Ask An Expert content. This is a separat
 
 And, of course, Wyzant always expects that tutors and students will treat one another with respect and courtesy, so you will want to make sure that you are abiding by the Ask An Expert rules and guidelines, found [here](https://www.wyzant.com/resources/info).
 
-An expert video example
+## An expert video example
 
 Here’s how Doug C. approaches a pretty complex math problem. Melanie S. asks: 
 
