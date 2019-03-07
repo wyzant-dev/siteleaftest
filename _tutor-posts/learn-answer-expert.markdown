@@ -11,7 +11,7 @@ To find Ask An Expert from your dashboard, head up to the Toolkit drop-down menu
 
 ![blog-image-dropdown.jpg](/blog/uploads/blog-image-dropdown.jpg)
 
-![blog-image-product-d85dfa.jpg](/blog/uploads/blog-image-product-d85dfa.jpg)
+![blog-image-product.jpg](/blog/uploads/blog-image-product.jpg)
 
 When you land at Ask An Expert, you’ll see **Featured** questions relevant to your approved subjects. The most recent *unanswered* questions will appear first, since we want to help tutors locate students who need the most immediate help. That means you get the opportunity to make the first impression on that student, a great first step towards converting your Ask An Expert answer into a lesson. You can also further filter the results to display the **Newest** subject-relevant questions, which may include questions with previous answers.
 
