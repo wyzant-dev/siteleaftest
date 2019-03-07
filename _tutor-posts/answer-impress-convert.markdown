@@ -7,7 +7,7 @@ hero-image: "/blog/uploads/blog-header-aae-3.jpg"
 
 Ask An Expert is more than homework help. We designed it to be a powerful content publishing tool that helps improve your student conversion. Students that land at Ask An Expert are searching for help they can trust; by openly demonstrating your subject prowess, as well as how you communicate and approach problems, you provide what students need to feel confident about reaching out to you to a book lesson. 
 
-Now that you’re familiar with how to navigate and use Ask An Expert, here’s more about how leveraging its arsenal of student engagement tools can help you convert more students into lessons.
+Now that you’re familiar with [how to navigate and use Ask An Expert](http://www.wyzant.com/blog/tutor/learn-answer-expert/), here’s more about how leveraging its arsenal of student engagement tools can help you convert more students into lessons.
 
 ## Jump-start your business
 
@@ -21,7 +21,7 @@ This provides potential new students all the proof they need to feel comfortable
 
 ## Show, don’t tell
 
-Your “Examples of Expertise” carousel defaults to display your most recent answers, with video answers always presented more prominently. Students can click the link below the carousel to see all of your Ask An Expert content anytime.
+Your “[Examples of Expertise](https://www.wyzant.com/tutor/profile/examples-of-expertise)” carousel defaults to display your most recent answers, with video answers always presented more prominently. Students can click the link below the carousel to see all of your Ask An Expert content anytime.
 
 ![blog-image-examples-of-expertise-a254c9.jpg](/blog/uploads/blog-image-examples-of-expertise-a254c9.jpg)
 
@@ -61,4 +61,4 @@ Does your answer leave students more confident in their own ability than before?
 
 For your brand to be effective, you need to get your profile in front of as many potential students as possible. The most effective way to do that is to contribute to questions at Ask An Expert. It bears repeating that the nature of the Wyzant community is competitive, and contributing to students’ success in Ask An Expert helps ensure all of your prospective students are able to make better informed decisions about their own needs...and how you can help. After all, your profile won’t get you far if no one finds it. 
 
-Word of mouth is one of a tutor’s most effective marketing tools, and what students you’ve impressed via Ask An Expert say about you will ultimately have an effect on your conversion. Ask An Expert is a forum open to any student, meaning there’s no limit to the number of clients who might discover your brand.
+Word of mouth is one of a tutor’s most effective marketing tools, and what students you’ve impressed via Ask An Expert say about you will ultimately have an effect on your conversion. [Ask An Expert](http://www.wyzant.com/resources/answers) is a forum open to any student, meaning there’s no limit to the number of clients who might discover your brand.
