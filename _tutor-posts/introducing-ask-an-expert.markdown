@@ -5,7 +5,7 @@ published: false
 hero-image: "/blog/uploads/blog-header-aae-1.jpg"
 ---
 
-## We believe that success in small problems leads to success in big concepts.	
+# We believe that success in small problems leads to success in big concepts.	
 
 That’s why we’ve created a new place for tutors to expand their business by taking a slightly different approach to helping students in need. 
 
