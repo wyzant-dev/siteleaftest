@@ -53,7 +53,7 @@ Don’t worry - you haven’t begun recording yet, so feel free to prepare anyth
 
 Once you’re ready, select the option to ‘Start Recording’ at the top of the screen. This might take a moment. Once the system is ready to record, that green button will appear in the top-center of the interface.
 
-[blog2-7.PNG](/blog/uploads/blog2-7.PNG)
+![blog2-7.PNG](/blog/uploads/blog2-7.PNG)
 
 A countdown to the start of the recording will display, and then you’re off! Feel free to get creative with how you present information. Over the course of creating video answers, you might develop certain preferences or even your own style, which will help you stand out from other tutors!
 
