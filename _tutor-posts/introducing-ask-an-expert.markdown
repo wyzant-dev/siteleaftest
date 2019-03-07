@@ -27,6 +27,8 @@ Ask An Expert’s tools are easy to use, and give you a choice in how you presen
 
 Video answers are displayed more prominently than text on your profile, so it’s easy for students to watch what makes you stand out from the crowd.  
 
+[![blog-youtube-screen.png](/blog/uploads/blog-youtube-screen.png)](https://youtu.be/i08eQQkSKwY)
+
 The rich text editor contains everything you need to provide detailed, thoughtful help, including special characters and operations needed for math and science problems and a code editor.
 
 **New to tutoring?** This section of your profile is a great opportunity to showcase your skills in a concrete fashion by giving prospective students the ability to see how you actually tutor. Video answers in particular will let you stand out in a way other tutors won’t.
