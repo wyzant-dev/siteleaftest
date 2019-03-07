@@ -5,7 +5,7 @@ published: false
 hero-image: "/blog/uploads/blog-header-aae-2.jpg"
 ---
 
-**Now that you’re in the know about Ask An Expert, where do you start?**
+**Now that you’re in the know about [Ask An Expert](http://www.wyzant.com/blog/tutor/introducing-ask-an-expert/), where do you start?**
 
 To find Ask An Expert from your dashboard, head up to the Toolkit drop-down menu, then select Wyzant Ask An Expert.
 
@@ -95,4 +95,4 @@ Doug begins his answer already equipped with a graph, and begins with the releva
 
 If you’ve wondered about how you can broaden your reach as a tutor, or be more proactive in acquiring students, Ask An Expert was built for you. The more help you give, the more visible you become to countless potential students.
 
-Read our next article, NAME AND LINK, for more advice on tailoring your Ask an Expert experience as a business growth tool.
+Read [our next article](http://www.wyzant.com/blog/tutor/answer-impress-convert/) for more advice on tailoring your Ask an Expert experience as a business growth tool.
