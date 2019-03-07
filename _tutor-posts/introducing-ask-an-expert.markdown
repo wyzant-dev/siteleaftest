@@ -13,11 +13,15 @@ Ask An Expert is an exciting new Q&A platform driven by the Wyzant tutor communi
 
 ## Expand your reach
 
+![blog-image-product.jpg](/blog/uploads/blog-image-product.jpg)
+
 Ask An Expert is designed to provide tutors with the robust tools and platform necessary to make a lasting impression on countless students - not only the person who posted the question, but anyone who searches for guidance with a similar problem. Tutors can help students by answering questions anytime via text or video answers. Replies include your profile photo and a prominent link to your Wyzant profile, so it’s easy for any student to visit, and reach out to a tutor who finally helped them reach their “a-ha!” moment and book their first lesson for more in-depth help.
 
 **New to tutoring?** Ask An Expert gives you an audience of new students seeking help every day, and while you work toward your first few ratings and reviews, giving some smart advice can get you in front of prospective students before you improve your rank in traditional tutor searches.
 
 ## Convert visits into lessons
+
+![blog-image-examples-of-expertise.jpg](/blog/uploads/blog-image-examples-of-expertise.jpg)
 
 Using Ask An Expert strategically by answering questions in your key subject areas can help expand your business by providing students with a more-nuanced look at your skills and approach. All of your answers are displayed in a new section of your public profile titled “Examples of Expertise,” and contribute to your profile’s overall relevance to students seeking help with specific subjects. 
 
