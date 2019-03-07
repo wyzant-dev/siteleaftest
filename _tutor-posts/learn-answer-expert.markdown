@@ -5,7 +5,7 @@ published: false
 hero-image: "/blog/uploads/blog-header-aae-2.jpg"
 ---
 
-Now that you’re in the know about Ask An Expert, where do you start? 
+**Now that you’re in the know about Ask An Expert, where do you start?**
 
 To find Ask An Expert from your dashboard, head up to the Toolkit drop-down menu, then select Wyzant Ask An Expert.
 
