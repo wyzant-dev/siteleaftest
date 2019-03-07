@@ -5,13 +5,13 @@ published: false
 hero-image: "/blog/uploads/blog-header-aae-1.jpg"
 ---
 
-# We believe that success in small problems leads to success in big concepts.	
+## We believe that success in small problems leads to success in big concepts.	
 
 That’s why we’ve created a new place for tutors to expand their business by taking a slightly different approach to helping students in need. 
 
 Ask An Expert is an exciting new Q&A platform driven by the Wyzant tutor community that allows students to submit questions they’d like explained by someone who actually knows what they’re talking about: **a verified subject matter expert.**
 
-## Expand your reach
+### Expand your reach
 
 ![blog-image-product.jpg](/blog/uploads/blog-image-product.jpg)
 
@@ -19,7 +19,7 @@ Ask An Expert is designed to provide tutors with the robust tools and platform n
 
 **New to tutoring?** Ask An Expert gives you an audience of new students seeking help every day, and while you work toward your first few ratings and reviews, giving some smart advice can get you in front of prospective students before you improve your rank in traditional tutor searches.
 
-## Convert visits into lessons
+### Convert visits into lessons
 
 ![blog-image-examples-of-expertise.jpg](/blog/uploads/blog-image-examples-of-expertise.jpg)
 
