@@ -14,7 +14,7 @@ To find Ask An Expert from your dashboard, head up to the Toolkit drop-down menu
 
 When you land at Ask An Expert, you’ll see **Featured** questions relevant to your approved subjects. The most recent *unanswered* questions will appear first, since we want to help tutors locate students who need the most immediate help. That means you get the opportunity to make the first impression on that student, a great first step towards converting your Ask An Expert answer into a lesson. You can also further filter the results to display the **Newest** subject-relevant questions, which may include questions with previous answers.
 
-You can adjust how questions are filter by using the drop-down menu at the top of the page, which has options to filter by **Unanswered Questions**, **Answered Questions**, and **All Questions**.
+You can adjust how questions are filtered by using the drop-down menu at the top of the page, which has options to filter by **Unanswered Questions**, **Answered Questions**, and **All Questions**.
 
 Students and tutors can **Follow** a specific question. When a new comment or reply is posted, anyone following the thread will receive a notification. By following a question, you’ll know instantly when a student replies, so you can reply quickly to maximize your engagement with anyone participating in the thread. 
 
@@ -28,7 +28,7 @@ Some questions are best answered using a simple text reply. The field where you 
 
 ![blog2-2.png](/blog/uploads/blog2-2.png)
 
-The text editor also has options to add certain mathematical notation (subscripts and superscripts), as well as other symbols and operators (you can find them by clicking the omega symbol “Ω”). Using this allows you to give a studenta step-by-step breakdown of an equation, or to list a few points of information needed to address a particular problem.
+The text editor also has options to add certain mathematical notation (subscripts and superscripts), as well as other symbols and operators (you can find them by clicking the omega symbol “Ω”). Using this allows you to give a student a step-by-step breakdown of an equation, or to list a few points of information needed to address a particular problem.
 
 ![blog2-3.png](/blog/uploads/blog2-3.png)
 
