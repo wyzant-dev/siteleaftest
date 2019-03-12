@@ -1,7 +1,6 @@
 ---
 title: Answer. Impress. Convert.
-date: 2019-03-07 12:49:00 -06:00
-published: false
+date: 2019-03-11 12:49:00 -05:00
 hero-image: "/blog/uploads/blog-header-aae-3.jpg"
 ---
 
