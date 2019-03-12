@@ -1,7 +1,6 @@
 ---
 title: Learn to answer like an expert.
-date: 2019-03-07 12:22:00 -06:00
-published: false
+date: 2019-03-11 12:22:00 -05:00
 hero-image: "/blog/uploads/blog-header-aae-2.jpg"
 ---
 
