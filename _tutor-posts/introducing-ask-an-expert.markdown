@@ -1,7 +1,6 @@
 ---
 title: Introducing Ask An Expert.
-date: 2019-03-07 11:42:00 -06:00
-published: false
+date: 2019-03-11 11:42:00 -05:00
 hero-image: "/blog/uploads/blog-header-aae-1.jpg"
 ---
 
