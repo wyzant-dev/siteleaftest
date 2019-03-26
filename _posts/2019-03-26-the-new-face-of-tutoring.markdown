@@ -12,7 +12,6 @@ meta-description: 'Online tutoring democratizes access to education for students
   experts regardless of geography.
 
 '
-Is Hidden: true
 ---
 
 By now, you’re probably familiar with the details of the [bribery scandal](https://www.nytimes.com/2019/03/12/us/college-admissions-cheating-scandal.html) that broke on March 12: prominent Americans [paid upwards of $6.5 million](https://www.latimes.com/local/lanow/la-me-college-admissions-bribe-fixer-20190324-story.html) to get their kids into college. It was shocking in its brazenness, but it also served as an extreme example of an uncomfortable reality that has long existed in our country: wealthier people have more access to education.
