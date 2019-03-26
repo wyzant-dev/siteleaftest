@@ -1,6 +1,6 @@
 ---
 title: The New Face of Tutoring
-date: 2019-03-27 14:34:00 -05:00
+date: 2019-03-26 14:34:00 -05:00
 author: Andrew Geant, CEO
 sub-headline: 'Online tutoring democratizes access to education for students and adult
   learners by lowering prices and connecting eager learners with subject-area experts
