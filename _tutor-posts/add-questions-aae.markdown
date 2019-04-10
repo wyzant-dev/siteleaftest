@@ -15,6 +15,8 @@ The most straightforward way to show students that you’re their perfect fit is
 
 ## How does it work?
 
+![aaeblog1.png](/blog/uploads/aaeblog1.png)
+
 To post a new question, just click the “Add Question” button once you’re logged in on Ask An Expert. Then, when you’re ready, reply using a text or video answer, exactly as you would with other Ask An Expert questions. That’s it!
 
 Your video answers are packaged with a customized intro that shows your question, profile picture, and title, making each one a perfect digital business card for social media and sharing with students while you’re messaging. You can save your video answers by grabbing their links from Ask An Expert after they’ve been posted, or by visiting [Wyzant’s YouTube channel](https://www.youtube.com/user/WyzAnt/featured).
