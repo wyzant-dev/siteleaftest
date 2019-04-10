@@ -2,7 +2,7 @@
 title: Reach more students by adding the questions they’re searching for.
 date: 2019-04-10 10:51:00 -05:00
 published: false
-hero-image: "/blog/uploads/blog-header-tutor-add-question.jpg"
+hero-image: "/blog/uploads/blog-header-tutor-add-question%20(1).jpg"
 ---
 
 Today’s students are accustomed to being able to quickly compare prices and research the risks and rewards of hiring one tutor over another. They’re more discriminating, budget-conscious, and informed than ever before, leaving many tutors seeking to find news ways to - **reach and convert** - new students.
