@@ -23,4 +23,4 @@ Your video answers are packaged with a customized intro that shows your question
 
 Questions created by all tutors are displayed anonymously. While your fellow tutors on Ask An Expert can answer questions you post, only **your own** answer will be displayed in your "*Examples of Expertise*."
 
-Start building a profile that works for you, and [add a question](https://www.wyzant.com/resources/answers) today.
+Start building a profile that works for you, and [add a question](https://www.wyzant.com/resources/answers/ask) today.
