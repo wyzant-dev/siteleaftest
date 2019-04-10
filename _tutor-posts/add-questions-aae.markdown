@@ -1,7 +1,6 @@
 ---
 title: Reach more students by adding the questions they’re searching for.
 date: 2019-04-10 10:51:00 -05:00
-published: false
 hero-image: "/blog/uploads/blog-header-tutor-add-question%20(1).jpg"
 ---
 
