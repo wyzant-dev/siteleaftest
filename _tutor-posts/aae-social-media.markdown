@@ -1,7 +1,6 @@
 ---
 title: Learn how to promote your Ask An Expert answers on social media.
 date: 2019-04-18 10:41:00 -05:00
-published: false
 sub-headline: Students use social media one in every six minutes of every single day.
 hero-image: "/blog/uploads/blog-header-tutor-social-media.jpg"
 ---
@@ -16,7 +15,7 @@ For a tutor, social media represents an important opportunity to share knowledge
 
 ## Posting is promoting
 
-One of the primary reasons that students book lessons with tutors who have lots of ratings, reviews, and hours is because they feel they can **trust their brand**. If you’ve established credibility, then potential students who discover you via social media can easily see the value of your expertise. Bop Design [posits](https://www.bopdesign.com/bop-blog/2015/10/15-crazy-branding-stats/) that 80% of consumers are “more likely to evaluate solutions from the brands they follow on a social network.”
+One of the primary reasons that students book lessons with tutors who have lots of ratings, reviews, and hours is because they feel they can trust their brand. If you’ve established credibility, then potential students who discover you via social media can easily see the value of your expertise. Bop Design [posits](https://www.bopdesign.com/bop-blog/2015/10/15-crazy-branding-stats/) that 80% of consumers are “more likely to evaluate solutions from the brands they follow on a social network.”
 
 Hence, as a tutor (a brand), curating a successful social media presence should be high on your list of priorities. This is especially true for new tutors, who don’t yet have the ratings and reviews to lend credence to their brand.
 
@@ -48,11 +47,11 @@ More video is consumed on YouTube than any other social network. Over 1 billion 
 
 Each one of your Ask An Expert video answers is hosted at Wyzant’s YouTube channel, where students who are already using the platform to search for help for everything from the ABC’s to quantum theory can find **you.**
 
-To grab a link that you can use on social, just save the URL of the question thread, or right-click the link text, and select "Copy link address." 
+To grab a link that you can use on social, just visit Wyzant’s YouTube channel. 
 
 ## One answer, three posts
 
-Once you’ve recorded one video answer, you’ve simultaneously created three pieces of unique social media content that fit squarely into your 4-1-1 strategy. How’s that for efficiency? Here’s how you can stretch your video answers to use as brand content by presenting the same video answer in different ways:
+Once you’ve recorded one video answer, you’ve simultaneously created three pieces of unique social media content that fit squarely into your 4-1-1 strategy. How’s that for efficiency? Here’s how you can stretch your video answers to their fullest by presenting them in different ways.
 
 ### Content Idea 1: Post the video
 
