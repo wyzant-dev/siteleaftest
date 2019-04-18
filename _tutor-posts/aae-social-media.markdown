@@ -47,7 +47,7 @@ More video is consumed on YouTube than any other social network. Over 1 billion 
 
 Each one of your Ask An Expert video answers is hosted at Wyzant’s YouTube channel, where students who are already using the platform to search for help for everything from the ABC’s to quantum theory can find **you.**
 
-To grab a direct link to your video answer that you can use on social, just right-click the link text and select "Copy link address". 
+Just grab the URL to your video answer at the top of your browser to share on social, or right-click the video and select "Copy Video URL" for a link to your video answer on YouTube. 
 
 ## One answer, three posts
 
