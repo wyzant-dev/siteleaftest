@@ -75,4 +75,4 @@ Adding a hashtag that threads all of your video answers together helps anyone wh
 
 An important note: Miles clearly did their homework. #Coding is a widely used hashtag that’s likely to be searched by the kind of users Miles hopes to reach, and by “filing” their Ask An Expert content with other social users’ similar content by including it (which is okay, because it’s relevant - [don’t spam hashtags](https://www.audiencebloom.com/difference-hashtag-strategy-hashtag-spam/) with unrelated content), they’ve managed to extend the reach of their post exponentially when compared to using no hashtag at all. Miles also used the #AskAnExpert hashtag, so every user who follows the tag, but not Miles, will also see their post when they’re scrolling in search of help.
 
-In our next article, we provide a deeper dive into using hashtags to promote your tutoring brand, and a few more useful tips for reaching the most potential students on social media as possible.
+In our next article, we'll provide a deeper dive into using hashtags to promote your tutoring brand, and a few more useful tips for reaching the most potential students on social media as possible.
