@@ -16,7 +16,7 @@ For a tutor, social media represents an important opportunity to share knowledge
 
 ## Posting is promoting
 
-One of the primary reasons that students book lessons with tutors who have lots of ratings, reviews, and hours is because they feel they can trust their brand. If you’ve established credibility, then potential students who discover you via social media can easily see the value of your expertise. Bop Design [posits](https://www.bopdesign.com/bop-blog/2015/10/15-crazy-branding-stats/) that 80% of consumers are “more likely to evaluate solutions from the brands they follow on a social network.”
+One of the primary reasons that students book lessons with tutors who have lots of ratings, reviews, and hours is because they feel they can **trust their brand**. If you’ve established credibility, then potential students who discover you via social media can easily see the value of your expertise. Bop Design [posits](https://www.bopdesign.com/bop-blog/2015/10/15-crazy-branding-stats/) that 80% of consumers are “more likely to evaluate solutions from the brands they follow on a social network.”
 
 Hence, as a tutor (a brand), curating a successful social media presence should be high on your list of priorities. This is especially true for new tutors, who don’t yet have the ratings and reviews to lend credence to their brand.
 
