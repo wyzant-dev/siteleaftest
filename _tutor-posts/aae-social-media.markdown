@@ -52,7 +52,7 @@ To grab a link that you can use on social, just save the URL of the question thr
 
 ## One answer, three posts
 
-Once you’ve recorded one video answer, you’ve simultaneously created three pieces of unique social media content that fit squarely into your 4-1-1 strategy. How’s that for efficiency? Here’s how you can stretch your video answers to their fullest by presenting them in different ways.
+Once you’ve recorded one video answer, you’ve simultaneously created three pieces of unique social media content that fit squarely into your 4-1-1 strategy. How’s that for efficiency? Here’s how you can stretch your video answers to use as brand content by presenting the same video answer in different ways:
 
 ### Content Idea 1: Post the video
 
