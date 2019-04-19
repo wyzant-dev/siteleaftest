@@ -48,7 +48,7 @@ By working with individual tutors, you can develop the skills necessary for a ne
 
 Let’s say you want to learn the coding language Java and you’re giving yourself six months to do so. To become proficient for an entry-level position in that time, let’s assume you’ll need two hour-long tutoring sessions per week, which you’ll supplement with daily practice.
 
-The average cost of a Java tutor on Wyzant is about [$60 per hour.](https://www.wyzant.com/match/search?sort=1&utc_offset=-5&min_price=10&max_price=200&min_age=18&max_age=100&wednesday=true&thursday=true&ol=true&gender_pref=none&st=5&kw=Java%20coding&z=60661) Two hours per week for 26 weeks (six months) comes to $3,120 – far less than a college degree. It’s also far less than the [average coding bootcamp](https://www.coursereport.com/reports/2018-coding-bootcamp-market-size-research), which clocks in at $11,900 and requires participants to attend full time (meaning it’s difficult to attend while working).
+The average cost of a Java tutor on Wyzant is about [$60 per hour.](https://www.wyzant.com/Java_tutors.aspx) Two hours per week for 26 weeks (six months) comes to $3,120 – far less than a college degree. It’s also far less than the [average coding bootcamp](https://www.coursereport.com/reports/2018-coding-bootcamp-market-size-research), which clocks in at $11,900 and requires participants to attend full time (meaning it’s difficult to attend while working).
 
 Working with a one-on-one tutor – or a couple of tutors – can have significant benefits for those looking to learn a marketable skill:
 
@@ -60,7 +60,7 @@ Working with a one-on-one tutor – or a couple of tutors – can have significa
 
 As with any type of education, the key to translating tutoring sessions into work-ready skills is practicing. While the structure of coding bootcamps forces learners to practice for several hours per day, the tutoring route does not – which means it may require more discipline for those who choose this path.
 
-While there’s no one-size-fits-all way to get adequate practice in, experts suggest that [mastery requires more than an hour per day of work](https://trends.collegeboard.org/college-pricing/figures-tables/average-published-undergraduate-charges-sector-2018-19). Sure, that’s a big commitment, but probably more attainable than it seems, given that the average US adult currently spends about [five hours per day watching TV](https://www.nielsen.com/content/dam/corporate/us/en/reports-downloads/2019-reports/q3-2018-total-audience-report.pdf).
+While there’s no one-size-fits-all way to get adequate practice in, experts suggest that mastery requires more than an hour per day of work. Sure, that’s a big commitment, but probably more attainable than it seems, given that the average US adult currently spends about [five hours per day watching TV](https://www.nielsen.com/content/dam/corporate/us/en/reports-downloads/2019-reports/q3-2018-total-audience-report.pdf).
 
 For more on training to mastery, check out [this Fast Company piece](https://www.fastcompany.com/3058572/how-to-learn-a-new-skill-well-enough-to-do-it-automaticall) on automaticity, or learning a skill to the point that performing it becomes automatic.
 
