@@ -71,7 +71,7 @@ By [using the screengrab feature](https://lifehacker.com/how-to-take-a-screensho
 
 ![aaesocial3.png](/blog/uploads/aaesocial3.png)
 
-Adding a hashtag that threads all of your video answers together helps anyone who discovers your post find every other similar piece of content you’ve posted. In the example above, the “#coding” hashtag is used, with the Ask An Expert questions written out in text, and followed by a link to Miles’ video answer. 
+Adding a hashtag that threads all of your video answers together helps anyone who discovers your post find every other similar piece of content you’ve posted. In the example above, the “#coding” hashtag is used, with a tease of the question, followed by a link to Miles’ video answer. 
 
 An important note: Miles clearly did their homework. #Coding is a widely used hashtag that’s likely to be searched by the kind of users Miles hopes to reach, and by “filing” their Ask An Expert content with other social users’ similar content by including it (which is okay, because it’s relevant - [don’t spam hashtags](https://www.audiencebloom.com/difference-hashtag-strategy-hashtag-spam/) with unrelated content), they’ve managed to extend the reach of their post exponentially when compared to using no hashtag at all. Miles also used the #AskAnExpert hashtag, so every user who follows the tag, but not Miles, will also see their post when they’re scrolling in search of help.
 
