@@ -19,7 +19,7 @@ Her [2016 open letter](https://www.ibm.com/blogs/policy/ibm-ceo-ginni-romettys-l
 
 The vision is exciting – but because only a few of these schools currently exist, it’s out of reach for most Americans. Luckily, there’s an alternative path to preparing for a new-collar job. 
 
-# New-Collar Education: Focus on Employment
+## New-Collar Education: Focus on Employment
 
 One common criticism of the traditional four-year college education is that it isn’t necessarily career-oriented. Most students aren’t even required to declare a major until their third or fourth semester. While that may allow students to explore many areas of study and follow their interests, it’s an expensive path to follow in today’s era of ever-increasing college tuition.
 
@@ -35,7 +35,7 @@ This is even more beautifully simple in the era of new-collar jobs, when employe
 
 Once you have a sense of what you’ll need to learn to land a new-collar job near you, it’s time to hit the (virtual) books.
 
-# Work with Tutors to Master Relevant New-Collar Skills
+## Work with Tutors to Master Relevant New-Collar Skills
 
 Because new-collar jobs by definition don’t require a college degree, gaining the necessary qualifications for these jobs doesn’t require going to college. That’s good news, given that the [average yearly cost of college](https://trends.collegeboard.org/college-pricing/figures-tables/average-published-undergraduate-charges-sector-2018-19) (including tuition, fees, room, and board) is…
 
@@ -56,7 +56,7 @@ Working with a one-on-one tutor – or a couple of tutors – can have significa
 * Because many tutors also work as coding professionals, they can offer guidance on practical, real-world problems that come up in the workplace.
 * Unlike college courses or coding bootcamps, tutoring (especially online tutoring) is flexible, meaning busy learners can make time for it within their existing schedule.
 
-# Turning New Skills into a New-Collar Job
+## Turning New Skills into a New-Collar Job
 
 As with any type of education, the key to translating tutoring sessions into work-ready skills is practicing. While the structure of coding bootcamps forces learners to practice for several hours per day, the tutoring route does not – which means it may require more discipline for those who choose this path.
 
