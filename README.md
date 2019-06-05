@@ -3,7 +3,7 @@ This is the code base for the Wyzant blog. The blog is hosted by [Siteleaf](http
 
 ## Dependencies
 * Jekyll
-* Siteleaf
+* Siteleaf ->
 
 ## Site Setup
 Clone repo.
