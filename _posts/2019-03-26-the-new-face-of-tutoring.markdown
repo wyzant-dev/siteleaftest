@@ -7,6 +7,7 @@ sub-headline: 'Online tutoring democratizes access to education for students and
   regardless of geography.
 
 '
+hero-image: "/blog/uploads/Online%20Tutoring.png"
 meta-description: 'Online tutoring democratizes access to education for students and
   adult learners by lowering prices and connecting eager learners with subject-area
   experts regardless of geography.

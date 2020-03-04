@@ -34,7 +34,7 @@ It’s the **highly personalized nature** of private tutoring which helps kids t
 
 ### Finding 2: When Children Ask Questions, They Want Answers (not Attention)
 
-emember being afraid to raise your hand in front of the class for fear of feeling dumb? It wasn’t feeling dumb you were afraid of, it was the shame that came with it. Unfortunately, no matter how intelligent or engaged a student is (or wants to be), social surroundings play a role.
+Remember being afraid to raise your hand in front of the class for fear of feeling dumb? It wasn’t feeling dumb you were afraid of, it was the shame that came with it. Unfortunately, no matter how intelligent or engaged a student is (or wants to be), social surroundings play a role.
 
 As trivial as it might seem, those feelings can derail a student’s effort. More importantly, it can dampen the willingness to take chances. Here’s why that’s important:
 

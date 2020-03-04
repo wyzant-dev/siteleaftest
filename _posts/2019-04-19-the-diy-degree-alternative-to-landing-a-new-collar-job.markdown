@@ -7,6 +7,7 @@ tags:
 author: Andrew Geant, CEO
 sub-headline: New collar jobs require skills, not a degree. Find out how to cost-effectively
   train for these lucrative positions.
+hero-image: "/blog/uploads/The%20DIY%20Degree%20Alternative%20to%20Landing%20a%20New-Collar%20Job.png"
 meta-description: New collar jobs require skills, not a degree. Find out how to cost-effectively
   train for these lucrative positions.
 ---

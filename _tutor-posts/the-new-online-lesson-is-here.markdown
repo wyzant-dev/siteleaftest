@@ -9,6 +9,7 @@ hero-image: "/blog/uploads/TutorBlogPost_Header_2_woman_computer-16228a.jpg"
 Chances are you’ve heard the news, but we wanted to take another opportunity to share with you the recent (and very exciting) updates to the online learning tool here at Wyzant. This post shares a bit of backstory into how we got where we are today with the tool, as well as highlights details about the new features. Let’s dig in.
 
 ### Why Online Tutoring Is So Important
+
 As we started to collect more information and data about students, it helped us understand just how many adults are coming to Wyzant for help. And this number will only continue to grow as adults go back to school later in life, or discover they need to learn a new skill for their job.
 Considering the jam-packed schedules of these adults, more and more of them prefer online lessons out of convenience.
 
@@ -21,11 +22,11 @@ Over the course of 2016, we worked with a bunch of tutors who were using the Wyz
 
 Next, we identified common trends amongst these tutors. What are the things they are asking for that also line up with the data we’ve collected from the student experience?
 
-For example, we learned from our software development tutors that they found it ineffective to conduct a coding lesson using the tool. And since coding is becoming a highly in-demand skill, these types of lessons are on the rise—and will only continue to grow. Thus, our solution was that we needed to build a code editor to make it simple for tutors and students to create and edit code together in a variety of programming languages.  
+For example, we learned from our software development tutors that they found it ineffective to conduct a coding lesson using the tool. And since coding is becoming a highly in-demand skill, these types of lessons are on the rise—and will only continue to grow. Thus, our solution was that we needed to build a code editor to make it simple for tutors and students to create and edit code together in a variety of programming languages.
 
 ![code_editor.png](/blog/uploads/code_editor.png)
 
-Through our research, we also learned that tutors who conducted any kind of writing instruction didn’t find the tool to be their best ally. And, because a large number of students at Wyzant are looking for help in foreign languages and essay writing, we decided to build a text editor to make collaborating over the written word easier and more accessible.  
+Through our research, we also learned that tutors who conducted any kind of writing instruction didn’t find the tool to be their best ally. And, because a large number of students at Wyzant are looking for help in foreign languages and essay writing, we decided to build a text editor to make collaborating over the written word easier and more accessible.
 
 ![text_editor.png](/blog/uploads/text_editor.png)
 

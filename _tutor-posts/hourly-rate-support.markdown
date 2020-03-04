@@ -74,9 +74,7 @@ Only the in-person rate will be listed in Step 1. In Step 2, both online and in-
 
 ## What rate will students see?  
 
-In **tutor search and your profile**, students will see the hourly rate that best matches their search - in-person or online. That said, both rates, if available, will be listed on your public tutor profile in the *Policies* section and will be listed here regardless of the student’s search type.  
-
-![hourly13.png](/blog/uploads/hourly13.png)
+In **tutor search and your profile**, students will see the hourly rate that best matches their search - in-person or online - and your stated tutoring preferences.   
 
 In **messaging**, students will see the hourly rate that best matches their search - in-person or online - and it will show custom students rates if available. 
 
