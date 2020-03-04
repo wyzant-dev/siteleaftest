@@ -114,6 +114,7 @@ meta-title: The Wyzant Blog
 gems:
 - octopress-paginate
 - jekyll/tagging
+- jekyll/sitemap
 tag_page_layout: tag-page
 tag_page_dir: blog/tag
 tag_permalink_style: pretty
