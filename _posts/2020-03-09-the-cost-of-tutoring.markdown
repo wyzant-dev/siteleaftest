@@ -1,12 +1,11 @@
 ---
 title: Putting the Cost of Tutoring in Perspective
 date: 2020-03-09 12:50:00 -05:00
+published: false
 categories:
 - Tutoring
-- Tutors
 tags:
 - Tutoring
-- Tutors
 author: Andrew Geant, CEO
 hero-image: "/blog/uploads/Putting%20the%20Cost%20of%20Tutoring%20in%20Perspective.png"
 ---
