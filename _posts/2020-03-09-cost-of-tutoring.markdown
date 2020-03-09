@@ -9,14 +9,12 @@ author: Andrew Geant, CEO
 sub-headline: Having done 10 million hours of tutoring, we happen to have a lot of
   data about the price of tutoring.
 hero-image: "/blog/uploads/Putting%20the%20Cost%20of%20Tutoring%20in%20Perspective.png"
-meta-description: In this article, I’ll share real data from Wyzant’s marketplace
+meta-description: 'In this article, I’ll share real data from Wyzant’s marketplace
   showing the range of tutoring costs by subject area and other factors. I’ll then
-  give you some inside information on how to avoid paying too much for tutoring. But
-  first, let’s start with tutoring in general.
-post-description: In this article, I’ll share real data from Wyzant’s marketplace
+  give you some inside information on how to avoid paying too much for tutoring. '
+post-description: 'In this article, I’ll share real data from Wyzant’s marketplace
   showing the range of tutoring costs by subject area and other factors. I’ll then
-  give you some inside information on how to avoid paying too much for tutoring. But
-  first, let’s start with tutoring in general.
+  give you some inside information on how to avoid paying too much for tutoring. '
 ---
 
 One of the myths about tutoring is that it is prohibitively expensive; something only the wealthy can afford. Having done 10 million hours of tutoring, we happen to have a lot of data about the price of tutoring. And I’m happy to tell you that, if you know where to look, tutoring is more affordable than you think.
