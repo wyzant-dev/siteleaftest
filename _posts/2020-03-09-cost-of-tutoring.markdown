@@ -33,7 +33,7 @@ Don’t forget the cost of your time. Think of how much time you save with perso
 
 Or, let’s say you need to learn SQL for your job. You could sign up for a bootcamp for $10-20k. Or you could [hire a tutor](https://www.wyzant.com/SQL_tutors.aspx) who won’t just teach you SQL, but also design a custom learning plan for you to practice on your own, using hand-picked, free online resources. Best of all, you can work with a tutor who has real world experience in your field and serve as a mentor.
 
-\## What does tutoring cost?
+## What does tutoring cost?
 
 Wyzant currently has over 60,000 active tutors, and they all set their own hourly rates. It’s an efficient marketplace, with supply and demand informing what a tutor can charge. I believe it’s therefore a good representation of the broader market for freelance tutors.
 
