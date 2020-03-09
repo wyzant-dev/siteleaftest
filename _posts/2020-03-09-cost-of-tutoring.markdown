@@ -39,7 +39,7 @@ Consider this. If you’re a college student, you’re already paying on average
 
 Don’t forget the cost of your time. Think of how much time you save with personalized support from a private tutor versus hopelessly staring at the material when you’re stuck. You could spend that extra time with your family, at a part-time job earning money, or an internship gaining valuable experience. 
 
-Or, let’s say you need to learn SQL for your job. You could sign up for a bootcamp for $10-20k. Or you could hire a tutor who won’t just teach you SQL, but also design a custom learning plan for you to practice on your own, using hand-picked, free online resources. Best of all, you can work with a tutor who has real world experience in your field and serve as a mentor. 
+Or, let’s say you need to learn SQL for your job. You could sign up for a bootcamp for $10-20k. Or you could [hire a tutor](https://www.wyzant.com/SQL_tutors.aspx) who won’t just teach you SQL, but also design a custom learning plan for you to practice on your own, using hand-picked, free online resources. Best of all, you can work with a tutor who has real world experience in your field and serve as a mentor. 
 
 What does tutoring cost?
 
