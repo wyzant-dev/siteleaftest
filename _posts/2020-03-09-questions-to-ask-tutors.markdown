@@ -13,10 +13,8 @@ meta-description: Deciding which tutor is your perfect fit is important...and ca
   be challenging. Asking the right questions makes all the difference in choosing
   the tutor who will guide you to success.
 post-description: Deciding which tutor is your perfect fit is important...and can
-  be challenging. With some forethought, you can narrow down your choices to be sure
-  you’re working with a tutor who has the right experience, philosophy, schedule,
-  and price for your unique needs. Asking the right questions makes all the difference
-  in choosing the tutor who will guide you to success.
+  be challenging. Asking the right questions makes all the difference in choosing
+  the tutor who will guide you to success.
 ---
 
 Deciding which tutor is your perfect fit is important...and can be challenging. On Wyzant alone, there are more than 60,000 active tutors listed, offering their expertise in more than 275 subjects. The possibilities can feel overwhelming. However, with some forethought, you can narrow down your choices to be sure you’re working with a tutor who has the right experience, philosophy, schedule, and price for your unique needs. Asking the right questions makes all the difference in choosing the tutor who will guide you to success.
