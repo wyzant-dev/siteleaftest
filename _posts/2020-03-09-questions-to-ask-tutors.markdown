@@ -6,6 +6,7 @@ categories:
 - Tutoring
 tags:
 - Tutoring
+author: Jay Pike
 sub-headline: We’ve created some helpful lists  that anyone can use to help them connect
   with the tutor who’s got the right stuff, whatever the goal.
 hero-image: "/blog/uploads/Questions%20to%20Ask%20A%20Tutor.jpg"
