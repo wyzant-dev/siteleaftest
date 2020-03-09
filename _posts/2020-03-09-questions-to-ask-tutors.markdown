@@ -70,7 +70,7 @@ Whether you only have time to attend tutoring sessions late at night or on weeke
 * (For online tutors) Do you use the Wyzant [online learning tool](https://www.wyzant.com/online/student), or some other platform for online lessons?
 * Will you be unavailable at any time during the period in which I plan to take lessons?
 
-Rates and Policies
+## Rates and Policies
 
 When hiring an independent tutor, it should come as no surprise that pricing [will vary greatly](https://www.wyzant.com/blog/cost-of-tutoring/). The hourly rate a tutor charges for their services can depend on a number of factors: your specific needs, the tutor’s availability, experience and qualifications, credentials, where you live, where the tutor lives, the complexity of given subject matter, and many others. Many tutors listed on Wyzant routinely offer reduced-cost or discounted sessions to students who inquire about them, so even though discussing cost can feel uncomfortable, be sure you’re asking the right questions. Tutors expect to talk about money with potential students.
 
