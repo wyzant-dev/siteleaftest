@@ -89,5 +89,7 @@ When hiring an independent tutor, it should come as no surprise that pricing [wi
 
 No matter how careful you are when choosing a tutor, sometimes the relationship doesn’t pan out. If you feel that you've chosen the wrong tutor, don't be afraid to make a change. Remember: the focus of tutoring is you and your goals.
 
+Remember: at Wyzant, your first hour with a new tutor - any new tutor - is covered by the [Good Fit Guarantee](https://support.wyzant.com/hc/en-us/articles/208602136-What-s-the-Good-Fit-Guarantee-).
+
 Before you switch, however, consider if you’ve allowed yourself enough sessions to be totally sure your needs could be better served with a different instructor. It's important to realize that working with a tutor is not an instant fix to your learning struggles. It takes time for any new tutoring partnership to reach its full potential, so if your situation allows, try to have a few sessions before making the decision to move on.
 
