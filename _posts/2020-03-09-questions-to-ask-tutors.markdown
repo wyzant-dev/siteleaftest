@@ -42,7 +42,7 @@ Begin a conversation by simply introducing yourself and your goal, then asking h
 
 Asking to hear a tutor’s personal approach and philosophy will help you determine if they’re a good fit with your own learning style and personality. A good tutor will have the capacity to reflect upon their own methods and share them in a way their potential students can easily understand.
 
-Chatting with a tutor about their approach, distinct teaching style, and methods will help you to get to know them more personally. That may directly affect how well you’ll be able to work together. For example: a writing tutor who simply edits your work asynchronously with no instruction likely won’t be as deeply helpful as one who is focused on developing a customized plan to maximize the time (and money) you spend in pursuit of your progress. 
+Chatting with a tutor about their approach, distinct teaching style, and methods will help you to get to know them more personally. That may directly affect how well you’ll be able to work together. For example: a [writing tutor](https://www.wyzant.com/writing_tutors.aspx) who simply edits your work asynchronously with no instruction likely won’t be as deeply helpful as one who is focused on developing a customized plan to maximize the time (and money) you spend in pursuit of your progress. 
 
 Consider asking yourself some questions: Do you like this tutor? Share any common interests or experiences? Do you find them inspiring? Are you comfortable talking to them? Tutoring success requires a strong foundation of trust, so cultivating a rapport and relationship can be the first step toward deciding if you’ve found the tutor for you. 
 
