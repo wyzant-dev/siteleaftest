@@ -39,9 +39,11 @@ Wyzant currently has over 60,000 active tutors, and they all set their own hourl
 
 As of March 2020, the median hourly rate on Wyzant is $45. 25% of tutors charge $40 or less, and another 25% of tutors charge $53 or more. The full range is $10 to over $300 per hour. While we recognize $45/hr may sound expensive from a strictly dollars-and-cents perspective, consider what a few hours of tutoring can help you achieve:
 
-1\.) Improved grades, which can help you pass a course or improve your GPA
-2\.) Deeper understanding and subject mastery
-3\.) Increased confidence
+1. Improved grades, which can help you pass a course or improve your GPA
+
+2. Deeper understanding and subject mastery
+
+3. Increased confidence
 
 It’s difficult to put a price on those, and they may be worth considerably more than whatever you're paying for tutoring. Naturally, some subjects are more expensive than others, but not by as much as you might expect. For all of these subjects, our bottom quartile of hourly rates is $40:
 
