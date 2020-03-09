@@ -63,15 +63,15 @@ For the 10 most-popular tutoring subjects on Wyzant, there are hundreds of great
 
 Here are some concrete, actionable ways you can be sure that you’re getting the most out of any tutoring experience:
 
-**Tip 1:** Take advantage of school-sponsored tutoring programs. Most universities offer some form of tutoring support as part of your tuition (in fact, [many are partnering with Wyzant](https://www.wyzant.com/blog/tutor/are-partner-sponsored-students-a-good-fit-for-your-business/)). Start by trying these free resources. If they don't meet your specific needs, no harm done.
+**Tip 1: Take advantage of school-sponsored tutoring programs.** Most universities offer some form of tutoring support as part of your tuition (in fact, [many are partnering with Wyzant](https://www.wyzant.com/blog/tutor/are-partner-sponsored-students-a-good-fit-for-your-business/)). Start by trying these free resources. If they don't meet your specific needs, no harm done.
 
-**Tip 2:** Pay attention to how much overhead a tutoring company has. If they have brick & mortar locations, custom diagnostic exams, or sales reps, they’re also going to be more expensive, and likely pay tutors less, thus affecting quality. Even better, ask what portion goes to the tutor. In Wyzant’s case, it’s 75%, which is much higher than you’ll find elsewhere.
+**Tip 2: Pay attention to how much overhead a tutoring company has.** If they have brick & mortar locations, custom diagnostic exams, or sales reps, they’re also going to be more expensive, and likely pay tutors less, thus affecting quality. Even better, ask what portion goes to the tutor. In Wyzant’s case, it’s 75%, which is much higher than you’ll find elsewhere.
 
-**Tip 3:** Find the right tutor for you. Fit is everything when it comes to maximizing the impact and enjoyability of your tutoring experience. That’s why Wyzant lets you choose your own tutor and provides a Good-Fit-Guarantee. You should ask to interview your tutor prior to making a commitment (here’s a list of questions to ask any potential tutor). If a tutor or tutoring company won’t allow you to do that, be wary.
+**Tip 3: Find the right tutor for you.** Fit is everything when it comes to maximizing the impact and enjoyability of your tutoring experience. That’s why Wyzant lets you choose your own tutor and provides a Good-Fit-Guarantee. You should ask to interview your tutor prior to making a commitment (here’s a list of questions to ask any potential tutor). If a tutor or tutoring company won’t allow you to do that, be wary.
 
-**Tip 4:** Negotiate. In Wyzant’s case, all of the data in this article is based off tutors’ posted hourly rates. In practice, tutors are often willing to lower their rates if they feel it’s a good fit and a student really needs their help. Tutors are also keen to build long-term relationships with dedicated students, so the more committed you are, the more bargaining leverage you have.
+**Tip 4: Negotiate.** In Wyzant’s case, all of the data in this article is based off tutors’ posted hourly rates. In practice, tutors are often willing to lower their rates if they feel it’s a good fit and a student really needs their help. Tutors are also keen to build long-term relationships with dedicated students, so the more committed you are, the more bargaining leverage you have.
 
-**Tip 5:** Start small. Many tutoring companies will try to sell you on a big package, enticing you with discounts. This isn’t necessarily bad if you’re certain how much tutoring you’ll need and you trust the company to deliver a quality experience. In most cases, however, it’s hard to predict. You might be pleasantly surprised how much progress you’re able to make in just a few hours.
+**Tip 5: Start small.** Many tutoring companies will try to sell you on a big package, enticing you with discounts. This isn’t necessarily bad if you’re certain how much tutoring you’ll need and you trust the company to deliver a quality experience. In most cases, however, it’s hard to predict. You might be pleasantly surprised how much progress you’re able to make in just a few hours.
 
 In summary
 
