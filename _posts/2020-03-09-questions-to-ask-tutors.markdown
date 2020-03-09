@@ -2,8 +2,8 @@
 title: Important Questions to Ask a Potential Tutor
 date: 2020-03-09 15:27:00 -05:00
 published: false
-sub-headline: We’ve created helpful lists that anyone can use to help them connect
-  with the tutor who’s got the right stuff, whatever the goal.
+sub-headline: We’ve created   that anyone can use to help them connect with the tutor
+  who’s got the right stuff, whatever the goal.
 hero-image: "/blog/uploads/Questions%20to%20Ask%20A%20Tutor.jpg"
 meta-description: Deciding which tutor is your perfect fit is important...and can
   be challenging. With some forethought, you can narrow down your choices to be sure
@@ -67,7 +67,7 @@ Whether you only have time to attend tutoring sessions late at night or on weeke
 * Are you willing to set up a repeating session time reserved for our sessions?
 * How should I contact you if I need to change the time of a session?
 * (For in-person tutors) Where will tutoring sessions take place?
-* (For online tutors) Do you use the Wyzant online learning tool, or some other platform for online lessons?
+* (For online tutors) Do you use the Wyzant [online learning tool](https://www.wyzant.com/online/student), or some other platform for online lessons?
 * Will you be unavailable at any time during the period in which I plan to take lessons?
 
 Rates and Policies
