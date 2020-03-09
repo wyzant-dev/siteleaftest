@@ -7,7 +7,7 @@ categories:
 tags:
 - LSAT
 - Test Prep
-author: Wyzant
+author: Jay Pike
 hero-image: "/blog/uploads/How%20Study%20LSAT.png"
 meta-description: Your LSAT score is easily the most crucial element of your law school
   admission. There’s a lot to achieve during your LSAT prep. Where to start? Here
