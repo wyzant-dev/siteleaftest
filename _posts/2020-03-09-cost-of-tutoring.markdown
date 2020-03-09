@@ -63,7 +63,7 @@ There are also significant differences based on geography. The median hourly rat
 
 ## Good news for price-sensitive students
 
-For the 10 most-popular tutoring subjects on Wyzant, there are hundreds of great tutors available for $25/hr or less in every one. Many of these tutors have advanced degrees, are certified teachers, and have years of experience. They are all backed by Wyzant’s [Good-Fit-Guarantee](https://support.wyzant.com/hc/en-us/articles/208602136-What-s-the-Good-Fit-Guarantee-), so you can try them risk-free.
+For the 10 most-popular tutoring subjects on Wyzant, there are hundreds of great tutors available for $25/hr or less in every one. Many of these tutors have advanced degrees, are certified teachers, and have years of experience. They are all backed by Wyzant’s [Good Fit Guarantee](https://support.wyzant.com/hc/en-us/articles/208602136-What-s-the-Good-Fit-Guarantee-), so you can try them risk-free.
 
 ![Tutors Under 25 dollars.jpg](/blog/uploads/Tutors%20Under%2025%20dollars.jpg)
 
