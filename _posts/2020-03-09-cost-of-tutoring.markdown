@@ -58,7 +58,7 @@ It’s difficult to put a price on those, and they may be worth considerably mor
 
 Where we notice slightly more expensive hourly rates is in specialized test prep, and technical subject areas such as LSAT, MCAT, CFA and Stata. Even for these subjects, you can find plenty of great tutors for $50/hr or less. 
 
-There are also significant differences based on geography. The median hourly rate for chemistry is $45 for a tutor in Austin, TX, but $75 for a tutor in New York, NY. The good news is that, with online tutoring, you can hire tutors from less expensive markets no matter where you are located. 
+There are also significant differences based on geography. The median hourly rate for chemistry is $45 for a tutor in Austin, TX, but $75 for a tutor in New York, NY. The good news is that, with [online tutoring](https://www.wyzant.com/online/student), you can hire tutors from less expensive markets no matter where you are located. 
 
 ## Good news for price-sensitive students
 
