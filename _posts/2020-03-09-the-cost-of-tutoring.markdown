@@ -1,7 +1,6 @@
 ---
 title: Putting the Cost of Tutoring in Perspective
 date: 2020-03-09 12:50:00 -05:00
-published: false
 categories:
 - Tutoring
 - Tutors
