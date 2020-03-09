@@ -2,6 +2,19 @@
 title: Important Questions to Ask a Potential Tutor
 date: 2020-03-09 15:27:00 -05:00
 published: false
+sub-headline: We’ve created the following list that anyone can use to help them connect
+  with the tutor who’s got the right stuff, whatever the goal.
+hero-image: "/blog/uploads/Questions%20to%20Ask%20A%20Tutor.jpg"
+meta-description: Deciding which tutor is your perfect fit is important...and can
+  be challenging. With some forethought, you can narrow down your choices to be sure
+  you’re working with a tutor who has the right experience, philosophy, schedule,
+  and price for your unique needs. Asking the right questions makes all the difference
+  in choosing the tutor who will guide you to success.
+post-description: Deciding which tutor is your perfect fit is important...and can
+  be challenging. With some forethought, you can narrow down your choices to be sure
+  you’re working with a tutor who has the right experience, philosophy, schedule,
+  and price for your unique needs. Asking the right questions makes all the difference
+  in choosing the tutor who will guide you to success.
 ---
 
 Deciding which tutor is your perfect fit is important...and can be challenging. On Wyzant alone, there are more than 60,000 active tutors listed, offering their expertise in more than 275 subjects. The possibilities can feel overwhelming. However, with some forethought, you can narrow down your choices to be sure you’re working with a tutor who has the right experience, philosophy, schedule, and price for your unique needs. Asking the right questions makes all the difference in choosing the tutor who will guide you to success.
