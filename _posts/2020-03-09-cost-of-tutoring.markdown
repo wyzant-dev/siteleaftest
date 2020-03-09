@@ -62,7 +62,7 @@ There are also significant differences based on geography. The median hourly rat
 
 ## Good news for price-sensitive students
 
-For the 10 most-popular tutoring subjects on Wyzant, there are hundreds of great tutors available for $25/hr or less in every one. Many of these tutors have advanced degrees, are certified teachers, and have years of experience. They are all backed by Wyzant’s Good-Fit-Guarantee, so you can try them risk-free. 
+For the 10 most-popular tutoring subjects on Wyzant, there are hundreds of great tutors available for $25/hr or less in every one. Many of these tutors have advanced degrees, are certified teachers, and have years of experience. They are all backed by Wyzant’s [Good-Fit-Guarantee](https://support.wyzant.com/hc/en-us/articles/208602136-What-s-the-Good-Fit-Guarantee-), so you can try them risk-free. 
 
 ![Tutors Under 25 dollars.jpg](/blog/uploads/Tutors%20Under%2025%20dollars.jpg)
 
@@ -70,7 +70,7 @@ For the 10 most-popular tutoring subjects on Wyzant, there are hundreds of great
 
 Here are some concrete, actionable ways you can be sure that you’re getting the most out of any tutoring experience:
 
-**Tip 1:** Take advantage of school-sponsored tutoring programs. Most universities offer some form of tutoring support as part of your tuition (in fact, many are partnering with Wyzant). Start by trying these free resources. If they don't meet your specific needs, no harm done. 
+**Tip 1:** Take advantage of school-sponsored tutoring programs. Most universities offer some form of tutoring support as part of your tuition (in fact, [many are partnering with Wyzant](https://www.wyzant.com/blog/tutor/are-partner-sponsored-students-a-good-fit-for-your-business/)). Start by trying these free resources. If they don't meet your specific needs, no harm done. 
 
 **Tip 2:** Pay attention to how much overhead a tutoring company has. If they have brick & mortar locations, custom diagnostic exams, or sales reps, they’re also going to be more expensive, and likely pay tutors less, thus affecting quality. Even better, ask what portion goes to the tutor. In Wyzant’s case, it’s 75%, which is much higher than you’ll find elsewhere. 
 
