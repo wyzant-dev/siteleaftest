@@ -2,6 +2,10 @@
 title: Important Questions to Ask a Potential Tutor
 date: 2020-03-09 15:27:00 -05:00
 published: false
+categories:
+- Tutoring
+tags:
+- Tutoring
 sub-headline: We’ve created   that anyone can use to help them connect with the tutor
   who’s got the right stuff, whatever the goal.
 hero-image: "/blog/uploads/Questions%20to%20Ask%20A%20Tutor.jpg"
