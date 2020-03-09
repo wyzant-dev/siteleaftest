@@ -67,7 +67,7 @@ Here are some concrete, actionable ways you can be sure that you’re getting th
 
 **Tip 2: Pay attention to how much overhead a tutoring company has.** If they have brick & mortar locations, custom diagnostic exams, or sales reps, they’re also going to be more expensive, and likely pay tutors less, thus affecting quality. Even better, ask what portion goes to the tutor. In Wyzant’s case, it’s 75%, which is much higher than you’ll find elsewhere.
 
-**Tip 3: Find the right tutor for you.** Fit is everything when it comes to maximizing the impact and enjoyability of your tutoring experience. That’s why Wyzant lets you choose your own tutor and provides a Good-Fit-Guarantee. You should ask to interview your tutor prior to making a commitment (here’s a list of questions to ask any potential tutor). If a tutor or tutoring company won’t allow you to do that, be wary.
+**Tip 3: Find the right tutor for you.** Fit is everything when it comes to maximizing the impact and enjoyability of your tutoring experience. That’s why Wyzant lets you choose your own tutor and provides a Good-Fit-Guarantee. You should ask to interview your tutor prior to making a commitment. If a tutor or tutoring company won’t allow you to do that, be wary.
 
 **Tip 4: Negotiate.** In Wyzant’s case, all of the data in this article is based off tutors’ posted hourly rates. In practice, tutors are often willing to lower their rates if they feel it’s a good fit and a student really needs their help. Tutors are also keen to build long-term relationships with dedicated students, so the more committed you are, the more bargaining leverage you have.
 
