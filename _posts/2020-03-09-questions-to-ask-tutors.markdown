@@ -36,7 +36,7 @@ Begin a conversation by simply introducing yourself and your goal, then asking h
 * Have you worked before with students with a similar issue as mine? 
 * Where did you learn this subject? How have you used it in your profession?
 * What’s your track record?
-* What if I have an exceptionality? Are you experienced in helping students with learning differences?
+* What if I or my student have an exceptionality? Are you experienced in helping students with learning differences?
 
 ## Philosophy
 
