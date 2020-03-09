@@ -8,7 +8,6 @@ categories:
 tags:
 - Tutoring
 - Tutors
-meta-title: Putting the Cost of Tutoring in Perspective
 sub-headline: Having done 10 million hours of tutoring, we happen to have a lot of
   data about the price of tutoring.
 meta-description: 'In this article, I’ll share real data from Wyzant’s marketplace
