@@ -8,6 +8,7 @@ categories:
 tags:
 - Tutoring
 - Tutors
+hero-image: "/blog/uploads/Putting%20the%20Cost%20of%20Tutoring%20in%20Perspective.png"
 ---
 
 One of the myths about tutoring is that it is prohibitively expensive; something only the wealthy can afford. Having done 10 million hours of tutoring, we happen to have a lot of data about the price of tutoring. And I’m happy to tell you that, if you know where to look, tutoring is more affordable than you think.
