@@ -1,7 +1,6 @@
 ---
 title: Important Questions to Ask a Potential Tutor
 date: 2020-03-09 15:27:00 -05:00
-published: false
 categories:
 - Tutoring
 tags:
