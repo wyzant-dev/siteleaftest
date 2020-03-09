@@ -7,6 +7,7 @@ categories:
 tags:
 - Tutoring
 - Tutors
+author: Andrew Geant, CEO
 hero-image: "/blog/uploads/Putting%20the%20Cost%20of%20Tutoring%20in%20Perspective.png"
 ---
 
