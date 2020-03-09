@@ -73,7 +73,7 @@ Here are some concrete, actionable ways you can be sure that you’re getting th
 
 **Tip 5: Start small.** Many tutoring companies will try to sell you on a big package, enticing you with discounts. This isn’t necessarily bad if you’re certain how much tutoring you’ll need and you trust the company to deliver a quality experience. In most cases, however, it’s hard to predict. You might be pleasantly surprised how much progress you’re able to make in just a few hours.
 
-In summary
+## In summary
 
 Tutoring gets a bad rap for being something only rich people can afford. This just isn’t true. As you’ve seen, Wyzant’s marketplace has hundreds of great tutors for $25 and under. When considering tutoring, know that the benefits are immense. Tutoring is for anyone who wants personalized learning on their own terms. But be smart and make sure you find the right tutor and avoid overpaying.
 
