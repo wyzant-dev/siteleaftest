@@ -9,6 +9,8 @@ tags:
 - English
 - Language Arts
 author: Jacqueline Zote
+sub-headline: If you're a student, you're writing research papers. Make sure you're
+  writing great ones.
 hero-image: "/blog/uploads/How%20to%20Write%20a%20Research%20Paper.png"
 meta-description: Are you stuck with a blank page because you have no idea how to
   write a research paper, or where to start in the first place? In this guide, you’ll
