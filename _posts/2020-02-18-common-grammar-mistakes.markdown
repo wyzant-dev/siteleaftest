@@ -9,6 +9,8 @@ tags:
 - Grammar
 - English
 author: Jacqueline Zote
+sub-headline: If your goal is to improve your writing, grammar is the best place to
+  begin.
 hero-image: "/blog/uploads/Common%20Grammar%20Mistakes.png"
 meta-description: Whether it’s excessive passive voice use, subject-verb agreement
   issues, or confusing one word for another, these grammar mistakes can take your
