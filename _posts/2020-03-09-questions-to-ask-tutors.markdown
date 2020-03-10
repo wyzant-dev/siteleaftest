@@ -6,8 +6,8 @@ categories:
 tags:
 - Tutoring
 author: Jay Pike
-sub-headline: We’ve created some helpful lists  that anyone can use to help them connect
-  with the tutor who’s got the right stuff, whatever the goal.
+sub-headline: We’ve created some helpful lists anyone can use to help them find a
+  tutor who’s got the right stuff, whatever the goal.
 hero-image: "/blog/uploads/Questions%20to%20Ask%20A%20Tutor.jpg"
 meta-description: Deciding which tutor is your perfect fit is important...and can
   be challenging. Asking the right questions makes all the difference in choosing
