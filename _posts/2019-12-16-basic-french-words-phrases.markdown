@@ -8,8 +8,13 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: Here’s a quick primer that will help you understand how to say and read
+  French words for that upcoming trip.
 hero-image: "/blog/uploads/Basic%20French%20Words%20and%20Phrases%20for%20Travel.png"
 meta-description: "“Do you need to learn French to go on a short vacation or business
+  trip?” My answer? You don’t need to become an expert, but a few common French phrases
+  will make your trip a memorable one. "
+post-description: "“Do you need to learn French to go on a short vacation or business
   trip?” My answer? You don’t need to become an expert, but a few common French phrases
   will make your trip a memorable one. "
 ---
