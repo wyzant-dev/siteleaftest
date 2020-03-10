@@ -12,11 +12,11 @@ sub-headline: Regardless of which computer programming language you choose to le
   you’ll need resources to actually learn to code.
 hero-image: "/blog/uploads/5%20Best%20Ways%20to%20Learn%20to%20Code.png"
 meta-description: While you can learn the principles, terminology, caveats, tricks,
-  and pitfalls from listening or reading, to actually improve your ability to write
-  code...you have to write that code.
+  and pitfalls from listening or reading, to improve your ability to write code...you
+  have to write that code.
 post-description: While you can learn the principles, terminology, caveats, tricks,
-  and pitfalls from listening or reading, to actually improve your ability to write
-  code...you have to write that code.
+  and pitfalls from listening or reading, to improve your ability to write code...you
+  have to write that code.
 ---
 
 Regardless of which computer programming language you choose, you’ll need resources to actually learn to code.
