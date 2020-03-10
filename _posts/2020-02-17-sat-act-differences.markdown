@@ -10,6 +10,7 @@ tags:
 - ACT
 - Test Prep
 author: Jonathan Reidenouer
+sub-headline: Do you really know the difference between the SAT and ACT tests? Really?
 hero-image: "/blog/uploads/SAT%20and%20ACT%20Differences%20.png"
 meta-description: '"What is the purpose of the SAT and ACT? How are they alike—and
   how are they different? Which one should I take?" If you''ve asked those questions,
