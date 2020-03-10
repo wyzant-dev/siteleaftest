@@ -3,8 +3,14 @@ title: 4 Strategies from the Startup World that Can Improve College Retention Ra
 date: 2019-06-10 11:41:00 -05:00
 tags:
 - college retention rates
+sub-headline: The worlds of startups and higher education could hardly be more different.
 hero-image: "/blog/uploads/Strategies%20of%20Startups.png"
 meta-description: 'These four startup strategies can help colleges improve retention
+  rates: applying big data insights, using AI to engage students, tapping the gig
+  economy, and using an agile model.
+
+'
+post-description: 'These four startup strategies can help colleges improve retention
   rates: applying big data insights, using AI to engage students, tapping the gig
   economy, and using an agile model.
 
