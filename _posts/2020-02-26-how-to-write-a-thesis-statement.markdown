@@ -9,6 +9,9 @@ tags:
 - English
 - Language Arts
 author: Jacqueline Zote
+sub-headline: A thesis statement describes the main idea behind your topic or argument.
+  It summarizes your paper and provides readers with information about where you stand
+  on the topic.
 hero-image: "/blog/uploads/How%20to%20Write%20A%20Thesis%20Statement-a343d3.png"
 meta-description: An essay is only as good as its thesis statement. As hyperbolic
   as this may sound, it’s not far from the truth. Without a strong thesis statement
