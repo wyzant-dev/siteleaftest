@@ -8,6 +8,8 @@ tags:
 - SAT
 - Test Prep
 author: Jonathan Reidenouer
+sub-headline: If your school is like most high schools, your math classes favor the
+  use of Texas Instruments calculators. The most popular one by far is the TI-84.
 hero-image: "/blog/uploads/TI84%20Graphing%20Calculator%20for%20the%20SAT.png"
 meta-description: If your school is like most high schools, your math classes favor
   the use of Texas Instruments calculators. The most popular one by far is the TI-84,
