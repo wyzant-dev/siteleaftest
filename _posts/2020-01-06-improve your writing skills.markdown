@@ -9,8 +9,12 @@ tags:
 - English
 - Language Arts
 author: Jacqueline Zote
+sub-headline: Whether you’re a student or a professional, in grad school or in a large
+  corporation, good writing skills are the building blocks for long-term success.
 hero-image: "/blog/uploads/9%20Easy%20Tips%20to%20Improve%20Your%20Writing.png"
 meta-description: Becoming a better writer may sound like an intimidating goal. Here
+  are some tips that will help you improve your writing skills.
+post-description: Becoming a better writer may sound like an intimidating goal. Here
   are some tips that will help you improve your writing skills.
 ---
 
