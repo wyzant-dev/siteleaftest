@@ -10,6 +10,9 @@ tags:
 - Law
 - Test Prep
 author: Shane Gregoire
+sub-headline: Roughly defined as the ability to think critically about carefully crafted
+  text and then fulfill a specifically stated task, Logical Reasoning is a law school
+  requirement and will be one of the defining features of your job as a lawyer.
 hero-image: "/blog/uploads/LSAT%20Logical%20Reasoning%20Tips.png"
 meta-description: Every LSAT PrepTest™ since the dawn of man has included 2 Logical
   Reasoning sections. LR accounts for half of the LSAT’s scored sections and is given
