@@ -8,6 +8,8 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: Le passé composé is a French verb conjugation, and the most common of
+  the three ways to express the French past tense.
 hero-image: "/blog/uploads/Le%20Passe%20Compose%20French%20Past%20Tense.png"
 meta-description: Le passé composé is the easiest and most English speaker-friendly
   French past tense conjugation, used for describing events that took place completely
