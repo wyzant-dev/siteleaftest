@@ -8,6 +8,9 @@ tags:
 - SAT
 - Test Prep
 author: Jonathan Reidenouer
+sub-headline: Ultimately, the SAT is a test of how well you can take the SAT, so the
+  more you practice, the more you will recognize the different question types and
+  settle on the right strategies.
 hero-image: "/blog/uploads/10%20Tips%20for%20Perfect%20SAT%20Score.png"
 meta-description: 'Preparing for the SAT can be a daunting task, one you may not know
   how to begin or what to aim for. Here are some tips on how to prepare for the SAT
