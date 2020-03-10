@@ -8,6 +8,9 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: This guide covers not only how to pronounce French letters and syllables
+  that differ from English, but other French pronunciation rules like syllable stress,
+  accent marks and le liason.
 hero-image: "/blog/uploads/Guide%20to%20French%20Pronunciation.png"
 meta-description: Pronunciation is a crucial piece of how to learn French. The sounds
   may be harder to make with your mouth, but the rules are more consistent than those
