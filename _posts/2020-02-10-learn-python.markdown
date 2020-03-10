@@ -8,6 +8,8 @@ tags:
 - Python
 - Computer Programming
 author: Alys Brooks
+sub-headline: Python is one of the most-loved programming languages by developers,
+  data scientists, and engineers because of its versatility.
 hero-image: "/blog/uploads/Learn%20Python.png"
 ---
 
