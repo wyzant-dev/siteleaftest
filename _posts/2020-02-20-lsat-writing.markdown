@@ -11,6 +11,7 @@ tags:
 - Writing
 - Test Prep
 author: Shane Gregoire
+sub-headline: There’s good news and bad news about LSAT Writing.
 hero-image: "/blog/uploads/Guide%20to%20LSAT%20Writing.png"
 meta-description: 'The good news: LSAT test-takers (probably you or soon to be you)
   no longer must complete a writing sample shortly after 5 LSAT multiple choice sections.
