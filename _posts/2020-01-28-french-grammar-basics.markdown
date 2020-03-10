@@ -8,6 +8,8 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: French grammar rules are decided by forty experts in language, literature,
+  and politics who form an institution called L'académie Française.
 hero-image: "/blog/uploads/French%20Grammar%20Basics.png"
 meta-description: |-
   You could memorize a whole English-to-French dictionary, but it would be useless if you didn’t learn how to put the words together in a way that makes sense.
