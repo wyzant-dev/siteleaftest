@@ -11,16 +11,12 @@ author: Jonathan Reidenouer
 sub-headline: If your school is like most high schools, your math classes favor the
   use of Texas Instruments calculators. The most popular one by far is the TI-84.
 hero-image: "/blog/uploads/TI84%20Graphing%20Calculator%20for%20the%20SAT.png"
-meta-description: If your school is like most high schools, your math classes favor
-  the use of Texas Instruments calculators. The most popular one by far is the TI-84,
-  although there are several versions of that model. The tips given in this article
-  are for the TI-84 Plus CE, but they will also work for the TI-84 Plus C Silver Edition
-  and most models of the TI-84 Plus.
-post-description: If your school is like most high schools, your math classes favor
-  the use of Texas Instruments calculators. The most popular one by far is the TI-84,
-  although there are several versions of that model. The tips given in this article
-  are for the TI-84 Plus CE, but they will also work for the TI-84 Plus C Silver Edition
-  and most models of the TI-84 Plus.
+meta-description: The tips given in this article are for the TI-84 Plus CE, but they
+  will also work for the TI-84 Plus C Silver Edition and most models of the TI-84
+  Plus.
+post-description: The tips given in this article are for the TI-84 Plus CE, but they
+  will also work for the TI-84 Plus C Silver Edition and most models of the TI-84
+  Plus.
 ---
 
 When it comes to advantages on any math test, access to a calculator — especially a graphing calculator — is perhaps the greatest one. While there the SAT has both a No Calculator and a Calculator section, approximately two-thirds of the SAT Math questions permit the use of a calculator. 
