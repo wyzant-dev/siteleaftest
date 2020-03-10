@@ -10,6 +10,8 @@ tags:
 - Language Arts
 meta-title: How to Write an Essay Outline
 author: Jacqueline Zote
+sub-headline: Every essay needs an outline to organize your research or opinions in
+  a way that makes sense for readers.
 hero-image: "/blog/uploads/How%20to%20Write%20an%20Outline%20Hero.png"
 meta-description: An essay outline helps you structure your writing in a logical flow
   to get your ideas across more effectively, which also improves your overall writing
