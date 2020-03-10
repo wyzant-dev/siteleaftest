@@ -3,6 +3,7 @@ title: 'Workers Age 50-Plus in the Gig Economy: A Look at Tutors on the Wyzant P
 date: 2017-07-31 11:08:00 -05:00
 tags:
 - tutors
+author: Jay Pike
 hero-image: "/blog/uploads/Blog_50_Older_Header.jpg"
 meta-description: Get an inside look at the 50-plus tutor population on the Wyzant
   platform to learn about who they are, and what motivates them to do this work as
