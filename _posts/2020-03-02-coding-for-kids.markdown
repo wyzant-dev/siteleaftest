@@ -8,6 +8,8 @@ tags:
 - Computer Programming
 - Python
 author: Alys Brooks
+sub-headline: Think of coding as a skill similar to music, art, or woodworking - not
+  a necessity, but highly enriching and worth giving every child a chance to try.
 hero-image: "/blog/uploads/Ways%20for%20Kids%20to%20Learn%20Coding-9281a5.png"
 meta-description: While some people suggest coding is the new literacy, the jury’s
   out on whether coding will join the basic curriculum. Think of coding as a skill
