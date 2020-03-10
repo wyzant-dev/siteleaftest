@@ -8,6 +8,8 @@ tags:
 - LSAT
 - Test Prep
 author: Shane Gregoire
+sub-headline: It’s well-noted that Logic Games are highly predictable in nature, with
+  certain types recurring from test to test.
 hero-image: "/blog/uploads/LSAT%20Logic%20Games%20Tips.png"
 meta-description: 'For many, Logic Games are initially the most difficult - but most
   improvable - of the 3 kinds of LSAT multiple-choice sections.  Thankfully, analytical
