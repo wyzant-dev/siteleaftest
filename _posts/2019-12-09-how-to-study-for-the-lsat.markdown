@@ -8,10 +8,14 @@ tags:
 - LSAT
 - Test Prep
 author: Jay Pike
+sub-headline: There’s a lot to achieve during your LSAT prep.
 hero-image: "/blog/uploads/How%20Study%20LSAT.png"
 meta-description: Your LSAT score is easily the most crucial element of your law school
-  admission. There’s a lot to achieve during your LSAT prep. Where to start? Here
-  are some key tips to get you on track to a perfect 180.
+  admission. Where to start? Here are some key tips to get you on track to a perfect
+  180.
+post-description: Your LSAT score is easily the most crucial element of your law school
+  admission. Where to start? Here are some key tips to get you on track to a perfect
+  180.
 ---
 
 Your LSAT score is easily the most crucial element of your law school admission, and the school you attend has significant impact on the trajectory of your law career. Preparation is key; put in the time and study, and you can expect improvement.
