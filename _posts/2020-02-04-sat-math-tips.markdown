@@ -9,8 +9,13 @@ tags:
 - Test Prep
 meta-title: 10 Score-Boosting SAT Math Tips
 author: Jonathan Reidenouer
+sub-headline: 'For standardized tests at any level, math is consistently the subject
+  area that students feel they need the most help with. '
 hero-image: "/blog/uploads/Score%20Boosting%20SAT%20Math%20Tips.png"
 meta-description: Even students who perform well in high school math often come up
+  short when first encountering the types of math on the SAT. Thankfully, there are
+  some concrete ways anyone can boost their SAT math scores.
+post-description: Even students who perform well in high school math often come up
   short when first encountering the types of math on the SAT. Thankfully, there are
   some concrete ways anyone can boost their SAT math scores.
 ---
