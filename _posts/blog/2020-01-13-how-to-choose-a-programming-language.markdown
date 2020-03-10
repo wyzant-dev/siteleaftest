@@ -9,6 +9,9 @@ tags:
 - Python
 meta-title: How to Choose a Programming Language
 author: Alys Brooks
+sub-headline: While it’s common to learn two or more languages, it’s important to
+  start with the right one - a programming language that’s easy to use, serves your
+  objectives and career goals, and is flexible.
 hero-image: "/blog/uploads/How%20to%20Choose%20a%20Programming%20Language.png"
 meta-description: Whether you're a natural problem solver who’s curious about coding,
   or someone with an idea for a website or app who needs skills to bring your concept
