@@ -8,7 +8,15 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: If your goal is to be fluent in French, you're going to have to make
+  peace with verb conjugations.
 hero-image: "/blog/uploads/French%20Present%20Tense%20Verbs.png"
+meta-description: The most logical place to start is le present, or the French present
+  tense. It's the most commonly used French verb tense, meant to be used to describe
+  facts, current actions, and repeated actions.
+post-description: The most logical place to start is le present, or the French present
+  tense. It's the most commonly used French verb tense, meant to be used to describe
+  facts, current actions, and repeated actions.
 ---
 
 If your goal is to be fluent in French, you're going to have to make peace with verb conjugations. Conjugations are rules about how you say a verb depending on the tense, mood, and subject of a sentence. If you’re an adult native English speaker, you probably spend very little time, if any at all, thinking about English verb conjugations.
