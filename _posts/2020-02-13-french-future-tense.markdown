@@ -8,6 +8,8 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: French has multiple future tenses, and like in English, they’re used
+  when referring to events that haven’t yet occurred.
 hero-image: "/blog/uploads/French%20Future%20Tense-b7e54d.png"
 meta-description: 'Let’s talk about the future! There are three main ways to express
   the future tense in French: futur proche, futur simple, and futur anterieur. Each
