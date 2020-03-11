@@ -6,7 +6,7 @@ author: Lauren Harsh
 hero-image: "/blog/uploads/French%20Expressions%20Everyone%20Should%20Know.png"
 ---
 
-If you know the basics of French grammar, pronunciation, and basic French conversation, you’ve earned a fun topic as a treat! It’s time for French idioms, colloquialisms, and adages (in short, French expressions that may not be covered in classes and are not intuitive to non-native speakers). These fun French phrases will help you understand native speakers better and sound more authentic when you speak. That makes them great additions to your French phrases for travel. 
+If you know the [basics of French grammar](https://www.wyzant.com/blog/french-grammar-basics/), [pronunciation](https://www.wyzant.com/blog/french-pronunciation/), and basic French conversation, you’ve earned a fun topic as a treat! It’s time for French idioms, colloquialisms, and adages (in short, French expressions that may not be covered in classes and are not intuitive to non-native speakers). These fun French phrases will help you understand native speakers better and sound more authentic when you speak. That makes them great additions to your list of [French phrases for travel](https://www.wyzant.com/blog/basic-french-words-phrases/). 
 
 ## French colloquialisms 
 
@@ -164,5 +164,5 @@ Usage: This is a snappy way to say “mind your own business.” Similarly, *c�
  
 ## Further Learning
 
-You are now closer to knowing how to speak French like a local and not like a learner. Try some of these phrases out with a French tutor or conversation partner. 
-In the meantime, it never hurts to review the  past, present, and future tenses.
+You are now closer to knowing how to speak French like a local and not like a learner. Try some of these phrases out with a [French tutor](https://www.wyzant.com/French_tutors.aspx) or conversation partner. 
+In the meantime, it never hurts to review French [past](https://www.wyzant.com/blog/french-past-tense/), [present](https://www.wyzant.com/blog/french-verbs-present-tense/), and [future](https://www.wyzant.com/blog/french-future-tense/) tenses.
