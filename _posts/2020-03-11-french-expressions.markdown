@@ -47,7 +47,7 @@ Literal translation: "To little happiness, luck"
 Usage: The rough English equivalent of this expression is “with a little (bit of) luck” and it is used similarly. 
  
 **Example:** <br />
-*Au petit bonheur la chance, la promotion serait de moi* (with a little luck the promotion will be mine)
+*Au petit bonheur la chance, la promotion serait de moi* (With a little luck the promotion will be mine)
  
 ### Bref
 Literal translation: "Brief"
