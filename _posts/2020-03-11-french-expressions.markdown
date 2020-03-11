@@ -1,7 +1,6 @@
 ---
 title: 26 French Expressions Everyone Should Know
 date: 2020-03-11 09:02:00 -05:00
-published: false
 categories:
 - French
 - Language Learning
