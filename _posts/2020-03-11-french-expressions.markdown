@@ -2,6 +2,7 @@
 title: 26 French Expressions Everyone Should Know
 date: 2020-03-11 09:02:00 -05:00
 published: false
+hero-image: "/blog/uploads/French%20Expressions%20Everyone%20Should%20Know.png"
 ---
 
 If you know the basics of French grammar, pronunciation, and basic French conversation, you’ve earned a fun topic as a treat! It’s time for French idioms, colloquialisms, and adages (in short, French expressions that may not be covered in classes and are not intuitive to non-native speakers). These fun French phrases will help you understand native speakers better and sound more authentic when you speak. That makes them great additions to your French phrases for travel. 
