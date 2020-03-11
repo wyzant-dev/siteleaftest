@@ -101,7 +101,7 @@ Usage: When a francophone is speaking as if their own experiences are universal,
 ### Il (ne) faut pas pousser mémé dans les orties
 Literal translation: You shouldn’t push meemaw in the nettles
  
-Usage: It is unclear what grandmothers and stinging nettles have to do with it, but the phrase roughly means “stop exaggerating” or “stop over-reacting.” The beginning of the expression comes from using *il faut pas pousser* or “you shouldn’t push” to mean “you shouldn’t exaggerate. Some rough English equivalents are “don’t throw the baby out with the bathwater” and “don’t cut off your nose to spite your face. 
+Usage: It is unclear what grandmothers and stinging nettles have to do with it, but the phrase roughly means “stop exaggerating” or “stop over-reacting.” The beginning of the expression comes from using *il faut pas pousser* or “you shouldn’t push” to mean “you shouldn’t exaggerate. Some rough English equivalents are “don’t throw the baby out with the bathwater” and “don’t cut off your nose to spite your face".
  
 ### Mauvais quart d’heure
 Literal translation: bad quarter of an hour
