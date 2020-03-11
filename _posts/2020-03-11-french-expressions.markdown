@@ -22,7 +22,7 @@ Literal translation: Roughly, “by the nose”
 
 Usage: *Pif* is a crude slang word for nose. Doing something by the nose is guessing or estimating. *Au pif* can be used when you would use “about”, “roughly”, or “at random.”
 
-**Examples:**
+**Examples:**<br />
 *Il y a vingt-cinq gens, au pif* (there are about twenty five people)<br />
 *J’ai choisi le repas au pif* (I chose the meal at random)
  
@@ -31,7 +31,7 @@ Literal translation: To little happiness, luck
  
 Usage: The rough English equivalent of this expression is “with a little (bit of) luck” and it is used similarly. 
  
-**Example:** 
+**Example:** <br />
 *Au petit bonheur la chance, la promotion serait de moi* (with a little luck the promotion will be mine)
  
 ### Bref
@@ -39,7 +39,7 @@ Literal translation: Brief
  
 Usage: *Bref* is another filler word. French speakers use it the way English speakers use fillers like “anyway” “basically” “in short” and “in a nutshell”. You may also see *en bref* in writing to introduce a conclusion. 
  
-**Examples:** 
+**Examples:**<br />
 *Bref, tu me comprends?* (Anyway, do you understand me?)<br />
 *Bref, j’ai eu un mauvais jour* (In short, I had a bad day)
  
@@ -58,7 +58,7 @@ Literal translation: Not important what
 
 Usage: *N’importe quoi* has three main uses that are tangentially related to each other. The first is an alternative to “anything.” The second is a dismissive “whatever.” The third signifies “a whole lot of nothing”
  
-**Examples:** 
+**Examples:** <br />
 *Je ferais n’importe quoi pour toi* (I would do anything for you)<br />
 *N’importe quoi, maman!* (Whatever, mom!)<br />
 *Tu as dit que tu as fini le projet, mais tu as fait n’importe quoi!* (You said you finished the project, but you did a whole lot of nothing!)
@@ -68,7 +68,7 @@ Literal translation: when same
 
 Usage: *Quand même* is a filler word used the way English speakers use “all the same”, “in any case”, “anyway”, or “still”, though it is not necessarily a direct equivalent to any of them. 
  
-**Examples:**
+**Examples:**<br />
 *Je t’aime quand même* (I still like you)<br />
 *Quand même, ça c’est Wonderwall* (Anyway, this is Wonderwall)<br />
 *C’était une mauvaise idée quand même* (It was a bad idea anyway)
