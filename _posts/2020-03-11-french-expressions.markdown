@@ -60,12 +60,12 @@ Usage: *Bref* is another filler word. French speakers use it the way English spe
 *Bref, j’ai eu un mauvais jour* (In short, I had a bad day)
  
 ### Connaître la musique
-Literal translation: to know the music
+Literal translation: To know the music
 
 Usage: The English equivalent to this expression is “know the score.” The link makes sense when you consider that the “score” is referring to music, not sports.
  
 ### Mauvaise honte
-Literal translation: bad shame
+Literal translation: Bad shame
  
 Usage: *Mauvaise honte* is not a particularly powerful variety of shame. It is performative modesty or pretending to have a low sense of self-worth. Like when a friend fishes for compliments with self-deprecation. 
  
@@ -80,7 +80,7 @@ Usage: *N’importe quoi* has three main uses that are tangentially related to e
 *Tu as dit que tu as fini le projet, mais tu as fait n’importe quoi!* (You said you finished the project, but you did a whole lot of nothing!)
  
 ### Quand même
-Literal translation: when same
+Literal translation: When same
 
 Usage: *Quand même* is a filler word used the way English speakers use “all the same”, “in any case”, “anyway”, or “still”, though it is not necessarily a direct equivalent to any of them. 
  
@@ -104,7 +104,7 @@ Literal translation: You shouldn’t push meemaw in the nettles
 Usage: It is unclear what grandmothers and stinging nettles have to do with it, but the phrase roughly means “stop exaggerating” or “stop over-reacting.” The beginning of the expression comes from using *il faut pas pousser* or “you shouldn’t push” to mean “you shouldn’t exaggerate. Some rough English equivalents are “don’t throw the baby out with the bathwater” and “don’t cut off your nose to spite your face".
  
 ### Mauvais quart d’heure
-Literal translation: bad quarter of an hour
+Literal translation: Bad quarter of an hour
  
 Usage: You may know the English expression “fifteen minutes of fame.” French has an expression for the opposite of it. Your *mauvais quart d’heure* is a moment in your life when everything seems to be going wrong. But remember that it will pass. 
  
@@ -123,7 +123,7 @@ Usage: *Plus ça change* is a shortened form of *Plus ça change, plus c’est l
 An idiom is a phrase that has an established meaning that is not easy to deduce. Just as someone who did not grow up speaking English would need “it’s raining cats and dogs” or “they’re pushing up daisies” explained to them, a new French speaker would not be prepared to hear *Il pleut comme une vache qui pisse* or *coup de foudre* in conversation. 
  
 ### Avoir un dent contre quelqu’un 
-Literal translation: to have a tooth against someone
+Literal translation: To have a tooth against someone
  
 Usage: When you have a tooth against someone, you have a problem with them or hold a grudge against them. 
  
@@ -138,7 +138,7 @@ Literal translation: It’s as simple as hello
 Usage: *C’est simple comme bonjour* is an equivalent to US English’s “It’s easy as pie.” It signifies that something is second-nature or comes naturally to the speaker. 
  
 ### Coup de foudre
-Literal translation: strike of lightning 
+Literal translation: Strike of lightning 
  
 Usage: This is one of the most classic French phrases about love. Since the late 1700s, *coup de foudre* has idiomatically described love at first sight. Because the French are nothing if not poetic. 
  
@@ -154,12 +154,12 @@ Literal translation: To be in the galley
 Usage: A person who is “in the galley” has gotten themself into a mess. The expression was coined by Molière, the 17th century playwright who is a major figure in the French literary canon.  
  
 ### L’esprit de l’escalier
-Literal translation: staircase spirit
+Literal translation: Staircase spirit
  
 Usage: The staircase spirit describes the feeling you get when you think of a perfect response after the time for it has passed or at the bottom of the metaphorical staircase. The coinage is credited to 18th century philosopher Denis Diderot. 
  
 ### Nostalgie de la boue 
-Literal translation: longing for the mud
+Literal translation: Longing for the mud
  
 Usage: When it was coined by Émile Augier in 1855, "longing for the mud" described desire for the cruel, morbid, or depraved. It later evolved to describe a longing for a simpler life. 
  
