@@ -20,7 +20,7 @@ If you know the [basics of French grammar](https://www.wyzant.com/blog/french-gr
 
 ## French colloquialisms 
 
-Many language learners are all too familiar with dialogue in a textbook, audio lesson, or app that sounds more like a robot than a person. Sprinkle these common French phrases into your conversations so native speakers won’t think you sound like a robot. 
+Many language learners are all too familiar with dialogue in a textbook, audio lesson, or app that sounds more like a computer than a person. Sprinkle these common French phrases into your conversations so native speakers won’t think you sound like a robot. 
 
 ### Ah la vache
 Literal translation: Oh the cow
