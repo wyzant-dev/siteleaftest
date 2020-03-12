@@ -20,6 +20,7 @@ gem "minima"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-tagging'
+  gem 'jekyll-sitemap'
   gem 'octopress-paginate'
 end
 
