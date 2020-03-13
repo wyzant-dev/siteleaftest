@@ -140,6 +140,7 @@ marketing-banner-cta-url: https://startlearning.wyzant.com/rad-subject/
 baseurl:
 url: https://www.wyzant.com
 markdown: kramdown
+exclude: ["Gemfile.lock", "node_modules"]
 plugins:
   - jekyll/tagging
   - octopress-paginate
