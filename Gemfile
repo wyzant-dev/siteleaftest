@@ -23,4 +23,6 @@ group :jekyll_plugins do
   gem 'octopress-paginate'
 end
 
-
+group :development do
+  gem 'siteleaf', '~>2'
+end
