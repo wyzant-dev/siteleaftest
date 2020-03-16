@@ -11,7 +11,7 @@ Whatever your reason for joining the military, the Armed Forces offers significa
 Whether you are enlisting to begin a career in the military or hoping use your experience to find one outside the Armed Forces, you will first need to qualify by passing the Armed Services Vocational Aptitude Battery, commonly known as the ASVAB test.
 
 ## 1. What is the ASVAB?
-The ASVAB test a military aptitude test that serves to both assess the abilities of recruits and place them in the jobs most suitable to those abilities. It’s a requirement if you want to enlist in the Armed Forces, and recruiters will use your scores to predict where you may best fit in the military. 
+The ASVAB is a military aptitude test that serves to both assess the abilities of recruits and place them in the jobs most suitable to those abilities. It’s a requirement if you want to enlist in the Armed Forces, and recruiters will use your scores to predict where you may best fit in the military. 
 
 The test is administered in three different forms, with essentially two different versions, both of which are composed solely of multiple-choice questions.
 
