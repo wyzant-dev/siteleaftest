@@ -145,4 +145,5 @@ exclude:
 - node_modules
 plugins:
 - jekyll/tagging
+- jekyll-sitemap
 - octopress-paginate
