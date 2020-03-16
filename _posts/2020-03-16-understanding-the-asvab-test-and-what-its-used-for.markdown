@@ -10,7 +10,7 @@ Whatever your reason for joining the military, the Armed Forces offers significa
 
 Whether you are enlisting to begin a career in the military or hoping use your experience to find one outside the Armed Forces, you will first need to qualify by passing the Armed Services Vocational Aptitude Battery, commonly known as the ASVAB test.
 
-## 1. What is the ASVAB?
+## What is the ASVAB?
 The ASVAB is a military aptitude test that serves to both assess the abilities of recruits and place them in the jobs most suitable to those abilities. It’s a requirement if you want to enlist in the Armed Forces, and recruiters will use your scores to predict where you may best fit in the military. 
 
 The test is administered in three different forms, with essentially two different versions, both of which are composed solely of multiple-choice questions.
@@ -30,7 +30,7 @@ Computerized Adaptive Testing means that if the correct answer is chosen, the ne
 
 If you are running out of time on the CAT-ASVAB, it is best to skip questions you aren’t sure of or can’t get to, as there’s a penalty for guessing. With the P&P test, there is no such penalty, so you want to make sure you answer every question—even if that means filling in random guesses.
 
-## 2. What material does the ASVAB cover?
+## What material does the ASVAB cover?
 The two versions of the ASVAB essentially cover the same material, although there are a few differences. While there are 10 subtests on the CAT-ASVAB, the other forms of the test have eight ASVAB sections.
 
 ### SUBTEST 1: General Science
@@ -62,7 +62,7 @@ The Mechanical Comprehension subtest assesses your knowledge of the principles o
 ### SUBTEST 10 (on CAT-ASVAB only): Assembling Objects
 This subtest is typically used to see if a person would be a good fit for mechanical, electronic, or similarly skilled jobs. Its purpose is to assess your ability to visualize three-dimensional objects that have been broken down into their component pieces. Using a drawing of a disassembled object and four pictures, you are to choose the picture that depicts what the object should look like when it is properly assembled. 
 
-## 3. What do my ASVAB scores mean and how are they used?
+## What do my ASVAB scores mean and how are they used?
 The score that matters most when you’re enlisting is the Armed Forces Qualifying Test (AFQT) score.  Your AFQT score is based upon the four subtests covering language arts and mathematics: Paragraph Comprehension, Word Knowledge, Arithmetic Reasoning, and Mathematics Knowledge. Each branch of the military has its own minimum [AFQT](https://www.wyzant.com/AFOQT_tutors.aspx) score required to enlist. Note that if you have a GED instead of a high school diploma, your required minimum score will be significantly higher. Here’s how to read ASVAB scores: your raw score is the converted into a percentile score, which tells you what percent of test-takers you scored better than. Here are the ASVAB requirements for each of the six branches of the U.S. military:
 
 | Military Branch 	| Required AFQT Score 	| Min. w/ GED 	|
@@ -78,14 +78,14 @@ If you have met the minimum AFQT requirement, your ASVAB scores will be used to 
 
 Keep in mind that you must meet the AFQT minimum before the recruiter will even consider the rest of your ASVAB scores. If you don’t score well enough on Paragraph Comprehension, Word Knowledge, Arithmetic Reasoning, and Mathematics Knowledge, you won’t be able to enlist.
 
-## 4. How do I take the ASVAB?
+## How do I take the ASVAB?
 The first step is to contact a [military recruiter](https://www.todaysmilitary.com/). Once your recruiter determines that you are otherwise qualified, he or she will set up a time for you to take the ASVAB at the nearest MET site or at the closest MEPS. 
 
 You are allowed to retake the test if your AFTQ score is below the minimum, but you must wait 30 days after taking the ASVAB the first time. If you don’t clear the minimum the second time around, you can take it again in another 30 days. After that, however, you will have to wait six months to take it again. Scores remain on a potential enlistee’s record for two years.
 
 If you surpass the minimum AFQT score and think you could have done better, you will need to appeal to your recruiter, as retakes are generally not permitted for the sole purpose of improving your ASVAB score. Some branches allow retesting if something unusual happens during the test, and the Navy permits retesting if there is evidence of improvement in education or language ability, or if the test-taker desires to qualify for a specific job. In such situations, though, your recruiter has the ultimate authority to determine if a retest should be allowed. 
 
-## 5. How can I prepare most effectively for the ASVAB?
+## How can I prepare most effectively for the ASVAB?
 Because of the wide range of subject matter on the ASVAB, every student should prep for the test to some degree. There is a host of good ASVAB test prep sources out there, both in print and online. One nice feature to look for is ready-made flash cards, which are sold either by themselves or as part of a prep book. Make sure you include prep sources that include ASVAB practice tests. Remember that no matter how much you work on being familiar with content, the most important element of your preparation will be working on those practice tests.
 
 Since the AFQT score is the one that qualifies you to enlist in the military, you would certainly benefit from the guidance of an expert tutor who can get you ready for the Paragraph Comprehension, Word Knowledge, Arithmetic Reasoning, and Mathematics Knowledge sections. Since the ASVAB is a fully multiple-choice test, strong test-taking skills are of utmost importance. Having access to a tutor will give you the edge you need by teaching you the necessary content and strategies to pass the ASVAB and qualify for the Armed Forces. 
