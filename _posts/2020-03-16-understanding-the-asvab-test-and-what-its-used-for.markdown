@@ -35,7 +35,7 @@ The two versions of the ASVAB essentially cover the same material, although ther
 This section is designed to test topics from courses taught in most high schools: life science, earth and space science, and physical science. You will see questions covering botany, zoology, anatomy, physiology, and ecology, as well as items dealing with force and motion mechanics, energy, fluids, atomic structure, and chemistry.
 
 ### SUBTEST 2: Arithmetic Reasoning
-The Arithmetic Reasoning subtest helps to both characterize your mathematics comprehension and assess logical thinking. It measures your ability to solve basic arithmetic problems encountered in everyday life. This section is loaded with word problems, so if you’re like the many students who dislike such problems, you should seek out an ASVAB tutor to help with your preparation.
+The Arithmetic Reasoning subtest helps to both characterize your mathematics comprehension and assess logical thinking. It measures your ability to solve basic arithmetic problems encountered in everyday life. This section is loaded with word problems, so if you’re like the many students who dislike such problems, you should seek out an [ASVAB tutor](https://www.wyzant.com/ASVAB_tutors.aspx) to help with your preparation.
 
 ### SUBTEST 3: Word Knowledge
 No surprises here—this section tests your knowledge of words. Some questions simply check your vocabulary by asking what words mean, while others provide the context of a sentence. Both versions of the ASVAB give you 30 seconds or less to complete each question. 
@@ -77,7 +77,7 @@ If you have met the minimum AFQT requirement, your ASVAB scores will be used to 
 Keep in mind that you must meet the AFQT minimum before the recruiter will even consider the rest of your ASVAB scores. If you don’t score well enough on Paragraph Comprehension, Word Knowledge, Arithmetic Reasoning, and Mathematics Knowledge, you won’t be able to enlist.
 
 ## 4. How do I take the ASVAB?
-The first step is to contact a military recruiter. Once your recruiter determines that you are otherwise qualified, he or she will set up a time for you to take the ASVAB at the nearest MET site or at the closest MEPS. 
+The first step is to contact a [military recruiter](https://www.todaysmilitary.com/). Once your recruiter determines that you are otherwise qualified, he or she will set up a time for you to take the ASVAB at the nearest MET site or at the closest MEPS. 
 
 You are allowed to retake the test if your AFTQ score is below the minimum, but you must wait 30 days after taking the ASVAB the first time. If you don’t clear the minimum the second time around, you can take it again in another 30 days. After that, however, you will have to wait six months to take it again. Scores remain on a potential enlistee’s record for two years.
 
