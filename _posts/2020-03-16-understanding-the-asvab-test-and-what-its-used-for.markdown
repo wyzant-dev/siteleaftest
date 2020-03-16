@@ -49,7 +49,7 @@ In a style similar to the SAT and ACT, this section presents passages to read an
 The Mathematics Knowledge subtest is designed to assess your ability to solve problems by applying your knowledge of mathematical concepts and applications. Basically, it’s seeing how much you can recall and apply from high school math. This section covers topics up through Geometry and Algebra 2 courses, but it also includes some probability and statistics material. 
 
 ### SUBTEST 6: Electronics Information
-Electronics Information tests your understanding of electrical current, circuits, devices, and systems. This is an area most applicants are not familiar with, so prior preparation is critical. 
+Electronics Information tests your understanding of electrical current, circuits, devices, and systems. This is an area most applicants are not familiar with, so [prior preparation](https://www.wyzant.com/electrical_engineering_tutors.aspx) is critical. 
 
 ### SUBTEST 7: Auto & Shop Information
 This particular section measures your aptitude for automotive maintenance and repair and wood and metal shop practices. If you have taken such an industrial arts course in high school or at a vocational-technical school, then you have a head start in these areas. For most people, significant time is required in order to become familiar with the material. 
