@@ -65,14 +65,14 @@ This subtest is typically used to see if a person would be a good fit for mechan
 ## What do my ASVAB scores mean and how are they used?
 The score that matters most when you’re enlisting is the Armed Forces Qualifying Test (AFQT) score.  Your AFQT score is based upon the four subtests covering language arts and mathematics: Paragraph Comprehension, Word Knowledge, Arithmetic Reasoning, and Mathematics Knowledge. Each branch of the military has its own minimum [AFQT](https://www.wyzant.com/AFOQT_tutors.aspx) score required to enlist. Note that if you have a GED instead of a high school diploma, your required minimum score will be significantly higher. Here’s how to read ASVAB scores: your raw score is the converted into a percentile score, which tells you what percent of test-takers you scored better than. Here are the ASVAB requirements for each of the six branches of the U.S. military:
 
-| Military Branch | 	| Required AFQT Score | 	| Min. w/ GED 	|
-|:-----------------:	|:---------------------:	|-------------	|
-|     Air Force     	|           36          	|      65     	|
-|        Army       	|           31          	|      50     	|
-|    Coast Guard    	|           40          	|      50     	|
-|      Marines      	|           32          	|      50     	|
-|   National Guard  	|           31          	|      50     	|
-|        Navy       	| 35                    	| 50          	|
+| Military Branch 	| Req. AFQT Score 	| Min. w/GED 	|
+|:---------------:	|:---------------:	|------------	|
+|    Air Force    	|        36       	|     65     	|
+|       Army      	|        31       	|     50     	|
+|   Coast Guard   	|        40       	|     50     	|
+|     Marines     	|        32       	|     50     	|
+|  National Guard 	|        31       	|     50     	|
+|       Navy      	|        35       	|     50     	|
 
 If you have met the minimum AFQT requirement, your ASVAB scores will be used to measure your academic achievement, assess your ability to learn through future training, and determine specific job qualifications. Your Academic Ability Composite score indicates your potential for further education based upon your capacity for verbal and mathematical activities. Composite scores from various subtests are used to create your Military Careers score, which helps recruits determine their chances of qualifying for various occupations within the Armed Forces. You can find lots of information on www.military.com about career paths based on Military Careers scores. 
 
