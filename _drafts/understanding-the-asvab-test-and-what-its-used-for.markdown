@@ -1,7 +1,6 @@
 ---
 title: Understanding the ASVAB Test and What It's Used For
 date: 2020-03-16 09:09:00 -05:00
-published: false
 categories:
 - ASVAB
 - Test Prep
