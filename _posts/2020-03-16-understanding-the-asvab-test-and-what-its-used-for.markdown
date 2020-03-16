@@ -2,6 +2,14 @@
 title: Understanding the ASVAB Test and What It's Used For
 date: 2020-03-16 09:09:00 -05:00
 published: false
+author: Jonathan Reidenouer
+sub-headline: The ASVAB assesses the abilities of recruits and place them in the jobs
+  most suitable to those abilities.
+hero-image: "/blog/uploads/Understanding%20the%20ASVAB%20Test.png"
+meta-description: 'It’s a requirement if you want to enlist in the Armed Forces, and
+  recruiters will use your ASVAB scores to predict where you may best fit in the military. '
+post-description: 'It’s a requirement if you want to enlist in the Armed Forces, and
+  recruiters will use your ASVAB scores to predict where you may best fit in the military. '
 ---
 
 Since the United States moved to an all-volunteer military in 1973, the Armed Forces have become established as popular destinations for young adults looking to find direction in their lives. Maybe you are in high school and don’t feel that college is right you, or perhaps you never graduated from high school and are looking to break out of your current situation. Or you may be a young adult who feels stuck and needs a way to reset your life. Of course, you may also be one of the thousands who have planned from the start to make the Armed Forces your permanent occupation.
