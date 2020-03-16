@@ -2,6 +2,12 @@
 title: Understanding the ASVAB Test and What It's Used For
 date: 2020-03-16 09:09:00 -05:00
 published: false
+categories:
+- ASVAB
+- Test Prep
+tags:
+- ASVAB
+- Test Prep
 author: Jonathan Reidenouer
 sub-headline: The ASVAB assesses the abilities of recruits and place them in the jobs
   most suitable to those abilities.
