@@ -57,7 +57,7 @@ This particular section measures your aptitude for automotive maintenance and re
 NOTE: On the CAT-ASVAB, this material is split into separate sections (7 and 8), one for automotive knowledge and one for wood and metal shop knowledge.
 
 ### SUBTEST 8 (9 on the CAT-ASVAB): Mechanical Comprehension
-The Mechanical Comprehension subtest assesses your knowledge of the principles of mechanical devices, structural support, and properties of materials. Much like the material in the previous two sections, this is an area many applicants are unfamiliar with. 
+The Mechanical Comprehension subtest assesses your knowledge of the principles of mechanical devices, structural support, and properties of materials. Much like the material in the previous two sections, this is an area many applicants are unfamiliar with. A [mechanical engineering tutor](https://www.wyzant.com/mechanical_engineering_tutors.aspx) can help fill in knowledge gaps.
 
 ### SUBTEST 10 (on CAT-ASVAB only): Assembling Objects
 This subtest is typically used to see if a person would be a good fit for mechanical, electronic, or similarly skilled jobs. Its purpose is to assess your ability to visualize three-dimensional objects that have been broken down into their component pieces. Using a drawing of a disassembled object and four pictures, you are to choose the picture that depicts what the object should look like when it is properly assembled. 
