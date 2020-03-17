@@ -1,7 +1,6 @@
 ---
 title: Wyzant COVID-19 Response and Student Guidance
 date: 2020-03-17 08:56:00 -05:00
-published: false
 sub-headline: 'With current CDC recommendations on social distancing, we highly recommend
   online lessons as a safe and effective teaching method. '
 hero-image: "/blog/uploads/Wyzant%20Online%20Tutoring.png"
