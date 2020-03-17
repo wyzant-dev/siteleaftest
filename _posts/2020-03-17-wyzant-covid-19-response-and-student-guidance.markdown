@@ -19,4 +19,6 @@ With current CDC recommendations on social distancing, **we highly recommend onl
 
 We also urge you to be proactive in coordinating with your tutor over the next few weeks regarding availability and logistics of lessons.
 
-At Wyzant HQ in Chicago, we have made the decision to close our office and work from home for the health and well-being of our employees. Fortunately, we are well-equipped for this transition, and you can expect the same high level of service and responsiveness from our team as always during this challenging time. We remain committed to helping tutors and students succeed.
+At Wyzant HQ in Chicago, we have made the decision to close our office and work from home for the health and well-being of our employees. Fortunately, we are well-equipped for this transition, and you can expect the same high level of service and responsiveness from our team as always during this challenging time. We remain committed to helping tutors and students succeed. 
+
+Thank you for your cooperation and flexibility. Most importantly, we want you and yours to remain healthy and safe. Please [contact Wyzant for support](https://support.wyzant.com/hc/en-us/articles/115005841543-Contact-Us) if you have any concerns we can help address.
