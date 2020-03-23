@@ -14,9 +14,9 @@ So much for that.
 
 Nevertheless, though Keynes’s numbers might have been off, he was certainly correct in assuming that technology would drastically change the nature of work.  One accelerating trend on this front is remote work, made possible by videoconferencing, high speed internet, and the cloud.
 
-Due to recent events, many businesses and schools have had to adopt work from home (WFH) policies for their employees and students rather suddenly.  If you find yourself in this boat, here are a few tips on how to work from home as efficiently as possible!
+Due to recent events, many businesses and schools have had to adopt work from home (WFH) policies for their employees and students rather suddenly.  If you find yourself in this boat, here are a few tips on how to work from home as efficiently as possible.
 
-## How to Stay Motivated: Write down Tomorrow’s Agenda Tonight
+## Write down Tomorrow’s Agenda Tonight
 
 Work begins at the office when you stroll through the door in the morning.  At home, however, there is no such official action to kick off the day, and your start time has a way of getting blurry.  For instance, you might spend a few hours scarfing down breakfast, like some sort of Roman emperor.  When you finally clear your platters of food, it’s time to feed the cats--which prompts you to read a few wikipedia articles about feline evolution (there goes another half hour).
 
