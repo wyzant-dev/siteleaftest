@@ -16,13 +16,13 @@ Nevertheless, though Keynes’s numbers might have been off, he was certainly co
 
 Due to recent events, many businesses and schools have had to adopt work from home (WFH) policies for their employees and students rather suddenly.  If you find yourself in this boat, here are a few tips on how to work from home as efficiently as possible.
 
-## Write down Tomorrow’s Agenda Tonight
+## Write down tomorrow’s agenda tonight
 
 Work begins at the office when you stroll through the door in the morning.  At home, however, there is no such official action to kick off the day, and your start time has a way of getting blurry.  For instance, you might spend a few hours scarfing down breakfast, like some sort of Roman emperor.  When you finally clear your platters of food, it’s time to feed the cats...which prompts you to read a few Wikipedia articles about feline evolution (there goes another half hour).
 
 To avoid this situation, you want to have your schedule locked in from the moment you wake up, which means planning the day before you go to sleep.  Most importantly, write your agenda down.  Ideally, the very first item on your to-do list should involve another person (e.g a phone or video call).  Creating a schedule will force you to show up on time!
 
-## Talkin’ Tech
+## Talkin’ tech
 
 As you settle into your new working arrangement, you might find that your current technology at home is not up to snuff for remote work.  
 
@@ -38,7 +38,7 @@ You can get creative in how you do this.  If you have the ability, you might con
 
 The more distinct the boundary, the better.  The goal here is to physically separate the stresses of a job from the rest of your life while you work from home online.  It’s tempting to answer work emails while snuggling with the cats in bed, or field personal text messages while sitting in your new work-from-home space, but those should be avoided if possible. After all, you wouldn’t want to see the president walking through the West Wing in pajamas.
 
-## Treat Yourself!
+## Treat yourself!
 
 Many offices have amenities and distractions for blowing off steam: a ping-pong table, a massage chair, or even an office pet (though they still won’t let you bring in the cats).
 
@@ -62,7 +62,7 @@ All important questions to address up front.
 
 No matter what your living situation, you'll find a way to make it work. Having a teammate in the work-from-home process can help immensely.
 
-## Keep the Usual Lines of Communication Open
+## Keep the usual lines of communication open
  
 The natural back and forth that takes place in an office may seem pointless at times.  It’s easy to dismiss Karl and Dave’s *Monty Python* impressions as idle chit chat.  But this sort of low-stakes banter allows team members to check in with each other emotionally and reinforces cohesion.  When the whole office is using purely online communication, this can get lost.
 
@@ -70,7 +70,7 @@ To maintain a sense of community, it’s a good idea to schedule daily virtual h
 
 Thus, scheduling video calls (one-on-one or as a group) will boost morale and simulate the natural conversations that arise in the office.  Plus, you’ll finally get a chance to introduce your co-workers to the cats!
 
-## Explore New Philosophies of Time Management
+## Explore new philosophies of time management
 
 By necessity, offices follow a communal schedule.  Most workplaces set their start times between 8am and 10am, provide an hour for lunch, and close sometime from 6pm to 8pm.  Do these hours align perfectly with the circadian rhythms of every human being?  Of course not!  In fact, for a large share of the population, working “business hours” feels completely unnatural.
 
