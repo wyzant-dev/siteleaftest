@@ -1,11 +1,12 @@
 ---
 title: Time Management Strategies for Working from Home
 date: 2020-03-23 08:08:00 -05:00
-published: false
 categories:
 - Study Skills
+- Professional Development
 tags:
 - Study Skills
+- Professional Development
 author: Andrew Colford
 hero-image: "/blog/uploads/Time%20Management%20Strategies%20for%20Working%20from%20Home.png"
 ---
