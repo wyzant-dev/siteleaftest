@@ -6,6 +6,7 @@ categories:
 - Study Skills
 tags:
 - Study Skills
+hero-image: "/blog/uploads/Time%20Management%20Strategies%20for%20Working%20from%20Home.png"
 ---
 
 In 1930, the prominent economist [John Maynard Keynes](https://www.econlib.org/library/Enc/bios/Keynes.html) predicted that workers at the end of the 20th century could expect to clock only 15 hours a week, thanks to advances in technology.
