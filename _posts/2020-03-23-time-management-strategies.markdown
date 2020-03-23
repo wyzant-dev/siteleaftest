@@ -8,7 +8,17 @@ tags:
 - Study Skills
 - Professional Development
 author: Andrew Colford
+sub-headline: What seems like a frustrating setback now might turn into an exciting
+  new chapter for your work and life.
 hero-image: "/blog/uploads/Time%20Management%20Strategies%20for%20Working%20from%20Home.png"
+meta-description: Due to recent events, many businesses and schools have had to adopt
+  work from home (WFH) policies for their employees and students rather suddenly.  If
+  you find yourself in this boat, here are a few tips on how to work from home as
+  efficiently as possible.
+post-description: Due to recent events, many businesses and schools have had to adopt
+  work from home (WFH) policies for their employees and students rather suddenly.  If
+  you find yourself in this boat, here are a few tips on how to work from home as
+  efficiently as possible.
 ---
 
 In 1930, the prominent economist [John Maynard Keynes](https://www.econlib.org/library/Enc/bios/Keynes.html) predicted that workers at the end of the 20th century could expect to clock only 15 hours a week, thanks to advances in technology.
