@@ -32,7 +32,7 @@ Once your internet is all set, you’ll want to see if you require any additiona
 
 ## The Residence vs. The Oval Office
 
-When setting up your working arrangements, you might model them after those from the ultimate WFH job--the American presidency.  The White House is divided into “The Residence,” where the president lives with his or her family, and the executive area, with rooms like the Oval Office.  While you might not have a bowling alley in your home, it’s helpful to create a bright line between “work space” and “life space.”
+When setting up your working arrangements, you might model them after those from the ultimate WFH job: the American presidency.  The White House is divided into “The Residence,” where the president lives with his or her family, and the executive area, with rooms like the Oval Office.  While you might not have a bowling alley in your home, it’s helpful to create a bright line between “work space” and “life space.”
 
 You can get creative in how you do this.  If you have the ability, you might consider painting the walls in your work area a different color.  Office décor and materials (stapler, rolls of tape, etc.) will really get you into work mode.
 
