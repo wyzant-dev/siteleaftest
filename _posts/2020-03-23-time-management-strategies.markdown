@@ -18,9 +18,9 @@ Due to recent events, many businesses and schools have had to adopt work from ho
 
 ## Write down Tomorrow’s Agenda Tonight
 
-Work begins at the office when you stroll through the door in the morning.  At home, however, there is no such official action to kick off the day, and your start time has a way of getting blurry.  For instance, you might spend a few hours scarfing down breakfast, like some sort of Roman emperor.  When you finally clear your platters of food, it’s time to feed the cats--which prompts you to read a few wikipedia articles about feline evolution (there goes another half hour).
+Work begins at the office when you stroll through the door in the morning.  At home, however, there is no such official action to kick off the day, and your start time has a way of getting blurry.  For instance, you might spend a few hours scarfing down breakfast, like some sort of Roman emperor.  When you finally clear your platters of food, it’s time to feed the cats...which prompts you to read a few Wikipedia articles about feline evolution (there goes another half hour).
 
-To avoid this situation, you want to have your schedule locked in from the moment you wake up....which means planning the day before you go to sleep.  Most importantly, write the agenda down.  Ideally, the very first item on your to-do list should involve another person (e.g a phone or video call).  Creating a schedule will force you to show up on time!
+To avoid this situation, you want to have your schedule locked in from the moment you wake up, which means planning the day before you go to sleep.  Most importantly, write your agenda down.  Ideally, the very first item on your to-do list should involve another person (e.g a phone or video call).  Creating a schedule will force you to show up on time!
 
 ## Talkin’ Tech
 
