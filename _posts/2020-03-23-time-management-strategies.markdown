@@ -6,6 +6,7 @@ categories:
 - Study Skills
 tags:
 - Study Skills
+author: Andrew Colford
 hero-image: "/blog/uploads/Time%20Management%20Strategies%20for%20Working%20from%20Home.png"
 ---
 
