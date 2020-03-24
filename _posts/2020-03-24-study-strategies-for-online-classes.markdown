@@ -2,9 +2,16 @@
 title: 11 Smart Study Strategies for Online Classes
 date: 2020-03-24 10:09:00 -05:00
 published: false
+categories:
+- Study Skills
+- Online Learning
+tags:
+- Study Skills
+- Online Learning
 author: Jacqueline Zote
 sub-headline: When you're not sitting in a physical classroom, it’s all the more important
   to adopt smart study strategies that will help you keep up with your goals.
+hero-image: "/blog/uploads/11%20Smart%20Study%20Strategies%20for%20Online%20Classes.png"
 meta-description: The online learning landscape may be challenging to navigate, especially
   if you’re new to it. Check out these essential study strategies to maintain good
   study habits and strengthen your efforts for learning at home.
