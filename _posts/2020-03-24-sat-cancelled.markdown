@@ -2,6 +2,7 @@
 title: 'SAT Cancelled: Now What?'
 date: 2020-03-24 07:52:00 -05:00
 published: false
+author: Jonathan Reidenouer
 ---
 
 If you’re like everyone else in the United States right now, you likely asking the question, “What is going on out there?!”
