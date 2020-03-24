@@ -24,7 +24,7 @@ On March 14, most students were unable to take the SAT, as testing locations—b
 ## What about the SAT?
 In response to the continually evolving circumstances surrounding COVID-19, the College Board has announced that both the May 2 SAT and SAT Subject Tests and the makeup exams for the March tests (scheduled for March 28) [have been cancelled](https://pages.collegeboard.org/natural-disasters). 
 
-When is the SAT? As of right now, the College Board is still planning on administering the June 6 SAT and SAT Subject Test Students. An additional international SAT administration later this school year is also being considered. The College Board will share additional information and details directly with registered students and test centers as the situation continues to develop.
+So...when is the SAT? As of right now, the College Board is still planning on administering the June 6 SAT and SAT Subject Test Students. An additional international SAT administration later this school year is also being considered. The College Board will share additional information and details directly with registered students and test centers as the situation continues to develop.
 
 For those who had already registered for the May SAT or whose test centers were closed for the March test, you most likely have questions about those registration fees. Well, the College Board has announced that not only will those who were unable to take the March or May SAT get their money back, but anyone who took the March test but didn’t receive their scores or who do not receive March scores because of any irregularities will receive refunds as well.
 
