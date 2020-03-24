@@ -47,12 +47,13 @@ If you’re like most students, you are especially in need of help with [SAT Mat
 ## What about AP tests and the ACT?
 In addition to being the maker of the SAT, the College Board also administers the AP exams. With the understanding of the unexpected challenges posed by the coronavirus protocols, the College Board is developing a new at-home testing option. For only the 2019-20 AP exams, there will be two different testing dates for each subject so that all students will be accommodated: some students may want to take the exam sooner rather than later, while the content is still fresh, while other students may want more time to practice. The College Board is committed to making sure every student who wants to take the AP exams will be able to do so:
 
-Secure 45-minute online free-response exams are being developed for each course.
-The content of each exam will focus on what most schools were able to complete before they were closed in March.
+* Secure 45-minute online free-response exams are being developed for each course.
 
-Exams can be taken on any device you have access to—computer, tablet, or smartphone. You’ll even have the option of writing your responses by hand and submitting photos of your work.
+* The content of each exam will focus on what most schools were able to complete before they were closed in March.
 
-To accommodate students who may not have access to the internet or a device, the College Board is working on solutions to help them get what they need to show their best work. If you or anyone you know needs mobile tools or connectivity, just contact the College Board directly and they will be more than happy to help.
+* Exams can be taken on any device you have access to—computer, tablet, or smartphone. You’ll even have the option of writing your responses by hand and submitting photos of your work.
+
+* To accommodate students who may not have access to the internet or a device, the College Board is working on solutions to help them get what they need to show their best work. If you or anyone you know needs mobile tools or connectivity, just contact the College Board directly and they will be more than happy to help.
 In case you’re wondering, the AP exams will be secure. The College Board is using a number of digital security tools, including plagiarism detection software, to ensure that the tests are fairly administered and that the results are legitimate. All the testing information, including the full exam schedule and free-response question types that will be on each AP Exam, will be available by April 3.
 
 If you’re one of the many students who were planning to take the ACT test in April, it should come as no surprise that it has also been canceled. All students registered for the April 4 test date will receive an email from ACT providing instructions for free rescheduling to a future ACT national test date. If you can’t or don’t wish to reschedule, you will receive a refund of your April registration fee. The next national ACT test dates are June 13 and July 18, while the next international test dates are June 12-13 and July 17-18. The folks at ACT are adamant in their commitment to the safety of students and test center staff as their top priority.
