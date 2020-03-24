@@ -13,7 +13,7 @@ No matter what your child’s classes look like now, establishing a routine is i
 
 ### Write up a basic guideline of how your day will look
 
-Start and end the day at the same time, work on material in the same subjects at the same time of the day, each day. Schedule meals and other breaks at the same times. This gives the day predictability and holds you and your at-home student accountable. But it is also important to be flexible so a lesson or activity taking more time that you planned doesn’t throw everyone's entire day into chaos.
+Start and end the day at the same time, and work on material in the same subjects at the same time of the day, each day. Schedule meals and other breaks at the same times. This gives the day predictability and holds you and your at-home student accountable. But it is also important to be flexible so a lesson or activity taking more time that you planned doesn’t throw everyone's entire day into chaos.
 
 ### Plan time for subjects
 Much in the same way that subjects are divided throughout the day while your kids are in the classroom, create a plan that includes all the subjects your student is learning. Decide how much time to allot per subject based on what time you and your kids are most alert, and (of course) devote more time for subjects that need a boost. 
