@@ -31,8 +31,6 @@ When you're ready to chat with a [potential online tutor](https://www.wyzant.com
 
 ## Take a virtual field trip
 
-Virtual Field Trips
-
 Field trips are kid favorites. They’re indispensable experiences that get students out into the world, exploring new things and discovering new interests. Trips to museums, zoos, parks, historical sites, and other perennial favorites illustrate to students that learning isn’t just for the classroom, and is happening everywhere, all the time. The things students discover on field trips put classroom content into context, inspire questions, and fuel a desire for learning.
 
 Just because everything is closed doesn’t mean you can’t go on a field trip. You can visit many locations of cultural, historic, and natural importance by virtual tour! The number of places offering these tours has increased due to the recent closings of public places, as artists, musicians, cultural icons, and scientists rush to make content that helps kids who are learning at home. Virtual field trips unlock the ability for parents-turned-teachers to take their students to incredible places, and help them learn amazing things, without the need to leave the house. 
