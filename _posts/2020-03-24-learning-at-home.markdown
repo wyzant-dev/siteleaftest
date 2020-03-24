@@ -23,7 +23,7 @@ Even if your kids can't play outside with other kids, they still need some time 
 
 Remember: you need a breather, too! This cannot be stressed enough: take plenty of breaks. Balance is important any time, but especially during a change in routine. 
 
-## How a Tutor Can Help
+## Get a tutor's help
 
 Getting a tutor when your child is struggling academically, or just needs some outside support, is a good idea even in "normal" academic times. When school is on hold, it can make an even bigger difference. Private tutoring benefits your child by giving them one-on-one instruction from an expert, structure in their week, and accountability for their learning. It also takes the burden off your shoulders (and your child’s exasperated teachers) so you can manage your own routine. 
 
