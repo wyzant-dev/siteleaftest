@@ -2,8 +2,15 @@
 title: Tips and Online Resources for Learning at Home
 date: 2020-03-24 12:14:00 -05:00
 published: false
+categories:
+- Study Skills
+- Online Learning
+tags:
+- Study Skills
+- Online Learning
 author: Lauren Harsh
 sub-headline: Getting started as an at-home educator is daunting, but doable.
+hero-image: "/blog/uploads/Tips%20and%20Online%20Resources%20for%20Learning%20at%20Home.png"
 meta-description: 'Experts in learning at home are mobilized all over the web to provide
   resources for parents in this troubling time. Many educational sites that normally
   charge for membership are waiving their fees for the duration of school closures.
