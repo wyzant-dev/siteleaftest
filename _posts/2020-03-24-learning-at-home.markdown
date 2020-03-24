@@ -9,7 +9,7 @@ Recent events have put students, teachers, and parents in [new territory](https:
 
 ## Create an at-home school schedule
 
-No matter what your child’s classes look like now, establishing a routine is important for learning at home. Homeschooling parents have tons of advice on how to make (and maintain) a daily schedule for children of all ages who are home all day, actively engaged in their education. Though there is no one-size-fits-all plan, many seem to be in agreement about a few main points: 
+No matter what your child’s classes look like now, establishing a routine is important for learning at home. Start with making a daily schedule for children of all ages who are home all day, that keeps them actively engaged in their education. Though there is no one-size-fits-all plan, here are some guidelines: 
 
 ### Write up a basic guideline of how your day will look
 
