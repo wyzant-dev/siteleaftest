@@ -19,7 +19,7 @@ post-description: The online learning landscape may be challenging to navigate, 
   study habits and strengthen your efforts for learning at home.
 ---
 
-With the need for social distancing and cities in lockdown due to the coronavirus pandemic, many schools and colleges are moving their classes online. This is still better than cancelled classes because you have a chance of completing your courses on time. The problem is that learning at home presents its own set of problems, which might be challenging to overcome without a little help.
+With the need for [social distancing](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/) and cities in lockdown due to the coronavirus pandemic, many schools and colleges are moving their classes online. This is still better than cancelled classes because you have a chance of completing your courses on time. The problem is that learning at home presents its own set of problems, which might be challenging to overcome without a little help.
 
 The online studying landscape may be challenging to navigate, especially if you’re new to it. You may find it difficult to maintain focus and you may easily get distracted by activities inside the house or even by social media. Since you’re no longer sitting in a physical classroom, it’s all the more important to adopt smart study strategies that will help you keep up with your lessons.
 
