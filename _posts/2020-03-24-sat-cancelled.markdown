@@ -22,7 +22,7 @@ With less than three months before the end of the school year, everyone involved
 On March 14, most students were unable to take the SAT, as testing locations—both nationally and internationally—chose to shut down and not administer the exam. Shortly after, The [College Board](https://www.collegeboard.org/) announced that the May 2 SAT was canceled. The vast majority high school juniors rely on the March and May SAT test dates in order to get their SAT scores in before final exams and summer vacation, but now both those have been eliminated for the bulk of test-takers. 
 
 ## What about the SAT?
-In response to the continually evolving circumstances surrounding COVID-19, the College Board has announced that both the May 2 SAT and SAT Subject Tests and the makeup exams for the March tests (scheduled for March 28) have been canceled. 
+In response to the continually evolving circumstances surrounding COVID-19, the College Board has announced that both the May 2 SAT and SAT Subject Tests and the makeup exams for the March tests (scheduled for March 28) [have been cancelled](https://pages.collegeboard.org/natural-disasters). 
 
 When is the SAT? As of right now, the College Board is still planning on administering the June 6 SAT and SAT Subject Test Students. An additional international SAT administration later this school year is also being considered. The College Board will share additional information and details directly with registered students and test centers as the situation continues to develop.
 
