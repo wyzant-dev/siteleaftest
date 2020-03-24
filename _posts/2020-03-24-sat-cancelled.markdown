@@ -1,7 +1,6 @@
 ---
 title: 'SAT Cancelled: Now What?'
 date: 2020-03-24 07:52:00 -05:00
-published: false
 categories:
 - SAT
 - Test Prep
