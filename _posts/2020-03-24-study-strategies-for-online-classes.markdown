@@ -1,7 +1,6 @@
 ---
 title: 11 Smart Study Strategies for Online Classes
 date: 2020-03-24 10:09:00 -05:00
-published: false
 categories:
 - Study Skills
 - Online Learning
