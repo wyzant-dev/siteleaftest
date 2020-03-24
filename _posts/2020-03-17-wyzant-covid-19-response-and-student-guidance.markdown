@@ -24,7 +24,7 @@ Thank you for your cooperation and flexibility. Most importantly, we want you an
 
 ### Additional resources
 
-[11 Smart Study Strategies for Online Classes](https://www.wyzant.com/blog/study-strategies-for-online-classes/)
-[SAT Cancelled: Now What? ](https://www.wyzant.com/blog/sat-cancelled/)
-[Time Management Strategies for Working from Home](https://www.wyzant.com/blog/time-management-strategies/)
-[34 Tutor Interview Questions to Help You Find the Perfect Match](https://www.wyzant.com/blog/questions-to-ask-tutors/)
+[11 Smart Study Strategies for Online Classes](https://www.wyzant.com/blog/study-strategies-for-online-classes/)<br />
+[SAT Cancelled: Now What? ](https://www.wyzant.com/blog/sat-cancelled/)<br />
+[Time Management Strategies for Working from Home](https://www.wyzant.com/blog/time-management-strategies/)<br />
+[34 Tutor Interview Questions to Help You Find the Perfect Match](https://www.wyzant.com/blog/questions-to-ask-tutors/)<br />
