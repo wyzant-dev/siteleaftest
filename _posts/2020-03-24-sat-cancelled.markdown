@@ -21,7 +21,7 @@ post-description: The vast majority high school juniors rely on the March and Ma
 
 If you’re like everyone else in the United States right now, you likely asking the question, “What is going on out there?!”
 
-And if you are an educator, student, or the parent of a student, you must feel as if your entire world has been flipped upside down. School closures have forced students out of classrooms and into isolation at home. Most public schools are not permitted to switch to online instruction due to the fact that not all students have internet access. Many other schools now have students learning online from teachers who aren’t experienced in such instruction.
+And if you are an educator, student, or the parent of a student, you must feel as if your entire world has been flipped upside down. School closures have forced students out of classrooms and into isolation at home. Most public schools are not permitted to switch to [online instruction](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/) due to the fact that not all students have internet access. Many other schools now have students learning online from teachers who aren’t experienced in such instruction.
 
 With less than three months before the end of the school year, everyone involved feels like they’re in a state of limbo. You may be wondering about graduation requirements like senior projects or state standardized test scores. Perhaps you’re concerned about whether you’ll be able get those college credits by taking Advanced Placement (AP) exams. If you are a high school junior, you must have a lot of questions about the SAT.
 
