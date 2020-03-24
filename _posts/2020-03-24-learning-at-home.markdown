@@ -1,7 +1,6 @@
 ---
 title: Tips and Online Resources for Learning at Home
 date: 2020-03-24 12:14:00 -05:00
-published: false
 categories:
 - Study Skills
 - Online Learning
