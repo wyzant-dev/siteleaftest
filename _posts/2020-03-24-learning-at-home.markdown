@@ -3,6 +3,17 @@ title: Tips and Online Resources for Learning at Home
 date: 2020-03-24 12:14:00 -05:00
 published: false
 author: Lauren Harsh
+sub-headline: Getting started as an at-home educator is daunting, but doable.
+meta-description: 'Experts in learning at home are mobilized all over the web to provide
+  resources for parents in this troubling time. Many educational sites that normally
+  charge for membership are waiving their fees for the duration of school closures.
+  The world of online education has tons to offer, and odds are that if you found
+  this article, you''re looking for expert advice. '
+post-description: 'Experts in learning at home are mobilized all over the web to provide
+  resources for parents in this troubling time. Many educational sites that normally
+  charge for membership are waiving their fees for the duration of school closures.
+  The world of online education has tons to offer, and odds are that if you found
+  this article, you''re looking for expert advice. '
 ---
 
 Recent events have put students, teachers, and parents in [new territory](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/). Schools are closed. Children are home for days on end. Getting started as an at-home, ad hoc educator is certainly daunting, but never fear! Experts in learning at home are mobilized all over the web to provide resources for parents in this troubling time. Many educational sites that normally charge for membership are waiving their fees for the duration of school closures. The world of online education has tons to offer, and odds are that if you found this article, you're looking for expert advice. 
