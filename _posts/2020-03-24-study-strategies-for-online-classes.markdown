@@ -28,9 +28,9 @@ When you’re learning at home, one of the biggest challenges is focusing. This 
 So it’s crucial that you have a dedicated space to study. This could be anywhere from your living room to your own bedroom, but make sure it’s quiet and organized. In addition, you should be able to get proper connectivity so there’s no interruption in your online class.
 
 ## 3: Consider Tutoring
-If you’re at a total loss, you might want to consider working with an online tutor to brush up on your study skills. Besides providing you with homework help and study tips, a private tutor will help you work through the main challenges that you’re facing with your online college courses and develop practical study strategies just for you. 
+If you’re at a total loss, you might want to consider [working with an online tutor](https://www.wyzant.com/study_skills_tutors.aspx) to brush up on your study skills. Besides providing you with homework help and study tips, a private tutor will help you work through the main challenges that you’re facing with your online college courses and develop practical study strategies just for you. 
 
-This personalized attention can go a long way in developing good study habits and help you get better acquainted with learning at home. So the cost of tutoring is worth the investment, as you can seamlessly make the transition from a physical classroom to an online class without wasting too much time.
+This personalized attention can go a long way in developing good study habits and help you get better acquainted with learning at home. So the [cost of tutoring](https://www.wyzant.com/blog/cost-of-tutoring/) is worth the investment, as you can seamlessly make the transition from a physical classroom to an online class without wasting too much time.
 
 ## 4: Enhance Your Time Management Skills
 Another major challenge about learning at home is that it’s easy to lose track of time because you’ve been procrastinating. Since you have more flexibility with online college courses and online classes, you might put off studying or doing an assignment until the last minute. To avoid this, it’s crucial that you learn how to study at home by maintaining a strict schedule for studying. In other words, you need to focus on enhancing your time management skills.
@@ -59,7 +59,7 @@ To avoid this, make sure you neatly organize your files and resources in a way t
 For your notes, use a note-taking app that to store and organize your notes. Some apps will even come with a sorting feature that lets you find the note you need for a specific assignment with ease.
 
 ## 9: Communicate with Your Professor/Teacher
-Since you won’t meet face-to-face with your teacher or professor, it’s even more crucial that you open a line of communication with them. This goes beyond saying “hi” when your Zoom class starts. Don’t hesitate to ask questions if you have any confusion about the assignment or material. This will make it easier for you to keep up with your course and ensure that you don’t fall behind.
+Since you won’t meet face-to-face with your teacher or professor, it’s even more crucial that you open a line of communication with them. This goes beyond saying “hi” when your Zoom class starts. Don’t hesitate to [ask questions](https://www.wyzant.com/blog/questions-to-ask-tutors/) if you have any confusion about the assignment or material. This will make it easier for you to keep up with your course and ensure that you don’t fall behind.
 
 The teacher or professor should make their preferred mode of communication clear with the whole class. If not, make sure you connect with them through email or bring up the topic at the end of your online class. Beyond keeping up with your lessons, maintaining a working relationship with your professor will also help you expand your professional network.
 
@@ -73,7 +73,3 @@ One of the top study strategies is to keep motivating yourself with little rewar
 
 ## The Bottom Line
 You may think that you’re in for one of the biggest challenges of your life because classes have moved online and the whole world seems to be in panic mode. It’s easy to think that you’ll no longer have the motivation to keep studying and that you’re more susceptible to distractions. However, that doesn’t have to be the case. Use these smart study strategies to learn how to stay organized and maintain your focus, so you don’t fall behind.
-
-Consider online tutoring if you need hands-on help with your efforts to study from home.
-
-
