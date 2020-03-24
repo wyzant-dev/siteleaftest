@@ -4,7 +4,7 @@ date: 2020-03-24 07:52:00 -05:00
 published: false
 ---
 
-If you’re like everyone else in the United States right now, you are most likely asking the question, “What is going on out there?!”
+If you’re like everyone else in the United States right now, you likely asking the question, “What is going on out there?!”
 
 And if you are an educator, student, or the parent of a student, you must feel as if your entire world has been flipped upside down. School closures have forced students out of classrooms and into isolation at home. Most public schools are not permitted to switch to online instruction due to the fact that not all students have internet access. Many other schools now have students learning online from teachers who aren’t experienced in such instruction.
 
