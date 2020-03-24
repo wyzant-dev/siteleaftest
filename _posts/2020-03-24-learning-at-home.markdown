@@ -11,7 +11,7 @@ Recent events have put students, teachers, and parents in [new territory](https:
 
 No matter what your child’s classes look like now, establishing a routine is important for learning at home. Start with making a daily schedule for children of all ages who are home all day, that keeps them actively engaged in their education. Though there is no one-size-fits-all plan, here are some guidelines: 
 
-### Write up a basic guideline of how your day will look
+### Write up a basic plan for how your day will look
 
 Start and end the day at the same time, and work on material in the same subjects at the same time of the day, each day. Schedule meals and other breaks at the same times. This gives the day predictability and holds you and your at-home student accountable. But it is also important to be flexible so a lesson or activity taking more time that you planned doesn’t throw everyone's entire day into chaos.
 
