@@ -93,7 +93,7 @@ You can find free virtual science lessons courtesy of [The Michigan Science Cent
  
 Pitsco’s [STEM at Home](https://resources.pitsco.com/stem-at-home) is full of ideas for hands-on science activities. 
 
-### English/Language Arts
+### English/language arts
  
 Phonics and comprehension-focused early literacy program [Lalilo](https://www.lalilo.com/) is now offering premium content free of charge. 
  
@@ -105,23 +105,23 @@ Self-described “literary and artistic creation ecosystem designed to motivate 
  
 Scholastic’s [Learn at Home Program](https://classroommagazines.scholastic.com/support/learnathome.html) provides twenty days of immersive learning material across multiple subjects for free.
 
-### Foreign Languages
+### Foreign languages
  
 You probably know about [Duolingo](https://www.duolingo.com/), but it’s not the only fun online resource for language learning. [Memrise](https://www.memrise.com/) is based around flashcards. [Tandem](https://www.tandem.net/) can set you up with a language partner to chat with. [Babbel](https://www.babbel.com/) is a great way to practice real-life situations. Story-based Spanish-learning program [Fabulingua](https://www.fabulingua.com/try-for-free?_branch_match_id=501095394547342674) is specifically designed for children. 
  
 It's also a good idea to check out any relevant cultural centers’ websites for additional, location-specific resources. 
 
-### Social Studies
+### Social studies
  
 [iCivics](https://www.icivics.org/) is a free program founded by Sandra Day O’Connor to make civics education accessible and engaging. 
  
-### Art and Music 
+### Art and music 
  
 Carnegie Hall’s [Music Explorers](https://www.carnegiehall.org/Education/Educators/Musical-Explorers) is a great resource for music appreciation, with lessons about diverse music genres and cultures. 
  
 Davis Art offers [virtual art curriculum](https://www.davisart.com/) that can be used for teacher-guided or self-guided at-home learning.  
 
-### General
+### General education resources
  
 You can’t go wrong with [Quizlet](https://quizlet.com/), a popular site for making and sharing flashcard decks. [Funbrain](https://www.funbrain.com/games) has educational games in multiple subjects for 1st through 8th graders. 
  
