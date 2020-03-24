@@ -27,7 +27,7 @@ So much for that.
 
 Nevertheless, though Keynes’s numbers might have been off, he was certainly correct in assuming that technology would drastically change the nature of work.  One accelerating trend on this front is remote work, made possible by videoconferencing, high speed internet, and the cloud.
 
-Due to recent events, many businesses and schools have had to adopt work from home (WFH) policies for their employees and students rather suddenly.  If you find yourself in this boat, here are a few tips on how to work from home as efficiently as possible.
+Due to [recent events](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/), many businesses and schools have had to adopt work from home (WFH) policies for their employees and students rather suddenly.  If you find yourself in this boat, here are a few tips on how to work from home as efficiently as possible.
 
 ## Write down tomorrow’s agenda tonight
 
