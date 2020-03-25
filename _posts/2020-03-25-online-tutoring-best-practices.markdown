@@ -3,7 +3,15 @@ title: 9 Effective Online Tutoring Best Practices
 date: 2020-03-25 08:41:00 -05:00
 published: false
 author: Alys Brooks
+sub-headline: With online tutoring, you can remove barriers to your goals and continue
+  learning at your own pace.
 hero-image: "/blog/uploads/9%20Online%20Tutoring%20Best%20Practices.png"
+meta-description: Social distancing doesn’t have to come at your education’s expense.
+  Many educators are experienced in online education, and make their expertise available
+  by way of professional online tutoring. Here's how to make the most of your sessions.
+post-description: Social distancing doesn’t have to come at your education’s expense.
+  Many educators are experienced in online education, and make their expertise available
+  by way of professional online tutoring. Here's how to make the most of your sessions.
 ---
 
 Social distancing means that many students are working online to avoid spreading the novel coronavirus. But social distancing doesn’t have to come at your education’s expense. Many tutors and educators are already experienced in online education, and make their expertise available by way of professional online tutoring. By [following advice](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/) and preparing, you can get the most out of tutoring.
