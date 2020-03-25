@@ -69,7 +69,8 @@ Okay, fine, that’s incredibly vague. But there’s a reason for that. Througho
 ### Definitions
 These can pay off on passages with subject matter that’s foreign or tough to make relatable for many readers - like science passages. In the same way you’re best served by slowing down and carefully observing street signs when you’re lost while driving, you’re best served by reading with care and noting terminology when you’re lost while reading.
 
-### Conditional relationships | These have less impact on your RC score than on your other section scores, but when one of them shows up, there’s generally at least one question that will test your understanding of it.
+### Conditional relationships
+These have less impact on your RC score than on your other section scores, but when one of them shows up, there’s generally at least one question that will test your understanding of it.
 
 ### Transition terms
 These obviously won’t make or break your RC score, but while reading, you should use transition terms as checkpoints: terms of contrast like “however” and “yet” indicate a turn while others, such as “additionally” and “also”, mean you can relax a bit and count on another point to be made that continues in the same direction.
