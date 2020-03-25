@@ -10,18 +10,18 @@ Social distancing means that many students are working online to avoid spreading
 ## Tailor Your Environment
 Humans take their cues from the environment, so it’s often ideal to have a designated for space for activities that require a particular mindset, like learning. A completely separate location probably isn’t feasible, particularly if you are in a large household and everyone’s trying to work or learn remotely. Still, you can optimize your environment.
 
-* Make sure any learning materials you need are at hand. This could be a physical text book, a digital copy of course notes, or an online study guide.
+* Make sure any learning materials you need are at hand. This could be a physical textbook, a digital copy of course notes, or an online study guide.
 
 * Put away any materials you don’t need. Your workspace need not look like a stock photo for minimalism, but make sure there’s not too much clutter preventing you from finding the resources you need. 
 
 * Consider referencing an [ergonomics guide](https://support.microsoft.com/en-us/help/4101085/accessories-setting-up-your-desktop) to ensure your setup is comfortable to use for the long term.
 
-On a related note, a lot of people who work from home swear by dressing like they’re going into the office to ensure they’re in the right mindset. That being said, if you’re required to wear an outfit is uncomfortable or distracting by a dress code, you likely have the flexibility to wear something else instead. You might have to experiment to find the right balance between something that tells your subconscious it’s time to learn and something that is comfortable.
+On a related note, a lot of people who work from home swear by dressing like they’re going into the office to ensure they’re in the right mindset. If you’re required to wear an outfit is uncomfortable or distracting by a dress code, you now likely have the flexibility to wear something else instead. You might have to experiment to find the right balance between something that tells your subconscious it’s time to learn and something that is comfortable enough to wear while learning from home.
 
 ## Think About How You Will Manage Your Time
-Often you have less structure in an online learning because of the flexible hours. This can be a good thing—you can reschedule things around the times you learn best or to fit with your other responsibilities. On the other hand, if you don’t pay attention to how you’re using your time, you can easily get less done than you intend or allocate your time inefficiently.
+Online learning's advantage is flexible hours. This is a good thing - you can reschedule lesson around the times you learn best, or to fit with your other responsibilities. On the other hand, if you don’t pay attention to how you’re using your time, you can easily get less done than you intend or allocate your time inefficiently.
 
-Unfortunately, there’s no one-size-fits-all solution. Some people block off entire workdays on their calendar so they have a guide for what they should be doing throughout the day. Other people like the Pomodoro method. Still others use systems like Getting Things Done. And finally, other people use a basic to-do list in a paper notebook.
+Unfortunately, there’s no one-size-fits-all solution. Some people block off entire workdays on their calendar so they have a guide for what they should be doing throughout the day. Other people like the [Pomodoro method](https://francescocirillo.com/pages/pomodoro-technique). Still others use systems like [Getting Things Done](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955). And finally, other people use a basic to-do list in a paper notebook.
 
 While having a system that complements the way you think is important, it’s just as important that you stick with the system you decide on. To do this, try to build habits around using your system, and make it as easy as possible to do so. For example, if you decide to use a notebook to plan out your days, don’t let the notebook get buried under your textbooks.
 
