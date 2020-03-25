@@ -1,7 +1,6 @@
 ---
 title: 9 Effective Online Tutoring Best Practices
 date: 2020-03-25 08:41:00 -05:00
-published: false
 categories:
 - Online Learning
 - Study Skills
