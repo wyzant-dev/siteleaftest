@@ -48,7 +48,7 @@ The whiteboard allows you to both do freehand drawings from scratch and mark up 
 
 * The [code editor](https://support.wyzant.com/hc/en-us/articles/115001853866-How-do-I-use-the-Code-Editor-) works similarly to the text editor, but is optimized for tutoring programming, and includes all the tools needed to write code.
 
-*Screen sharing allows you to share what's on your screen with your tutor. This is particularly helpful when from programming lessons.
+* Screen sharing allows you to share what's on your screen with your tutor. This is particularly helpful when from programming lessons.
 
 For more on Wyzant’s tool, refer to [this page](https://www.wyzant.com/online/student).
 
