@@ -1,8 +1,9 @@
 ---
-title: 9 Best Practices for Effective Online Tutoring
+title: 9 Effective Online Tutoring Best Practices
 date: 2020-03-25 08:41:00 -05:00
 published: false
 author: Alys Brooks
+hero-image: "/blog/uploads/9%20Online%20Tutoring%20Best%20Practices.png"
 ---
 
 Social distancing means that many students are working online to avoid spreading the novel coronavirus. But social distancing doesn’t have to come at your education’s expense. Many tutors and educators are already experienced in online education, including Wyzant tutors. By [following advice](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/) and preparing, you can get the most out of tutoring.
