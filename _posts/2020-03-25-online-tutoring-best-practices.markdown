@@ -59,20 +59,20 @@ The Wirecutter has a good list of [useful gear for video conferencing](https://t
 
 Between the uncertain economic situation and shipping delays, it may not be feasible for you to buy new products to enhance your online tutoring lessons. If you’re facing this situation, remember that while these things are genuinely helpful, the biggest factor in your success with online learning is the effort you put into it.
 
-## Take a Break
+## Take a break
 If you are switching to entirely online learning, you’re probably forgoing at least a few built-in breaks in your day when you’d normally move between places. It’s super convenient to commute or even walk to buy lunch, but that doesn’t mean you should forgo breaks. Take a moment to play with your pet or children, chat with your partner or roommate, stretch, or exercise. As a reminder, outdoor activities like [walking and biking](https://www.latimes.com/travel/story/2020-03-18/coronavirus-safe-walk-run-hike-bike-outside) are still okay during social distancing.
 
 It can be tempting to skip breaks to try to catch up due to the delays caused by the transition to online learning, but this is actually counterproductive. Taking breaks [makes you more productive](https://www.scientificamerican.com/article/mental-downtime/), in part because even when outwardly resting, the brain appears to be working to establish memories, a subtler form of the way sleep cements memory.
 
 Beyond the productivity benefits, eschewing breaks can lead to a dislike of your class or subject matter at best, or burn out at worst. Sometimes, you may have no choice but to cram, or put in marathon workdays, but a healthier work-life balance is better for your learning over the long term.
 
-## Set Boundaries
+## Set boundaries
 It’s helpful to set (and reset) boundaries with family members and roommates so you can all learn, work, and rest without getting in anyone’s way. This is especially true if you’re sharing a small space. This might be the kind of conversation you’re tempted to blow off, but it will save you frustration down the road and make your learning more productive. If someone accidentally crosses a boundary, don’t blow up at them...but don’t let it slide, either. Communication now, like always, is key.
 
-## Find the Right Tutor
+## Find the right tutor
 It’s important that you [find a tutor](https://www.wyzant.com/blog/cost-of-tutoring/) who’s a good fit for your needs. Ask your tutor about their experience, teaching style and methods, schedule, and rates. Keep in mind that if your tutor turns out to not to be a good fit or your needs change, you can switch tutors at any time. For more advice on choosing the right tutor, read up on [questions you can ask potential tutors](https://www.wyzant.com/blog/questions-to-ask-tutors/) to help you better understand their experience.
 
-## Be Patient with Yourself
+## Be patient with yourself
 If you haven’t used a video chat or tutoring platform before, it will probably take some time before you’re fully comfortable with how it works. Additionally, working remotely takes some getting used to. It may be a little bit of time before online tutoring is second nature the way in-person learning is.
 
 Learning from home is a transition with a bit of a learning curve, but by putting into some work to get ready you can hit the ground running. There are even perks—you can’t pet your cat or take a nap if you’re learning from campus.
