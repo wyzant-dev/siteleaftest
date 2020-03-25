@@ -16,10 +16,10 @@ Humans take their cues from the environment, so it’s often ideal to have a des
 
 * Consider referencing an [ergonomics guide](https://support.microsoft.com/en-us/help/4101085/accessories-setting-up-your-desktop) to ensure your setup is comfortable to use for the long term.
 
-On a related note, a lot of people who work from home swear by dressing like they’re going into the office to ensure they’re in the right mindset. If you’re required to wear an outfit is uncomfortable or distracting by a dress code, you now likely have the flexibility to wear something else instead. You might have to experiment to find the right balance between something that tells your subconscious it’s time to learn and something that is comfortable enough to wear while learning from home.
+On a related note, a lot of people who work from home swear by dressing like they’re going into the office to ensure they’re in the right mindset. If you’re required to wear an outfit is uncomfortable or distracting by a dress code, you now likely have the flexibility to wear something else instead. You might have to experiment to find the right balance between something that tells your subconscious it’s time to learn and something that is comfortable enough to wear while [learning from home](https://www.wyzant.com/blog/learning-at-home/).
 
 ## Think About How You Will Manage Your Time
-Online learning's advantage is flexible hours. This is a good thing - you can reschedule lesson around the times you learn best, or to fit with your other responsibilities. On the other hand, if you don’t pay attention to how you’re using your time, you can easily get less done than you intend or allocate your time inefficiently.
+Online learning's advantage is flexible hours. This is a good thing - you can reschedule lesson around the times you learn best, or to fit with your other responsibilities. On the other hand, if you don’t pay attention to how you’re [using your time](https://www.wyzant.com/blog/time-management-strategies/), you can easily get less done than you intend or allocate your time inefficiently.
 
 Unfortunately, there’s no one-size-fits-all solution. Some people block off entire workdays on their calendar so they have a guide for what they should be doing throughout the day. Other people like the [Pomodoro method](https://francescocirillo.com/pages/pomodoro-technique). Others use systems like [Getting Things Done](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955). And finally, others use a basic to-do list in a paper notebook.
 
