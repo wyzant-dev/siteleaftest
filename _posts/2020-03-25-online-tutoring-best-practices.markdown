@@ -7,7 +7,7 @@ author: Alys Brooks
 
 Social distancing means that many students are working online to avoid spreading the novel coronavirus. But social distancing doesn’t have to come at your education’s expense. Many tutors and educators are already experienced in online education, including Wyzant tutors. By [following advice](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/) and preparing, you can get the most out of tutoring.
 
-## Tailor Your Environment
+## Tailor your environment
 Humans take their cues from the environment, so it’s often ideal to have a designated for space for activities that require a particular mindset, like learning. A completely separate location probably isn’t feasible, particularly if you are in a large household and everyone’s trying to work or learn remotely. Still, you can optimize your environment.
 
 * Make sure any learning materials you need are at hand. This could be a physical textbook, a digital copy of course notes, or an online study guide.
@@ -18,7 +18,7 @@ Humans take their cues from the environment, so it’s often ideal to have a des
 
 On a related note, a lot of people who work from home swear by dressing like they’re going into the office to ensure they’re in the right mindset. If you’re required to wear an outfit is uncomfortable or distracting by a dress code, you now likely have the flexibility to wear something else instead. You might have to experiment to find the right balance between something that tells your subconscious it’s time to learn and something that is comfortable enough to wear while [learning from home](https://www.wyzant.com/blog/learning-at-home/).
 
-## Think About How You Will Manage Your Time
+## Think about how you will manage your time
 Online learning's advantage is flexible hours. This is a good thing - you can reschedule lesson around the times you learn best, or to fit with your other responsibilities. On the other hand, if you don’t pay attention to how you’re [using your time](https://www.wyzant.com/blog/time-management-strategies/), you can easily get less done than you intend or allocate your time inefficiently.
 
 Unfortunately, there’s no one-size-fits-all solution. Some people block off entire workdays on their calendar so they have a guide for what they should be doing throughout the day. Other people like the [Pomodoro method](https://francescocirillo.com/pages/pomodoro-technique). Others use systems like [Getting Things Done](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955). And finally, others use a basic to-do list in a paper notebook.
@@ -27,7 +27,7 @@ While having a system that complements the way you think is important, it’s ju
 
 Regardless of your means of organizing outstanding tasks and deadlines, it can be helpful to track where your time actually goes. Some tools, like [Toggl](https://toggl.com/) or [Clockify](https://clockify.me/), require you to manually set timers, and others, like [ManicTime](https://www.manictime.com/), [Rescue Time](https://www.rescuetime.com/), or [Qbserve](https://qotoqot.com/qbserve/) attempt to automatically infer what you’re doing based on what windows are open on your computer. These tools are handy because they allow you to watch out for distractions that might be more costly than you expect, help you strike a balance between different tasks, and estimate how long future tasks will take. 
 
-## Tweak a Few Settings to Avoid Hiccups
+## Tweak a few settings to avoid hiccups
 Technology has progressed so that virtually any computer from the past 10 years or so is capable of video chat, including Wyzant's online tutoring platform. However, video chat still isn’t lightweight; it’s helpful to adjust a few things to ensure the smoothest experience:
 
 * If possible, connect to your router using a wired connection. Wireless connections have come a long way, but they’re still not quite as reliable as a wired connection when it comes to keeping your system reliably connected to the web.
@@ -39,7 +39,7 @@ For laptop users, there’s two additional things to do:
 * Try to set your laptop on a hard surface. These tend to have better airflow, meaning your computer doesn’t need to slow itself down or turn the fans on full-blast to avoid overheating.
 * Make sure you’re plugged in. You don’t want your lesson interrupted because your computer shut down, and you need to go searching for the power cord.
 
-## Know Your Tools
+## Know your tools
 Getting to know the tools you’ll be using ensures you’ll make the most of your time with your tutor. For example, Wyzant’s online tutoring platform has several modes:
 
 The whiteboard allows you to both do freehand drawings from scratch and mark up documents.
@@ -52,7 +52,7 @@ The whiteboard allows you to both do freehand drawings from scratch and mark up 
 
 For more on Wyzant’s tool, refer to [this page](https://www.wyzant.com/online/student).
 
-## Invest in Tools for Online Tutoring (If You Can)
+## Invest in tools for online tutoring (if you can)
 There are some useful tools you can use to make the most out of online tutoring. For example, getting a dedicated webcam or microphone to replace the ones built in to your computer can improve the quality of video conferencing and noise-canceling headphones can help you tune out distractions.
 
 The Wirecutter has a good list of [useful gear for video conferencing](https://thewirecutter.com/blog/work-from-home-if-boss-doesnt-want-you-coming-in/). They also have a longer list of [other upgrades](https://thewirecutter.com/lists/the-essential-ergonomic-gear-for-your-home-office/) that are meant for working from home but also work for learning from home.
