@@ -42,7 +42,7 @@ Remember: you need a breather, too! This cannot be stressed enough: take plenty 
 
 ## Get a tutor's help
 
-Getting a tutor when your child is struggling academically, or just needs some outside support, is a good idea even in "normal" academic times. When school is on hold, it can make an even bigger difference. Private tutoring benefits your child by giving them one-on-one instruction from an expert, structure in their week, and accountability for their learning. It also takes the burden off your shoulders (and your child’s exasperated teacher's) so you can manage your own routine. 
+Getting a tutor when your child is struggling academically, or just needs some outside support, is a good idea even in "normal" academic times. When school is on hold, it can make an even bigger difference. Private tutoring benefits your child by giving them one-on-one instruction from an expert, structure in their week, and accountability for their learning. It also takes the burden off your shoulders (and your child’s exasperated teacher's) so you can manage your own routine. Consider some [best practices](https://www.wyzant.com/blog/online-tutoring-best-practices/) to be sure your sessions are as useful as possible.
 
 When you're ready to chat with a [potential online tutor](https://www.wyzant.com/blog/questions-to-ask-tutors/), Wyzant lets you search tutors by subject, age group, subject expertise, location, cost, and more.
 
