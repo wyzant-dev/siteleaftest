@@ -25,19 +25,19 @@ Unfortunately, there’s no one-size-fits-all solution. Some people block off en
 
 While having a system that complements the way you think is important, it’s just as important that you stick with the system you decide works best for you. To do this, try to build habits around using your system, and make it as easy as possible to do so. For example: if you decide to use a notebook to plan out your days, don’t let the notebook get buried under your textbooks, and keep it organized and easy to reference.
 
-Regardless of your means of organizing outstanding tasks and deadlines, it can be helpful to track where your time actually goes. Some tools, like [Toggl](https://toggl.com/) or [Clockify](https://clockify.me/), require you to manually set timers, and others, like [ManicTime](https://www.manictime.com/), [Rescue Time](https://www.rescuetime.com/), or [Qbserve](https://qotoqot.com/qbserve/) attempt to automatically infer what you’re doing based on what windows are open. These tools are handy because they allow you to watch out for distractions that might be more costly than you expect, help you strike a balance between different tasks, and estimate how long future tasks will take. For example, if your grades are lower than expected, time tracking can show you that while you were able to schedule about as much tutoring as you hoped for, you didn’t manage to get as many hours in otherwise.
+Regardless of your means of organizing outstanding tasks and deadlines, it can be helpful to track where your time actually goes. Some tools, like [Toggl](https://toggl.com/) or [Clockify](https://clockify.me/), require you to manually set timers, and others, like [ManicTime](https://www.manictime.com/), [Rescue Time](https://www.rescuetime.com/), or [Qbserve](https://qotoqot.com/qbserve/) attempt to automatically infer what you’re doing based on what windows are open on your computer. These tools are handy because they allow you to watch out for distractions that might be more costly than you expect, help you strike a balance between different tasks, and estimate how long future tasks will take. 
 
 ## Tweak a Few Settings to Avoid Hiccups
-Technology has progressed so that virtually any computer from the past 10 years or so are able to do video chat, including online tutoring like Wyzants’s. However, video chat still isn’t lightweight, so it’s helpful to adjust a few things to ensure the smoothest experience:
+Technology has progressed so that virtually any computer from the past 10 years or so is capable of video chat, including Wyzant's online tutoring platform. However, video chat still isn’t lightweight; it’s helpful to adjust a few things to ensure the smoothest experience:
 
-* If possible, connect to your router using a wired connection. Wireless connections have come a long way, but they’re still not quite as reliable as a wired connection.
+* If possible, connect to your router using a wired connection. Wireless connections have come a long way, but they’re still not quite as reliable as a wired connection when it comes to keeping your system reliably connected to the web.
 * Close or pause other programs that use the internet or do background processing, including virus scanners, backups, game updates, or downloading large files like movies or albums.
 * Finally, if it’s been a while, consider updating your computer.
 
 For laptop users, there’s two additional things to do:
 
-* Try to set your laptop on a hard surface. These tend to have better airflow, meaning your computer doesn’t need to slow itself down or turn the fans on full blast to avoid overheating.
-* Make sure you’re plugged in. You don’t want to interrupt a lesson to go searching for the power cord.
+* Try to set your laptop on a hard surface. These tend to have better airflow, meaning your computer doesn’t need to slow itself down or turn the fans on full-blast to avoid overheating.
+* Make sure you’re plugged in. You don’t want your lesson interrupted because your computer shut down, and you need to go searching for the power cord.
 
 ## Know Your Tools
 Getting to know the tools you’ll be using ensures you’ll make the most of your time with your tutor. For example, Wyzant’s online tutoring platform has several modes:
