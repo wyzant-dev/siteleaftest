@@ -41,17 +41,21 @@ For laptop users, there’s two additional things to do:
 
 ## Know Your Tools
 Getting to know the tools you’ll be using ensures you’ll make the most of your time with your tutor. For example, Wyzant’s online tutoring platform has several modes:
+
 The whiteboard allows you to both do freehand drawings from scratch and mark up documents.
 
-The text editor allows you to work with your tutor on written documents.
-The code editor works similarly to the text editor, but is optimized for code.
-Screen sharing allows you to share the programs on your machine with with your tutor. This is particularly helpful when from programming lessons.
-For more on Wyzant’s tool, refer to this page.
+* The [text editor](https://support.wyzant.com/hc/en-us/articles/115001853906-How-do-I-use-the-text-editor-) allows you to work with your tutor on written documents.
+
+* The [code editor](https://support.wyzant.com/hc/en-us/articles/115001853866-How-do-I-use-the-Code-Editor-) works similarly to the text editor, but is optimized for tutoring programming, and includes all the tools needed to write code.
+
+*Screen sharing allows you to share what's on your screen with your tutor. This is particularly helpful when from programming lessons.
+
+For more on Wyzant’s tool, refer to [this page](https://www.wyzant.com/online/student).
 
 ## Invest in Tools for Online Tutoring (If You Can)
 There are some useful tools you can use to make the most out of online tutoring. For example, getting a dedicated webcam or microphone to replace the ones built in to your computer can improve the quality of video conferencing and noise-canceling headphones can help you tune out distractions.
 
-The Wirecutter has a good list of useful gear for video conferencing. They also have a longer list of other upgrades that are meant for working from home but also work for learning from home.
+The Wirecutter has a good list of [useful gear for video conferencing](https://thewirecutter.com/blog/work-from-home-if-boss-doesnt-want-you-coming-in/). They also have a longer list of other upgrades that are meant for working from home but also work for learning from home.
 
 Between the uncertain economic situation and shipping delays, it might not be feasible for you to get any of the products. If you’re in that situation, remember that while these things are genuinely helpful, a bigger factor in your success with online learning is the effort you put into it.
 
