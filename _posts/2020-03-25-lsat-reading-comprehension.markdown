@@ -11,6 +11,7 @@ tags:
 author: Shane Gregoire
 sub-headline: Of the LSAT's 3 kinds of multiple-choice sections, Reading Comprehension
   often receives the least focus.
+hero-image: "/blog/uploads/LSAT%20Reading%20Comprehension.png"
 meta-description: If you’re like most people who have taken or plan to take the LSAT,
   then RC tends to be a chore. It’s important to know yourself and develop passage
   and question strategies to succeed on RC.
