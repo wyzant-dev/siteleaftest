@@ -2,8 +2,14 @@
 title: 9 Effective Online Tutoring Best Practices
 date: 2020-03-25 08:41:00 -05:00
 published: false
+categories:
+- Online Learning
+- Study Skills
+tags:
+- Online Learning
+- Study Skills
 author: Alys Brooks
-sub-headline: With online tutoring, you can remove barriers to your goals and continue
+sub-headline: With online tutoring, you can overcome barriers to your goals and continue
   learning at your own pace.
 hero-image: "/blog/uploads/9%20Online%20Tutoring%20Best%20Practices.png"
 meta-description: Social distancing doesn’t have to come at your education’s expense.
