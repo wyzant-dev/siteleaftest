@@ -1,7 +1,6 @@
 ---
 title: 8 Ways to Improve on LSAT Reading Comprehension
 date: 2020-03-25 10:06:00 -05:00
-published: false
 categories:
 - LSAT
 - Test Prep
