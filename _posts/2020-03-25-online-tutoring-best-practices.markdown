@@ -64,13 +64,13 @@ If you are switching to entirely online learning, you’re probably forgoing at 
 
 It can be tempting to skip breaks to try to catch up due to the delays caused by the transition to online learning, but this is actually counterproductive. Taking breaks [makes you more productive](https://www.scientificamerican.com/article/mental-downtime/), in part because even when outwardly resting, the brain appears to be working to establish memories, a subtler form of the way sleep cements memory.
 
-Beyond the productivity benefits, eschewing breaks can cause you to dislike your class or subject matter at best or burn out at worst. Sometimes, you may have no choice but to cram or put in marathon workdays, but a healthier work-life balance is better for your learning over the long term.
+Beyond the productivity benefits, eschewing breaks can lead to a dislike of your class or subject matter at best, or burn out at worst. Sometimes, you may have no choice but to cram, or put in marathon workdays, but a healthier work-life balance is better for your learning over the long term.
 
 ## Set Boundaries
-It’s helpful to set (or re-set) boundaries with family members and roommates so you can all learn, work, and relax without getting in anyone’s way, especially if you’re sharing a small space. This might be the kind of conversation you’re tempted to blow off, but it will save you frustration down the road and make your learning more productive. If someone accidentally crosses a boundary, don’t blow up at them, but don’t let it slide, either.
+It’s helpful to set (and reset) boundaries with family members and roommates so you can all learn, work, and rest without getting in anyone’s way. This is especially true if you’re sharing a small space. This might be the kind of conversation you’re tempted to blow off, but it will save you frustration down the road and make your learning more productive. If someone accidentally crosses a boundary, don’t blow up at them...but don’t let it slide, either. Communication now, like always, is key.
 
 ## Find the Right Tutor
-It’s important that you find a tutor who’s a good fit for your needs. Ask your tutor about their experience, teaching style and methods, schedule, and rates. Keep in mind that if your tutor turns out to not to be a good fit or your needs change, you can switch tutors at any time. For more advice on choosing the right tutor, refer to this blog post. There are also some tips for reducing the cost of tutoring.
+It’s important that you [find a tutor](https://www.wyzant.com/blog/cost-of-tutoring/) who’s a good fit for your needs. Ask your tutor about their experience, teaching style and methods, schedule, and rates. Keep in mind that if your tutor turns out to not to be a good fit or your needs change, you can switch tutors at any time. For more advice on choosing the right tutor, read up on [questions you can ask potential tutors](https://www.wyzant.com/blog/questions-to-ask-tutors/) to help you better understand their experience.
 
 ## Be Patient with Yourself
 If you haven’t used a video chat or tutoring platform before, it will probably take some time before you’re fully comfortable with how it works. Additionally, working remotely takes some getting used to. It may be a little bit of time before online tutoring is second nature the way in-person learning is.
