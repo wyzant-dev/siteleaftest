@@ -6,7 +6,7 @@ author: Alys Brooks
 hero-image: "/blog/uploads/9%20Online%20Tutoring%20Best%20Practices.png"
 ---
 
-Social distancing means that many students are working online to avoid spreading the novel coronavirus. But social distancing doesn’t have to come at your education’s expense. Many tutors and educators are already experienced in online education, including Wyzant tutors. By [following advice](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/) and preparing, you can get the most out of tutoring.
+Social distancing means that many students are working online to avoid spreading the novel coronavirus. But social distancing doesn’t have to come at your education’s expense. Many tutors and educators are already experienced in online education, and make their expertise available by way of professional online tutoring. By [following advice](https://www.wyzant.com/blog/wyzant-covid-19-response-and-student-guidance/) and preparing, you can get the most out of tutoring.
 
 ## Tailor your environment
 Humans take their cues from the environment, so it’s often ideal to have a designated for space for activities that require a particular mindset, like learning. A completely separate location probably isn’t feasible, particularly if you are in a large household and everyone’s trying to work or learn remotely. Still, you can optimize your environment.
