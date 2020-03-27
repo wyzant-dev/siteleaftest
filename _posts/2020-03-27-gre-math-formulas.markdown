@@ -13,7 +13,7 @@ When it comes to GRE quant, however, charm simply won’t cut it.  While you can
 
 The good news is that the GRE is not as formula-heavy as say, the SAT.  You can get a very solid score by knowing the main GRE Math Formulas that come up over and over again on the Quantitative Reasoning Section.  So what we’re going to do here is review the 12 most important formulas that you need to know.  At the end, we’ll throw in a few more you’ll need if you’re looking for a particularly high score (160+).
 
-## 1. Area of a Rectangle (or Square)
+## 1. Area of a rectangle (or square)
 This one’s about as simple as they come.  Let’s use the picture of the rectangle below, which has a length of “l” and width of “w”:
 
 ![GRE Math Formulas 1.PNG](/blog/uploads/GRE%20Math%20Formulas%201.PNG)
@@ -26,14 +26,14 @@ You’ll notice that we’re excluding some of the more “exotic” quadrilater
 
 ![GRE Math Formulas 3.PNG](/blog/uploads/GRE%20Math%20Formulas%203.PNG)
 
-## 2. Perimeter (of any Polygon)
+## 2. Perimeter (of any polygon)
 The perimeter describes the sum of all the sides in a polygon.  So to find the perimeter of a triangle, add the three sides together.  To find the perimeter of a rectangle, add the four sides together.  Rather than memorize the individual perimeter formulas for each of these shapes, just use this “master” perimeter formula:
 
 ![GRE Math Formulas 4.PNG](/blog/uploads/GRE%20Math%20Formulas%204.PNG)
 
 That’s it.  
 
-## 3. Area of a Triangle
+## 3. Area of a triangle
 Here’s one you might remember from high school.  The formula for the area of a triangle is one-half the base times the height:
 
 ![GRE Math Formulas 5.PNG](/blog/uploads/GRE%20Math%20Formulas%205.PNG)
@@ -67,7 +67,7 @@ The two shorter sides, A and B, are known as the “legs” of the triangle, whi
 
 You have to admit, it is catchy.  Old Pythagoras really knew how to write a zinger.
 
-## 5. Area of a Circle
+## 5. Area of a circle
 To calculate the area of the circle, find the radius (distance from the center to the edge in the picture below), square it, and multiply it by π (approximately 3.14).
 
 ![GRE Math Formulas 10.PNG](/blog/uploads/GRE%20Math%20Formulas%2010.PNG) 
@@ -78,12 +78,12 @@ This means that our formula is:
 
 It’s pretty easy to confuse this with the formula for circumference (below).  To avoid doing that, think about this...what kind of units do you use in everyday life to measure area?  You’d talk about the square footage of a house, or the square mileage of a town, right?  So just remember that the formula with a square in it is area!
 
-## 6. Circumference of a Circle
+## 6. Circumference of a circle
 The circumference of a circle is the distance all the way around the edge.  To calculate it, multiply the radius by 2π.
 
 ![GRE Math Formulas 12.PNG](/blog/uploads/GRE%20Math%20Formulas%2012.PNG)
 
-## 7. Slope of a Line
+## 7. Slope of a line
 If you’ve ever been skiing, you know there’s a pretty significant difference between bunny slopes and black diamonds.  Namely, the black diamonds are much steeper.  
 
 Well, to put an exact number on the “steepness” of a line on a graph, we use slope.  Suppose we have two points, pictured on the graph below:  
@@ -104,7 +104,7 @@ Simply find how high you “rise,” vertically from one point to another, and d
 
 To calculate the slope of these two points, let’s first find the rise.  The y-value of the first point is 2, and the y-value of the second point is 3, which means we “rose” 1.  The x-value of the first point is 1 and the x-value of the second point is 3, so that’s a “run” of 2.  Rise =1, Run = 2, so slope is ½.
 
-## 8. Equation of a Line:
+## 8. Equation of a line:
 Many of the GRE’s coordinate geometry questions deal with linear functions (that’s just a fancy way of saying “lines”).
 
 Any line in the coordinate plane can be represented with the formula:
@@ -117,7 +117,7 @@ If we’re given the line y = 3x + 2, we immediately recognize that it matches t
 
 ![GRE Math Formulas 18.PNG](/blog/uploads/GRE%20Math%20Formulas%2018.PNG)
 
-## 9. Mean/Average
+## 9. Mean/average
 To calculate the mean or average (both terms mean the same thing), you want to add up all the terms and divide by the number of terms.  This means that the formula for finding the mean/average is:
 
 ![GRE Math Formulas 19.PNG](/blog/uploads/GRE%20Math%20Formulas%2019.PNG)
@@ -128,21 +128,21 @@ All that said, many mean/average questions on the GRE—especially those in the 
 
 For instance, suppose you were told that Class A had an average test score of 50, Class B had an average test score of 100, and the average of everyone in the two classes is 90.  Which class has more students?  Well, clearly Class B:  If the two classes had an equal number of students, the overall average would have been right in the middle (75).  But because it’s closer to Class B, we can assume that B has more people.
 
-## 10. Distance, Rate, and Time
+## 10. Distance, rate, and time
 Colliding trains and high speed chases...Speed problems are by far the most action-packed questions the GRE has to offer.  To succeed on them, though, you’ll need this basic formula:
 
 ![GRE Math Formulas 20.PNG](/blog/uploads/GRE%20Math%20Formulas%2020.PNG)
 
 To illustrate, if we’re travelling at a rate of 45mph for 2 hours, how far will we get?  If we plug it into the formula, we’d get D =45 x 2, so 90 total miles is our distance.
 
-## 11. Percent Change
+## 11. Percent change
 If you’re taking the GRE, you’re almost certainly an adult (unless this is some sort of Doogie Howser situation).  As such, you probably work with percentages on a pretty regular basis.  So if you have a system in your head that works for you, keep it.  If not, here’s the formula to calculate the percent change between a new value and an old value.
 
 ![GRE Math Formulas 21.PNG](/blog/uploads/GRE%20Math%20Formulas%2021.PNG)
 
 To use a specific example, if the price of a stock rises from $40 to $60, what is the percent increase?  Well, in this case the “New Value” is 60 and the “Old Value” is 40.  60 minus 40 is 20, divided by 40 gives 0.5.  Multiply that by 100 and I get 50.  So the percent increase from 40 to 60 is 50%.
 
-## 12. Volume of a 3-D Figure
+## 12. Volume of a 3-D figure
 You might be asked to calculate the volume of a solid, such as the box in the figure below:
 
 ![GRE Math Formulas 22.PNG](/blog/uploads/GRE%20Math%20Formulas%2022.PNG)
@@ -173,14 +173,14 @@ The generic format for a quadratic expression is:
 
 ![GRE Math Formulas 26.PNG](/blog/uploads/GRE%20Math%20Formulas%2026.PNG) 
 
-### Sum of Interior Angles
+### Sum of interior angles
 To calculate the sum of interior angles in a polygon with n sides, use the following formula:
 
 ![GRE Math Formulas 27.PNG](/blog/uploads/GRE%20Math%20Formulas%2027.PNG)
 
 For instance, a square has 4 sides, so the sum of interior angles is 180(4 - 2) = 360.
 
-### Compound Interest
+### Compound interest
 To calculate the amount of money in a compound interest account that starts with P dollars, use the following formula (where r is the interest rate and t is the number of periods):
 
 ![GRE Math Formulas 28.PNG](/blog/uploads/GRE%20Math%20Formulas%2028.PNG)
