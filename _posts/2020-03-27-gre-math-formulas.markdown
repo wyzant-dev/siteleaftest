@@ -1,7 +1,6 @@
 ---
 title: 'The Dirty Dozen: Do you Know these 12 Key GRE Math Formulas?'
 date: 2020-03-27 08:25:00 -05:00
-published: false
 categories:
 - GRE
 - Test Prep
