@@ -3,7 +3,15 @@ title: 'The Dirty Dozen: Do you Know these 12 Key GRE Math Formulas?'
 date: 2020-03-27 08:25:00 -05:00
 published: false
 author: Andrew Colford
+sub-headline: When is comes to GRE Quant, there are some formulas you just need to
+  have memorized.
 hero-image: "/blog/uploads/GRE%20Math%20Formulas.jpg"
+meta-description: You can get a high score by knowing the main GRE Math formulas that
+  come up over and over again on the Quantitative Reasoning Section. We review those
+  formulas in this blog to prepare you for test time.
+post-description: You can get a high score by knowing the main GRE Math formulas that
+  come up over and over again on the Quantitative Reasoning Section. We review those
+  formulas in this blog to prepare you for test time.
 ---
 
 In the movie *Catch Me if You Can*, Frank Abagnale (played by Leo DiCaprio) charms his way through life, impersonating a series of prestigious professionals--doctor, lawyer, airline pilot.
