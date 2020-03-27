@@ -50,7 +50,7 @@ To find the height, go to the point that’s NOT on the base (in this case, Y), 
 
 If the base is 6 and the height is 4, then I’d calculate the area of the triangle by doing ½ * 6 * 4 = 12.
 
-Obviously, this is a rather simple example.  When you come across more difficult material, however, it’s extremely helpful to have a tutor who can walk you through problems step by step!
+Obviously, this is a rather simple example.  When you come across more difficult material, however, it’s extremely helpful to [have a tutor](https://www.wyzant.com/GRE_tutors.aspx) who can walk you through problems step by step!
 
 ## 4. Pythagorean Theorem
 An oldie but a goodie.  This is a formula you learned back in 7th or 8th grade, and it’s probably still bouncing around in your noggin.  
@@ -76,7 +76,7 @@ This means that our formula is:
 
 ![GRE Math Formulas 11.PNG](/blog/uploads/GRE%20Math%20Formulas%2011.PNG)
 
-It’s pretty easy to confuse this with the formula for circumference (below).  To avoid doing that, think about this...what kind of units do you use in everyday life to measure area?  You’d talk about the square footage of a house, or the square mileage of a town, right?  So just remember that the formula with a square in it is area!
+It’s pretty easy to confuse this with the formula for circumference (below).  To avoid doing that, think about this...what kind of units do you use in everyday life to measure area?  You’d talk about the **square** footage of a house, or the **square** mileage of a town, right?  So just remember that the formula with a **square** in it is area!
 
 ## 6. Circumference of a circle
 The circumference of a circle is the distance all the way around the edge.  To calculate it, multiply the radius by 2π.
