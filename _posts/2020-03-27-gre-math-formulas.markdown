@@ -27,7 +27,7 @@ Now, maybe you’ve done this yourself on a smaller scale.  There’s certainly 
 
 When it comes to GRE quant, however, charm simply won’t cut it.  While you can learn some creative test-taking strategies, the bottom line is there are several formulas that you just plain have to know.  
 
-The good news is that the GRE is not as formula-heavy as say, the SAT.  You can get a very solid score by knowing the main GRE Math Formulas that come up over and over again on the Quantitative Reasoning Section.  So what we’re going to do here is review the 12 most important formulas that you need to know.  At the end, we’ll throw in a few more you’ll need if you’re looking for a particularly high score (160+).
+The good news is that the GRE is not as formula-heavy as say, [the SAT](https://www.wyzant.com/blog/sat-math-tips/).  You can get a very solid score by knowing the main GRE Math Formulas that come up over and over again on the Quantitative Reasoning Section.  So what we’re going to do here is review the 12 most important formulas that you need to know.  At the end, we’ll throw in a few more you’ll need if you’re looking for a particularly high score (160+).
 
 ## 1. Area of a rectangle (or square)
 This one’s about as simple as they come.  Let’s use the picture of the rectangle below, which has a length of “l” and width of “w”:
