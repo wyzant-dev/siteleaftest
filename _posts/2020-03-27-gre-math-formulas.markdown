@@ -10,7 +10,7 @@ tags:
 - Test Prep
 - Math
 author: Andrew Colford
-sub-headline: When is comes to GRE Quant, there are some formulas you just need to
+sub-headline: When it comes to GRE Quant, there are some formulas you just need to
   have memorized.
 hero-image: "/blog/uploads/GRE%20Math%20Formulas.jpg"
 meta-description: You can get a high score by knowing the main GRE Math formulas that
