@@ -2,6 +2,7 @@
 title: 'The Dirty Dozen: Do you Know these 12 Key GRE Math Formulas?'
 date: 2020-03-27 08:25:00 -05:00
 published: false
+author: Andrew Colford
 ---
 
 In the movie *Catch Me if You Can*, Frank Abagnale (played by Leo DiCaprio) charms his way through life, impersonating a series of prestigious professionals--doctor, lawyer, airline pilot.
