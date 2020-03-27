@@ -117,7 +117,7 @@ If we’re given the line y = 3x + 2, we immediately recognize that it matches t
 
 ![GRE Math Formulas 18.PNG](/blog/uploads/GRE%20Math%20Formulas%2018.PNG)
 
-9. Mean/Average:
+## 9. Mean/Average
 To calculate the mean or average (both terms mean the same thing), you want to add up all the terms and divide by the number of terms.  This means that the formula for finding the mean/average is:
 
 ![GRE Math Formulas 19.PNG](/blog/uploads/GRE%20Math%20Formulas%2019.PNG)
