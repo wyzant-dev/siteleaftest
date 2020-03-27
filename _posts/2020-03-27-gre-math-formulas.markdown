@@ -12,7 +12,7 @@ When it comes to GRE quant, however, charm simply won’t cut it.  While you can
 
 The good news is that the GRE is not as formula-heavy as say, the SAT.  You can get a very solid score by knowing the main GRE Math Formulas that come up over and over again on the Quantitative Reasoning Section.  So what we’re going to do here is review the 12 most important formulas that you need to know.  At the end, we’ll throw in a few more you’ll need if you’re looking for a particularly high score (160+).
 
-1. Area of a Rectangle (or Square):
+## 1. Area of a Rectangle (or Square):
 This one’s about as simple as they come.  Let’s use the picture of the rectangle below, which has a length of “l” and width of “w”:
 
 ![GRE Math Formulas 1.PNG](/blog/uploads/GRE%20Math%20Formulas%201.PNG)
@@ -25,5 +25,6 @@ You’ll notice that we’re excluding some of the more “exotic” quadrilater
 
 ![GRE Math Formulas 3.PNG](/blog/uploads/GRE%20Math%20Formulas%203.PNG)
 
-
+## 2. Perimeter (of any Polygon):
+The perimeter describes the sum of all the sides in a polygon.  So to find the perimeter of a triangle, add the three sides together.  To find the perimeter of a rectangle, add the four sides together.  Rather than memorize the individual perimeter formulas for each of these shapes, just use this “master” perimeter formula:
 
