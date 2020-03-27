@@ -4,7 +4,7 @@ date: 2020-03-27 08:25:00 -05:00
 published: false
 ---
 
-In the movie Catch Me if You Can, Frank Abagnale (played by Leo DiCaprio) charms his way through life, impersonating a series of prestigious professionals--doctor, lawyer, airline pilot.
+In the movie *Catch Me if You Can*, Frank Abagnale (played by Leo DiCaprio) charms his way through life, impersonating a series of prestigious professionals--doctor, lawyer, airline pilot.
 
 Now, maybe you’ve done this yourself on a smaller scale.  There’s certainly a time and place for “fake it till you make it!”
 
