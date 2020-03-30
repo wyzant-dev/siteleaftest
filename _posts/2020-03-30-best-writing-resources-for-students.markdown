@@ -5,6 +5,7 @@ published: false
 author: Jacqueline Zote
 sub-headline: Even with enough writing practice, most students still struggle to improve
   their writing skills.
+hero-image: "/blog/uploads/Best%20Writing%20Resources%20for%20Students.jpg"
 meta-description: Make the most of these resources for writers to run a grammar check,
   develop a better writing style, improve your essay organization, and more.
 post-description: Make the most of these resources for writers to run a grammar check,
