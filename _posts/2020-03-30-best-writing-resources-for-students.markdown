@@ -1,7 +1,6 @@
 ---
 title: 18 Best Writing Resources for Students
 date: 2020-03-30 07:59:00 -05:00
-published: false
 categories:
 - Writing
 - Online Learning
