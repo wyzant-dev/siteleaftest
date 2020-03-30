@@ -2,6 +2,12 @@
 title: 18 Best Writing Resources for Students
 date: 2020-03-30 07:59:00 -05:00
 published: false
+categories:
+- Writing
+- Online Learning
+tags:
+- Writing
+- Online Learning
 author: Jacqueline Zote
 sub-headline: Even with enough writing practice, most students still struggle to improve
   their writing skills. Luckily, the web has tons of resources available for use whenever,
@@ -96,5 +102,5 @@ It’s easy to get distracted and lose focus on your writing when there’s a lo
 ### 18: StayFocusd
 One of the easiest ways to get distracted from your writing projects is by spending time on entertainment websites and social media. Install the [StayFocusd extension](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) to your browser and limit the amount of time you spend on distracting websites. It lets you access them only for a certain amount of time and then blocks them for the rest of the day, allowing you to focus on writing your essay.
 
-## Bottom Line
+## Bottom line
 These are some of the best writing resources that will help students enhance their writing skills and knowledge as well as improve an existing piece of writing. Use the tools to guide your writing journey and the free learning resources to clarify any doubts or curiosities you might have. Most importantly, try working with a [private writing tutor](https://www.wyzant.com/writing_tutors.aspx) to address your unique weaknesses and improve your overall writing skills.
