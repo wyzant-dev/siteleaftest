@@ -17,7 +17,7 @@ So check out these 18 writing resources and tools that will help you write bette
 
 ## To improve writing skills and style
 
-These resources will help you engage on a deeper level with your writing while helping you identify common problems with your work and ways to correct them.
+These resources will get you engaged on a deeper level with your writing, while helping you identify common problems with your work and ways to correct them.
 
 ### 1: Hemingway Editor
 One of the leading free writing tools, the [Hemingway Editor](http://www.hemingwayapp.com/) helps you improve the readability of your essays. Besides pointing out common errors, this writing software will highlight lengthy and complex sentences that make your essay difficult to read and understand. It suggests simpler alternatives to complex words and phrases and counts your adverb and passive voice usage, letting you know when it’s too excessive.
