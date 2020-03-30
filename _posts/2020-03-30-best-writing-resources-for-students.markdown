@@ -10,6 +10,8 @@ So check out these 18 writing resources and tools that will help you write bette
 
 ## To improve writing skills and style
 
+These resources will help you engage on a deeper level with your writing while helping you identify common problems with your work and ways to correct them.
+
 ### 1: Hemingway Editor
 One of the leading free writing tools, the [Hemingway Editor](http://www.hemingwayapp.com/) helps you improve the readability of your essays. Besides pointing out common errors, this writing software will highlight lengthy and complex sentences that make your essay difficult to read and understand. It suggests simpler alternatives to complex words and phrases and counts your adverb and passive voice usage, letting you know when it’s too excessive.
 
@@ -36,6 +38,8 @@ If an assignment ever calls for a poem and you want to follow a certain rhyme sc
 
 ## Writing resources for proofreading and grammar
 
+Before submitting a research paper, essay, email, manuscript, or any other written document, it is important to carefully proofread it. These resources can help get your work into tip-top shape.
+
 ### 7: Grammarly
 One of the best and most popular free writing tools, [Grammarly](https://app.grammarly.com/) automatically detects [common grammatical errors](https://www.wyzant.com/blog/common-grammar-mistakes/) and punctuation mistakes as you write. You can install the extension to your browser, Microsoft Office suite, or desktop and enable easy proofreading and editing. Plus, the Grammarly Keyboard is one of the best writing apps for iPad or iPhone, in case you regularly work on your tablet or mobile. 
 
@@ -49,6 +53,9 @@ If you’re looking for a Grammarly alternative, this is another useful tool for
 If Proofreading Tool doesn’t meet your needs, you also have the option to use [Typely](https://editor.typely.com/) instead. Enter your text into the editor and the tool will give you a detailed report of all the issues it detected. In addition, it also gives you stats about your writing, which includes reading difficulty level, sentiment analysis, and reading time.
 
 ## Note-taking resources
+
+When you're researching for your writing project, taking notes helps you concentrate and process information. In order to take the best notes (read: useful, easy-to-follow notes), you must understand your source materials. Just like listening and reading are interactive tasks, taking notes allows you to organize and stay focused.
+
 ### 11: Evernote
 Taking notes is crucial for students, as you need detailed and organized notes to [write powerful research papers](https://www.wyzant.com/blog/how-to-write-a-research-paper/) and essays. If you want to know how to take notes more effectively, it’s all about the tools you use. [Evernote](https://evernote.com/) helps you take notes, add necessary attachments and resources, and organize them so you can easily find them again when you need them. 
 
@@ -56,6 +63,9 @@ Taking notes is crucial for students, as you need detailed and organized notes t
 An excellent alternative to Evernote is [Notability](https://www.gingerlabs.com/) from Ginger Labs. This writing resource simplifies the process of taking notes and organizing them. It lets you create a note using a combination of handwriting, typing, and photos. It comes with built-in note-taking and sketching tools and lets you add and annotate PDFs.
 
 ## Resources to help organize ideas
+
+In your writing you need to make your ideas not only clear for yourself, but also for your readers. Organization is a matter of balancing your ideas, determining the most effective ways to relaying information, and how you convey it all to your readers.
+
 ### 13: Essay Outline Templates – Template Lab
 One of the most challenging steps in essay writing is the part where you [develop an essay outline](https://www.wyzant.com/blog/how-to-write-an-essay-outline/). Of course, you might already have a fair idea of what you want to write but you’re not sure exactly how to turn those ideas into an outline. To make this process easier, Template Lab offers [30+ essay outline templates](http://templatelab.com/essay-outline-template/) that you can use as examples.
 
