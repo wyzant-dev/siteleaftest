@@ -42,7 +42,7 @@ Your personal writing tutor will help you learn the basics such as how to improv
 ### 3: Thesaurus.com Writing Tool
 Even if you have the basics down pat, there’s another challenge in the form of word choice. To present an exceptional paper, you want to avoid using overused and common words. At the same time, you want to make sure that you don’t overcomplicate your writing with jargon and overly complex words. [The Writing Tool](https://www.thesaurus.com/writingtool) from Thesaurus.com provides you with a solution to this dilemma.
 
-Enter your essay into the tool and hove your cursor over the words you want to swap, and you’ll have the option to look up synonyms for them. This simplifies the process of swapping words with better alternatives to improve your writing.
+Enter your essay into the tool and hover your cursor over the words you want to swap, and you’ll have the option to look up synonyms for them. This simplifies the process of swapping words with better alternatives to improve your writing.
 
 ### 4: Cliché Finder
 Similarly, the [Cliché Finder](http://www.clichefinder.net/) also provides you with an excellent writing resource to avoid overused phrases that can make your writing look weak. In addition, it’ll also provide you with suggestions to replace certain words with stronger alternatives. 
