@@ -41,7 +41,7 @@ We are currently creating a new, updated “how to” tutorial to walk users thr
 
 ### Can we use other platforms (Zoom, Skype) for online lessons?
  
-Other online platforms such as Zoom or Skype can be used if necessary; however Wyzant’s tool offers a host of powerful features such as lesson recordings, a code editor, the ability to upload documents and images, and an interactive whiteboard. By using Wyzant’s platform your students will receive important reminders to join their lessons, as well as an easy way to reliably communicate and stay connected with their tutors via Wyzant messaging. If you need help getting started or have difficulty, please [contact Customer Support](https://support.wyzant.com/hc/en-us/articles/115005841543-Contact-Us).  There are also several articles in the [Help Center](https://support.wyzant.com/hc/en-us/categories/115000080386-Online) that can provide guidance.
+Other online platforms such as Zoom or Skype can be used if necessary; however Wyzant’s tool offers a host of powerful features such as lesson recordings, a code editor, the ability to upload documents and images, and an interactive whiteboard. By using Wyzant’s platform your students will receive important reminders to join their lessons, as well as an easy way to reliably communicate and stay connected with you via Wyzant messaging. If you need help getting started or have difficulty, please [contact Customer Support](https://support.wyzant.com/hc/en-us/articles/115005841543-Contact-Us).  There are also several articles in the [Help Center](https://support.wyzant.com/hc/en-us/categories/115000080386-Online) that can provide guidance.
 
 
 ### How do free online demo lessons work, and how can tutors offer it to prospective students? 
