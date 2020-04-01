@@ -2,7 +2,8 @@
 title: 'Watch: Wyzant Webinar with CEO Andrew Geant - 3/26/2020'
 date: 2020-04-01 11:49:00 -05:00
 published: false
-sub-headline: 'The challenges we''re all facing '
+sub-headline: We hosted a live webinar to connect with the tutor community on Wyzant.
+  Watch it here.
 hero-image: "/blog/uploads/Wyzant%20Webinar%20March%202020.jpg"
 meta-description: Wyzant CEO Andrew Geant was joined by nearly 600 tutors in a discussion
   about education challenges we're all facing, and what Wyzant is doing to help.
