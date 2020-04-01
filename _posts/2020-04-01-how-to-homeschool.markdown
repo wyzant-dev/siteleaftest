@@ -6,6 +6,7 @@ author: Jonathan Reidenouer
 sub-headline: 'While your kids are dealing with the significant stress of having to
   learn in an unfamiliar manner, you are likely feeling the pressure of trying to
   oversee their education. '
+hero-image: "/blog/uploads/How%20to%20Homeschool.jpg"
 ---
 
 March 2020 may very well go down as the “longest” month in our lives. The degree of change in our day-to-day existence from the beginning of March to the beginning of April is staggering. Many people are unable to work at all due to the closing of non-essential businesses, while others have been forced to work remotely from home. Since schools and colleges are shut down as well, education has joined employment in the pivot to online interaction and communication.
