@@ -64,7 +64,7 @@ We’re also working hard to bring new students to the Wyzant platform via our s
 ### Can we use Wyzant to tutor outside the USA? 
 Definitely!  Assistance can be provided to students who do not reside in the United States. Please keep in mind (and communicate) about [time zone differences](https://support.wyzant.com/hc/en-us/articles/115005074026-How-do-time-zones-work-with-online-lessons-) when scheduling to avoid any confusion.  Also, Wyzant’s payment processor does not currently support international credit cards, but these students can use PayPal as a payment method.
 
-Currently Wyzant cannot list or host accounts for tutors who do not reside within the United States.
+Currently, Wyzant cannot list or host accounts for tutors who do not reside within the United States.
 
 ### I have been getting new student requests on Wyzant asking for direct help with tests and quizzes. How can tutors address this? 
 
