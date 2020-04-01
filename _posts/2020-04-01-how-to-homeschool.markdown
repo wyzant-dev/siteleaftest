@@ -31,7 +31,7 @@ Of course, there are certain things that you would need to have on hand now that
 
 Just as what you are doing at home isn’t the regular format kids are used to, what teachers are doing now isn’t the normal routine either. They are used to teaching in a classroom, not through an electronic connection. Many of them have never created a video lesson or an online assessment, so they are experiencing similar anxiety to that you’re feeling. Everyone involved—students, teachers, and parents—need to extend grade to one another in order for all of us to get through this trying period. 
 
-##3. Reach out to an expert tutor when you need help
+## 3. Reach out to an expert tutor when you need help
 Even the most experienced of homeschooling parents will acknowledge that they can’t do it all. They can usually keep it up for a while, but eventually some subject comes along that either they can’t teach effectively or their children can’t learn on their own. But unlike those veteran homeschoolers, you don’t have the network, resources, and proven strategies they do—meaning you’ll come to the end of your pedagogical rope a lot sooner. That’s when it’s time to contact a professional online tutor. 
 
 Much of the time, it’s math that causes both students and parent to despair—particularly within the context we’re all experiencing now. When looking for that perfect math tutor, you will undoubtedly have lots of questions. Thankfully, there are good resources out there to help [answer those questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), including what you need to know about the [cost of tutoring](https://www.wyzant.com/blog/cost-of-tutoring/). 
