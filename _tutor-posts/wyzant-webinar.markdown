@@ -2,6 +2,10 @@
 title: 'Watch: Wyzant Webinar with CEO Andrew Geant - 3/26/2020'
 date: 2020-04-01 11:49:00 -05:00
 published: false
+categories:
+- online tutoring
+tags:
+- Online Tutoring
 sub-headline: We hosted a live webinar to connect with the tutor community on Wyzant.
   Watch it here.
 hero-image: "/blog/uploads/Wyzant%20Webinar%20March%202020.jpg"
@@ -78,4 +82,4 @@ We posted some information about [how to spot spam requests](https://www.wyzant.
 For privacy reasons, full user names are not listed on the site and as a result, are not searchable.  If looking for a specific tutor, students can contact Customer Support for assistance.  
 
 ### It would be great to have a chat on the site just for tutors. 
-The Wyzant Tutor Forums are a great place to connect with fellow tutors. Tutors listed on Wyzant can exchange ideas, share what they’re experiencing during this unpredictable time, and chat with their fellow educators. 
+The [Wyzant Tutor Forums](https://www.wyzant.com/resources/forums) are a great place to connect with fellow tutors. Tutors listed on Wyzant can exchange ideas, share what they’re experiencing during this unpredictable time, and chat with their fellow educators. 
