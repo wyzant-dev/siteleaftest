@@ -1,7 +1,12 @@
 ---
 title: 'How to Homeschool: 8 Important Tips from a Professional Tutor'
 date: 2020-04-01 14:39:00 -05:00
-published: false
+categories:
+- Homeschool
+- Online Learning
+tags:
+- Homeschool
+- Online Learning
 author: Jonathan Reidenouer
 sub-headline: 'While your kids are dealing with the significant stress of having to
   learn in an unfamiliar manner, you are likely feeling the pressure of trying to
