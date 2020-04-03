@@ -2,6 +2,7 @@
 title: 6 Common Mistakes to Avoid When Studying for the GRE
 date: 2020-04-03 09:46:00 -05:00
 published: false
+author: Andrew Colford
 hero-image: "/blog/uploads/Common%20Mistakes%20in%20Studying%20for%20the%20GRE.jpg"
 ---
 
