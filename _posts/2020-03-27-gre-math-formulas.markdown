@@ -25,7 +25,7 @@ In the movie *Catch Me if You Can*, Frank Abagnale (played by Leo DiCaprio) char
 
 Now, maybe you’ve done this yourself on a smaller scale.  There’s certainly a time and place for “fake it till you make it!”
 
-When it comes to GRE quant, however, charm simply won’t cut it.  While you can learn some creative test-taking strategies, the bottom line is there are several formulas that you just plain have to know.  
+When it comes to GRE quant, however, charm simply won’t cut it, and there are lots of [common mistakes](https://www.wyzant.com/blog/gre-prep/) made when prepping for the test.  While you can learn some creative test-taking strategies, the bottom line is there are several formulas that you just plain have to know.  
 
 The good news is that the GRE is not as formula-heavy as say, [the SAT](https://www.wyzant.com/blog/sat-math-tips/).  You can get a very solid score by knowing the main GRE Math Formulas that come up over and over again on the Quantitative Reasoning Section.  So what we’re going to do here is review the 12 most important formulas that you need to know.  At the end, we’ll throw in a few more you’ll need if you’re looking for a particularly high score (160+).
 
