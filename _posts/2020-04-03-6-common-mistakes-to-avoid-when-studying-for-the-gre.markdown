@@ -8,13 +8,13 @@ published: false
 
 When embarking on a grand project like building a bridge--or studying for graduate school admissions tests like the GRE--small errors in the process can have large consequences down the road.  When deciding how to study for the GRE, it’s important to avoid bad habits and common mistakes.  Take a look at a few of them below!
 
-Mistake 1: Studying without Preparing
+## Mistake 1: Studying without Preparing
 
 You know the Pythagorean theorem cold, and you’ve practiced on hundreds of reading passages.  So you show up on test day ready to rock the GRE’s socks, but things don’t quite go as planned.  First, you have to wait for 20 minutes while the person checking in ahead of you sorts out a paperwork issue with his GRE registration.  Then, the test center administrator is inexplicably rude to you.  After being patted down for contraband (yes, this actually happens), you walk uncomfortably into the test room and see dozens of test-takers all working on different exams.  People are coming and going.  You start the test with a full hour of GRE Analytical Writing, which you haven’t really been practicing (after all, the essays don’t really matter).  Now it’s time for the most important sections on the GRE--Verbal and Quantitative Reasoning--but you’re exhausted and famished!  Should have brought a snack...The next few hours are a blur.  Finally the test is over, and you have no idea if you should even choose to see your GRE scores.
 
 In the immortal words of Mike Tyson, everyone has a plan until they get punched in the mouth (if you’d prefer a more literary quip, see the one from Robert Burns about mice and men).  The point here is that you must be prepared for a few extra layers of stress on test day.  How do you do this?  First, be sure to simulate the testing environment while you practice.  This means that rather than holing up in the comfort of your own room with a nice cup of cocoa, study at the library, where you’ll have to deal with the kind of minor distractions that come up on test day.  If you have a friend who recently took the test, ask him or her about the logistics (do NOT ask about actual test material—that will get you in trouble).  If you have several testing centers to choose from in your city, take a look at online reviews to determine which one has the best reputation.
 
-Mistake 2: The Infinite Practice Loop
+## Mistake 2: The Infinite Practice Loop
 Many students complete a practice set, get frustrated at the results, and immediately take another to try and feel better.  Before long, they’ve exhausted all of the good practice material, and they’re scraping the bottom of the barrel.
 
 A much more productive use of your time involves carefully reviewing the errors you’ve already made.  Here’s what that looks like:
@@ -29,7 +29,7 @@ Facing your own silly mistakes is the equivalent of burning your finger on the s
 
 And speaking of exhausting good practice material...be sure to treat the official PowerPrep GRE practice tests like the rare resources that they are.  Remember that you only get two free PowerPrep tests.  The other two cost about $40 each!
 
-Mistake 3: The Walking Dictionary
+## Mistake 3: The Walking Dictionary
 
 Fully half of the questions on the Verbal section are Text Completion or Sentence Equivalence.  So that means you’re going to have to memorize thousands of new words in the next few weeks, right?
 
@@ -49,7 +49,7 @@ First off, are we talking about a good smell or a bad smell?  Clearly bad, as Jo
 
 Thus, in your vocabulary studying, you should favor quantity over quality.  If you have a pack of GRE vocab flashcards, crack it out once a week and read through it.  But don’t waste your time trying to commit all of the words to memory.
 
-Mistake 4: Binge Studying
+## Mistake 4: Binge Studying
 
 The GRE is an important test.  So important that some students decide they will do nothing but study for several weeks.  They take time off work.  They have 8 hour marathon study sessions.  They neglect social niceties like cutting their fingernails.  
 
@@ -57,7 +57,7 @@ The problem with the above approach (aside from hygiene considerations) is that 
 
 This means that rather than doing practice for the sake of practice, you want to be intentional about it.  Don’t fall into an infinite practice loop (see Mistake #2).  Instead, identify exactly which content areas and question formats you’re struggling with, and focus on those.
 
-Mistake 5: Misusing Tutoring Sessions
+## Mistake 5: Misusing Tutoring Sessions
 
 A knowledgeable, patient GRE tutor can be a lifesaver.  However, many students use tutors as a crutch: They’ll go into tutoring sessions with a laundry list of missed problems and ask for a step-by-step demonstration of how to solve them.  Since tutors are generally helpful people who enjoy GRE questions, they will likely oblige.  While this dynamic might feel productive in the moment, it will not help you long-term.
 
@@ -65,7 +65,7 @@ You should view your tutoring sessions as the “tip of the spear”--precious t
 
 Of course, this doesn’t mean that you should never go over questions with your tutor.  But you should only review those you are unable to figure out yourself after multiple attempts.  Consider how cases are triaged in medicine: Does every sprained pinky toe need to go straight to the operating room?  No.  Certain situations are more urgent than others.  It’s a waste of time to have your tutor explain a problem for 3 minutes, only to find that you simply forgot to distribute a negative!
 
-Mistake 6: Premature focus on the Clock
+## Mistake 6: Premature focus on the clock
 There’s no way around it--the GRE is a timed test.  You’ll have less than two minutes per question on the Verbal and Quantitative Reasoning sections.  Knowing this, you might want to immediately break out the stopwatch and time every practice set you take.  However, this is not a great idea--at least, not at first.
 
 When training for a sport like track or weightlifting, you always start with form.  It is crucial to know how to perform a movement well before attempting to do it quickly.  A premature focus on speed can lead to injury!
