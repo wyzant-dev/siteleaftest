@@ -25,7 +25,7 @@ A much more productive use of your time involves carefully reviewing the errors 
 * For the problems you can’t self-correct, carefully read through the answer explanations.  
 * Identify whether your mistakes fall under one content area or question format (e.g, Geometry Quantitative Comparison questions).  * Keep the focus of future practice on those question types.
 
-Facing your own silly mistakes is the equivalent of burning your finger on the stove.  It’s something you have to experience tangibly--not just intellectually--to avoid repeating in the future.  Obviously, this is one of the most frustrating ways to study.  It’s also one of the most effective.  Like any skill or mindset in life, success on the GRE hinges on self-reflection and self-evaluation.  If that seems daunting, you might consider working with a tutor who can provide some more analysis on your performance.
+Facing your own silly mistakes is the equivalent of burning your finger on the stove.  It’s something you have to experience tangibly--not just intellectually--to avoid repeating in the future.  Obviously, this is one of the most frustrating ways to study.  It’s also one of the most effective.  Like any skill or mindset in life, success on the GRE hinges on self-reflection and self-evaluation.  If that seems daunting, you might consider [working with a tutor](https://www.wyzant.com/GRE_tutors.aspx) who can provide some more analysis on your performance.
 
 And speaking of exhausting good practice material...be sure to treat the official PowerPrep GRE practice tests like the rare resources that they are.  Remember that you only get two free PowerPrep tests.  The other two cost about $40 each!
 
@@ -61,7 +61,7 @@ This means that rather than doing practice for the sake of practice, you want to
 
 A knowledgeable, patient GRE tutor can be a lifesaver.  However, many students use tutors as a crutch: They’ll go into tutoring sessions with a laundry list of missed problems and ask for a step-by-step demonstration of how to solve them.  Since tutors are generally helpful people who enjoy GRE questions, they will likely oblige.  While this dynamic might feel productive in the moment, it will not help you long-term.
 
-You should view your tutoring sessions as the “tip of the spear”--precious time to cover new material and focus on higher-level concepts.  To that end, make sure that every meeting with your tutor has at least a rough agenda beforehand.  Make it clear to the tutor which areas are giving you trouble so that he or she can prepare a detailed lesson.
+You should view your tutoring sessions as the “tip of the spear”--precious time to cover new material and focus on higher-level concepts.  To that end, make sure that every meeting with your tutor has at least a rough agenda beforehand.  Make it clear to the tutor which areas are giving you trouble so that he or she can prepare a detailed lesson - if you need help with [GRE math](https://www.wyzant.com/blog/gre-math-formulas/), ask for it.
 
 Of course, this doesn’t mean that you should never go over questions with your tutor.  But you should only review those you are unable to figure out yourself after multiple attempts.  Consider how cases are triaged in medicine: Does every sprained pinky toe need to go straight to the operating room?  No.  Certain situations are more urgent than others.  It’s a waste of time to have your tutor explain a problem for 3 minutes, only to find that you simply forgot to distribute a negative!
 
@@ -72,6 +72,4 @@ When training for a sport like track or weightlifting, you always start with for
 
 At the start of your GRE journey, you should primarily be concerned with accuracy, no matter how long a question takes you.  Taking problems slowly at first will allow you to think creatively without the added stress of the clock.  Once you start hitting your score goals on practice sets, you can add in that pressure. Until then, though, keep it slow and steady.
 
-CONCLUSION
-
-Take the lesson from the two Laufenburgs--a little misstep can derail a huge project.  The GRE is one of the most important grad school requirements.  As you build the bridge that will carry you toward test day success and formulate a GRE study plan, be sure to avoid the common mistakes above!
+Take the lesson from the two Laufenburgs - a little misstep can derail a huge project.  The GRE is one of the most important grad school requirements.  As you build the bridge that will carry you toward test day success and formulate a GRE study plan, be sure to avoid the common mistakes above!
