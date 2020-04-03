@@ -60,7 +60,7 @@ This means that rather than doing practice for the sake of practice, you want to
 
 ## Mistake 5: Misusing Tutoring Sessions
 
-A knowledgeable, patient GRE tutor can be a lifesaver.  However, many students use tutors as a crutch: They’ll go into tutoring sessions with a laundry list of missed problems and ask for a step-by-step demonstration of how to solve them.  Since tutors are generally helpful people who enjoy GRE questions, they will likely oblige.  While this dynamic might feel productive in the moment, it will not help you long-term.
+A knowledgeable, patient GRE tutor can be a lifesaver.  However, many students use tutors as a crutch: They’ll go into [tutoring sessions](https://www.wyzant.com/GRE_tutors.aspx) with a laundry list of missed problems and ask for a step-by-step demonstration of how to solve them.  Since tutors are generally helpful people who enjoy GRE questions, they will likely oblige.  While this dynamic might feel productive in the moment, it will not help you long-term.
 
 You should view your tutoring sessions as the “tip of the spear”--precious time to cover new material and focus on higher-level concepts.  To that end, make sure that every meeting with your tutor has at least a rough agenda beforehand.  Make it clear to the tutor which areas are giving you trouble so that he or she can prepare a detailed lesson - if you need help with [GRE math](https://www.wyzant.com/blog/gre-math-formulas/), ask for it.
 
