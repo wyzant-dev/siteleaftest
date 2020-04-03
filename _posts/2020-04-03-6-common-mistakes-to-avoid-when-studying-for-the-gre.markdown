@@ -2,6 +2,7 @@
 title: 6 Common Mistakes to Avoid When Studying for the GRE
 date: 2020-04-03 09:46:00 -05:00
 published: false
+hero-image: "/blog/uploads/Common%20Mistakes%20in%20Studying%20for%20the%20GRE.jpg"
 ---
 
 2003 should have been an auspicious year for the twin border towns of Laufenburg, Germany and Laufenburg, Switzerland.  Separated by the Rhine River, the two municipalities had jointly begun construction on a bridge that would meet in the middle.  But as the two sides approached each other, it became apparent that one half was taller than the other.  The problem?  Both teams had used “sea level” to determine the height of the bridge, but they had used different seas!  The Germans used the North Sea, while the Swiss used the Mediterranean.  Although the engineers were aware of this difference, they had made a calculation error when trying to account for it.
