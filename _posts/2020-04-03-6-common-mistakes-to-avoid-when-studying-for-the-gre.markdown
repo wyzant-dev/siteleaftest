@@ -17,7 +17,7 @@ In the immortal words of Mike Tyson, everyone has a plan until they get punched 
 ## Mistake 2: The Infinite Practice Loop
 Many students complete a practice set, get frustrated at the results, and immediately take another to try and feel better.  Before long, they’ve exhausted all of the good practice material, and they’re scraping the bottom of the barrel.
 
-A much more productive use of your time involves carefully reviewing the errors you’ve already made.  Here’s what that looks like:
+A much more [productive use of your time](https://www.wyzant.com/blog/time-management-strategies/) involves carefully reviewing the errors you’ve already made.  Here’s what that looks like:
 
 * Take a timed practice set/practice test
 * Mark the questions you miss
