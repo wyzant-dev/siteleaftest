@@ -38,8 +38,8 @@ Many students complete a practice set, get frustrated at the results, and immedi
 
 A much more [productive use of your time](https://www.wyzant.com/blog/time-management-strategies/) involves carefully reviewing the errors you’ve already made.  Here’s what that looks like:
 
-* Take a timed practice set/practice test
-* Mark the questions you miss
+* Take a timed practice set/practice test.
+* Mark the questions you miss.
 * Re-attempt those questions without looking at the correct answers.
 * For the problems you can’t self-correct, carefully read through the answer explanations.  
 * Identify whether your mistakes fall under one content area or question format (e.g, Geometry Quantitative Comparison questions).
