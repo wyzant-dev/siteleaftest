@@ -60,7 +60,7 @@ The iconic [New York City museum](https://artsandculture.google.com/partner/the-
 
 **Van Gogh Museum, Amsterdam, Netherlands**
 
-Vincent Van Gogh is a favorite of many art fans of all ages. With over 200 paintings by Vincent van Gogh, 500 drawings and more than 750 letters, [The Van Gogh Museum](https://artsandculture.google.com/partner/van-gogh-museum?hl=en) in Amsterdam houses the largest collection of artworks by Vincent van Gogh in the world.
+Vincent van Gogh is a favorite of many art fans of all ages. With over 200 paintings by Vincent van Gogh, 500 drawings and more than 750 letters, [The Van Gogh Museum](https://artsandculture.google.com/partner/van-gogh-museum?hl=en) in Amsterdam houses the largest collection of artworks by Vincent van Gogh in the world.
 
 **Uffizi Gallery, Florence, Italy**
 
