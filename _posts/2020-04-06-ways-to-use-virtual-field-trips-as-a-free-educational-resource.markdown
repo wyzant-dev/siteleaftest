@@ -9,7 +9,7 @@ tags:
 author: Lauren Harsh
 ---
 
-Where do field trips stand with school closings and closings of most public places? With teachers converting classes to online formats and parents cramming to figure out how to homeschool, they probably aren’t a priority. They don’t have to be out of the question entirely. With the magic of the internet and virtual reality, field trips can be a fun, enriching part of an at-home learning strategy that includes lessons, learning through play, and tutoring. 
+Amidst school cancellations and closings of most public places, where do field trips stand? With teachers converting classes to online formats and parents scrambling to figure out how to homeschool, they probably aren’t a priority. But field trips don’t have to be out of the question entirely. With the magic of the internet and virtual reality, as well as the ingenuity of content creators all over the world, field trips can be a fun, enriching part of an at-home learning strategy that includes lessons, learning through play, and tutoring. 
 
 ## What is a Virtual Field Trip? 
 
@@ -17,11 +17,11 @@ Virtual field trips have been in some families’ arsenals of homeschooling acti
 
 ## Using virtual field trips as an education tool
 
-No matter which type of online tour you’re doing, supplementing them with your own activities can bring home the connection to what they’re learning. Many sites have a tab for educational activities and teaching tools, but others do not.
+No matter which type of online tour you’re doing, supplementing it with your own activities can drive home the connection to what your student is learning. Many sites have a tab for educational activities and teaching tools, which make it easy to find related activities and dicussions.
 
-For example: a virtual zoo field trip is a great idea for young students learning about animals. Though simply playing the video is great if you need productive ideas on how to keep kids busy, it may have limited educational value. The trip could help with spelling by asking your student to write down the names of all the animals they saw, or with math by asking for a total of big cats and bears.
+For example: a virtual zoo field trip is a great idea for young students learning about animals. Though simply playing the video is great if you need to keep the kids busy, it may have limited educational value. The trip could help with spelling, by asking your student to write down the names of all the animals they saw; or with math, by asking for a total of big cats and bears.
 
-A virtual museum field trip is an obvious choice for older students learning about art history, but the suggested activities could make it beneficial for younger children as well. 
+A virtual museum field trip is an obvious choice for older students learning about art history, but the suggested activities that many museums supply can make it beneficial for younger children as well. 
 
 Consider the information you have about what subjects your student is learning, concepts that need reinforcing, and their education goals to find creative ways to use virtual field trips as a fun and educational time. Here are a few ideas:
 
@@ -35,21 +35,21 @@ Having your child create a postcard from the place they visited is a creative, f
 
 ### Scavenger hunt
 
-Go through the virtual trip yourself before the kids do and take note of any interesting landmarks you find. Then, challenge the kids to find each item on the list. If you have multiple children, a little friendly competition could sweeten the deal. This could also be a fun way to compete/collaborate virtually with your child’s peers. 
+Go through the virtual trip yourself before your kids do and take note of any interesting landmarks you find. Then, challenge the kids to find each item on the list. If you have multiple children, a little friendly competition could sweeten the deal. This can also be a fun way to compete/collaborate virtually with your child’s peers. 
 
 ## Virtual field trip ideas
 
-Several sites of historic, cultural, and scientific significance had webcams and virtual field trip programs to begin with, but many others have created new ones after closing to visitors for the crisis. The options are not limited to museums and zoos. Virtual field trips can take you and your family to a national park, international destinations, and even outer space. Browse this list by category as a starting point. 
+Several sites of historic, cultural, and scientific significance had webcams and virtual field trip programs, but many others have created new ones after closing to visitors during the COVID-19 crisis. The options aren't limited to just museums and zoos! Virtual field trips can take you and your family to a national park, international destinations, and even outer space. Browse this list by category to find a few that could work for your at-home students. 
 
-Museums
+### Museums
 
-Metropolitan Museum of Art
+**Metropolitan Museum of Art**
 
-The iconic New York City museum features over 5,000 years of art from around the world. Since 1870, it has self described as a place where “art comes alive” 
+The iconic [New York City museum](https://artsandculture.google.com/partner/the-metropolitan-museum-of-art) features over 5,000 years of art from around the world. Since 1870, it has self-described as a place where “art comes alive.” 
 
-Van Gogh Museum, Amsterdam, Netherlands
+**Van Gogh Museum, Amsterdam, Netherlands**
 
-Vincent Van Gogh is a favorite of many art fans of all ages. With over 200 paintings by Vincent van Gogh, 500 drawings and more than 750 letters, The Van Gogh Museum in Amsterdam houses the largest collection of artworks by Vincent van Gogh in the world.
+Vincent Van Gogh is a favorite of many art fans of all ages. With over 200 paintings by Vincent van Gogh, 500 drawings and more than 750 letters, [The Van Gogh Museum](https://artsandculture.google.com/partner/van-gogh-museum?hl=en) in Amsterdam houses the largest collection of artworks by Vincent van Gogh in the world.
 
 Uffizi Gallery, Florence, Italy
 
