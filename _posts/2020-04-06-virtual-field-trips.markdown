@@ -29,7 +29,7 @@ Consider the information you have about what subjects your student is learning, 
 
 ### Create a Presentation
 
-Assigning a creative presentation is a great way to encourage your children to reflect on what they learned from the virtual trip, what they liked best, and what they would like to learn more about. Invite your kids to be creative and use what they like to do. If your child likes acting, they could perform a skit. If your child likes art, they could incorporate drawing or making a diorama. If your child likes creative writing, it could take the form of a short story. 
+Assigning a creative presentation is a great way to encourage your children to reflect on what they learned from the virtual trip, what they liked best, and what they would like to learn more about. Invite your kids to be creative and use what they like to do. If your child likes acting, they could perform a skit. If your child likes art, they could incorporate drawing or making a diorama. If your child likes [creative writing](https://www.wyzant.com/blog/best-writing-resources-for-students/), it could take the form of a short story. 
 
 ### Write a postcard
 
