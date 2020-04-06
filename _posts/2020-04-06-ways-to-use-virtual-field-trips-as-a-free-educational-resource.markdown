@@ -51,24 +51,23 @@ The iconic [New York City museum](https://artsandculture.google.com/partner/the-
 
 Vincent Van Gogh is a favorite of many art fans of all ages. With over 200 paintings by Vincent van Gogh, 500 drawings and more than 750 letters, [The Van Gogh Museum](https://artsandculture.google.com/partner/van-gogh-museum?hl=en) in Amsterdam houses the largest collection of artworks by Vincent van Gogh in the world.
 
-Uffizi Gallery, Florence, Italy
+**Uffizi Gallery, Florence, Italy**
 
-Founded in 1560, Uffizi Gallery is the definitive home of Italian Renaissance and Baroque art. The online experience allows you to view individual pieces and virtually walk through the museum. 
+Founded in 1560, [Uffizi Gallery](https://artsandculture.google.com/partner/uffizi-gallery?hl=en) is the definitive home of Italian Renaissance and Baroque art. The online experience allows you to view individual pieces and virtually walk through the museum. 
 
+**National Museum of Natural History, Smithsonian, Washington, DC**
 
-National Museum of Natural History, Smithsonian, Washington, DC
+Unlike the previous three mentioned museums, this tour is part of the museum’s website, not Google Arts and Culture. It allows you to take a [room-by-room tour](https://naturalhistory.si.edu/visit/virtual-tour) of select exhibits, including past exhibits. 
 
-Unlike the previous three mentioned museums, this tour is part of the museum’s website, not Google Arts and Culture. It allows you to take a room-by-room tour of select exhibits, including past exhibits. 
+### Zoos
 
-Zoos
+**The San Diego Zoo**
 
-The San Diego Zoo
+[The San Diego Zoo](https://kids.sandiegozoo.org/videos) kids site includes cameras on their ape, baboon, condor, elephant, giraffe, koala, panda, owl,  penguin, polar bear, and tiger exhibits. The site also includes fun activities for kids like stories that describe life behind the scenes at the zoo, arts and crafts, and animal-themed games. 
 
-The San Diego Zoo kids site includes cameras on their ape, baboon, condor, elephant, giraffe, koala, panda, owl,  penguin, polar bear, and tiger exhibits. The site also includes fun activities for kids like stories that describe life behind the scenes at the zoo, arts and crafts, and animal-themed games. 
+**The Georgia Aquarium**
 
- The Georgia Aquarium
-
-The Georgia Aquarium in Atlanta’s most popular webcam focuses on the beluga whales, but they also have cameras on their piranha, sea otter, ocean voyager, gator crossing, and African penguin exhibits. They live stream piranha feedings 2PM EDT on Saturdays, Sundays, and Thursdays. The at-home learning page contains a variety of ways to turn a viewing of the videos into a full-blown field trip. 
+The [Georgia Aquarium](https://www.georgiaaquarium.org/webcam/beluga-whale-webcam/) in Atlanta’s most popular webcam focuses on the beluga whales, but they also have cameras on their piranha, sea otter, ocean voyager, gator crossing, and African penguin exhibits. They live stream piranha feedings 2PM EDT on Saturdays, Sundays, and Thursdays. The at-home learning page contains a variety of ways to turn a viewing of the videos into a full-blown field trip. 
 
  The Monterey Bay Aquarium
 
