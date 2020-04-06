@@ -21,7 +21,7 @@ Virtual field trips have been in some families’ arsenals of homeschooling acti
 
 No matter which type of online tour you’re doing, supplementing it with your own activities can drive home the connection to what your student is learning. Many sites have a tab for educational activities and teaching tools, which make it easy to find related activities and dicussions.
 
-For example: a virtual zoo field trip is a great idea for young students learning about animals. Though simply playing the video is great if you need to keep the kids busy, it may have limited educational value. The trip could help with spelling, by asking your student to write down the names of all the animals they saw; or with math, by asking for a total of big cats and bears.
+For example: a virtual zoo field trip is a great idea for young students learning about animals. Though simply playing the video is great if you need to keep the kids busy, it may have limited educational value. The trip could help with [spelling](https://www.wyzant.com/spelling_tutors.aspx), by asking your student to write down the names of all the animals they saw; or with math, by asking for a total of big cats and bears.
 
 A virtual museum field trip is an obvious choice for older students learning about art history, but the suggested activities that many museums supply can make it beneficial for younger children as well. 
 
@@ -136,4 +136,4 @@ Three different [dairy farmers](https://www.rfdtv.com/story/41914982/virtual-far
 
 Bring US immigration history to life with Scholastic’s virtual [Ellis Island Trip](http://teacher.scholastic.com/activities/immigration/webcast.htm). The “Immigration Data” tab can also be the starting point for a statistics or social studies lesson. 
 
-Now that parents are fast becoming ad-hoc educators (often while working from home at the same time), it’s natural that they’ve turned to technology like online tutoring, video instruction, and homeschool curricula to discover new ways to not only keep their children occupied for a long period of time, but contribute to their education as well. Virtual field trips unlock the ability for parents-turned-teachers to take their students to incredible places, and help them learn amazing things, without the need to leave the house.
+Now that parents are fast becoming [ad hoc educators](https://www.wyzant.com/blog/learning-at-home/) (often while working from home at the same time), it’s natural that they’ve turned to technology like [online tutoring](https://www.wyzant.com/online/student), video instruction, and homeschool curricula to discover new ways to not only keep their children occupied for a long period of time, but [contribute to their education](https://www.wyzant.com/blog/study-strategies-for-online-classes/) as well. Virtual field trips unlock the ability for parents-turned-teachers to take their students to incredible places, and help them learn amazing things, without the need to leave the house.
