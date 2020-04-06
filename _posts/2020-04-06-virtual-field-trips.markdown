@@ -7,6 +7,16 @@ categories:
 tags:
 - Online Learning
 author: Lauren Harsh
+sub-headline: Virtual field trips unlock the ability for parents-turned-teachers to
+  take their students to incredible places, and learn amazing things, without leaving
+  the house.
+hero-image: "/blog/uploads/Using%20Virtual%20Field%20Trips%20as%20a%20Free%20Educational%20Resource.png"
+meta-description: Through the magic of the internet, and the ingenuity of content
+  creators all over the world, field trips can be a fun, enriching part of an at-home
+  learning strategy.
+post-description: Through the magic of the internet, and the ingenuity of content
+  creators all over the world, field trips can be a fun, enriching part of an at-home
+  learning strategy.
 ---
 
 Field trips are kid favorites. They’re indispensable experiences that get students out into the world, exploring new things and discovering new interests. Trips to museums, zoos, parks, historical sites, and other perennial favorites illustrate to students that learning isn’t just for the classroom, and is happening everywhere, all the time. The things students discover on field trips put classroom content into context, inspire questions, and fuel a desire for learning.
