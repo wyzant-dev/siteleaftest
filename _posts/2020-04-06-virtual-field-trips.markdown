@@ -1,5 +1,5 @@
 ---
-title: Using Virtual Field Trips as a Free Educational Resource
+title: Using Virtual Field Trips as a Free Remote Learning Resource
 date: 2020-04-06 14:10:00 -05:00
 published: false
 categories:
