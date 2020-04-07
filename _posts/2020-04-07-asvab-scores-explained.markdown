@@ -21,7 +21,7 @@ post-description: Like all standardized tests, the ASVAB comes with a host of sc
   to achieving your goal.
 ---
 
-Tests are required for so many things in both education and employment, from the SAT for college admission to the LSAT for law school qualification to the USMLE exam for medical licensure. Admission into the Armed Services is no different, as the military has connections to both employment and education. The test to qualify for the U.S. Armed Forces is called the ASVAB. 
+Tests are required for so many things in both education and employment, from the [SAT](https://www.wyzant.com/blog/sat-act-differences/) for college admission to the [LSAT for law school](https://www.wyzant.com/blog/lsat-logical-reasoning/) qualification to the USMLE exam for medical licensure. Admission into the Armed Services is no different, as the military has connections to both employment and education. The test to qualify for the U.S. Armed Forces is called the ASVAB. 
 
 [What is the ASVAB](https://www.wyzant.com/blog/understanding-the-asvab-test-and-what-its-used-for/)? It stands for Armed Services Vocational Aptitude Battery, and it’s just that—a battery of tests designed to test your aptitude for vocations within the Armed Services. It consists of 8-10 subtests devised to test your knowledge and ability every area relevant to military jobs: General Science, Word Knowledge, Paragraph Comprehension, Arithmetic Reasoning, Mathematics Knowledge, Electronics Information, Mechanical Comprehension, Auto and Shop Knowledge, and Assembling Objects.
 
