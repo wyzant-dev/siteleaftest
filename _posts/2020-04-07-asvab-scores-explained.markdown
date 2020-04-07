@@ -10,6 +10,7 @@ tags:
 author: Jonathan Reidenouer
 sub-headline: Having access to a skilled ASVAB tutor can go a long way toward reaching
   your goal of starting a career in the US Armed Forces.
+hero-image: "/blog/uploads/ASVAB%20Scores%20Explained.png"
 meta-description: Like all standardized tests, the ASVAB comes with a host of scores
   that represent your performance on the test. You may be confused about what test
   to take and what scores you’re shooting for. Understanding ASVAB scoring is critical
