@@ -7,6 +7,7 @@ categories:
 tags:
 - Online Learning
 author: Alys Brooks
+hero-image: "/blog/uploads/How%20to%20Use%206%20Most%20Common%20Online%20Meeting%20Apps.png"
 ---
 
 Online meetings have become a necessity for many, and for lots of folks, are unfamiliar territory. While online meeting apps are generally designed to be easy to use, there are still some potentially unclear steps, so hopefully these steps will smooth the way for you.
