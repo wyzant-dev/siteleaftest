@@ -8,7 +8,7 @@ tags:
 author: Alys Brooks
 sub-headline: 'Online meetings have become a necessity for many people, and the apps
   that make them possible might be unfamiliar territory. '
-hero-image: "/blog/uploads/How%20to%20Use%206%20Most%20Common%20Online%20Meeting%20Apps.png"
+hero-image: "/blog/uploads/How%20to%20Use%206%20Most%20Common%20Online%20Meeting%20Apps-1cdb1a.png"
 meta-description: Since we're all using them to stay connected with school, work,
   friends, and family, we compiled an easy guide to getting started on the most common
   online meeting apps.
