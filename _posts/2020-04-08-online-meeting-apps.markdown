@@ -7,10 +7,19 @@ categories:
 tags:
 - Online Learning
 author: Alys Brooks
+sub-headline: 'Online meetings have become a necessity for many people, and the apps
+  that make them possible might be unfamiliar territory. '
 hero-image: "/blog/uploads/How%20to%20Use%206%20Most%20Common%20Online%20Meeting%20Apps.png"
+meta-description: Since we're all using them to stay connected with school, work,
+  friends, and family, we compiled an easy guide to getting started on the most common
+  online meeting apps.
+post-description: Since we're all using them to stay connected with school, work,
+  friends, and family, we compiled an easy guide to getting started on the most common
+  online meeting apps.
 ---
 
 Online meetings have become a necessity for many, and for lots of folks, are unfamiliar territory. While online meeting apps are generally designed to be easy to use, there are still some potentially unclear steps, so hopefully these steps will smooth the way for you.
+
 Rather than reproducing the entire contents of each app’s user manuals (who’s got time for that?), this article will focus on preparing you to set up to use online meeting apps for the first time. We’ll cover both the desktop and web clients for each application. Desktop clients tend to be connected to your computer’s camera and microphone more reliably, but web clients are often more convenient.
 
 We’ll discuss screen sharing, as it’s useful when the videoconferencing tool lacks support for graphing equations, reviewing an essay, or working on code together. While this article doesn’t go over each option’s pros and cons, having the instructions to get up and running quickly allows you to try each for yourself, and become more familiar overall with the process of jumping onto a video call or [online tutoring session](https://www.wyzant.com/Computer_tutors.aspx).
