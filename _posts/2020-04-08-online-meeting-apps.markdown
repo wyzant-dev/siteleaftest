@@ -18,7 +18,7 @@ post-description: Since we're all using them to stay connected with school, work
   online meeting apps.
 ---
 
-Online meetings have become a necessity for many, and for lots of folks, are unfamiliar territory. While online meeting apps are generally designed to be easy to use, there are still some potentially unclear steps, so hopefully these steps will smooth the way for you.
+While online meeting apps are generally designed to be easy to use, there are still some potentially unclear steps, so hopefully these steps will smooth the way for you.
 
 Rather than reproducing the entire contents of each app’s user manuals (who’s got time for that?), this article will focus on preparing you to set up to use online meeting apps for the first time. We’ll cover both the desktop and web clients for each application. Desktop clients tend to be connected to your computer’s camera and microphone more reliably, but web clients are often more convenient.
 
