@@ -12,20 +12,20 @@ author: Alys Brooks
 Online meetings have become a necessity for many, and for lots of folks, are unfamiliar territory. While online meeting apps are generally designed to be easy to use, there are still some potentially unclear steps, so hopefully these steps will smooth the way for you.
 Rather than reproducing the entire contents of each app’s user manuals (who’s got time for that?), this article will focus on preparing you to set up to use online meeting apps for the first time. We’ll cover both the desktop and web clients for each application. Desktop clients tend to be connected to your computer’s camera and microphone more reliably, but web clients are often more convenient.
 
-We’ll discuss screen sharing, as it’s useful when the videoconferencing tool lacks support for graphing equations, reviewing an essay, or working on code together. While this article doesn’t go over each option’s pros and cons, having the instructions to get up and running quickly allows you to try each for yourself, and become more familiar overall with the process of jumping onto a video call or online tutoring session.
+We’ll discuss screen sharing, as it’s useful when the videoconferencing tool lacks support for graphing equations, reviewing an essay, or working on code together. While this article doesn’t go over each option’s pros and cons, having the instructions to get up and running quickly allows you to try each for yourself, and become more familiar overall with the process of jumping onto a video call or [online tutoring session](https://www.wyzant.com/Computer_tutors.aspx).
 
 ## How to Use Zoom
-Zoom is a relative newcomer, but it’s already gained a lot of popularity. It has no limitations for one-on-one sessions, so it’s a completely free option for most tutoring. However, group meetings are limited to 40 minutes. If you plan to use Zoom, you should know that there are some concerns over its privacy and security.
+Zoom is a relative newcomer, but it’s already gained a lot of popularity. It has no limitations for one-on-one sessions, so it’s a completely free option for most tutoring. However, group meetings are limited to 40 minutes. If you plan to use Zoom, you should know that there are some [concerns over its privacy and security](https://www.nytimes.com/2020/03/30/technology/new-york-attorney-general-zoom-privacy.html).
 
 To sign up:
 
-1. On Zoom’s website, click one of the sign up links.
+1. On [Zoom’s website](https://zoom.us/), click one of the sign up links.
 2. Either enter an email or choose to sign in with Google or Facebook. While Zoom asks for your work email, you should have no problem using a Gmail address not connected to any business while testing.
 3. If you signed up with an email, log into that account and find the email from Zoom, which contains a link to confirm your address. Finish entering your remaining information
 
 If you don’t already have Zoom installed, you can do so:
 
-1. Go to Zoom’s Download Center and go to the Zoom Client for Meetings. There are also various add-ins if you want to start meetings from an email client or web browser.
+1. Go to [Zoom’s Download Center](https://zoom.us/download#client_4meeting) and go to the Zoom Client for Meetings. There are also various add-ins if you want to start meetings from an email client or web browser.
 2. Go to your downloads folder and open the installer.
 3. Follow the instructions in the installation wizard.
 
@@ -54,23 +54,24 @@ To make a call:
 You can share your screen by clicking the two-rectangle icon on the bottom of the window.
 
 ## How to Use Google Hangouts
-Google Hangouts is slated to be replaced, but in the meantime you can still use it. Unlike the other apps presented so far, Google Hangouts is purely a web app, so there’s nothing to install.
-If you don’t have a Google account, sign up for one by going to the account creation page and following the steps.
+Google Hangouts is [slated to be replaced](https://www.slashgear.com/google-just-gave-hangouts-a-temporary-stay-of-execution-21588017/), but in the meantime you can still use it. Unlike the other apps presented so far, Google Hangouts is purely a web app, so there’s nothing to install.
+
+If you don’t have a Google account, sign up for one by going to the [account creation page](https://accounts.google.com/signup/v2/webcreateaccount?gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp) and following the steps.
 
 Start a call by:
 
 1. Going to hangouts.google.com and clicking Video Call.
-2. If prompted by your browser (Firefox, Chrome, Safari, or Edge) for permission to use the camera or microphone, choose Allow. If you previously denied camera access, you might need to click the lock symbol (Safari requires you to go to the preferences, as described here).
+2. If prompted by your browser (Firefox, Chrome, Safari, or Edge) for permission to use the camera or microphone, choose Allow. If you previously denied camera access, you might need to click the lock symbol (Safari requires you to go to the preferences, as described [here](https://support.apple.com/guide/safari/websites-ibrwe2159f50/mac)).
 3. Type the email address of anyone you want to add to your video call, or if they’re in your Google Contacts, you can just use their name.
 
 You can start screen sharing by clicking the menu (three dots) in the upper right corner and clicking Share screen.
 
 ## How To Use Cisco Webex
-Webex is mostly used by large corporations, but it can be a good choice for those already familiar with the platform, as there is a free tier that has been expanded due to the increased need for social distancing policies.
+Webex is mostly used by large corporations, but it can be a good choice for those already familiar with the platform, as there is a free tier that has [been expanded](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/?utm_source=CDC&utm_medium=website&utm_campaign=General) due to the increased need for social distancing policies.
 
 First sign up:
 
-1. Sign up for a free trial here.
+1. Sign up for a free trial [here](https://cart.webex.com/sign-up-webex).
 2. When you receive the email, click on the link in order to open it (according to Cisco, this could be a while due to increased demand).
 
 To  schedule a meeting:
@@ -96,7 +97,7 @@ To sign up follow these steps:
 
 To install the desktop client, either start a meeting online:
 
-1. Go to the download page and click Download.
+1. Go to the [download page](https://support.goto.com/meeting/help/download-now-g2m010002) and click Download.
 2. Based on your operating system, go to your Downloads folder and open the installation program:
 * On Windows, double-click it.
 * On macOS, double-click the file and wait for the disk image window to appear. When it does, click Go To Opener.
@@ -129,11 +130,11 @@ To start a meeting right away using the desktop application:
 To share your screen during a meeting, click the Screen button at the bottom of the screen and select the display or app you want to share.
 
 ## How to Start with Microsoft Teams
-Microsoft Teams is slated to be Microsoft’s replacement for Skype, but it’s not available to home users until April 21, when Microsoft is overhauling its Office 365 subscriptions and renaming them Microsoft 365. However, you might be able to use it through a business or school account.
+Microsoft Teams is slated to be Microsoft’s replacement for Skype, but it’s not available to home users until April 21, when Microsoft is [overhauling its Office 365 subscriptions](https://finance.yahoo.com/news/microsoft-365-teams-consumers-160745338.html) and renaming them Microsoft 365. However, you might be able to use it through a business or school account.
 
 To install Teams:
 
-1. Go to the download page for Teams.
+1. Go to the [download page](https://products.office.com/en-us/microsoft-teams/download-app) for Teams.
 2. Click Download teams.
 3. Go to the Downloads folder and click the installer.
 4. Follow the instructions to install the application to your computer.
@@ -151,14 +152,15 @@ None of the applications above are built specifically for education, with the po
 
 The Wyzant online learning tool features a powerful white board in addition to other features like code and equation editors, built-in screen sharing, and optional video recordings of lessons. It’s free to use with your Wyzant account, and has become an essential resource for students and tutors to connect while maintaining social distancing. To try it out, visit the Wyzant online demo room.
 
-There are other options that include different whiteboard applications, sharing functions,  and screen sharing. Windows 10 includes a built-in tool called Microsoft Whiteboard that works well. You can also use AWW App or Explain Everything.
-For math tutoring, you can use Desmos or GeoGebra. Neither of these apps’ sharing features are real-time, so you’ll likely have to use screen sharing.
+There are other options that include different whiteboard applications, sharing functions,  and screen sharing. Windows 10 includes a built-in tool called Microsoft Whiteboard that works well. You can also use [AWW App](https://awwapp.com/) or [Explain Everything](https://whiteboard.explaineverything.com/).
 
-You likely already have an online word processor or spreadsheet program that you know, if not love, but if you don’t (or want to try alternatives), Google Docs and Microsoft Office are good choices. Apple’s iWork suite is also good and completely free, but requires an Apple account. Their sharing feature updates quickly, so you can use them without screensharing.
+For math tutoring, you can try [Desmos](https://www.desmos.com/) or [GeoGebra](https://www.geogebra.org/). Neither of these apps’ sharing features are real-time, so you’ll likely have to use screen sharing.
 
-If you’re working specifically on data science, consider Google Colaboratory, which is based on the industry standard Jupyter Notebook but with additional features for collaboration (as the name implies). For more introductory programming education, Python Tutor is a great tool for not only running code but also illustrating the step-by-step execution, crucial for both fixing bugs and learning concepts. Despite its name, it’s actually available for a wide variety of languages. For general programming, REPL.it has support for virtually every language, although it takes a while to load.
+You likely already have an online word processor or spreadsheet program that you know, if not love, but if you don’t (or want to try alternatives), [Google Docs](https://www.google.com/docs/about/) and [Microsoft Office](https://products.office.com/en-us/explore-office-for-home) are good choices. Apple’s iWork suite is also good and completely free, but requires an Apple account. Their sharing feature updates quickly, so you can use them without screensharing.
+
+If you’re working specifically on data science, consider [Google Colaboratory](https://colab.research.google.com/), which is based on the industry standard Jupyter Notebook but with additional features for collaboration (as the name implies). For more introductory programming education, [Python Tutor](http://pythontutor.com/) is a great tool for not only running code but also illustrating the step-by-step execution, crucial for both fixing bugs and learning concepts. Despite its name, it’s actually available for a wide variety of languages. For general programming, [REPL.it](http://repl.it) has support for virtually every language, although it takes a while to load.
 
 ## Best practices
-Before your session, consider taking five to ten minutes beforehand to try your chosen online meeting app out and make sure it’s connected, that your webcam and microphone are working properly, and that you’re comfortable with the steps to join and participate in a virtual meeting. This will ensure you get the most of your time with your tutor. It can also help to close or pause background operations like software updates and virus scanners. For more tips on learning online, refer to this blog post.
+Before your session, consider taking five to ten minutes beforehand to try your chosen online meeting app out and make sure it’s connected, that your webcam and microphone are working properly, and that you’re comfortable with the steps to join and participate in a virtual meeting. This will ensure you get the most of your time with your tutor. It can also help to close or pause background operations like software updates and virus scanners. For more tips on learning online, read [9 Effective Online Tutoring Best Practices](https://www.wyzant.com/blog/online-tutoring-best-practices/).
 
 There’s a lot more to these tools, but these instructions should be enough to get you up and running. Good luck!
