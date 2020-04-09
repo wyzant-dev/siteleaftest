@@ -34,11 +34,11 @@ While it’s true that new students often depend upon their tutors to help them 
 
 Here are some highlights to help you find the info you need; just skip forward to the timestamp noted next to each topic in the list below.
 
-* Need some help understanding which browser to use for your online lesson? Skip to 0:20
-* For the step-by-step on how to experiment with the Wyzant online demo room, no tutor needed, jump to 1:00
-* Want info about how to make sure your computer’s microphone and camera are working properly before your lesson? You’ll find some tips at 1:57
-* Clearing cookies and cache is often the easiest way to improve your computer’s performance when using the online learning tool. More about how can be seen at 2:10
-* How to access your online lesson room when it’s time to begin is at 3:08
-* For info on creating your own room for a lesson (instead of waiting for a tutor to create one), head to 3:25
+* Need some help understanding which **browser** to use for your online lesson? Skip to 0:20
+* For the step-by-step on how to experiment with the Wyzant **online demo room**, no tutor needed, jump to 1:00
+* Want info about how to make sure your computer’s **microphone and camera** are working properly before your lesson? You’ll find some tips at 1:57
+* Clearing cookies and cache is often the easiest way to **improve your computer’s performance** when using the online learning tool. More about how can be seen at 2:10
+* How to **access your online lesson room** when it’s time to begin is at 3:08
+* For info on **creating your own room** for a lesson (instead of waiting for a tutor to create one), head to 3:25
 
 
