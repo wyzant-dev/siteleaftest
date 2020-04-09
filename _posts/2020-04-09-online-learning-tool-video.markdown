@@ -30,7 +30,9 @@ Today, finding a reliable way to [make learning online work for you](https://www
 
 While it’s true that new students often depend upon their tutors to help them get started in their first online lessons, we want to make sure everyone feels confident the first time they join. So we created this short video tutorial that walks you through the whole process. 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jrjGcDZPSMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Here are some highlights to help you find the info you need; just skip forward to the timestamp noted next to each topic in the list below.
 
