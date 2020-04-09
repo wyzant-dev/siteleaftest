@@ -159,7 +159,7 @@ To share your screen, click the icon of a monitor with an arrow coming out of it
 ## Apps for remote learning
 None of the applications above are built specifically for education, with the possible exception of Zoom, which tries to cater to higher education. This means features like a white board, equation graphing, document editing, and code editing are not built in.
 
-The [Wyzant online learning tool](https://www.wyzant.com/online/student) features a powerful white board in addition to other features like code and equation editors, built-in screen sharing, and optional video recordings of lessons. It’s free to use with your Wyzant account, and has become an essential resource for students and tutors to connect while maintaining social distancing. To try it out, visit the Wyzant online [demo room](https://online.wyzant.com/welcome/ff4e047aae7f/#/new).
+The [Wyzant online learning tool](https://www.wyzant.com/blog/online-learning-tool-video/) features a powerful white board in addition to other features like code and equation editors, built-in screen sharing, and optional video recordings of lessons. It’s free to use with your Wyzant account, and has become an essential resource for students and tutors to connect while maintaining social distancing. To try it out, visit the Wyzant online [demo room](https://online.wyzant.com/welcome/ff4e047aae7f/#/new).
 
 There are other options that include different whiteboard applications, sharing functions,  and screen sharing. Windows 10 includes a built-in tool called Microsoft Whiteboard that works well. You can also use [AWW App](https://awwapp.com/) or [Explain Everything](https://whiteboard.explaineverything.com/).
 
