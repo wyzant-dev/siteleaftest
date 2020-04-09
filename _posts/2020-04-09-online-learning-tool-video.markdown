@@ -10,10 +10,10 @@ sub-headline: Finding a reliable way to make learning online work for you is mor
   important now than ever. Here's how to get started.
 hero-image: "/blog/uploads/Using%20the%20Wyzant%20Online%20Learning%20Tool.png"
 meta-description: 'We want to make sure everyone feels confident the first time they
-  join their online lesson at Wyzant. So we created this short video tutorial that
+  join their online lesson on Wyzant. So we created this short video tutorial that
   walks you through the whole process. '
 post-description: 'We want to make sure everyone feels confident the first time they
-  join their online lesson at Wyzant. So we created this short video tutorial that
+  join their online lesson on Wyzant. So we created this short video tutorial that
   walks you through the whole process. '
 ---
 
