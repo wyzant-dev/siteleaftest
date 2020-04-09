@@ -1,7 +1,6 @@
 ---
 title: 'WATCH: Explore the Wyzant Online Learning Tool'
 date: 2020-04-09 13:12:00 -05:00
-published: false
 categories:
 - Online Learning
 tags:
