@@ -9,6 +9,7 @@ tags:
 - Online Learning
 - Homeschool
 author: Jonathan Reidenouer
+hero-image: "/blog/uploads/Remote%20Learning%20and%20Homeschool%20FAQs.png"
 ---
 
 This is truly an unprecedented sequence of events we have recently experienced, and perhaps the most astounding aspect of our current circumstances is the way time is moving. In a paradoxical manner that we haven’t before witnessed, time seems to be simultaneously dragging along and moving at warp speed. 
