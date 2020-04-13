@@ -12,9 +12,10 @@ author: Jonathan Reidenouer
 sub-headline: If you are a parent who is quarantined with your school-age children,
   we wrote this guide for you.
 hero-image: "/blog/uploads/Remote%20Learning%20and%20Homeschool%20FAQs.png"
-meta-description: Homeschooling, remote learning, distance learning...whatever you
-  call it, education at home is a challenge. We compiled a list of the most commonly
-  asked questions to help you make sense of the situation, and move forward with confidence.
+meta-description: Homeschooling, e-learning, distance learning...whatever you call
+  it, education at home is a challenge. We compiled a list of the most commonly asked
+  remote learning questions to help you make sense of the situation, and move forward
+  with confidence.
 post-description: Homeschooling, e-learning, distance learning...whatever you call
   it, education at home is a challenge. We compiled a list of the most commonly asked
   remote learning questions to help you make sense of the situation, and move forward
