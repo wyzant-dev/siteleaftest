@@ -9,7 +9,7 @@ tags:
 - Homeschool
 author: Jacqueline Zote
 sub-headline: In remote learning, students access educational resources online, but
-  there are some key differences between different types.
+  there are some key differences between the types parents are using right now.
 hero-image: "/blog/uploads/Different%20Types%20of%20Remote%20Learning.png"
 meta-description: Remote learning is umbrella term that includes a lot of different
   online education methods. Here's how to spot the differences and make the right
