@@ -37,3 +37,5 @@ Here are some highlights to help you find the info you need; just skip forward t
 * To watch some tips on communicating and scheduling online lessons, skip to 3:08
 * Create an online lesson room when it’s time to begin can be found at 3:38
 * To see how to send an online lesson reminder to your students, and help them join the lesson from their Student dashboard, click to 5:05
+
+For more help with using the online tool, head to our [Help Center](https://support.wyzant.com/hc/en-us/sections/115000538726-Getting-Started-Tutors-).
