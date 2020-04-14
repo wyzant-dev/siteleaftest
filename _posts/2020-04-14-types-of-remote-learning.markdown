@@ -1,7 +1,6 @@
 ---
 title: Making Sense of the Different Types of Remote Learning
 date: 2020-04-14 09:11:00 -05:00
-published: false
 categories:
 - Online Learning
 - Homeschool
@@ -9,7 +8,15 @@ tags:
 - Online Learning
 - Homeschool
 author: Jacqueline Zote
+sub-headline: In remote learning, students access educational resources online, but
+  there are some key differences between different types.
 hero-image: "/blog/uploads/Different%20Types%20of%20Remote%20Learning.png"
+meta-description: Remote learning is umbrella term that includes a lot of different
+  online education methods. Here's how to spot the differences and make the right
+  choice for your at-home student.
+post-description: Remote learning is umbrella term that includes a lot of different
+  online education methods. Here's how to spot the differences and make the right
+  choice for your at-home student.
 ---
 
 With the global COVID-19 pandemic requiring educational institutions to remain closed, many schools are taking to remote learning, and most parents have to find a way to "homeschool" their kids. For those completely new to the concept, it may be difficult to understand what remote learning really entails. 
