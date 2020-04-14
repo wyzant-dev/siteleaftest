@@ -9,6 +9,7 @@ tags:
 - Online Learning
 - Homeschool
 author: Jacqueline Zote
+hero-image: "/blog/uploads/Different%20Types%20of%20Remote%20Learning.png"
 ---
 
 With the global COVID-19 pandemic requiring educational institutions to remain closed, many schools are taking to remote learning, and most parents have to find a way to "homeschool" their kids. For those completely new to the concept, it may be difficult to understand what remote learning really entails. 
