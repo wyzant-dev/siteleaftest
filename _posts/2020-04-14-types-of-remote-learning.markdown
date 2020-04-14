@@ -23,7 +23,7 @@ There can be different forms of online learning, which is where all the confusio
 
 For instance, you can have entire online courses for college-level education from a formal educational institution. You can have professionals signing up for online courses to learn a particular skill to help with their work or employment prospect.
 
-School students can also get online tutoring on the specific subjects they have difficulty with on top of the classes conducted by the school. That is, they work with an online tutor independently from the formal classes they have at school. These are all part of the online learning and digital education landscape.
+School students can also get [online tutoring](https://www.wyzant.com/blog/online-tutoring-best-practices/) on the specific subjects they have difficulty with on top of the classes conducted by the school. That is, they work with an online tutor independently from the formal classes they have at school. These are all part of the online learning and digital education landscape.
 
 ## 2: Distance Learning
 While often considered synonymous with online learning, distance learning varies slightly. Distance learning is typically part of a formal education institution, whereas online learning can involve non-formal educational institutions as well. Non-formal educational institutions may include (but aren’t limited to) online tutoring platforms and professional skill-development courses. 
