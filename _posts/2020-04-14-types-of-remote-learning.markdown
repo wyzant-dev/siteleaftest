@@ -13,9 +13,9 @@ author: Jacqueline Zote
 
 With the global COVID-19 pandemic requiring educational institutions to remain closed, many schools are taking to remote learning while some parents have to home-school their kids. For those completely new to the landscape, it may be difficult to understand what remote learning really entails. 
 
-What kind of at-home learning options do students have? Do different phrases mean the same thing? What’s the difference between distance learning and digital education? Isn’t online learning just the same as e-learning? Most importantly, which is the best option for your kid?
+What kind of [at-home learning](https://www.wyzant.com/blog/learning-at-home/) options do students have? Do different phrases mean the same thing? What’s the difference between distance learning and digital education? Isn’t online learning just the same as e-learning? Most importantly, which is the best option for your kid?
 
-You may have a lot of questions, so check out the different types of remote learning to understand the landscape better:
+You may have a lot of [questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), so check out the different types of remote learning to understand the landscape better:
 
 ## 1: Online Learning
 Online learning or digital learning involves the use of online tools for learning, with the key element being the use of the internet to receive and exchange information. It typically involves an interaction between teachers and students through online classes and platforms. So, schools resorting to virtual classes to keep the education going are a form of online learning.
