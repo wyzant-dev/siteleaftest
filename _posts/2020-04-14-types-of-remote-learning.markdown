@@ -18,19 +18,20 @@ What kind of [at-home learning](https://www.wyzant.com/blog/learning-at-home/) o
 You may have a lot of [questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), so check out the different types of remote learning to understand the landscape better:
 
 ## 1: Online Learning
-Online learning or digital learning involves the use of online tools for learning, with the key element being the use of the internet to receive and exchange information. It typically involves an interaction between teachers and students through online classes and platforms. So, schools resorting to virtual classes to keep the education going are a form of online learning.
-There can be different forms of online learning, which is where all the confusion tends to occur. It’s crucial to note that online learning is a method of receiving education remotely, which makes it a form of remote learning. Yet it can also have several sub-types. 
+Online learning, or digital learning, involves the use of online tools for learning, with the key element being the use of the internet to receive and exchange information. It typically involves an interaction between teachers and students through online classes and platforms. So, schools resorting to virtual classes to keep education moving forward are primary form of online learning.
 
-For instance, you can have entire online courses for college-level education from a formal educational institution. You can have professionals signing up for online courses to learn a particular skill to help with their work or employment prospect.
+There can be different forms of online learning, which is where all the confusion tends to originate. It’s crucial to note that online learning is a method of **receiving education remotely**, which makes it a form of remote learning. Yet, it can also have several sub-types. 
 
-School students can also get [online tutoring](https://www.wyzant.com/blog/online-tutoring-best-practices/) on the specific subjects they have difficulty with on top of the classes conducted by the school. That is, they work with an online tutor independently from the formal classes they have at school. These are all part of the online learning and digital education landscape.
+For instance, entire online courses for college-level education from a formal educational institution are available remotely. Professionals signing up for online courses to learn a particular skill to help with their work or employment prospect also partake in a form of online learning.
+
+School students can also get [online tutoring](https://www.wyzant.com/blog/online-tutoring-best-practices/) in specific subjects to continue progress while education in the classroom is out of the question. With a tutor, students work with an online expert independently from the formal classes they have at school. Tutors provide structure to the online learning process, and serve as skilled educators who personalize the stuff students learn in school, often leading to deeper mastery of concepts. A tutor isn't just for emergencies like last-minute test prep, and can be key to maintaining success in education while everyone is stuck at home.
 
 ## 2: Distance Learning
 While often considered synonymous with online learning, distance learning varies slightly. Distance learning is typically part of a formal education institution, whereas online learning can involve non-formal educational institutions as well. Non-formal educational institutions may include (but aren’t limited to) online tutoring platforms and professional skill-development courses. 
 
-The similarity is that you still rely on online tools such as discussion boards, video calls, and learning management systems of the institution. So, distance learning is a form of online learning but the two are not synonymous. 
+Distance learning is similar to online and remote learning, as you still rely on online tools such as discussion boards, video calls, and learning management systems of the institution that provides the course or class. So, distance learning is a **form** of online learning, but the two are not synonymous. 
 
-In other words, independent online tutoring and professional online courses won’t be a part of distance learning. However, schools providing online education through virtual classes and colleges offering online courses are a part of distance learning.
+Schools providing online education through virtual classes and colleges offering online courses are also an example of distance learning.
 
 ## 3: E-Learning
 Again, e-learning is often used interchangeably with online learning but there’s a slight difference between the two. E-learning refers to the online interaction that occurs between a teacher and a student. Under this method, students can learn their lessons through an online medium even when the teacher is in the same building as them, which helps to simulate work-based learning situations.
