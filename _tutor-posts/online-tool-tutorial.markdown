@@ -22,12 +22,12 @@ This shift toward distance learning certainly isn’t changing anytime soon. Onl
 
 As a leader in online tutoring, we’ve always striven to ensure that the online lesson experience is different from other sites - more effective, easy to use, and with powerful features that accelerate the learning process. That’s why we created the Wyzant online learning tool. 
 
-Since it’s true that new students often depend upon their tutors to help them get started in their first online lessons, we want to make sure you feel confident when a student asks for help. So we created this short video tutorial that walks you through the whole process. 
+Since it’s true that new students often depend upon their tutors to help them get started in their first online lessons, we want to make sure you feel confident when a student asks for help. So we created this short video tutorial that walks you through the whole process. <br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Facdc1JvYWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here are some highlights to help you find the info you need; just skip forward to the timestamp noted next to each topic in the list below.
-
+<br />
 * Need some help understanding which browser to use for your online lesson? Skip to 0:20
 * To see how to access the online tool from your Wyzant tutor account, head to :53
 * For the step-by-step on how to experiment with the Wyzant online demo room, no tutor needed, jump to 1:12
