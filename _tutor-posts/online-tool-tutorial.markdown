@@ -2,6 +2,18 @@
 title: 'WATCH: How to Use the Wyzant Online Learning Tool'
 date: 2020-04-14 14:51:00 -05:00
 published: false
+sub-headline: 'Since new students often depend upon their tutors to help them get
+  started in their first online lessons,  we created this video tutorial that walks
+  you through the whole process. '
+hero-image: "/blog/uploads/Tutor%20Success%20Online%20Learning%20Tool%20Tutorial.png"
+meta-description: As a leader in online tutoring, we’ve always striven to ensure that
+  the online lesson experience is different from other sites - more effective, easy
+  to use, and with powerful features that accelerate the learning process. That’s
+  why we created the Wyzant online learning tool.
+post-description: As a leader in online tutoring, we’ve always striven to ensure that
+  the online lesson experience is different from other sites - more effective, easy
+  to use, and with powerful features that accelerate the learning process. That’s
+  why we created the Wyzant online learning tool.
 ---
 
 Since demand for remote learning and homeschooling has vastly increased in the last few weeks, more tutors have taken their lessons online. And what’s more: there’s never been a time where online education experts play a more crucial role. 
