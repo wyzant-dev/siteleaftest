@@ -11,7 +11,7 @@ tags:
 author: Jacqueline Zote
 ---
 
-With the global COVID-19 pandemic requiring educational institutions to remain closed, many schools are taking to remote learning while some parents have to homeschool their kids. For those completely new to the landscape, it may be difficult to understand what remote learning really entails. 
+With the global COVID-19 pandemic requiring educational institutions to remain closed, many schools are taking to remote learning, and most parents have to find a way to "homeschool" their kids. For those completely new to the concept, it may be difficult to understand what remote learning really entails. 
 
 What kind of [at-home learning](https://www.wyzant.com/blog/learning-at-home/) options do students have? Do different phrases mean the same thing? What’s the difference between distance learning and digital education? Isn’t online learning just the same as e-learning? Most importantly, which is the best option for your kid?
 
