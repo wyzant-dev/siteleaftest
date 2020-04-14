@@ -21,7 +21,7 @@ You may have a lot of [questions](https://www.wyzant.com/blog/questions-to-ask-t
 ## What is remote learning?
 Remote learning is an umbrella term for all the learning that takes place remotely outside of a traditional classroom setting. It involves a form of learning where the instructor or the source of information and the learner are separated by time and/or distance. There’s minimal to no physical presence involved, as lessons are conducted online, and the information typically gets transmitted through online tools and platforms.
 
-In remote learning, students will mostly access educational resources online, receive their lessons online, take their tests online, and submit their assignments online. At the same time, they may also receive traditional educational resources like textbooks depending on the institution. Some remote learning students may also need to submit their assignments and coursework physically, even though their lessons and classes all take place online.
+In remote learning, students will mostly access educational resources online, receive their lessons online, take their tests online, and submit their assignments online. At the same time, they may also receive traditional educational resources like textbooks depending on the institution. Some remote learning situations, such as those happening via schools during closures, may also require students to submit their assignments and coursework physically, even though their lessons and classes all take place online.
 
 So, simply put: the forms of learning included below are all types of remote learning. 
 
