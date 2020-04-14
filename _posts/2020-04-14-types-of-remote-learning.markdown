@@ -56,7 +56,7 @@ The biggest difference with online learning is that homeschooling doesn’t sole
 
 Yet some parents may also leave an online private tutor in charge of their kids’ homeschooling. In other words, homeschooling can either involve digital learning or offline learning, or it could blend the two depending on the family’s preferences. Additionally, it’s important to note that working with an online home-school tutor is the only homeschooling method that’s a part of remote learning.
 
-Now with most schools remaining closed due to coronavirus, more and more parents have to resort to homeschooling even though they have no clue how to home-school their kids. It can be challenging to navigate the landscape, especially if you’re new to it. Where do you start and how do you even make sure that your kids are benefiting from their lessons?
+Now with most schools remaining closed due to coronavirus, more and more parents have to resort to homeschooling even though they have no clue [how to homeschool their kids](http://)https://www.wyzant.com/blog/how-to-homeschool/. It can be challenging to navigate the landscape, especially if you’re new to it. Where do you start and how do you even make sure that your kids are benefiting from their lessons?
 
 To top it all off, citywide lockdowns may prevent private tutors from paying an in-home visit to tutor your child. So the best option is to work with an online home-school tutor to provide your kid with personalized one-on-one learning in spite of school closures. That way, you can still make sure that they keep up with their classes while ensuring their safety. 
 
