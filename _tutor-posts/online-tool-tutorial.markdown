@@ -28,14 +28,14 @@ Since it’s true that new students often depend upon their tutors to help them 
 
 Here are some highlights to help you find the info you need; just skip forward to the timestamp noted next to each topic in the list below.
 <br />
-* Need some help understanding which browser to use for your online lesson? Skip to 0:20
-* To see how to access the online tool from your Wyzant tutor account, head to :53
-* For the step-by-step on how to experiment with the Wyzant online demo room, no tutor needed, jump to 1:12
-* If the site prompts you to “get certified”, click to 1:30
-* For help with microphone or camera issues, you’ll find info at 2:05
-* Clearing cookies and cache is often the easiest way to improve your computer’s performance when using the online learning tool. More about how can be seen at 2:15
-* To watch some tips on communicating and scheduling online lessons, skip to 3:08
-* Create an online lesson room when it’s time to begin can be found at 3:38
-* To see how to send an online lesson reminder to your students, and help them join the lesson from their Student dashboard, click to 5:05
+* Need some help understanding which **browser** to use for your online lesson? Skip to 0:20
+* To see **how to access the online tool** from your Wyzant tutor account, head to :53
+* For the step-by-step on how to experiment with the Wyzant online **demo room**, no tutor needed, jump to 1:12
+* If the site prompts you to **“get certified”**, click to 1:30
+* For help with **microphone or camera issues**, you’ll find info at 2:05
+* Clearing cookies and cache is often the easiest way to **improve your computer’s performance** when using the online learning tool. More about how can be seen at 2:15
+* To watch some tips on **communicating and scheduling online lessons**, skip to 3:08
+* **Creating an online lesson room** when it’s time to begin can be found at 3:38
+* To see how to **send an online lesson reminder** to your students, and help them join the lesson from their Student dashboard, click to 5:05
 
 For more help with using the online tool, head to our [Help Center](https://support.wyzant.com/hc/en-us/sections/115000538726-Getting-Started-Tutors-).
