@@ -23,7 +23,7 @@ Parents are beginning to worry COVID brain drain, and are looking for ways to ke
 
 ## 3. Students need help with organization and study skills
 
-Without the structure and routine provided by schools and universities, students are all of a sudden expected to take a self-directed approach to learning. This requires significant discipline and is particularly tough for younger students. Students have to manage more on their own. They receive large packets of work and have to budget their time.
+Without the structure and routine provided by schools and universities, students are all of a sudden expected to take a self-directed approach to learning. This requires significant discipline and is particularly tough for younger students. Students have to manage more on their own. They receive large packets of work and have to budget their time. Proper [study skills](https://www.wyzant.com/study_skills_tutors.aspx) have become more important than ever as students and parents struggle with how to [effectively tackle remote learning.](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/)
 
 ## 4. Parents aren’t teachers, and most don’t want to be
 
@@ -31,6 +31,6 @@ With a tutor or “academic coach” in the mix, many parents feel that the dyna
 
 ## 5. Online (daytime) lessons are the default
 
-Even prior to COVID, online tutoring had become the norm. However, many students and parents were still hesitant. Now over 95% of lessons are happening online, with all the real-time interaction that you’d experience in-person. 
+Even prior to COVID, [online tutoring](https://www.wyzant.com/blog/online-learning-tool-video/) had become the norm. However, many students and parents were still hesitant. Now over 95% of lessons are happening online, with all the real-time interaction that you’d experience in-person. 
 
-The pandemic has altered how millions around the globe learn and are educated. The slow pace of change in traditional academic institutions is making it clear that innovative new solutions are needed to determine how education functions in a post-COVID-19 world. In just a matter of a few weeks, we’ve seen new approaches taking shape - including governments, publishers, content creators, educators, tech providers, and especially tutors - rethinking how we use remote learning and online platforms as a temporary solution to the crisis. Will this lead to more prevalent and consequential trends to the future of education? 
+The pandemic has altered how millions around the globe learn and are educated. The slow pace of change in traditional academic institutions is making it clear that innovative new solutions are needed to determine how education functions in a post-COVID-19 world. In just a matter of a few weeks, we’ve seen new approaches taking shape - including governments, publishers, content creators, educators, tech providers, and especially tutors - rethinking how we use [remote learning](https://www.wyzant.com/blog/types-of-remote-learning/) and online platforms as a temporary solution to the crisis. Will this lead to more prevalent and consequential trends to the future of education? 
