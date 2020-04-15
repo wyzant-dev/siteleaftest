@@ -9,6 +9,7 @@ tags:
 - Online Learning
 - Homeschool
 author: Andrew Geant, CEO
+hero-image: "/blog/uploads/How%20Covid%2019%20Has%20Changed%20the%20Meaning%20of%20Tutoring.png"
 ---
 
 It seems that every day the ripple effects of COVID-19 keep expanding. As the nation’s largest tutoring marketplace, Wyzant and its 60,000 tutors have observed major changes to students, their needs, and the role of tutoring. In many ways, tutors are on the frontlines of the education crisis, working to keep students learning as their routines and support systems have been turned upside down. We asked tutors what they’re experiencing, and here’s what we learned. 
