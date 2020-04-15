@@ -16,7 +16,7 @@ post-description: As a leader in online tutoring, we’ve always striven to ensu
   why we created the Wyzant online learning tool.
 ---
 
-Since demand for remote learning and homeschooling has vastly increased in the last few weeks, more tutors have taken their lessons online. And what’s more: there’s never been a time where online education experts play a more crucial role. 
+Since demand for remote learning and homeschooling has vastly increased in the last few weeks, more tutors have taken their lessons online. And what’s more: there’s never been a time where online education [experts play a more crucial role](https://www.wyzant.com/blog/tutor/wyzant-webinar/). 
 
 This shift toward distance learning certainly isn’t changing anytime soon. Online tutoring helps parents overwhelmed by the stresses of remote learning and school closures by giving their kids access to educators who provide not only expertise, but structure and focus. For students, tutoring means truly personalized support and the chance to continue working toward their education goals, even from home. For tutors, the move to online means more opportunities to connect with more students than ever before.
 
