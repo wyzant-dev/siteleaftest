@@ -1,7 +1,6 @@
 ---
 title: The Online Learning Tool - A Tutor How-To Video
 date: 2020-04-14 14:51:00 -05:00
-published: false
 sub-headline: 'Since new students often depend upon their tutors to help them get
   started in their first online lessons,  we created this video tutorial that walks
   you through the whole process. '
