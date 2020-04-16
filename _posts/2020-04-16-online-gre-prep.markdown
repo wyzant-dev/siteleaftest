@@ -13,7 +13,7 @@ published: false
 
 The GRE preparation process isn’t quite as whimsical as Alice’s journey through Wonderland. Nonetheless, it can certainly be as disorienting and stressful. Consequently, it’s important to have a concrete schedule that allows you enough time to prepare for the test.
 
-Obviously, that schedule will vary based on the specifics of your situation. For instance, if you already do algebra problems for fun in your spare time, you probably just need to spend a couple of weeks practicing some test-taking strategies. However, if you haven’t thought about the Pythagorean theorem in 20 years, it might take you several months to really master the important formulas.
+Obviously, that schedule will vary based on the specifics of your situation. For instance, if you already do algebra problems for fun in your spare time, you probably just need to spend a couple of weeks practicing some test-taking strategies. However, if you haven’t thought about the Pythagorean theorem in 20 years, it might take you several months to really master the [important formulas](https://www.wyzant.com/blog/gre-math-formulas/).
 
 So rather than prescribe a one size fits all calendar to follow, we’ll give you a few important benchmarks to hit. These can be expanded or condensed to fit whatever schedule you’re working with. 
 
@@ -27,9 +27,9 @@ Most schools require you to complete the GRE at least 3 weeks before the final a
 
 ## STEP 2: Equip yourself
 
-Once you lay out a general plan of attack, it’s time to ensure that you have the right tools. The very first one you need is an account at ETS.org. This is where you’ll register for the test, stay abreast of important updates, and take official PowerPrep Practice Exams (more on those in a bit).
+Once you lay out a general plan of attack, it’s time to ensure that you have the right tools. The very first one you need is an account at [ETS.org](http://www.ets.org). This is where you’ll register for the test, stay abreast of important updates, and take official PowerPrep Practice Exams (more on those in a bit).
 
-Along with any supplemental practice books you purchase, be absolutely sure to get the Official GRE Super Power Pack. This material is straight from the horse’s mouth--the horse being the testmaker. It’s probably best to get these books in electronic form, as you will be taking the test on a computer!
+Along with any supplemental practice books you purchase, be absolutely sure to get the [Official GRE Super Power Pack](https://www.amazon.com/Official-Super-Power-Pack-Second/dp/1260026396/ref=sr_1_1?crid=2KV5XP801P2QQ&dchild=1&keywords=official+gre+super+power+pack&qid=1586752767&sprefix=official+gre+super%2Caps%2C275&sr=8-1). This material is straight from the horse’s mouth--the horse being the testmaker. It’s probably best to get these books in electronic form, as you will be taking the test on a computer!
 
 ## STEP 3: Diagnose
 
@@ -73,7 +73,7 @@ However, it's best if you go into your tutoring with a general idea of your own 
 
 A topic to discuss early on with your tutor is confirming an official GRE test date. If you have your diagnostic data, the tutor can give you a sense of how long the two of you will need to train together before game day.
 
-As your tutoring progresses, be sure to maximize the value of your sessions, and avoid misusing your hours. Most importantly, keep communication with your tutor open and honest. If you find that you aren’t getting as much as you’d like to out of your sessions, let your tutor know. 
+As your tutoring progresses, be sure to maximize [the value of your sessions](https://www.wyzant.com/blog/cost-of-tutoring/), and avoid [misusing your hours](https://www.wyzant.com/blog/gre-prep/). Most importantly, keep communication with your tutor open and honest. If you find that you aren’t getting as much as you’d like to out of your sessions, let your tutor know. 
 
 ## STEP 5: Practice daily
 
