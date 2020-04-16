@@ -69,7 +69,7 @@ One note: You might look at the above list of topics and think, “Hey! That’s
 
 A good deal of students skip the first three steps above and jump right to this one. Considering how daunting the process seems at first, that’s understandable--many folks want a knowledgeable guide for the entirety of their GRE journey.
 
-However, it's best if you go into your tutoring with a general idea of your own strengths, weaknesses, and goals. This will allow you and your tutor to get right down to business, rather than having a few “getting to know you” sessions. To use a medical analogy--a doctor can help you much more easily if you provide her a detailed list of symptoms instead of a vague “I don’t feel well today.” 
+However, it's best if you go into your tutoring with a general idea of your own strengths, weaknesses, and goals. This will allow you and your tutor to [get right down to business](https://www.wyzant.com/GRE_tutors.aspx), rather than having a few “getting to know you” sessions. To use a medical analogy--a doctor can help you much more easily if you provide her a detailed list of symptoms instead of a vague “I don’t feel well today.” 
 
 A topic to discuss early on with your tutor is confirming an official GRE test date. If you have your diagnostic data, the tutor can give you a sense of how long the two of you will need to train together before game day.
 
