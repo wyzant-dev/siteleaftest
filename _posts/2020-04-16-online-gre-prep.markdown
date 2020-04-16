@@ -65,7 +65,7 @@ Once you identify your weaknesses, you can target them in your practice.
 
 One note: You might look at the above list of topics and think, “Hey! That’s all stuff I covered in high school!” And you’re absolutely correct. The GRE does not go beyond 10th grade math. Oh--and you’ll always have access to a basic calculator, so no need to do long division or mental math. Not so bad after all, huh?
 
-## STEP 4: Consult a tutor
+## STEP 4: Consult an online tutor
 
 A good deal of students skip the first three steps above and jump right to this one. Considering how daunting the process seems at first, that’s understandable--many folks want a knowledgeable guide for the entirety of their GRE journey.
 
