@@ -4,12 +4,12 @@ date: 2020-04-16 12:33:00 -05:00
 published: false
 ---
 
-**“Would you tell me, please, which way I ought to go from here?”
-“That depends a good deal on where you want to get to,” said the Cat.
-“I don’t much care where,” said Alice.
-“Then it doesn’t matter which way you go,” said the Cat.**
+*“Would you tell me, please, which way I ought to go from here?”<br />
+“That depends a good deal on where you want to get to,” said the Cat.<br />
+“I don’t much care where,” said Alice.<br />
+“Then it doesn’t matter which way you go,” said the Cat.*<br />
 
--From **Alice’s Adventures in Wonderland**, by Lewis Carroll, 1865
+-From *Alice’s Adventures in Wonderland*, by Lewis Carroll, 1865
 
 The GRE preparation process isn’t quite as whimsical as Alice’s journey through Wonderland. Nonetheless, it can certainly be as disorienting and stressful. Consequently, it’s important to have a concrete schedule that allows you enough time to prepare for the test.
 
