@@ -97,7 +97,7 @@ After every practice test, run the 1/2/3 method you used to review your first di
 
 Timing your first official GRE can be tricky. If you live in a metro area, or if you’re taking the test at a particularly busy time of year, you’ll need to schedule your exam a month or more in advance to secure a spot.
 
-If test day is approaching and you’re still far below your target score, consider rescheduling (you can do so for a small--but annoying--fee of $50). But if you’re within striking distance, go for it.
+If test day is approaching and you’re still far below your target score, consider rescheduling (you can do so for a small-but annoying-fee of $50). But if you’re within striking distance, go for it.
 
 Test day itself is an experience, and it’s critical that you acquaint yourself with the policies and procedures ahead of time (all on ETS.org). One common mistake students make is not preparing for the stress of the testing center.
 
