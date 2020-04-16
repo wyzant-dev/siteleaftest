@@ -99,7 +99,7 @@ Timing your first official GRE can be tricky. If you live in a metro area, or if
 
 If test day is approaching and you’re still far below your target score, consider rescheduling (you can do so for a small-but annoying-fee of $50). But if you’re within striking distance, go for it.
 
-Test day itself is an experience, and it’s critical that you acquaint yourself with the policies and procedures ahead of time (all on ETS.org). One common mistake students make is not preparing for the stress of the testing center.
+Test day itself is an experience, and it’s critical that you acquaint yourself with the policies and procedures ahead of time (all on ETS.org). One [common mistake](https://www.wyzant.com/blog/gre-prep/) students make is not preparing for the stress of the testing center.
 
 At the beginning of your GRE journey, be sure to build in enough time for a possible retest. You can take the GRE up to 5 times in a year, but you must wait 21 days between test dates. If, heaven forbid, something goes wrong on test day, you’ll want to have another bite at the apple!
 
