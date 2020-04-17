@@ -1,7 +1,12 @@
 ---
 title: How to Plan Your Online GRE Prep
 date: 2020-04-16 12:33:00 -05:00
-published: false
+categories:
+- GRE
+- Test Prep
+tags:
+- GRE
+- Test Prep
 author: Andrew Colford
 sub-headline: You can take the GRE up to 5 times in a year, but why take it more than
   once? Here's how to effectively prep for the test the first time around.
