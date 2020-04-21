@@ -82,11 +82,11 @@ Of course, word processors are far from the only place where people type!
 
 To enter these codes for French accent marks, use a sustained key press - press each key one at a time, and hold it down until all the keys in the sequence are pressed down (note: don't type the "+" symbol).  
 
-* Accent aïgue (é): Press CTRL+‘ (apostrophe), followed by the letter    
-* Accent grave (à, è, ù): Press CTRL+` (the key to the left of “1”), followed by the letter
-* Accent circonflèxe (â, ê, î, ô, û): Press CTRL+Shift-6 followed by the letter  
-* Trëma (ë, ï, ü): Press CTRL+Shift+; followed by the letter   
-* Cédille (ç): Press CTRL+ followed by the letter 
+* **Accent aïgue (é)**: Press CTRL+‘ (apostrophe), followed by the letter    
+* **Accent grave (à, è, ù)**: Press CTRL+` (the key to the left of “1”), followed by the letter
+* **Accent circonflèxe (â, ê, î, ô, û)**: Press CTRL+Shift-6 followed by the letter  
+* **Trëma (ë, ï, ü)**: Press CTRL+Shift+; followed by the letter   
+* **Cédille (ç)**: Press CTRL+ followed by the letter 
 
 If these codes don’t work on your computer, don't fret. Try these Windows ALT codes for French accent marks by just using your number pad:
 
