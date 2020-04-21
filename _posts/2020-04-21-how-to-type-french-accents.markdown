@@ -135,9 +135,13 @@ To use the Compose Key, you have to first designate an unused key as the Compose
 
 Control Center > Accessibility Options > Keyboard Properties > Options > Compose Key option
 
-Once it’s designated, you can hold down your Compose Key, followed by the letter and the accent mark, to place the symbol. 
+Once it’s designated, hold down your Compose Key, followed by the letter and the accent mark, to place the symbol. 
 
-For example, to type é, the sequence is: compose key, e, ‘. To type è, the sequence is: compose key, e, `. To type ö, the sequence is: compose key, o, “. 
+Here are some examples: 
+
+* To type é, the sequence is: compose key, e, ‘.
+* To type è, the sequence is: compose key, e, `.
+* To type ö, the sequence is: compose key, o, “. 
 
 ## Windows International Keyboard add-ons 
 
