@@ -20,7 +20,7 @@ However, learning how to read and write French accent marks is only part of the 
 
 Here's the problem: French accent marks don't appear on most US English keyboards. Never fear! Typing French accents is easier than it looks, and you don’t even need a French keyboard.
 
-This guide will cover how to type French accent marks on English keyboards for PC, Mac, Linux, and mobile devices. This information will help you whether you’re taking French tutoring or a class, organizing a trip, or just learning the basics. 
+This guide will cover how to type French accent marks on English keyboards for PC, Mac, Linux, and mobile devices. This information will help you whether you’re taking [French tutoring](https://www.wyzant.com/French_tutors.aspx) or a class, organizing a [trip to Paris](https://www.wyzant.com/blog/basic-french-words-phrases/), or just [learning the basics](https://www.wyzant.com/blog/french-grammar-basics/). 
 
 ## What are French accent marks?
 
@@ -185,7 +185,7 @@ Once you decide which keyboard add-on you want to use, here are the instructions
 5. Scroll down to the language you want to add, click + next to it, then select the layout*
 6. Click OK in each dialog window.
 
-No matter which method you like the best, you’ll be ready to type in French whether it’s in present, past, or future tense. Don’t forget to make the most of your learning by booking a French tutor.
+No matter which method you like the best, you’ll be ready to type in French whether it’s in present, past, or future tense. Don’t forget to make the most of your learning by booking a [French tutor](https://www.wyzant.com/French_tutors.aspx).
 
 
  
