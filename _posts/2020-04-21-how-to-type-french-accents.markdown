@@ -67,7 +67,7 @@ In Google Docs, start by clicking “Insert”, then “Special Characters.” T
 ![French Accents GoogleDocs.png](/blog/uploads/French%20Accents%20GoogleDocs.png)
 
 ### Microsoft Word
-In Microsoft Word, also start by clicking “Insert.” Next, click “Symbol.” A grid of symbols will pop up. If the one you’re looking for is not on there, click “More Symbols” at the bottom. You'll see two drop-down menus and a grid. Select “Latin Supplement 1” from the second drop-down menu, select the accented letter you want to type from the grid, and click “Insert.”
+In Microsoft Word, also start by clicking “Insert.” Next, click “Symbol.” A grid of symbols will pop up. If the one you’re looking for is not on there, click “More Symbols” at the bottom. You'll see two drop-down menus and a grid. Select "Basic Latin" from the second drop-down menu, select the accented letter you want to type from the grid, and click “Insert.”
 
 ![Microsoft Word French Accents.png](/blog/uploads/Microsoft%20Word%20French%20Accents.png)
 
