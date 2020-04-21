@@ -124,7 +124,7 @@ To use KeyCaps to type French accent marks, click on the little Apple logo on th
 
 Next, open KeyCaps. A little keyboard will appear on the screen. Hold down the Option key until a series of accent marks appears. Click on the French accent mark you wish to type, then type the letter that it modifies.
 
-For example, if you wanted to type é, click on `, and then type the E. Et voila.
+For example, if you wanted to type é, click `, and then type the E. Et voila.
 
 ## Accent mark shortcuts for mobile devices
 
@@ -135,7 +135,7 @@ For iPhone, Android, and tablet keyboards, hold down any letter, and French acce
 There are two options for typing accent marks in a Linux operating system: Character Palette and Compose Key. 
 
 ###Character Palette
-To use the character palette, right-click on the top bar and choose “Add to Panel”. Then, click “Character Palette". To insert the accent mark you're looking for, left-click it, which will copy the accent mark to your clipboard. Just use Ctrl+v (Paste) to place it in a word or sentence
+To use the character palette, right-click on the top bar and choose “Add to Panel”. Then, click “Character Palette". To insert the accent mark you're looking for, left-click it, which will copy the accent mark to your clipboard. Just use Ctrl + V (Paste) to place it in a word or sentence
 
 ### Compose Key 
 
@@ -155,20 +155,20 @@ Here are some examples:
 
 Another option for typing French accents in Windows is to add an alternate keyboard layout. The options available for typing in French are International Keyboard, French Keyboard, and Canadian French Keyboard. 
 
-The International Keyboard is the most user-friendly to US-based users who are used to a QWERTY. The French Keyboard is AZERTY and has several keys in different places than a US English keyboard. That makes switching back and forth confusing. The Canadian French keyboard has all the un-modified letters in the same spots, but has some additional characters.
+The International Keyboard is the most user-friendly to US-based users who are used to a QWERTY-style layout. The French Keyboard is AZERTY and has several keys in different places than a US English keyboard. That makes switching back and forth confusing. The Canadian French keyboard has all the un-modified letters in the same spots, but has some additional characters.
 
-However, the typing of the accents themselves is easier on the French and Canadian French Keyboards. On the French, most of them are available as keys. On the Canadian French, fewer are available as keys, but the codes are simpler. 
+However, the typing of the accents themselves is easier on the French and Canadian French Keyboards. On the French keyboard, most accent marks are available as keys. On the Canadian French, however, fewer are available as keys, but the codes are simpler. 
 
 ### International Keyboard Accent Codes
 
-When you use the International Keyboard, you have to watch out when typing quotation marks and apostrophes before letters that accents aigu, cédilles, and trémas typically modify. If you do not put an extra space between the punctuation and the letter, it will assume that you want the accent mark. For example, for “c’est” not to become “cést,” you would have to type it as “c’ est” and then go back and remove the space.
+When you use the International Keyboard, you have to watch out when typing quotation marks and apostrophes before letters that accents *aigu, cédilles*, and *trémas* typically modify. If you do not put an extra space between the punctuation and the letter, it will assume that you want the accent mark. For example, for *c’est* not to become *cést*, you would have to type it as “c’ est” and then go back and remove the space.
 
 * To type accent grave (à, è, etc), type ` (to the left of 1) then the vowel.
-* Accent aigu (é), type ' (single quote) then e.
-* Cédille (ç), type ' then c.
-* Circonflexe (ê), type ^ (shift + 6) then e.
-* Tréma (ö), type " (shift + ') then o.
-* To type French quotation marks « » use ctrl + alt + [ and ], respectively.
+* Accent aigu (é), type ' (single quote) then E.
+* Cédille (ç), type ' then C.
+* Circonflexe (ê), type ^ (shift + 6) then E.
+* Tréma (ö), type " (shift + ') then O.
+* To type French quotation marks « » use Ctrl + Alt + [ and ], respectively.
 
 ### French Keyboard Accent Codes
  
@@ -177,21 +177,21 @@ When you use the International Keyboard, you have to watch out when typing quota
 
 ### Canadian French Keyboard Accent Codes
 
-* To type an acute accent (é), type ´ (next to the right-hand shift key) and then e
-* To type a grave accent (à, è, ù), type ' (apostrophe / single quote) then the vowel
-* The circumflex ˆ and tréma ¨ are in the upper-right corner, side by side next to the enter key
-* For ç, type ¸ (left of "enter") and then 
+* For an *aigu* accent (é), type ´ (next to the right-hand shift key) and then e
+* For a *grave* accent (à, è, ù), type ' (apostrophe / single quote) then the vowel
+* The *circumflex* ˆ and tréma ¨ are in the upper-right corner, side by side next to the Enter key
+* For *cédille* (ç), type ¸ (left of the "Enter" key) and then C
 
 Once you decide which keyboard add-on you want to use, here are the instructions for enabling it:
 
 1. Open Control Panel
 2. Under "Clock, Language, and Region," click "Change input methods"
 3. Click "Options" to the right of your language
-4. Click "Add an input method"
+4. Click "Add an Input Method"
 5. Scroll down to the language you want to add, click + next to it, then select the layout*
 6. Click OK in each dialog window.
 
-No matter which method you like the best, you’ll be ready to type in French whether it’s in present, past, or future tense. Don’t forget to make the most of your learning by booking a [French tutor](https://www.wyzant.com/French_tutors.aspx).
+No matter which method you like the best, you’ll be ready to type in French whether it’s in [present](https://www.wyzant.com/blog/french-verbs-present-tense/), [past](https://www.wyzant.com/blog/french-past-tense/), or [future tense](https://www.wyzant.com/blog/french-future-tense/). Don’t forget to make the most of your learning by booking a [French tutor](https://www.wyzant.com/French_tutors.aspx).
 
 
  
