@@ -74,57 +74,68 @@ Of course, word processors are far from the only place where people type!
 
 ## Accent mark shortcuts for PC
 
-To enter these codes for French accent marks, press each key one at a time, and hold it down until all the keys in the sequence are pressed down. 
+To enter these codes for French accent marks, press each key one at a time, and hold it down (visualized by a "-" below) until all the keys in the sequence are pressed down. 
 
-* Accent aïgue (é): Press CTRL ‘ (apostrophe), followed by the letter    
-* Accent grave (à, è, ù): Press CTRL ` (the key to the left of “1”), followed by the letter
-* Accent circonflèxe (â, ê, î, ô, û): Press CTRL Shift 6 followed by the letter  
-* Trëma (ë, ï, ü): Press CTRL Shift ; followed by the letter   
-* Cédille (ç): Press CTRL – followed by the letter 
+* Accent aïgue (é): Press CTRL-‘ (apostrophe), followed by the letter    
+* Accent grave (à, è, ù): Press CTRL-` (the key to the left of “1”), followed by the letter
+* Accent circonflèxe (â, ê, î, ô, û): Press CTRL-Shift-6 followed by the letter  
+* Trëma (ë, ï, ü): Press CTRL-Shift-; followed by the letter   
+* Cédille (ç): Press CTRL– followed by the letter 
 
-If these codes don’t work on your computer, try these Windows ALT codes on the number pad:
+If these codes don’t work on your computer, don't fret. Try these Windows ALT codes for French accent marks by just using your number pad:
 
-* Alt – 0233 (é)
-* Alt – 0224 (à)
-* Alt – 0232 (è)
-* Alt – 0249 (ù)
-* Alt – 0226 (â)
-* Alt – 0234 (ê)
-* Alt – 0238 (î)
-* Alt – 0244 (ô)
-* Alt – 0251 (û)
-* Alt – 0235 (ë)
-* Alt – 0239 (ï)
-* Alt – 0252 (ü)
-* Alt – 0231 (ç)
+* Alt–0233 (é)
+* Alt–0224 (à)
+* Alt–0232 (è)
+* Alt–0249 (ù)
+* Alt–0226 (â)
+* Alt–0234 (ê)
+* Alt–0238 (î)
+* Alt–0244 (ô)
+* Alt–0251 (û)
+* Alt–0235 (ë)
+* Alt–0239 (ï)
+* Alt–0252 (ü)
+* Alt–0231 (ç)
 
-## Accent mark shortcuts for Mac
+## French accent mark shortcuts for Mac
 
 You can type French accents on an Apple device with Option Key Accents codes and KeyCaps. 
 
-**Option Key Codes:**
+**Option Key Accents codes:**
 
-* Accent aïgue (é): Press Option e
-* Accent grave (à, è, ù): Press Option ` followed by the letter
-* Accent circonflèxe (â, ê, î, ô, û): Press Option i followed by the letter
-* Trëma (ë, ï, ü): Press Option u followed by the letter
-* Cédille (ç): Press Option c
+* Accent aïgue (é): Press Option-e
+* Accent grave (à, è, ù): Press Option-` followed by the letter
+* Accent circonflèxe (â, ê, î, ô, û): Press Option-i followed by the letter
+* Trëma (ë, ï, ü): Press Option-u followed by the letter
+* Cédille (ç): Press Option-c
 
 **KeyCaps:**
 
-The first step for that is to click on the little apple logo on the top left side of the screen. Next, open KeyCaps. A little keyboard will appear on the screen. Then, hold down the option key until a series of accent marks appears. Click on the accent mark you want to type and then type the letter that it modifies. So for example, if you wanted to type é, you would click on ` and then type the e. 
+Touse KeyCaps to type French accent marks, click on the little Apple logo on the top left side of your screen.
+
+Next, open KeyCaps. A little keyboard will appear on the screen. Hold down the Option key until a series of accent marks appears. Click on the French accent mark you wish to type, then type the letter that it modifies.
+
+For example, if you wanted to type é, click on `, and then type the e. Et voila.
 
 ## Accent mark shortcuts for mobile devices
 
-For iPhone, Android, and Tablet keyboards, you can hold down any letter and accent options will come up. For example, if you want to know how to type e with an accent, hold down the e key and è é ê ë ē ĕ ė ę ě and ə will come up as options. 
+For iPhone, Android, and tablet keyboards, hold down any letter, and French accent options will appear (with other non-French accents, as well). In a nutshell, if you want to type "e" with an accent, hold down the "e" key, and you'll instantly see these options pop up: è é ê ë ē ĕ ė ę ě and ə. Just click the one you're looking for, and keep on writing. 
 
 ## Typing French accent marks in Linux
 
-There are two options for typing accent marks on Linux: Character Palette and Compose Key. 
+There are two options for typing accent marks in a Linux operating system: Character Palette and Compose Key. 
 
-To use the character palette, right click on the top bar and click “add to panel”. Then click “Character Palette” and navigate it with the small arrow. To insert the character you want, left click on it, then use ctrl+v to place it. 
+###Character Palette
+To use the character palette, right-click on the top bar and choose “Add to Panel”. Then, click “Character Palette". To insert the accent mark you're looking for, left-click it, which will copy the accent mark to your clipboard. Just use Ctrl+v (Paste) to place it in a word or sentence
 
-To use the compose key, you have to first designate an unused key as the compose key by following this click sequence: Control Center > Accessibility Options > Keyboard Properties > Options > Compose Key option Once it’s designated, you can hold down this key, followed by the letter and the accent mark. 
+### Compose Key 
+
+To use the Compose Key, you have to first designate an unused key as the Compose Key by following this click sequence: 
+
+Control Center > Accessibility Options > Keyboard Properties > Options > Compose Key option
+
+Once it’s designated, you can hold down your Compose Key, followed by the letter and the accent mark, to place the symbol. 
 
 For example, to type é, the sequence is: compose key, e, ‘. To type è, the sequence is: compose key, e, `. To type ö, the sequence is: compose key, o, “. 
 
