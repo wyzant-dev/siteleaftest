@@ -112,11 +112,11 @@ You can type French accents on an Apple device with Option Key Accents codes and
 
 The modern Mac OS offers an exceptionally fast method of typing French accents, and it’s easy to use:
 
-* **Accent aïgue (é)**: Press Option+e
-* **Accent grave (à, è, ù)**: Press Option+` followed by the letter
-* **Accent circonflèxe (â, ê, î, ô, û)**: Press Option+i followed by the letter
+* **Accent aïgue (é)**: Press Option + E
+* **Accent grave (à, è, ù)**: Press Option + ` followed by the letter
+* **Accent circonflèxe (â, ê, î, ô, û)**: Press Option + I followed by the letter
 * **Trëma (ë, ï, ü)**: Press Option+u followed by the letter
-* **Cédille (ç)**: Press Option+c
+* **Cédille (ç)**: Press Option + C
 
 **KeyCaps:**
 
@@ -124,7 +124,7 @@ To use KeyCaps to type French accent marks, click on the little Apple logo on th
 
 Next, open KeyCaps. A little keyboard will appear on the screen. Hold down the Option key until a series of accent marks appears. Click on the French accent mark you wish to type, then type the letter that it modifies.
 
-For example, if you wanted to type é, click on `, and then type the e. Et voila.
+For example, if you wanted to type é, click on `, and then type the E. Et voila.
 
 ## Accent mark shortcuts for mobile devices
 
@@ -147,9 +147,9 @@ Once it’s designated, hold down your Compose Key, followed by the letter and t
 
 Here are some examples: 
 
-* To type é, the sequence is: compose key, e, ‘.
-* To type è, the sequence is: compose key, e, `.
-* To type ö, the sequence is: compose key, o, “. 
+* To type é, the sequence is: compose key, E, ‘.
+* To type è, the sequence is: compose key, E, `.
+* To type ö, the sequence is: compose key, O, “. 
 
 ## Windows International Keyboard add-ons 
 
