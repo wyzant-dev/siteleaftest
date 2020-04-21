@@ -74,29 +74,29 @@ Of course, word processors are far from the only place where people type!
 
 ## Accent mark shortcuts for PC
 
-To enter these codes for French accent marks, press each key one at a time, and hold it down (visualized by a "-" below) until all the keys in the sequence are pressed down. 
+To enter these codes for French accent marks, use a sustained key press (basically, press each key one at a time, and hold it down until all the keys in the sequence are pressed down). 
 
-* Accent aïgue (é): Press CTRL-‘ (apostrophe), followed by the letter    
-* Accent grave (à, è, ù): Press CTRL-` (the key to the left of “1”), followed by the letter
-* Accent circonflèxe (â, ê, î, ô, û): Press CTRL-Shift-6 followed by the letter  
-* Trëma (ë, ï, ü): Press CTRL-Shift-; followed by the letter   
-* Cédille (ç): Press CTRL– followed by the letter 
+* Accent aïgue (é): Press CTRL+‘ (apostrophe), followed by the letter    
+* Accent grave (à, è, ù): Press CTRL+` (the key to the left of “1”), followed by the letter
+* Accent circonflèxe (â, ê, î, ô, û): Press CTRL+Shift-6 followed by the letter  
+* Trëma (ë, ï, ü): Press CTRL+Shift+; followed by the letter   
+* Cédille (ç): Press CTRL+ followed by the letter 
 
 If these codes don’t work on your computer, don't fret. Try these Windows ALT codes for French accent marks by just using your number pad:
 
-* Alt–0233 (é)
-* Alt–0224 (à)
-* Alt–0232 (è)
-* Alt–0249 (ù)
-* Alt–0226 (â)
-* Alt–0234 (ê)
-* Alt–0238 (î)
-* Alt–0244 (ô)
-* Alt–0251 (û)
-* Alt–0235 (ë)
-* Alt–0239 (ï)
-* Alt–0252 (ü)
-* Alt–0231 (ç)
+* Alt+0233 (é)
+* Alt+0224 (à)
+* Alt+0232 (è)
+* Alt+0249 (ù)
+* Alt+0226 (â)
+* Alt+0234 (ê)
+* Alt+0238 (î)
+* Alt+0244 (ô)
+* Alt+0251 (û)
+* Alt+0235 (ë)
+* Alt+0239 (ï)
+* Alt+0252 (ü)
+* Alt+0231 (ç)
 
 ## French accent mark shortcuts for Mac
 
@@ -106,11 +106,11 @@ You can type French accents on an Apple device with Option Key Accents codes and
 
 The modern Mac OS offers an exceptionally fast method of typing French accents, and it’s easy to use:
 
-* Accent aïgue (é): Press Option-e
-* Accent grave (à, è, ù): Press Option-` followed by the letter
-* Accent circonflèxe (â, ê, î, ô, û): Press Option-i followed by the letter
-* Trëma (ë, ï, ü): Press Option-u followed by the letter
-* Cédille (ç): Press Option-c
+* Accent aïgue (é): Press Option+e
+* Accent grave (à, è, ù): Press Option+` followed by the letter
+* Accent circonflèxe (â, ê, î, ô, û): Press Option+i followed by the letter
+* Trëma (ë, ï, ü): Press Option+u followed by the letter
+* Cédille (ç): Press Option+c
 
 **KeyCaps:**
 
