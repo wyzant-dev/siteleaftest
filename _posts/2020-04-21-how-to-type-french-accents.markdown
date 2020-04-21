@@ -12,7 +12,15 @@ author: Lauren Harsh
 hero-image: "/blog/uploads/How%20to%20Type%20French%20Accent%20Marks.png"
 ---
 
-Accent marks are a required part of writing in French. Many English-speaking beginners’ reactions to them are along the lines of “do they really matter?” They do. But learning how to read and write them is only part of the battle. Since we live in the twenty-first century, you need to know how to type them too. They’re not on most US English keyboards. Never fear! It’s easier than it looks and you don’t need a French keyboard. This guide will cover how to type French accent marks on English keyboards for PC, Mac, Linux, and mobile devices. This information will help you whether you’re taking French tutoring or a class, organizing a trip, or just learning the basics. 
+Accent marks are a required part of writing in French. Many English-speaking beginners’ reactions to them are along the lines of, “Do they really matter?”
+
+They do!
+
+However, learning how to read and write French accent marks is only part of the battle. Since we live in the twenty-first century, it's important to know how to type them too. 
+
+Here's the problem: French accent marks don't appear on most US English keyboards. Never fear! Typing French accents is easier than it looks, and you don’t even need a French keyboard.
+
+This guide will cover how to type French accent marks on English keyboards for PC, Mac, Linux, and mobile devices. This information will help you whether you’re taking French tutoring or a class, organizing a trip, or just learning the basics. 
 
 ## What are French accent marks?
 
