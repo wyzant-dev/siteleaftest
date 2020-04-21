@@ -169,21 +169,20 @@ The International Keyboard is the most user-friendly to US-based users who are u
 
 However, the typing of the accents themselves is easier on the French and Canadian French Keyboards. On the French keyboard, most accent marks are available as keys. On the Canadian French, however, fewer are available as keys, but the codes are simpler. 
 
-### International Keyboard Accent Codes
+### International Keyboard accent codes
 
 When you use the International Keyboard, you have to watch out when typing quotation marks and apostrophes before letters that accents *aigu, cédilles*, and *trémas* typically modify. If you do not put an extra space between the punctuation and the letter, it will assume that you want the accent mark. For example, for *c’est* not to become *cést*, you would have to type it as “c’ est” and then go back and remove the space.
 
-* To type accent grave (à, è, etc), type ` (to the left of 1) then the vowel.
-* Accent aigu (é), type ' (single quote) then E.
-* Cédille (ç), type ' then C.
-* Circonflexe (ê), type ^ (shift + 6) then E.
-* Tréma (ö), type " (shift + ') then O.
-* To type French quotation marks « » use Ctrl + Alt + [ and ], respectively.
+* To type **accent grave** (à, è, etc), type ` (to the left of 1) then the vowel.
+* For **Accent aigu** (é), type ' (single quote) then E.
+* To type **cédille** (ç), type ' then C.
+* To enter a **circonflexe **(ê), type ^ (shift + 6) then E.
+* To use **tréma** (ö), type " (shift + ') then O.
 
 ### French Keyboard Accent Codes
  
-* To type anything with a circumflex (â, ê, etc), type ^ then the vowel
-* For a tréma, (ä, ë, etc), type ¨ and the vowel
+* To type anything with a **circumflex** (â, ê, etc), type ^ then the vowel
+* For a **tréma**, (ä, ë, etc), type ¨ and the vowel
 
 ### Canadian French Keyboard Accent Codes
 
