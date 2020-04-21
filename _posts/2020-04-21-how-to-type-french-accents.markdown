@@ -74,7 +74,7 @@ Of course, word processors are far from the only place where people type!
 
 ## Accent mark shortcuts for PC
 
-For these codes, press each key one at a time and hold them down until they’re all pressed down. 
+To enter these codes for French accent marks, press each key one at a time, and hold it down until all the keys in the sequence are pressed down. 
 
 * Accent aïgue (é): Press CTRL ‘ (apostrophe), followed by the letter    
 * Accent grave (à, è, ù): Press CTRL ` (the key to the left of “1”), followed by the letter
