@@ -118,7 +118,7 @@ If these codes don’t work on your computer, don't fret. Try these Windows ALT 
 
 You can type French accents on an Apple device with Option Key Accents codes and KeyCaps. 
 
-**Option Key Accents codes:**
+### Option Key Accents codes
 
 The modern Mac OS offers an exceptionally fast method of typing French accents, and it’s easy to use:
 
@@ -128,7 +128,7 @@ The modern Mac OS offers an exceptionally fast method of typing French accents, 
 * **Trëma (ë, ï, ü)**: Press Option+u followed by the letter
 * **Cédille (ç)**: Press Option + C
 
-**KeyCaps:**
+### KeyCaps
 
 To use KeyCaps to type French accent marks, click on the little Apple logo on the top left side of your screen.
 
