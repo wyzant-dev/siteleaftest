@@ -24,49 +24,53 @@ This guide will cover how to type French accent marks on English keyboards for P
 
 ## What are French accent marks?
 
-To review, here are all of the accent marks, their French names, and explanations of how they alter the letter’s pronunciation.
+Visit our incredible [guide to French pronunciation](https://www.wyzant.com/blog/french-pronunciation/) to read more about all the accent marks, their French names, and explanations of how they alter the letter’s pronunciation. Here's a brief overview:
 
 ### É - Accent aigu
 
-The accent aigu only appears above the letter E. Pronounced like ay. 
+The accent *aigu* only appears above the letter E. Pronounced like -ay. 
 
-Examples of words that include it: desolé, médicin, 
+Examples of words that include it: *desolé, médicin.* 
 
 ### È - Accent grave
 
-The accent grave usually appears above the letter E, but can appear above any vowel. Pronounced like the E in the English word get.
+*Accent grave* usually appears above the letter E, but can appear above any vowel. Pronounced like the E in the English word "get."
 
-Examples of words that include it: problème, deuxième  
+Examples of words that include accent grave: *problème, deuxième*  
 
 ### Ç - Accent cedille
 
-The cedille appears under the letter C. Makes the sound soft, like an S as opposed to hard like a K. 
+The *cedille* appears under the letter C, and makes the sound soft, like an S, as opposed to hard, like a K. 
 
-Examples of words that include in: français, garçon
+Examples of words that include accent cedille: *français, garçon*
 
 ### Ö - Accent trema
 
-The trema can appear over any vowel. Makes the second vowel in a pair voiced. It is often used with names and places. 
+The *trema* can appear over any vowel. It makes the second vowel in a pair voiced, and is often used with names and places. 
 
-Examples of words that include it : coïncidence, Zoë
+Examples of words that include it : *coïncidence, Zoë*
 
 ### Ô - Circonflexe
 
-The circonflexe can appear over any vowel. It does not significantly alter the pronunciation. There is a movement to remove it from the language, but it is still important to recognize it and know which words include it. 
+The *circonflexe* can appear over any vowel. It does not significantly alter the pronunciation. There is a movement to remove it from the language, but it is still important to recognize it and know which words include it. 
 
-Examples of words that include it: être, hôtel
+Examples of words that include it: *être, hôtel*
 
 ## Inserting French accent marks in word processors
 
-Microsoft Word, Google Docs, and Mac computers both have features that allow you to insert special characters that are not on the keyboard into your documents. This is the most intuitive way to type them.
+Microsoft Word, Google Docs, and Mac computers all have features that allow you to insert special characters that don't appear on the keys. This is the most intuitive way to type French accent marks.
 
-In Google Docs, start by clicking “Insert”, then “Special Characters.” Two drop-down menus and a grid of symbols will pop up. Select “Latin” from the first dropdown menu and then select the accented letter you want to type from the grid. 
+### GoogleDocs
 
-In Microsoft Word, also start by clicking “Insert.” Next, click “Symbol.” A grid of symbols will pop up. If the one you’re looking for is not on there, click “More Symbols” at the bottom. Again, two drop-down menus and a grid will pop up. Select “Latin Supplement 1” from the second drop-down menu, select the accented letter you want to type from the grid, and click “Insert.”
+In Google Docs, start by clicking “Insert”, then “Special Characters.” Two drop-down menus and a grid of symbols will pop up. Select “Latin” from the first drop-down menu, and then select the accented letter you want to type from the grid. Easy!
 
-On a Mac, start by clicking “edit” in the menu bar. Then click on “special characters” and select “Roman” from the dropdown menu. From there, select the “accented Latin” character palate. After that, click on the character you want to type and click “Insert”. Unlike Microsoft Word or Google Docs, this method is not limited to the word processor. 
+### Microsoft Word
+In Microsoft Word, also start by clicking “Insert.” Next, click “Symbol.” A grid of symbols will pop up. If the one you’re looking for is not on there, click “More Symbols” at the bottom. You'll see two drop-down menus and a grid. Select “Latin Supplement 1” from the second drop-down menu, select the accented letter you want to type from the grid, and click “Insert.”
 
-Of course, word processors are far from the only place where people type. 
+### Mac
+On a Mac, start by clicking “Edit” in the menu bar. Then choose “Special Characters” and select “Roman” from the drop-down menu. Next, select the “Accented Latin” character palette. Then, click the character you want to type, and hit “Insert”.  
+
+Of course, word processors are far from the only place where people type!
 
 ## Accent mark shortcuts for PC
 
