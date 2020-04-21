@@ -1,7 +1,6 @@
 ---
 title: 'How to Type French Accent Marks: 42 Keyboard Shortcuts'
 date: 2020-04-21 08:22:00 -05:00
-published: false
 categories:
 - French
 - Language Learning
