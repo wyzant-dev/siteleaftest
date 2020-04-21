@@ -145,7 +145,7 @@ Here are some examples:
 
 ## Windows International Keyboard add-ons 
 
-Another option for typing French accents in Windows is to add an alternate keyboard layout. The options for typing in French are International Keyboard, French Keyboard, and Canadian French Keyboard. 
+Another option for typing French accents in Windows is to add an alternate keyboard layout. The options available for typing in French are International Keyboard, French Keyboard, and Canadian French Keyboard. 
 
 The International Keyboard is the most user-friendly to US-based users who are used to a QWERTY. The French Keyboard is AZERTY and has several keys in different places than a US English keyboard. That makes switching back and forth confusing. The Canadian French keyboard has all the un-modified letters in the same spots, but has some additional characters.
 
