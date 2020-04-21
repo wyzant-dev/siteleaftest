@@ -138,7 +138,7 @@ For example, if you wanted to type é, click `, and then type the E. Et voila.
 
 ## Accent mark shortcuts for mobile devices
 
-For iPhone, Android, and tablet keyboards, hold down any letter, and French accent options will appear (with other non-French accents, as well). In a nutshell, if you want to type "e" with an accent, hold down the "e" key, and you'll instantly see these options pop up: è é ê ë ē ĕ ė ę ě and ə. Just click the one you're looking for, and keep on writing. 
+For iPhone, Android, and tablet keyboards, hold down any letter, and French accent options will appear (with other non-French accents, as well). In a nutshell, if you want to type "e" with an accent, hold down the "E" key, and you'll instantly see these options pop up: è é ê ë ē ĕ ė ę ě and ə. Just click the one you're looking for, and keep on writing. 
 
 ## Typing French accent marks in Linux
 
