@@ -64,11 +64,17 @@ Microsoft Word, Google Docs, and Mac computers all have features that allow you 
 
 In Google Docs, start by clicking “Insert”, then “Special Characters.” Two drop-down menus and a grid of symbols will pop up. Select “Latin” from the first drop-down menu, and then select the accented letter you want to type from the grid. Easy!
 
+![French Accents GoogleDocs.png](/blog/uploads/French%20Accents%20GoogleDocs.png)
+
 ### Microsoft Word
 In Microsoft Word, also start by clicking “Insert.” Next, click “Symbol.” A grid of symbols will pop up. If the one you’re looking for is not on there, click “More Symbols” at the bottom. You'll see two drop-down menus and a grid. Select “Latin Supplement 1” from the second drop-down menu, select the accented letter you want to type from the grid, and click “Insert.”
 
+![Microsoft Word French Accents.png](/blog/uploads/Microsoft%20Word%20French%20Accents.png)
+
 ### Mac
 On a Mac, start by clicking “Edit” in the menu bar. Then choose “Special Characters” and select “Roman” from the drop-down menu. Next, select the “Accented Latin” character palette. Then, click the character you want to type, and hit “Insert”.  
+
+![Mac French Accents.jpg](/blog/uploads/Mac%20French%20Accents.jpg)
 
 Of course, word processors are far from the only place where people type!
 
