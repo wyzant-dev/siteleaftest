@@ -9,7 +9,17 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: Incorrect usage of accent marks can cause mistakes and frustrating miscommunications.
+  When you're learning French, you'll need to learn how to type its accent marks.
 hero-image: "/blog/uploads/How%20to%20Type%20French%20Accent%20Marks.png"
+meta-description: Students studying French expect to be competent in reading and writing
+  the language...which means knowing how to use French accent marks in written communication.
+  Take this guide on your French language learning journey, and you'll have everything
+  you need to know.
+post-description: Students studying French expect to be competent in reading and writing
+  the language...which means knowing how to use French accent marks in written communication.
+  Take this guide on your French language learning journey, and you'll have everything
+  you need to know.
 ---
 
 Accent marks are a required part of writing in French. Many English-speaking beginners’ reactions to them are along the lines of, “Do they really matter?”
