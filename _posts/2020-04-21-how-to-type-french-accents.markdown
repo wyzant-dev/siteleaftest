@@ -114,7 +114,7 @@ The modern Mac OS offers an exceptionally fast method of typing French accents, 
 
 **KeyCaps:**
 
-Touse KeyCaps to type French accent marks, click on the little Apple logo on the top left side of your screen.
+To use KeyCaps to type French accent marks, click on the little Apple logo on the top left side of your screen.
 
 Next, open KeyCaps. A little keyboard will appear on the screen. Hold down the Option key until a series of accent marks appears. Click on the French accent mark you wish to type, then type the letter that it modifies.
 
