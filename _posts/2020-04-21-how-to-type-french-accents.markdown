@@ -52,7 +52,7 @@ Examples of words that include it : *coïncidence, Zoë*
 
 ### Ô - Circonflexe
 
-The *circonflexe* can appear over any vowel. It does not significantly alter the pronunciation. There is a movement to remove it from the language, but it is still important to recognize it and know which words include it. 
+The *circonflexe* can appear over any vowel. It does not significantly alter the pronunciation. There is a movement to [remove it from the language](https://www.bbc.com/news/world-europe-35496893), but it is still important to recognize it and know which words include it. 
 
 Examples of words that include it: *être, hôtel*
 
