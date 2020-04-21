@@ -185,10 +185,10 @@ When you use the International Keyboard, you have to watch out when typing quota
 
 ### Canadian French Keyboard Accent Codes
 
-* For an *aigu* accent (é), type ´ (next to the right-hand shift key) and then e
-* For a *grave* accent (à, è, ù), type ' (apostrophe / single quote) then the vowel
-* The *circumflex* ˆ and tréma ¨ are in the upper-right corner, side by side next to the Enter key
-* For *cédille* (ç), type ¸ (left of the "Enter" key) and then C
+* For an **aigu** accent (é), type ´ (next to the right-hand shift key) and then e
+* For a **grave** accent (à, è, ù), type ' (apostrophe / single quote) then the vowel
+* The **circumflex** ˆ and tréma ¨ are in the upper-right corner, side by side next to the Enter key
+* For **cédille** (ç), type ¸ (left of the "Enter" key) and then C
 
 Once you decide which keyboard add-on you want to use, here are the instructions for enabling it:
 
