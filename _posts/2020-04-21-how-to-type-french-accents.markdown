@@ -104,6 +104,8 @@ You can type French accents on an Apple device with Option Key Accents codes and
 
 **Option Key Accents codes:**
 
+The modern Mac OS offers an exceptionally fast method of typing French accents, and it’s easy to use:
+
 * Accent aïgue (é): Press Option-e
 * Accent grave (à, è, ù): Press Option-` followed by the letter
 * Accent circonflèxe (â, ê, î, ô, û): Press Option-i followed by the letter
