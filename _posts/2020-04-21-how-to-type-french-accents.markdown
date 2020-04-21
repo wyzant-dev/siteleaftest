@@ -144,7 +144,7 @@ For iPhone, Android, and tablet keyboards, hold down any letter, and French acce
 
 There are two options for typing accent marks in a Linux operating system: Character Palette and Compose Key. 
 
-###Character Palette
+### Character Palette
 To use the character palette, right-click on the top bar and choose “Add to Panel”. Then, click “Character Palette". To insert the accent mark you're looking for, left-click it, which will copy the accent mark to your clipboard. Just use Ctrl + V (Paste) to place it in a word or sentence
 
 ### Compose Key 
