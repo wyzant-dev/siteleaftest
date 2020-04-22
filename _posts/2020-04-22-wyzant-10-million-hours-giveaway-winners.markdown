@@ -17,7 +17,9 @@ Last week, I had the pleasure to interview Hema and her son, Adarsh, the lucky r
 
 Adarsh lives with his mom, Hema, in the San Diego area, Adarsh is in his sophomore year of high school, now occurring virtually. Like most, it’s been a challenging transition for his school. “Nobody knows what is going on right now,” were his exact words. Hopefully now, a few weeks into  e-learning, they’re beginning to figure it out. 
 
-Adarsh is a bright young man and very good student. As a sophomore, he’s taking 4 AP classes this year, and planning on 6-7 next year. His ultimate goal is to get into UCLA to study either medicine or engineering. To do that, he’s aiming to get straight As, high ACT scores and 5s on his AP exams. Enter Wyzant. 
+Adarsh is a bright young man and very good student. As a sophomore, he’s taking 4 AP classes this year, and planning on 6-7 next year. His ultimate goal is to get into UCLA to study either medicine or engineering. To do that, he’s aiming to get straight As, high ACT scores and 5s on his AP exams.
+
+Enter Wyzant. 
 
 ## Finding the right chemistry
 
