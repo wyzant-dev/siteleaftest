@@ -7,11 +7,12 @@ categories:
 tags:
 - Wyzant News
 - Online Learning
+author: Andrew Geant, CEO
 ---
 
 Back in February 2020, we announced that Wyzant was fast approaching the biggest milestone in our platform’s history - **10 million hours of lessons**. To celebrate, we decided to go big: the student whose lesson took Wyzant over the 10 million hour mark would receive an entire year of free tutoring, and their tutor would take home a prize of $1000.
 
-Last week, I had the pleasure to interview Adarsh and his mom Hema, the lucky recipients of Wyzant’s 10 million hour giveaway of free tutoring for a year! 
+Last week, I had the pleasure to interview Adarsh and his mom Hema, the lucky recipients of Wyzant’s 10 million hour giveaway! 
 
 ## The winning student
 
