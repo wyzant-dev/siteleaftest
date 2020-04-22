@@ -34,6 +34,7 @@ This was back in February, before social distancing became the norm, but Adarsh 
 A few days after contacting Katie through Wyzant, they set up their first lesson. So far, they’ve had five sessions together, and Adarsh is making tremendous progress. “Prior to Katie, I felt pretty awful and couldn’t understand half the material. Now when I go through the practice materials I really get it. Katie is a really great tutor. She’s so concise and on point, and she explains things really well.”
 
 #### “Prior to Katie, I felt pretty awful and couldn’t understand half the material. Now when I go through the practice materials I really get it. Katie is a really great tutor. She’s so concise and on point, and she explains things really well.”
+## The lucky tutor
 
 I also chatted with Katie, who has been tutoring on Wyzant in order to help pay the bills as a graduate student. Katie told me, “I like Wyzant because I get to work with great students on a part-time basis, and I get to keep more money than at previous tutoring jobs. Basically, I get to be my own boss.” As for her work with Adarsh, she said, “Adarsh is a quick learner. He’s motivated, prepared and easy-going.” She added about being a tutor, “It’s really rewarding for me to work long-term with students and be able to see their progress. I love seeing the students make improvements and build their confidence.”
 
