@@ -10,6 +10,7 @@ tags:
 author: Andrew Geant, CEO
 sub-headline: Last week, I had the pleasure to interview the lucky recipients of a
   year of free tutoring.
+hero-image: "/blog/uploads/10M%20Hours%20Announcement.jpg"
 meta-description: 'Back in February 2020, we announced that Wyzant was fast approaching
   the biggest milestone in our platform’s history - 10 million hours of lessons. To
   celebrate, we decided to go big: the student whose lesson took Wyzant over the 10
