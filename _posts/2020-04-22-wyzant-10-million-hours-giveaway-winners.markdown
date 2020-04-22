@@ -23,7 +23,7 @@ In February, Adarsh started AP Chemistry, and he knew it was going to be hard ri
 
 The icing on the cake? She’s working toward a doctorate in dentistry at UCLA.
 
-This was back in February, before social distancing became the norm, but Adarsh and Hema were clear from the beginning that they wanted the tutoring to take place online. > “Adarsh is too busy to travel somewhere, and he’s very comfortable working online. We liked Wyzant because you can review all the tutors. I know my son and what sort of tutor he needs. With Wyzant, I can help him find the right tutor.”
+This was back in February, before social distancing became the norm, but Adarsh and Hema were clear from the beginning that they wanted the tutoring to take place online. > “Adarsh is too busy to travel somewhere, and he’s very comfortable working online. We liked Wyzant because you can review all the tutors. I know my son and what sort of tutor he needs. With Wyzant, I can help him find the right tutor.” > 
 
 A few days after contacting Katie through Wyzant, they set up their first lesson. So far, they’ve had five sessions together, and Adarsh is making tremendous progress. “Prior to Katie,I felt pretty awful and couldn’t understand half the material. Now when I go through the practice materials I really get it. Katie is a really great tutor. She’s so concise and on point, and she explains things really well.”
 
