@@ -1,7 +1,6 @@
 ---
 title: 10 Score-Boosting SAT Math Tips
 date: 2020-02-04 08:39:00 -06:00
-published: false
 categories:
 - SAT
 - Test Prep
