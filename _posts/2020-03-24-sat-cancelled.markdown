@@ -25,7 +25,9 @@ And if you are an educator, student, or the parent of a student, you must feel a
 
 With less than three months before the end of the school year, everyone involved feels like they’re in a state of limbo. You may be wondering about graduation requirements like senior projects or state standardized test scores. Perhaps you’re concerned about whether you’ll be able get those college credits by taking Advanced Placement (AP) exams. If you are a high school junior, you must have a lot of questions about the SAT.
 
-On March 14, most students were unable to take the SAT, as testing locations—both nationally and internationally—chose to shut down and not administer the exam. Shortly after, The [College Board](https://www.collegeboard.org/) announced that the May 2 SAT was cancelled. The vast majority high school juniors rely on the March and May SAT test dates in order to get their SAT scores in before final exams and summer vacation, but now both those have been eliminated for the bulk of test-takers. 
+On March 14, most students were unable to take the SAT, as testing locations—both nationally and internationally—chose to shut down and not administer the exam. Shortly after, The [College Board](https://www.collegeboard.org/) announced that the May 2 SAT was cancelled. Most recently, June's SAT dates have also been cancelled. 
+
+The vast majority high school juniors rely on the May/June SAT test dates in order to get their SAT scores in before final exams and summer vacation, but now both those have been eliminated for the bulk of test-takers. 
 
 ## What about the SAT?
 In response to the continually evolving circumstances surrounding COVID-19, the College Board has announced that both May and June 2020 SAT and SAT Subject Tests [have been cancelled](https://pages.collegeboard.org/natural-disasters). 
