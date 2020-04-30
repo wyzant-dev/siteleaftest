@@ -8,15 +8,15 @@ tags:
 - SAT
 - Test Prep
 author: Jonathan Reidenouer
-sub-headline: Both March and May SAT test dates have been cancelled. How should students
-  proceed?
+sub-headline: March, May, and June 2020 SAT test dates have been cancelled. How should
+  students proceed?
 hero-image: "/blog/uploads/SAT%20Cancelled%20Now%20What.png"
-meta-description: The vast majority high school juniors rely on the March and May
-  SAT test dates in order to get their SAT scores in before final exams and summer
-  vacation, but now both those have been eliminated for the bulk of test-takers.
-post-description: The vast majority high school juniors rely on the March and May
-  SAT test dates in order to get their SAT scores in before final exams and summer
-  vacation, but now both those have been eliminated for the bulk of test-takers.
+meta-description: The vast majority high school juniors rely on the May/June SAT test
+  dates in order to get their SAT scores in before final exams and summer vacation,
+  but now both those have been eliminated for the bulk of test-takers.
+post-description: The vast majority high school juniors rely on the May/June SAT test
+  dates in order to get their SAT scores in before final exams and summer vacation,
+  but now both those have been eliminated for the bulk of test-takers.
 ---
 
 If you’re like everyone else in the United States right now, you likely asking the question, “What is going on out there?!”
