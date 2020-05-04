@@ -1,7 +1,6 @@
 ---
 title: What to Expect at Your First Online Spanish Lesson
 date: 2020-05-04 10:23:00 -05:00
-published: false
 categories:
 - Spanish
 - Language Learning
@@ -9,7 +8,19 @@ tags:
 - Spanish
 - Language Learning
 author: Gissela Tomasello
+sub-headline: Gone are the days when picking up a second language requires attending
+  a formal, in-person class.
 hero-image: "/blog/uploads/What%20to%20Expect%20from%20Online%20Spanish%20Lessons.png"
+meta-description: 'Taking online lessons with the help of a tutor is a smart and effective
+  way to learn Spanish without leaving your home. Still though: first-time language
+  learners have a lot of questions about the best way to learn Spanish online. Here''s
+  what to expect at your first lesson.
+
+'
+post-description: 'Taking online lessons with the help of a tutor is a smart and effective
+  way to learn Spanish without leaving your home. Still though: first-time language
+  learners have a lot of questions about the best way to learn Spanish online. Here''s
+  what to expect at your first lesson.'
 ---
 
 It's no secret: technology has made learning a language easier. 
