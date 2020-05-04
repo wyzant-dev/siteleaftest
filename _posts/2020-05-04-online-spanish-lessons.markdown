@@ -35,9 +35,13 @@ Second, it is essential to consider the reviews left by previous and/or current 
 Last but not least, finding a budget-friendly online Spanish tutor is important. At first glance, it might sound difficult to find a Spanish tutor who is both experienced and affordable. However, the good news is that [it's easy](https://www.wyzant.com/blog/cost-of-tutoring/) to find Spanish language tutors with reputable and trusted experience, who is also affordable to work with. 
 
 
-## Assessment
-Getting assessed by a Spanish tutor is very important to determine where exactly you and your tutor should begin. A first-time student will focus more on learning the structure of the language, and setting academic goals that will help them learn Spanish. 
+## Assessment of your current skill level
+Getting assessed by a Spanish tutor is very important to determine where exactly you and your tutor should begin.
+
+A first-time student will focus more on learning the structure of the language, and setting academic goals that will help them learn Spanish. 
+
 Usually occurring at the very first lesson, a Spanish tutor will get to know their student by asking basic questions in Spanish, explaining high-level grammar concepts, taking notes, and engaging in an interactive and friendly manner. A first-time Spanish language assessment is also an excellent opportunity to get to know your teacher better.
+
 After your current level has been determined by your Spanish tutor, they can give more in-depth, honest feedback on grammar, pronunciation, and fluency. Establishing where you should start is pretty important, as both you and your tutor can collaborate on a  specific plan to move you closer to fluency.
 
 ## Materials to have on hand
