@@ -1,5 +1,5 @@
 ---
-title: 10 Things to Expect from Online Spanish Lessons
+title: What to Expect from Online Spanish Lessons
 date: 2020-05-04 10:23:00 -05:00
 published: false
 categories:
