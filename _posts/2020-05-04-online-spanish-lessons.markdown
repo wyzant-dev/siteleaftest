@@ -64,7 +64,7 @@ Pronunciation will likely factor greatly into your Spanish learning experience, 
 
 Your [Spanish tutor](https://www.wyzant.com/Spanish_tutors.aspx) will help you pronounce different words correctly, and familiarize you with important aspects of Spanish pronunciation. As your fluency level keeps progressing, pronunciation will become part of a discussion of specific subjects and concepts. Personalized Spanish lessons permit each student to practice much pronunciation according to their own level.
 
-
+## Getting familiar with Spanish accent marks
 Spanish accents marks are usually also presented as part of your first online Spanish lessons. But rather than be presented as a separate subject, they’re taught along with grammar and pronunciation.
 Accents in Spanish are essential because they not only determine how a word should be pronounced correctly, but also the meaning of a specific term (especially when writing). Spanish accents will be presented along with different words and phrases, forming a unique picture of the Spanish language.
 
