@@ -21,7 +21,7 @@ Taking online Spanish lessons with the help of a tutor is a positive and viable 
 Here are some guidelines to help manage your expectations and set you up for a wonderful first Spanish lesson.
 
 ## Finding a Spanish Tutor
-Finding the perfect Spanish tutor is the most logical first step to learning Spanish online. There are three aspects to consider to find the right Spanish tutor for you. 
+Finding the perfect Spanish tutor is the most logical first step to learning Spanish online, so let's start here. There are three aspects to consider to help find the right fit for you. 
 
 ### Background and experience
 First, [look for a tutor](https://www.wyzant.com/Spanish_tutors.aspx) who has a background education and experience teaching Spanish online. Whether they’re a native or non-native Spanish speaker, a well-educated tutor will be prepared to explain specific concepts related to the Spanish language, even if it’s your first time learning any Spanish at all. In addition, an online Spanish tutor will personalize lesson to your needs, and will utilize the appropriate material to guide you. 
