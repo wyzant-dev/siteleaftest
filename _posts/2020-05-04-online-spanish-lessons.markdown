@@ -1,5 +1,5 @@
 ---
-title: What to Expect from Online Spanish Lessons
+title: What to Expect at Your First Online Spanish Lesson
 date: 2020-05-04 10:23:00 -05:00
 published: false
 categories:
@@ -8,6 +8,7 @@ categories:
 tags:
 - Spanish
 - Language Learning
+hero-image: "/blog/uploads/What%20to%20Expect%20from%20Online%20Spanish%20Lessons.png"
 ---
 
 It's no secret: technology has made our lives easier. 
