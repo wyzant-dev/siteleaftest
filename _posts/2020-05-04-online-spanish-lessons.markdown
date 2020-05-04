@@ -50,7 +50,7 @@ A notebook is recommended to use during your lesson. It might sound like an obvi
 
 Virtual notes, like those in the [Wyzant online tool](https://www.wyzant.com/blog/online-learning-tool-video/), are also a convenient option for getting the most out of your online Spanish lessons. You can share and compare notes in real-time, and have the advantage of not only taking detailed notes that help put Spanish learning into perspective for you, but to add comments, ask questions, and highlight important information that will be useful at later lessons. 
 
-If there is a specific aspect of the Spanish language that you’re hoping a tutor can clarify, you should expect Spanish homework. Sharing specific documents on grammar, conjugation, pronunciation, vocabulary, or other topics of study will allow the lesson to be more personalized, which leads quickly to fewer doubts, second guesses, and prepares you to advance at a steady pace in your language learning. 
+Sharing specific documents on grammar, conjugation, pronunciation, vocabulary, or other topics of study allow your lesson to be more personalized, which leads quickly to fewer doubts, second guesses, and prepares you to advance at a steady pace in your language learning. 
 
 Books and Spanish language dictionaries are a wonderful resource for a first-time Spanish learner, and can serve as reference...but remember: a tutor prepares their lessons in a personalized manner, and will usually direct learning according to your specific goals. Make sure you know what your goals are. 
 
