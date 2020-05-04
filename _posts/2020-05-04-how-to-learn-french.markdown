@@ -9,6 +9,7 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+hero-image: "/blog/uploads/How%20to%20Learn%20French%20on%20Your%20Own.png"
 ---
 
 Is it possible to learn French outside of a classroom setting? Sure! Whether you’re anxious about making mistakes (an inevitable part of learning) in front of other people, your schedule is too unconventional to take a class, or you’re just an independent spirit, you have options.
