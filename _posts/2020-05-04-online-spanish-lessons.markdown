@@ -115,3 +115,5 @@ After the lesson is over, a tutor will give you constructive feedback on aspects
 
 ## Lesson Pacing
 The pace of your lessons will vary according to your level, needs, and progress. Personalized lessons are an extremely effective way or learning Spanish because they allow you to adapt and accommodate to the process based on your own needs and progress. The main goal of any Spanish tutor is for their student to fully understand and easily utilize the language. Consequently, you’ll never feel rushed to complete the material (because it’s created and paced specifically for you).
+
+In the end, communicating your goals to your online Spanish tutor prior to a lesson is key to making the most of the experience...and making your next Spanish lessons more fun and productive. Have a great first Spanish lesson! 
