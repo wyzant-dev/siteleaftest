@@ -22,7 +22,7 @@ Here are some guidelines to help manage your expectations and set you up for a w
 Finding the perfect Spanish tutor is the most logical first step to learning Spanish online. There are three aspects to consider to find the right Spanish tutor for you. 
 
 ### Background and experience
-First, look for a tutor who has a background education and experience teaching Spanish online. Whether they’re a native or nonative Spanish speaker, a well-educated tutor will be prepared to explain specific concepts related to the Spanish language, even if it’s your first time learning any Spanish at all. In addition, an online Spanish tutor will personalize lesson to your needs, and will utilize the appropriate material to guide you. 
+First, look for a tutor who has a background education and experience teaching Spanish online. Whether they’re a native or non-native Spanish speaker, a well-educated tutor will be prepared to explain specific concepts related to the Spanish language, even if it’s your first time learning any Spanish at all. In addition, an online Spanish tutor will personalize lesson to your needs, and will utilize the appropriate material to guide you. 
 
 ### Track record
 Second, it is essential to consider the reviews left by previous and/or current students on a Spanish tutor’s profile. A satisfied student will leave a positive review and share the impact of teaching techniques given by their tutor. Moreover, reviews will provide you with a better idea of the tutor’s methods and approach, which can inform your decision.
