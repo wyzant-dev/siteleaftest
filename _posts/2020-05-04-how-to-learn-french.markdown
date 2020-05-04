@@ -9,7 +9,15 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: Once you find a French learning approach that works for you, you’ll
+  be surprised by how far you can go.
 hero-image: "/blog/uploads/How%20to%20Learn%20French%20on%20Your%20Own.png"
+meta-description: Is it possible to learn French outside of the context of the classroom?
+  Oui! This guide will help you figure out how to learn French on your own based on
+  recommendations from French educators.
+post-description: Is it possible to learn French outside of the context of the classroom?
+  Oui! This guide will help you figure out how to learn French on your own based on
+  recommendations from French educators.
 ---
 
 Is it possible to learn French outside of a classroom setting? Sure! Whether you’re anxious about making mistakes (an inevitable part of learning) in front of other people, your schedule is too unconventional to take a class, or you’re just an independent spirit, you have options.
@@ -77,7 +85,7 @@ When you can, read out loud. It’s a great way to [practice French pronunciatio
 
 ## Cultural education
  
-Learning the cultural context is an important component to learning French. Books, movies, music, food, and publications from French-speaking countries will give you a deeper understanding of the language and broaden your horizons in general. 
+Learning cultural context is an important component to learning French. Books, movies, music, food, and publications from French-speaking countries will give you a deeper understanding of the language and broaden your horizons in general. 
  
 It is a good idea to go beyond metropolitan France in your cultural exposure. La Francophonie is global, after all. Quebec, Haiti, Lousisiana, French Polynesia, and several African countries have their own unique French dialects and rich cultural traditions. 
 
