@@ -84,7 +84,11 @@ It is a good idea to go beyond metropolitan France in your cultural exposure. La
  
 ## Adding French to your everyday life
  
-You don’t need a passport and a plane ticket to apply what you learn! Seek out communities of French speakers online and in-person. If you live in a city with a French Consulate check out their events that are open to the public. They’re not just for French nationals. Try following tutorials in French for DIY projects if that’s something you’re interested in. Switch the language settings on your devices or social media accounts to French. Narrate your life in French at home. That last one may feel silly when you do it, but it will get you into the habit of thinking in French. Being able to think of what you want to say in French using only the words you know as opposed to thinking of it in English and translating it into French is a turning point. 
+You don’t need a passport and a plane ticket to apply what you learn! Seek out communities of French speakers online and in-person. If you live in a city with a French Consulate check out their events that are open to the public. They’re not just for French nationals.
+
+Try following tutorials in French for DIY projects if that’s something you’re interested in. Switch the language settings on your devices or social media accounts to French. Narrate your life in French at home. That last one may feel silly when you do it, but it will get you into the habit of thinking in French. Being able to think of what you want to say in French using only the words you know as opposed to thinking of it in English and translating it into French is a turning point. 
  
-Once you find an approach that works for you based on these recommendations, you’ll be surprised by how far you can go. Don’t be afraid to learn from your mistakes. The first step to being good at something is being bad at it. And remember that staying motivated and trying your best does not mean “put pressure on yourself to be perfect.” Bon travail, mes amis! 
+Once you find an approach that works for you based on these recommendations, you’ll be surprised by how far you can go. Don’t be afraid to learn from your mistakes. The first step to being good at something is being bad at it.
+
+And remember that staying motivated and trying your best does not mean “put pressure on yourself to be perfect.” *Bon travail, mes amis!* 
 
