@@ -88,7 +88,7 @@ Since [Spanish tutoring lessons](https://www.wyzant.com/Spanish_tutors.aspx) are
 As lessons and your level of Spanish advance, activities may also grow and change, including more direction to talk about specific subjects, describe complex situations, explain the contents of Spanish articles, and writing your own journal entries or stories.
 Of course, since tutoring means you’re taking one on one lessons (and not confined to the classroom, where learning is structured in a way to instruct all students, regardless of their individual levels), you can chat with your tutor to improve a specific area of the Spanish language, solidify your knowledge, or grow at a faster pace.
 
-## Homework time
+## Spanish homework
 Homework is a helpful resource to learn any language, and Spanish is no exception. Assignments aren’t what they were in school - forget boring readings and rote memorization. A tutor will allow you to stay engaged with the language by creating homework that addresses your own unique needs and progression. They’ll help with reviewing your work, checking your notes, remembering things you struggled with in past sessions, and practicing grammar, vocabulary, spelling, and pronunciation.
 
 As an online language learner, you’ll have the opportunity to complete the assignment in your own free time, and connect with your tutor to review in preparation for the contents of your next lessons.
