@@ -11,9 +11,13 @@ tags:
 author: Lauren Harsh
 ---
 
-Is it possible to learn French outside of a classroom setting? Sure! Whether you’re anxious about making mistakes (an inevitable part of learning) in front of other people, your schedule is too unconventional to take a class, or you’re just an independent spirit, you have options. You could follow an online French course, take private lessons, order some materials and go to town, download an app, or any combination of tools. 
+Is it possible to learn French outside of a classroom setting? Sure! Whether you’re anxious about making mistakes (an inevitable part of learning) in front of other people, your schedule is too unconventional to take a class, or you’re just an independent spirit, you have options.
 
-Thanks to the internet, there are plenty of resources and tips to learn French available at your fingertips. However, all the options can seem overwhelming. As any internet-literate person knows, just because something shows up on Google doesn’t mean it’s reliable. This guide will help you figure out how to learn French on your own based on recommendations from French educators. 
+You could follow an online French course, take private lessons, order some materials and go to town, download an app, or any combination of tools. 
+
+Thanks to the internet, there are plenty of resources and tips to learn French available at your fingertips. However, all the options can seem overwhelming. As any internet-literate person knows, just because something shows up on Google doesn’t mean it’s reliable.
+
+This guide will help you figure out how to learn French on your own based on recommendations from French educators. 
 
 ## Why French?
 
