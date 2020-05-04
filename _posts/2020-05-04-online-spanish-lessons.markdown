@@ -66,7 +66,6 @@ Sharing specific documents on grammar, conjugation, pronunciation, vocabulary, o
 
 Books and Spanish language dictionaries are a wonderful resource for a first-time Spanish learner, and can serve as reference...but remember: a tutor prepares their lessons in a personalized manner, and will usually direct learning according to your specific goals. Make sure you know what your goals are. 
 
-
 ## Topics of Study
 Your first online Spanish lesson will probably focus on important topics to learn how to communicate correctly in Spanish. These topics usually include basic grammar, accents, pronunciation, and conversation.
 
@@ -78,8 +77,10 @@ Your [Spanish tutor](https://www.wyzant.com/Spanish_tutors.aspx) will help you p
 
 ## Getting familiar with Spanish accent marks
 Spanish accents marks are usually also presented as part of your first online Spanish lessons. But rather than be presented as a separate subject, they’re taught along with grammar and pronunciation.
+
 Accents in Spanish are essential because they not only determine how a word should be pronounced correctly, but also the meaning of a specific term (especially when writing). Spanish accents will be presented along with different words and phrases, forming a unique picture of the Spanish language.
 
+## Spanish conversation (yes, even at the first lesson!)
 Conversation is the ultimate goal when learning a language, and Spanish is no exception!. Consequently, even during the first lesson, students usually have the opportunity to communicate based on their own level, using small complete sentences or things they already know. 
 
 A significant advantage of having an online Spanish tutor is that there is an excellent opportunity to communicate and speak Spanish regarding the level of the language. 
