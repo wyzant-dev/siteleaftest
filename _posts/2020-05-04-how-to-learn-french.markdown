@@ -1,7 +1,6 @@
 ---
 title: How to Learn French on Your Own
 date: 2020-05-04 08:00:00 -05:00
-published: false
 categories:
 - French
 - Language Learning
