@@ -42,7 +42,7 @@ Some popular goals include going on a trip, communicating with french-speaking c
 
 ## Sticking to a schedule
 
-French educators recommend committing to seven hours per week to become conversational in a year. This could mean an hour every day or it could mean taking some days off and working more than an hour on other days. Whatever is consistent and keeps you motivated is fine. 
+French educators recommend committing to **seven hours per week** to become conversational in a year. This could mean an hour every day or it could mean taking some days off and working more than an hour on other days. Whatever is consistent and keeps you motivated is fine. 
 
 Organize those seven hours to make sure you are spending the time you need on specific skills. There are a few different ways you can do this. Take your time figuring out what’s right for you.  As you advance and get to know your strengths and areas for growth, you will probably change it around. For example, if you find out that you’re great at reading, but need extra work on pronunciation, it doesn’t make sense to spend the same amount of time on them. 
 
