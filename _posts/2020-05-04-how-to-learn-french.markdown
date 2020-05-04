@@ -24,7 +24,9 @@ This guide will help you figure out how to learn French on your own based on rec
 
 Many people in the United States do not think of French as a so-called useful language, often citing Spanish and Mandarin Chinese as examples of useful languages. No disrespect to either of those languages, but these people are objectively incorrect. If you’re on the fence between starting French or another language, don’t let this attitude talk you out of French. 
 
-Not only is it relatively easy for native English speakers to learn, with 50% of English words having French origins, but it is a truly global language. It is the native tongue of over 300 million people, most of whom are younger than thirty. It is the official language of thirty two governments and is the only language besides English that is spoken on every continent and taught in schools in almost every country. Besides, the usefulness of a language is up to you. If you use it, it’s useful.
+Not only is it relatively easy for native English speakers to learn, with 50% of English words having French origins, but it is a truly global language. It is the native tongue of over 300 million people, most of whom are younger than thirty. It is the official language of thirty two governments and is the only language besides English that is spoken on every continent and taught in schools in almost every country. Besides, the usefulness of a language is up to you.
+
+If you use it, it’s useful.
 
 ## How Long Will it Take? 
 
