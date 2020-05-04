@@ -100,7 +100,7 @@ The best way to learn Spanish is by immersion in the language. Immersion is a te
 
 First-time learners have different opportunities to become immersed in the Spanish language. A tutor will use as much Spanish as possible to communicate. Very useful questions and requests in English are taught, and are instantly replaced by their equivalent in Spanish.
 
-For example, *“Tengo una pregunta,”* (I have a question), *“Como se dice,”* (how do you say), *¿qué es??"* (what is...?), ¿Puedo ir al baño por favor?”* (Can I please use the restroom?), etc.
+For example, *“Tengo una pregunta,”* (I have a question), *“Como se dice,”* (how do you say), *¿qué es??"* (what is...?), *¿Puedo ir al baño por favor?”* (Can I please use the restroom?), etc.
 Since lessons are personalized, Spanish tutor adapt Spanish immersion according to the level of understanding of their student. More intermediate lessons may also include listening activities, specific conversation games, music, and even videos. There is no doubt that first-time learners benefit greatly from the opportunity to practice the language by actually using it.
 Spanish tutors also encourage students to continue studying and practicing the language after the class is over. One suggestion may be to practice Spanish immersion by listening to different Spanish podcasts. This exercise helps you identify vocabulary, and - little by little - to understand small phrases. Listening to music and watching shows in Spanish is another way to get immersed in the language and have fun while learning.
 
