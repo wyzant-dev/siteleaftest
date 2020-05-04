@@ -36,7 +36,9 @@ Just try your best. Don’t put stock into slogans like “our program will make
 
 ## Goal setting
 
-“I want to be fluent” is a great level of enthusiasm to start your French self-study with, but it’s useless as a goal. Not only is it vague, but if you’re a beginner you have no idea if it’s achievable. Break it down further by asking yourself how you define being fluent, why you want to get there, and what you want to do once you get there. Some popular goals include going on a trip, communicating with french-speaking colleagues and clients, reading a certain French book, and being able to watch French-language films without subtitles. 
+“I want to be fluent” is a great level of enthusiasm to start your French self-study with, but it’s useless as a goal. Not only is it vague, but if you’re a beginner, you have no idea if it’s achievable. Break it down further by asking yourself how you define being fluent, why you want to get there, and what you want to do once you get there.
+
+Some popular goals include going on a trip, communicating with french-speaking colleagues and clients, reading a certain French book, and being able to watch French-language films without subtitles. 
 
 ## Sticking to a schedule
 
