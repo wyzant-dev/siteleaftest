@@ -81,9 +81,9 @@ Spanish accents marks are usually also presented as part of your first online Sp
 Accents in Spanish are essential because they not only determine how a word should be pronounced correctly, but also the meaning of a specific term (especially when writing). Spanish accents will be presented along with different words and phrases, forming a unique picture of the Spanish language.
 
 ## Spanish conversation (yes, even at the first lesson!)
-Conversation is the ultimate goal when learning a language, and Spanish is no exception!. Consequently, even during the first lesson, students usually have the opportunity to communicate based on their own level, using small complete sentences or things they already know. 
+Conversation is the ultimate goal when learning a language, and Spanish is no exception! Consequently, even during the first lesson, students usually have the opportunity to communicate based on their own level, using small complete sentences or things they already know. 
 
-A significant advantage of having an online Spanish tutor is that there is an excellent opportunity to communicate and speak Spanish regarding the level of the language. 
+A significant advantage of having an experienced online Spanish tutor is that there is an excellent opportunity to communicate and learn to actually speak Spanish, regardless of your current level in the language. 
 
 ## Spanish Visual aids
 There might be a misconception that online language lessons are boring. Not true! The truth is that they are engaging, interactive, and very accessible, on top of being affordable and convenient. Online Spanish tutors use different visual aids and other materials to teach the language.  
