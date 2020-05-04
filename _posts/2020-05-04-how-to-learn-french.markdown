@@ -71,7 +71,7 @@ Check out these [YouTube channels](https://frenchtogether.com/learn-french-youtu
  
 Many people are intimidated by reading for the sake of reading in another language, but starting early is important for learning new vocabulary and sentence structures. 
 
-French has a reputation for its literature, but you don’t have to touch **Les Misérables** or **The Count of Monte Cristo** any time soon. Read what you like, whether it’s genre fiction, comics, magazines, or online writing. You can even get a French language translation of a familiar favorite. As long as it’s in French and you’re motivated to read it, it’s beneficial. Shoot for spending 15-30 minutes a day reading.
+French has a reputation for its literature, but you don’t have to touch *Les Misérables* or *The Count of Monte Cristo* any time soon. Read what you like, whether it’s genre fiction, comics, magazines, or online writing. You can even get a French language translation of a familiar favorite. As long as it’s in French and you’re motivated to read it, it’s beneficial. Shoot for spending 15-30 minutes a day reading.
  
 When you can, read out loud. It’s a great way to [practice French pronunciation](https://www.wyzant.com/blog/french-pronunciation/) without having to think about what you’re saying. It takes time for a new language to feel comfortable coming out of your mouth. Getting used to it through reading will make you feel more comfortable saying sentences you formed yourself. 
 
