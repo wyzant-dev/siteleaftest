@@ -45,6 +45,7 @@ Second, it is essential to consider the reviews left by previous and/or current 
 ### Budget
 Last but not least, finding a budget-friendly online Spanish tutor is important. At first glance, it might sound difficult to find a Spanish tutor who is both experienced and affordable. However, the good news is that [it's easy](https://www.wyzant.com/blog/cost-of-tutoring/) to find Spanish language tutors with reputable and trusted experience, who is also affordable to work with. 
 
+Here are some key things you should expect at your first Spanish lessons:
 
 ## Assessment of your current skill level
 Getting assessed by a Spanish tutor is very important to determine where exactly you and your tutor should begin.
