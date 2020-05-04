@@ -38,7 +38,7 @@ Just try your best. Don’t put stock into slogans like “our program will make
 
 “I want to be fluent” is a great level of enthusiasm to start your French self-study with, but it’s useless as a goal. Not only is it vague, but if you’re a beginner, you have no idea if it’s achievable. Break it down further by asking yourself how you define being fluent, why you want to get there, and what you want to do once you get there.
 
-Some popular goals include going on a trip, communicating with french-speaking colleagues and clients, reading a certain French book, and being able to watch French-language films without subtitles. 
+Some popular goals include [going on a trip](https://www.wyzant.com/blog/basic-french-words-phrases/), communicating with french-speaking colleagues and clients, reading a certain French book, and being able to watch French-language films without subtitles. 
 
 ## Sticking to a schedule
 
@@ -49,7 +49,7 @@ Organize those seven hours to make sure you are spending the time you need on sp
 Try to stick to the same time every day and make it a time when you are energetic and can easily focus. That way you’ll stay motivated and retain what you learn better. 
 
 ## French language tutoring
-French tutoring isn’t just for school kids. No matter how old you are, you get a tutor or conversation partner for online or in-person sessions. Private tutoring is more affordable than you may think. Many tutors charge less than twenty five dollars per hour. To figure out if a tutor would be a good fit, read through their profile to see if their expertise matches your goals. If you’re an adult hobbyist, someone who primarily works with young kids or prepares teenagers for AP and IB exams would not be the best fit, no matter how skilled they are at the language. Before you book a session, ask these questions. 
+French tutoring isn’t just for school kids. No matter how old you are, you can [find a tutor or conversation partner](https://www.wyzant.com/French_tutors.aspx) for online or in-person sessions. Private tutoring is more affordable than you may think. Many tutors charge less than twenty five dollars per hour. To figure out if a tutor would be a good fit, read through their profile to see if their expertise matches your goals. If you’re an adult hobbyist, someone who primarily works with young kids or prepares teenagers for AP and IB exams would not be the best fit, no matter how skilled they are at the language. Before you book a session, consider asking [these questions](https://www.wyzant.com/blog/questions-to-ask-tutors/). 
 
 ## Apps and activities
 
