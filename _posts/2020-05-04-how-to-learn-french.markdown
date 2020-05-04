@@ -53,13 +53,17 @@ French tutoring isn’t just for school kids. No matter how old you are, you can
 
 ## Apps and activities
 
-Apps are a popular language learning method, for good reason. They make learning feel less like work and they are easy to access. An app on its own is not an effective way to become proficient at any language, but they are a great tool to use along with other resources. Here are a few that have great French for beginners programs. You’ve probably heard of free game-based app Duolingo, but it is far from your only option. Memrise is based around flashcards. Tandem can set you up with a language partner to chat with. Babbel is a great way to practice real-life situations. Clozemaster uses a fill-in-the blank setup to help you understand words in context. 
+Apps are a popular language learning method, for good reason. They make learning feel less like work and they are easy to access. An app on its own is not an effective way to become proficient at any language, but they are a great tool to use along with other resources. Here are a few that have great French for beginners programs. You’ve probably heard of free game-based app [Duolingo](https://www.duolingo.com/), but it is far from your only option. [Memrise](https://www.memrise.com/) is based around flashcards. [Tandem](https://www.tandem.net/) can set you up with a language partner to chat with. Babbel is a great way to practice real-life situations. [Clozemaster](https://www.clozemaster.com/) uses a fill-in-the blank setup to help you understand words in context. 
 
-Not everyone enjoys apps. If you prefer an old-school approach, you can order a textbook grammar book. If you need more explanation on certain french grammar concepts, you can find them on our blog. We have in-depth articles on past, present, and future tenses. 
+Not everyone enjoys apps. If you prefer an old-school approach, you can order a [grammar textbook](https://www.thoughtco.com/french-grammar-books-4776416). If you need more explanation on certain [french grammar concepts](https://www.wyzant.com/blog/french-grammar-basics/), you can find them on our blog. We have in-depth articles on [past](https://www.wyzant.com/blog/french-past-tense/), [present](https://www.wyzant.com/blog/french-verbs-present-tense/), and [future](https://www.wyzant.com/blog/french-future-tense/) tenses. 
 
 ## Listening comprehension
 
-When you’re having a conversation, listening is just as important, if not more important, than speaking. You’ve got options for practicing it.Check out these YouTube Channels and  for French learners podcasts if you enjoy these formats for informative content. Watching the news in French is a great way to practice listening comprehension since newscasters typically have voices that are easy to listen to and speak in plain language. France24 is a great site to use. Since you’re probably spending a lot of time watching TV anyway, add some French movies and TV series to your watchlist. These will especially help you get familiar with colloquialisms. 
+When you’re having a conversation, listening is just as important, if not more important, than speaking. You’ve got options for practicing it. 
+
+Check out these [YouTube channels](https://frenchtogether.com/learn-french-youtube/) and [podcasts](https://www.fluentu.com/blog/french/french-podcasts/) for French learners if you enjoy these formats for informative content. Watching the news in French is a great way to practice listening comprehension since newscasters typically have voices that are easy to listen to and speak in plain language.
+
+[France24](https://www.france24.com/fr/direct) is a great site to use. Since you’re probably spending a lot of time watching TV anyway, add some [French movies](https://www.fluentu.com/blog/french/learn-french-movies/) and TV series to your watchlist. These will especially help you get familiar with [colloquialisms](https://www.wyzant.com/blog/french-expressions/). 
 
 ## Reading
  
