@@ -47,7 +47,8 @@ After your current level has been determined by your Spanish tutor, they can giv
 ## Materials to have on hand
 
 A notebook is recommended to use during your lesson. It might sound like an obvious option; however, this tool is useful to record and review important information from your lessons. The traditional paper notebook never goes out of fashion.
-Virtual notes, like those on the Wyzant whiteboard, are also a convenient option for getting the most out of your online Spanish lessons. You can share and compare notes in real-time, and have the advantage of not only taking detailed notes that help put Spanish learning into perspective for you, but to add comments, ask questions, and highlight important information that will be useful at later lessons. 
+
+Virtual notes, like those in the [Wyzant online tool](https://www.wyzant.com/blog/online-learning-tool-video/), are also a convenient option for getting the most out of your online Spanish lessons. You can share and compare notes in real-time, and have the advantage of not only taking detailed notes that help put Spanish learning into perspective for you, but to add comments, ask questions, and highlight important information that will be useful at later lessons. 
 
 If there is a specific aspect of the Spanish language that you’re hoping a tutor can clarify, you should expect Spanish homework. Sharing specific documents on grammar, conjugation, pronunciation, vocabulary, or other topics of study will allow the lesson to be more personalized, which leads quickly to fewer doubts, second guesses, and prepares you to advance at a steady pace in your language learning. 
 
