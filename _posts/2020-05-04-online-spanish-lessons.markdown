@@ -80,6 +80,7 @@ Other useful materials can include pictures, passages from books or other writin
 
 ## Activities
 Activities during online Spanish lessons are engaging and didactic, and pair with the visual material presented by a Spanish tutor. They’re personalized and can vary according to the needs and the level of the student. 
+
 One of the most useful activities is completing grammar exercises, which your tutor will use to help you understand how Spanish grammar is used, how it changes in different contexts, and when the rules are set in stone.
 
 Since [Spanish tutoring lessons](https://www.wyzant.com/Spanish_tutors.aspx) are always personalized, there are tons of different activities which allow a student to speak, read, write, and understand Spanish while practicing conversation...even from your first lesson! Some examples include introducing yourself, using flash cards or taking quizzes. describing a picture, creating a small story, and other activities that engage you in the active study of Spanish language. 
