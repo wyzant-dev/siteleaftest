@@ -10,10 +10,11 @@ tags:
 - Language Learning
 ---
 
-10 Things to Expect from Your Online Spanish Lessons
-In this advanced era, technology has made our lives easier. We can accomplish different activities by accessing the internet. Things like shopping, training, watching a movie, learning a language, among many other activities, can now be done online.
+It's no secret: technology has made our lives easier. 
 
-Taking online Spanish lessons has become a convenient way to learn the language. It has developed into a positive and viable way to learn Spanish without leaving your home. Yet first-time language learners have a lot of questions about the best way to learn Spanish online. 
+We can accomplish different activities by accessing the internet. Things like shopping, training, watching a movie, and learning a language can now be done completely online. Gone are the days when picking up a second (or third, or fourth...) language requires meeting in-person or attending a formal class. In fact, learning Spanish online is an incredibly effective method, and one that more accurately takes into account your own needs, pace, and style of learning than more traditional ones.
+
+Taking online Spanish lessons with the help of a tutor is a positive and viable way to learn Spanish without leaving your home. Still though: first-time language learners have a lot of questions about the best way to learn Spanish online. 
 
 Here are some guidelines to help manage your expectations and set you up for a wonderful first Spanish lesson.
 
@@ -25,8 +26,6 @@ First, look for a tutor who has a background education and experience teaching S
 
 ### Track record
 Second, it is essential to consider the reviews left by previous and/or current students on a Spanish tutor’s profile. A satisfied student will leave a positive review and share the impact of teaching techniques given by their tutor. Moreover, reviews will provide you with a better idea of the tutor’s methods and approach, which can inform your decision.
-
-
 
 ### Budget
 Last but not least, finding a budget-friendly online Spanish tutor is important. These days where bills and expenses have to be paid and the economy can be tight, it might sound difficult to find an affordable online Spanish tutor. However, the good news is that online Spanish tutors are not only experienced, but often affordable. https://www.wyzant.com/Spanish_tutors.aspx
