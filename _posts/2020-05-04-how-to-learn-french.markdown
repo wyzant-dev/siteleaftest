@@ -30,7 +30,9 @@ If you use it, it’s useful.
 
 ## How long does learning French take? 
 
-How long it takes to learn French on your own depends on how much work you put in, what your goals are, and how quick of a study you are. Becoming conversational in a year is a reasonable timeline for many people, but don’t be too hard on yourself if it takes longer. Just try your best. Don’t put stock into slogans like “our program will make you fluent in two months, guaranteed.” Sure, some intensive methods can speed up the process but that gimmicky mindset gives people unrealistic expectations of the time and effort required to learn a new language. Remember, if it sounds too good to be true, it probably is. 
+How long it takes to learn French on your own depends on how much work you put in, what your goals are, and how quick a study you are. Becoming conversational in a year is a reasonable timeline for many people, but don’t be too hard on yourself if it takes longer.
+
+Just try your best. Don’t put stock into slogans like “our program will make you fluent in two months, guaranteed.” Sure, some intensive methods can speed up the process, but that gimmicky mindset gives people unrealistic expectations of the time and effort required to learn a new language. Remember, if it sounds too good to be true, it probably is. 
 
 ## Goal setting
 
