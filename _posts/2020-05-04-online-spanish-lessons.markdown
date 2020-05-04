@@ -32,7 +32,7 @@ In addition, the right Spanish tutor will personalize lesson to your needs, and 
 Second, it is essential to consider the reviews left by previous and/or current students on a Spanish tutor’s profile. A satisfied student will leave a positive review and share the impact of teaching techniques given by their tutor. Moreover, reviews will provide you with a better idea of the tutor’s methods and approach, which can inform your decision.
 
 ### Budget
-Last but not least, finding a budget-friendly online Spanish tutor is important. These days where bills and expenses have to be paid and the economy can be tight, it might sound difficult to find an affordable online Spanish tutor. However, the good news is that online Spanish tutors are not only experienced, but often affordable. 
+Last but not least, finding a budget-friendly online Spanish tutor is important. At first glance, it might sound difficult to find a Spanish tutor who is both experienced and affordable. However, the good news is that [it's easy](https://www.wyzant.com/blog/cost-of-tutoring/) to find Spanish language tutors with reputable and trusted experience, who is also affordable to work with. 
 
 
 ## Assessment
