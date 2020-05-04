@@ -78,7 +78,7 @@ There might be a misconception that online language lessons are boring. Not true
 They vary according to the tutor’s own technique, and the learning needs of their student. Normally, tutors start with prepared documents that can be easily shared on an online whiteboard. Also, virtual notes can be used to clarify any kind of question.
 Other useful materials can include pictures, passages from books or other writing, and things like games which help students stay actively participate in making the lesson engaging and entertaining.
 
-## Activities
+## Activities for learning Spanish
 Activities during online Spanish lessons are engaging and didactic, and pair with the visual material presented by a Spanish tutor. They’re personalized and can vary according to the needs and the level of the student. 
 
 One of the most useful activities is completing grammar exercises, which your tutor will use to help you understand how Spanish grammar is used, how it changes in different contexts, and when the rules are set in stone.
