@@ -12,9 +12,9 @@ author: Wyzant
 hero-image: "/blog/uploads/What%20to%20Expect%20from%20Online%20Spanish%20Lessons.png"
 ---
 
-It's no secret: technology has made our lives easier. 
+It's no secret: technology has made learning a language easier. 
 
-We can accomplish different activities by accessing the internet. Things like shopping, training, watching a movie, and learning a language can now be done completely online. Gone are the days when picking up a second (or third, or fourth...) language requires meeting in-person or attending a formal class. In fact, learning Spanish online is an incredibly effective method, and one that more accurately takes into account your own needs, pace, and style of learning than more traditional ones.
+We can accomplish lots of different activities by accessing the internet. Things like shopping, training, watching a movie, and learning a language can now be done completely online. Gone are the days when picking up a second (or third, or fourth...) language requires meeting in-person or attending a formal class. In fact, learning Spanish online is an incredibly effective method, and one that more accurately takes into account your own needs, pace, and style of learning than more traditional ones.
 
 Taking online Spanish lessons with the help of a tutor is a positive and viable way to learn Spanish without leaving your home. Still though: first-time language learners have a lot of questions about the best way to learn Spanish online. 
 
