@@ -49,7 +49,9 @@ Organize those seven hours to make sure you are spending the time you need on sp
 Try to stick to the same time every day and make it a time when you are energetic and can easily focus. That way you’ll stay motivated and retain what you learn better. 
 
 ## French language tutoring
-French tutoring isn’t just for school kids. No matter how old you are, you can [find a tutor or conversation partner](https://www.wyzant.com/French_tutors.aspx) for online or in-person sessions. Private tutoring is more affordable than you may think. Many tutors charge less than twenty five dollars per hour. To figure out if a tutor would be a good fit, read through their profile to see if their expertise matches your goals. If you’re an adult hobbyist, someone who primarily works with young kids or prepares teenagers for AP and IB exams would not be the best fit, no matter how skilled they are at the language. Before you book a session, consider asking [these questions](https://www.wyzant.com/blog/questions-to-ask-tutors/). 
+French tutoring isn’t just for school kids. No matter how old you are, you can [find a tutor or conversation partner](https://www.wyzant.com/French_tutors.aspx) for online or in-person sessions.
+
+Private tutoring is more affordable than you may think. Many tutors charge less than twenty five dollars per hour. To figure out if a tutor would be a good fit, read through their profile to see if their expertise matches your goals. If you’re an adult hobbyist, someone who primarily works with young kids or prepares teenagers for AP and IB exams would not be the best fit, no matter how skilled they are at the language. Before you book a session, consider asking [these questions](https://www.wyzant.com/blog/questions-to-ask-tutors/). 
 
 ## Apps and activities
 
