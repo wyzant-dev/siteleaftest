@@ -8,7 +8,7 @@ categories:
 tags:
 - Spanish
 - Language Learning
-author: Wyzant
+author: Gissela Tomasello
 hero-image: "/blog/uploads/What%20to%20Expect%20from%20Online%20Spanish%20Lessons.png"
 ---
 
