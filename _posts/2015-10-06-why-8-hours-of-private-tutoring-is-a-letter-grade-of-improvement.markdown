@@ -44,9 +44,9 @@ Instead of risking the attention from asking a question, they’ll choose to kee
 
 As trivial as it might seem, those feelings can derail a student’s effort. More importantly, it can dampen the willingness to take chances. Here’s why that’s important:
 
-* Children need to ask questions: When given the chance to ask questions, a child’s thinking ability can be surprising largely because they are more invested in finding an answer.
+* **Children need to ask questions**: When given the chance to ask questions, a child’s thinking ability can be surprising largely because they are more invested in finding an answer.
 
-* Children need to make mistakes. Without them, children never learn to overcome failure. This makes all the difference between a fixed mindset versus a growth mindset.
+* **Children need to make mistakes**. Without them, children never learn to overcome failure. This makes all the difference between a fixed mindset versus a growth mindset.
 
 Private tutoring gives them the freedom to work one-on-one with a tutor, which removes the fear of social humiliation. So they will be more inclined to ask questions and get the answers they need, ensuring a better understanding of the topic and a fulfilling learning experience.
 
