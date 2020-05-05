@@ -11,6 +11,14 @@ author: Jacqueline Zote
 sub-headline: Four studies demonstrate how 8 hours of working with a private tutor
   can have such a dramatic effect on your child’s behavior and grades.
 hero-image: "/blog/uploads/8%20Hours%20of%20Tutoring%20Means%20a%20Letter%20Grade%20Improvement.png"
+meta-description: Private tutoring offers a customized learning plan tailored to the
+  specific needs of each student while removing peer pressure from the equation. This
+  not only helps students improve their grades but also enhances their overall learning
+  experience.
+post-description: Private tutoring offers a customized learning plan tailored to the
+  specific needs of each student while removing peer pressure from the equation. This
+  not only helps students improve their grades but also enhances their overall learning
+  experience.
 ---
 
 While letter grades are important (especially when we think about the increasingly competitive college application process), they rarely tell the whole story. They’re just the tip of the iceberg when it comes to private tutoring and one-on-one learning outcomes.
