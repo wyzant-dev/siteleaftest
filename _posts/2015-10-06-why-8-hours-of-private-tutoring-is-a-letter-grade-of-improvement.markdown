@@ -11,7 +11,7 @@ sub-headline: Four studies demonstrate how 8 hours of working with a private tut
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
 
-Are you still wondering what are the benefits of tutoring or why do students need tutoring? Here’s the proof: 
+Are you still wondering about the benefits of online tutoring, or why students need tutoring in the first place? Here’s some food for thought: 
 
 ## Four studies have demonstrated how just eight hours of working with a private tutor can have such a dramatic effect on your child’s behavior and grades.
 
