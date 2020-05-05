@@ -9,7 +9,7 @@ tags:
 author: Jacqueline Zote
 sub-headline: Four studies demonstrate how 8 hours of working with a private tutor
   can have such a dramatic effect on your child’s behavior and grades.
-hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
+hero-image: "/blog/uploads/8%20Hours%20of%20Tutoring%20Means%20a%20Letter%20Grade%20Improvement.png"
 ---
 
 Are you still wondering about the benefits of online tutoring, or why students need tutoring in the first place? Here’s some food for thought: 
