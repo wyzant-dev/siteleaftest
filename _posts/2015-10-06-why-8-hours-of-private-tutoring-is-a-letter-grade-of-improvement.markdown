@@ -17,8 +17,6 @@ Private tutoring offers a customized learning plan tailored to the specific need
 
 Still having doubts? Here’s the research:
 
-![20_percent_less_math_anxiety.jpg](/blog/uploads/20_percent_less_math_anxiety.jpg)
-
 ## Finding 1: Eight weeks of tutoring reduces math anxiety by up to 20%
 
 [Math anxiety](https://www.bbc.com/future/article/20150619-do-you-have-maths-anxiety) is a real and serious psychological condition that can inhibit a student’s ability to perform even the simplest arithmetic calculations. In fact, a math test can activate the pain matrix in your brain, which is the same region that lights up when you get injured. In more serious cases, even just the numbers on a receipt can send people into a panic.
