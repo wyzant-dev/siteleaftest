@@ -30,7 +30,7 @@ The only question is – how much is private tutoring? Although it’s highly be
 
 Fortunately, you have the option to find affordable tutors if you consider online tutoring. This helps you get the customized learning plan that your child needs without spending a fortune, as even the best tutoring service will provide affordable payment plans for online tutoring.
 
-### Finding 2: When kids ask questions, they want answers (not attention)
+## Finding 2: When kids ask questions, they want answers (not attention)
 
 Remember being afraid to raise your hand in front of the class for fear of feeling dumb? It wasn’t feeling dumb you were afraid of; it was the shame that came with it. What if you asked a silly question? What if everyone else understood it but you? Those questions might often hold you back from getting clarification on a difficult concept.
 
@@ -52,7 +52,7 @@ Private tutoring gives them the freedom to work one-on-one with a tutor, which r
 
 The same goes for [different types of remote learning](https://www.wyzant.com/blog/types-of-remote-learning/) such as distance learning and online tutoring. Since students won’t come face to face with their classmates through these learning methods, there’s a lower risk for the spotlight effect to have an impact. So there’s a lower risk for embarrassment, which means students will feel less pressure when asking questions.
 
-### Finding 3: Giving students choices increases their willingness to take on difficult tasks
+## Finding 3: Giving students choices increases their willingness to take on difficult tasks
 
 While it might seem counter-intuitive, giving students a choice can improve their learning experience by increasing their attention span. 
 
@@ -63,7 +63,7 @@ Students need variety – whether it’s in terms of where they study, the learn
 So a restrictive learning environment inside a classroom can only do so much. Mixing it up with private tutoring lessons and [homeschooling](https://www.wyzant.com/blog/how-to-homeschool/) could help enhance their learning experience. 
 Through online tutoring, kids automatically fall into a role where they become active participants in learning. It also gives them the ability to work at their own pace as well as choose topics and themes that become the vehicle for their learning. Plus, the abundance of [online learning tools](https://www.wyzant.com/blog/online-learning-tool-video/) gives them the freedom to experiment with tools that fit their learning styles.
 
-### Finding 4: Students with involved parents are more likely to earn higher test scores and enroll in higher-level programs
+## Finding 4: Students with involved parents are more likely to earn higher test scores and enroll in higher-level programs
 
 As a parent, you’ve probably seen it. The more (or less) time you’ve spent helping your child or actively discussing school has had an effect. In fact, [research shows](https://www.waterford.org/education/how-parent-involvment-leads-to-student-success/) that when parents are engaged, their kids are more likely to earn higher grades and even enroll in higher level programs. 
 
