@@ -12,8 +12,6 @@ sub-headline: Four studies demonstrate how 8 hours of working with a private tut
 hero-image: "/blog/uploads/8%20Hours%20of%20Tutoring%20Means%20a%20Letter%20Grade%20Improvement.png"
 ---
 
-Are you still wondering about the benefits of online tutoring, or why students need tutoring in the first place? Here’s some food for thought: 
-
 ## Four studies have demonstrated how just eight hours of working with a private tutor can have such a dramatic effect on your child’s behavior and grades.
 
 While letter grades are important (especially when we think about the increasingly competitive college application process), they rarely tell the whole story. They’re just the tip of the iceberg when it comes to private tutoring and one-on-one learning outcomes.
