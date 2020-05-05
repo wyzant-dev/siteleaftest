@@ -6,6 +6,7 @@ tags:
 - Elementary School
 - High School
 - Why Choose Private Tutoring
+author: Jacqueline Zote
 sub-headline: Four studies demonstrate how 8 hours of working with a private tutor
   can have such a dramatic effect on your child’s behavior and grades.
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
