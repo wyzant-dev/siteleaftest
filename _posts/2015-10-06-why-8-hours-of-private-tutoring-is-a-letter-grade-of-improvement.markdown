@@ -11,7 +11,9 @@ sub-headline: Four studies demonstrate how 8 hours of working with a private tut
 hero-image: "/blog/uploads/Screen%20Shot%202016-12-15%20at%2012.33.37%20PM%20(1).png"
 ---
 
-Are you still wondering what are the benefits of tutoring or why do students need tutoring? Here’s the proof – Four studies have demonstrated how just eight hours of working with a private tutor can have such a dramatic effect on your child’s behavior and grades.
+Are you still wondering what are the benefits of tutoring or why do students need tutoring? Here’s the proof: 
+
+## Four studies have demonstrated how just eight hours of working with a private tutor can have such a dramatic effect on your child’s behavior and grades.
 
 While letter grades are important (especially when we think about the increasingly competitive college application process), they rarely tell the whole story. They’re just the tip of the iceberg when it comes to private tutoring and one-on-one learning outcomes.
 Private tutoring offers a customized learning plan tailored to the specific needs of each student while removing peer pressure from the equation. This not only helps students improve their grades but also enhances their overall learning experience. 
