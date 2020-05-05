@@ -1,11 +1,10 @@
 ---
-title: Why 8 Hours of Private Tutoring Is A Letter Grade Of Improvement
+title: Why 8 Hours of Private Tutoring is a Letter Grade of Improvement
 date: 2015-10-06 14:48:00 -05:00
 published: false
 tags:
 - Elementary School
 - High School
-- Why Choose Private Tutoring
 author: Jacqueline Zote
 sub-headline: Four studies demonstrate how 8 hours of working with a private tutor
   can have such a dramatic effect on your child’s behavior and grades.
