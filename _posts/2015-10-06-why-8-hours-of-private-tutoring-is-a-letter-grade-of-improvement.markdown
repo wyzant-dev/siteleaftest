@@ -22,7 +22,7 @@ Still having doubts? Here’s the research:
 
 ![20_percent_less_math_anxiety.jpg](/blog/uploads/20_percent_less_math_anxiety.jpg)
 
-## Finding 1: Eight Weeks of Tutoring Reduces Math Anxiety By Up to 20%
+## Finding 1: Eight weeks of tutoring reduces math anxiety by up to 20%
 
 [Math anxiety](https://www.bbc.com/future/article/20150619-do-you-have-maths-anxiety) is a real and serious psychological condition that can inhibit a student’s ability to perform even the simplest arithmetic calculations. In fact, a math test can activate the pain matrix in your brain, which is the same region that lights up when you get injured. In more serious cases, even just the numbers on a receipt can send people into a panic.
 
@@ -33,7 +33,7 @@ The only question is – how much is private tutoring? Although it’s highly be
 
 Fortunately, you have the option to find affordable tutors if you consider online tutoring. This helps you get the customized learning plan that your child needs without spending a fortune, as even the best tutoring service will provide affordable payment plans for online tutoring.
 
-### Finding 2: When Children Ask Questions, They Want Answers (not Attention)
+### Finding 2: When kids ask questions, they want answers (not attention)
 
 Remember being afraid to raise your hand in front of the class for fear of feeling dumb? It wasn’t feeling dumb you were afraid of; it was the shame that came with it. What if you asked a silly question? What if everyone else understood it but you? Those questions might often hold you back from getting clarification on a difficult concept.
 
@@ -55,9 +55,9 @@ Private tutoring gives them the freedom to work one-on-one with a tutor, which r
 
 The same goes for [different types of remote learning](https://www.wyzant.com/blog/types-of-remote-learning/) such as distance learning and online tutoring. Since students won’t come face to face with their classmates through these learning methods, there’s a lower risk for the spotlight effect to have an impact. So there’s a lower risk for embarrassment, which means students will feel less pressure when asking questions.
 
-### Finding 3: Giving Student's Choices Increases Their Willingness to Take on Difficult Tasks
+### Finding 3: Giving students choices increases their willingness to take on difficult tasks
 
-While it might seem counterintuitive, giving students a choice can improve their learning experience by increasing their attention span. 
+While it might seem counter-intuitive, giving students a choice can improve their learning experience by increasing their attention span. 
 
 A 2008 research at Duke University looked at 41 separate studies and found when children had a choice in what they worked on, they were more likely to take on tasks that were challenging. In addition, a child given the chance to learn something they enjoy has shown to result in a higher level of persistence and a greater dedication to completing the work at hand.
 
@@ -66,7 +66,7 @@ Students need variety – whether it’s in terms of where they study, the learn
 So a restrictive learning environment inside a classroom can only do so much. Mixing it up with private tutoring lessons and [homeschooling](https://www.wyzant.com/blog/how-to-homeschool/) could help enhance their learning experience. 
 Through online tutoring, kids automatically fall into a role where they become active participants in learning. It also gives them the ability to work at their own pace as well as choose topics and themes that become the vehicle for their learning. Plus, the abundance of [online learning tools](https://www.wyzant.com/blog/online-learning-tool-video/) gives them the freedom to experiment with tools that fit their learning styles.
 
-### Finding 4: Students with Involved Parents are More Likely to Earn Higher Test Scores and Enroll in Higher-Level Programs
+### Finding 4: Students with involved parents are more likely to earn higher test scores and enroll in higher-level programs
 
 As a parent, you’ve probably seen it. The more (or less) time you’ve spent helping your child or actively discussing school has had an effect. In fact, [research shows](https://www.waterford.org/education/how-parent-involvment-leads-to-student-success/) that when parents are engaged, their kids are more likely to earn higher grades and even enroll in higher level programs. 
 
@@ -77,6 +77,3 @@ So it’s crucial that you [consider homeschooling](https://www.wyzant.com/blog/
 
 That’s where private tutoring services enter the picture, as they help give your kids the one-on-one attention they need to learn while enforcing the same positive values as you would if you’re personally involved. Besides, your own interaction with the tutor will help you play a significant role in your child’s learning.
 In spite of this obvious benefit, you might have concerns about private tutoring cost and whether you can afford it. The good news is that you can find affordable tutors through online tutoring services to provide your kids with a customized learning plan without spending a fortune. 
-
-## What Next?
-As attractive as private tutoring may seem, the cost to hire a tutor may hold you back from getting your child the learning experience they deserve. However, private tutoring doesn’t always have to be expensive or inaccessible. Working with a private tutor through online tutoring services gives you an affordable alternative and is particularly appealing [during the COVID-19 pandemic](https://www.wyzant.com/blog/covid-19-tutoring/) since you need to maintain social distancing to stay safe. 
