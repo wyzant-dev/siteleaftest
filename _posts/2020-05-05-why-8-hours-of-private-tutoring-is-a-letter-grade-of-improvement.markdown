@@ -1,5 +1,5 @@
 ---
-title: Why 8 Hours of Private Tutoring is a Letter Grade of Improvement
+title: Why 8 Hours of Private Tutoring Means a Letter Grade of Improvement
 date: 2020-05-05 11:29:00 -05:00
 categories:
 - Online Learning
