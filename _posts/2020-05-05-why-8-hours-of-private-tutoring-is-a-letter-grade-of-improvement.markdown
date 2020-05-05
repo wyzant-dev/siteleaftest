@@ -27,7 +27,7 @@ Still having doubts? Here’s the research:
 The good news is that private tutoring can significantly alleviate this math anxiety. Researchers found that eight weeks of one-on-one tutoring helped kids become [20% less anxious about math](https://www.npr.org/sections/health-shots/2015/09/08/438592588/one-tutor-one-student-better-math-scores-less-fear). Students participating in the study received highly personalized tutoring where tutors used non-negative and encouraging techniques to help them tackle difficult concepts.
 
 This kind of highly customized learning plan is exactly what you can get through online tutoring sessions. So if your kid struggles with math anxiety, you should consider working with affordable tutors to give them one-on-one lessons and minimize the anxiety.
-The only question is – how much is private tutoring? Although it’s highly beneficial in helping kids with their learning anxieties, not everyone can cover the high cost that comes with hiring a private tutor to give one-on-one lessons. 
+The only question is – how much is private tutoring? Although it’s highly beneficial in helping kids with their learning anxieties, not everyone can cover the [cost of hiring a private tutor](https://www.wyzant.com/blog/cost-of-tutoring/) to give one-on-one lessons. 
 
 Fortunately, you have the option to find affordable tutors if you consider online tutoring. This helps you get the customized learning plan that your child needs without spending a fortune, as even the best tutoring service will provide affordable payment plans for online tutoring.
 
