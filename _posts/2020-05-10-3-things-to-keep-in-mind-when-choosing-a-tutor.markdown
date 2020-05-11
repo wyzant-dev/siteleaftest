@@ -9,6 +9,12 @@ author: Jonathan Reidenouer
 sub-headline: By considering your goals ahead of time and asking the right questions,
   you’ll ensure that your money and time are well spent.
 hero-image: "/blog/uploads/how%20to%20pick%20tutor%20iStock_85687913_LARGE%20(1).jpg"
+meta-description: Before you begin your search, consider what you hope to gain from
+  the tutoring experience. From logistics and budget to subject matter and teaching
+  methods, putting these goals into words will help you find your perfect match.
+post-description: Before you begin your search, consider what you hope to gain from
+  the tutoring experience. From logistics and budget to subject matter and teaching
+  methods, putting these goals into words will help you find your perfect match.
 ---
 
 In a matter of months, the 2019-20 school year has morphed into something none of us could have expected. With schools and universities closed due to the coronavirus threat, education has transformed almost instantaneously from an in-classroom to an online experience. Forced to learn on the fly, teachers and students are still striving to get a grasp on [“remote learning,”](https://www.wyzant.com/blog/types-of-remote-learning/) while parents are still [asking themselves](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/) just how school is supposed to be done in the home without any teachers around. 
