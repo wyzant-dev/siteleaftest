@@ -7,14 +7,9 @@ categories:
 tags:
 - Online Learning
 author: Jonathan Reidenouer
+sub-headline: By considering your goals ahead of time and asking the right questions,
+  you’ll ensure that your money and time are well spent.
 hero-image: "/blog/uploads/how%20to%20pick%20tutor%20iStock_85687913_LARGE%20(1).jpg"
-meta-description: So, you’ve decided to hire a tutor. Next is choosing who to work
-  with. Here are three steps to guide you through choosing the best tutor for your
-  learning needs.
-post-description: So, you’ve decided to hire a tutor. Next is choosing who to work
-  with. By considering your goals ahead of time and asking the right questions, you’ll
-  ensure that your money and time are well spent. Here are three steps to guide you
-  through choosing the best tutor for your learning needs.
 ---
 
 In a matter of months, the 2019-20 school year has morphed into something none of us could have expected. With schools and universities closed due to the coronavirus threat, education has transformed almost instantaneously from an in-classroom to an online experience. Forced to learn on the fly, teachers and students are still striving to get a grasp on “remote learning,” while parents are still asking themselves just how school is supposed to be done in the home without any teachers around. 
