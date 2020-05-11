@@ -6,6 +6,7 @@ categories:
 - Online Learning
 tags:
 - Online Learning
+author: Jonathan Reidenouer
 hero-image: "/blog/uploads/how%20to%20pick%20tutor%20iStock_85687913_LARGE%20(1).jpg"
 meta-description: So, you’ve decided to hire a tutor. Next is choosing who to work
   with. Here are three steps to guide you through choosing the best tutor for your
