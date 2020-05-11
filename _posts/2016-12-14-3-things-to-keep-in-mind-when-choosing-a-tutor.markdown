@@ -14,7 +14,11 @@ hero-image: "/blog/uploads/how%20to%20pick%20tutor%20iStock_85687913_LARGE%20(1)
 
 In a matter of months, the 2019-20 school year has morphed into something none of us could have expected. With schools and universities closed due to the coronavirus threat, education has transformed almost instantaneously from an in-classroom to an online experience. Forced to learn on the fly, teachers and students are still striving to get a grasp on “remote learning,” while parents are still asking themselves just how school is supposed to be done in the home without any teachers around. 
 
-Although the radical changes imposed on the education system stunned everyone, they simply accelerated an already developing trend. For more than a decade now, institutions at every level have been harnessing the power of the internet to offer online courses. In the same period that schools were developing “distance learning,” independent educators have tapped into that same power source to offer online tutoring services. As the COVID-19 shutdown continues, more and more parents are finding online tutors to be a valuable resource for struggling students in their homes.
+Although the radical changes imposed on the education system stunned everyone, they simply accelerated an already developing trend.
+
+For more than a decade now, institutions at every level have been harnessing the power of the internet to offer online courses. In the same period that schools were developing “distance learning,” independent educators have tapped into that same power source to offer online tutoring services.
+
+As the COVID-19 shutdown continues, more and more parents are finding online tutors to be a valuable resource for struggling students in their homes.
 
 ## 1. Begin by assessing students’ needs and goals 
 Why do students need tutoring? Before you begin your search, consider what you hope to gain from the tutoring experience. From logistics and budget to subject matter and teaching methods, putting these goals into words will help you find your perfect match. Start by asking yourself the following questions:
