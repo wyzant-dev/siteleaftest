@@ -30,7 +30,15 @@ Consider how often you envision meeting, where you are able to meet, and what yo
 Credentials are important, but so are teaching experience and methodology. Keeping your options open can often help you find the right fit. Remember that being knowledgeable about a subject area doesn’t always mean someone can explain it well. On Wyzant, you will be able to research key information on tutors such as level of education, teaching experience, hours tutored, and student rating. You’ll also be able to read testimonials from students to get a stronger grasp of a tutor’s competence and expertise.
 
 ### What type of tutoring do I really need?
-Did you underperform on a recent test, or are you struggling to get by in class? If so, you’re probably looking for remedial subject tutoring to help you learn and retain a specific set of concepts that are holding you back.  Maybe you’re fighting to keep your head above water in general. In that case, you may want a tutor to fill a support role, offering extra help in the most challenging subject areas while providing general support for the duration of a project, semester, or school year. Is your child just not being challenged enough in school? An enrichment tutor can help you tackle more advanced subjects outside the classroom or maintain a high level of performance in a course. If your child is in high school, you are most likely worried about standardized tests on the horizon such as the SAT, ACT, or state exams. Or perhaps you’re an adult studying for the GED, GRE, ASVAB, or TEAS. Whatever your test, there tutors out there specifically trained to help with test preparation and strategy, both to help you increase your scores and reduce the stress of studying.
+Did you underperform on a recent test, or are you struggling to get by in class? If so, you’re probably looking for remedial subject tutoring to help you learn and retain a specific set of concepts that are holding you back.
+
+Maybe you’re fighting to keep your head above water in general. In that case, you may want a tutor to fill a support role, offering extra help in the most challenging subject areas while providing general support for the duration of a project, semester, or school year.
+
+Is your child just not being challenged enough in school? An enrichment tutor can help you tackle more advanced subjects outside the classroom or maintain a high level of performance in a course.
+
+If your child is in high school, you are most likely worried about standardized tests on the horizon such as the SAT, ACT, or state exams.
+
+Or perhaps you’re an adult studying for the GED, GRE, ASVAB, or TEAS. Whatever your test, there tutors out there specifically trained to help with test preparation and strategy, both to help you increase your scores and reduce the stress of studying.
 
 ### What are my expectations?
 
