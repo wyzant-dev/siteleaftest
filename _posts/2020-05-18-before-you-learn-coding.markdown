@@ -7,6 +7,7 @@ categories:
 tags:
 - Computer Programming
 author: Alys Brooks
+hero-image: "/blog/uploads/6%20Things%20to%20Learn%20before%20You%20Learn%20Coding.png"
 ---
 
 Coding is not as intimidating as people sometimes think or Hollywood depicts, but there are some skills that are strongly recommended or essential before [learning to code](https://www.wyzant.com/blog/learn-to-code/). While it’s possible to, say, find a [Java](https://www.wyzant.com/Java_tutors.aspx) or [Python tutor](https://www.wyzant.com/Python_tutors.aspx) and jump right in if you are learning from scratch, it’s better to confirm you have the basics first.
