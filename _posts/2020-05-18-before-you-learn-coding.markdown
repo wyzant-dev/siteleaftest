@@ -58,7 +58,7 @@ While programming doesn’t require a lot of math, there are a few helpful math 
 
 These tend to be taught in the years (and courses) leading up to algebra. These skills include decimals, rounding, scientific notation, function notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or [the GRE](https://www.wyzant.com/blog/gre-math-formulas/), you’re likely ready, as these cover a broader range of math.
 
-You don’t have to be good at pen-and-paper math, let alone mental math - you are working with a computer, after all - but you should have a good conceptual understanding of how basic algebraic math works, and how it can be applied.
+You don’t have to be good at pen-and-paper math, let alone mental math - you are working with a computer, after all - but you should have a good conceptual understanding of how [basic algebraic math](https://www.wyzant.com/prealgebra_tutors.aspx) works, and how it can be applied.
 
 ## Science and problem solving
 
