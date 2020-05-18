@@ -1,5 +1,5 @@
 ---
-title: 122 Biggest Mistakes to Avoid When Learning a New Language
+title: 12 Biggest Mistakes to Avoid When Learning a New Language
 date: 2020-05-18 09:17:00 -05:00
 published: false
 author: Lauren Harsh
