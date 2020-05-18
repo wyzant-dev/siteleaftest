@@ -6,7 +6,9 @@ author: Lauren Harsh
 hero-image: "/blog/uploads/12%20Mistakes%20to%20Avoid%20When%20Learning%20a%20New%20Language.png"
 ---
 
-So you want to learn a new language. There’s never been a better time to take the plunge! “How to learn a second language” has over three billion results on Google. The world is more connected than ever before and language apps, online tutoring, tips to learn a language, and classes are available at your fingertips. However, when you learn a language online and self-direct your study it’s easy to pick up some bad habits. Knowing some common mistakes that other learners make early on and planning will help set you up for a successful language learning journey. 
+So you want to learn a new language. There’s never been a better time to take the plunge!
+
+“How to learn a second language” has over three billion search results on Google. The world is more connected than ever before and language apps, [online tutoring](https://www.wyzant.com/blog/online-learning-tool-video/), [tips to learn a language](https://www.wyzant.com/blog/how-to-learn-french/), and classes are available at your fingertips. However, when you learn a language online and self-direct your study it’s easy to pick up some bad habits. Knowing some common mistakes that other learners make early on and planning will help set you up for a successful language learning journey. 
 
 ## Using an approach that doesn’t match how you learn 
 
@@ -18,7 +20,7 @@ A lot of the language learning material online focuses on how to become fluent i
 
 ## Not starting with sounds
 
-Learning any new language will involve saying sounds your mouth isn’t used to. Some people skip over understanding which letters make which sounds in which context and have trouble later. Keep in mind that it will take practice to get your mouth used to making those sounds and don’t put off working on listening and speaking because you think you have to be good at reading it first. 
+Learning any new language will involve saying sounds your mouth isn’t used to. Some people skip over understanding [which letters make which sounds](https://www.wyzant.com/blog/french-pronunciation/) in which context and have trouble later. Keep in mind that it will take practice to get your mouth used to making those sounds and don’t put off working on listening and speaking because you think you have to be good at reading it first. 
 
 ## Getting discouraged by your mistakes
 
@@ -30,7 +32,7 @@ When you’re learning vocabulary, focus on words that you will actually use, no
 
 ## Getting too tied up in grammar
 
-Grammar is definitely important, but that doesn’t mean you have to get bogged down by the details. Some grammar concepts will seem logical and easy right away, but others will seem more intimidating. You may be asking “how can I learn grammar naturally?” Though you will not be able to avoid rote memorization altogether, recognizing patterns will help the concepts make sense. 
+Grammar is definitely important, but that doesn’t mean you have to get bogged down by the details. Some grammar concepts will seem logical and easy right away, but others will seem more intimidating. You may be asking “how can I [learn grammar naturally](https://www.wyzant.com/blog/french-grammar-basics/)?” Though you will not be able to avoid rote memorization altogether, recognizing patterns will help the concepts make sense. 
 
 ## Not giving yourself enough time
 
@@ -38,7 +40,7 @@ How long does it take to learn a new language? It depends. If your native langua
 
 ## Not asking for help
 
-The point of learning a language is to communicate with other people, yet certain self-studiers take pride in “doing it on their own” to their own detriment. At some point you are going to need help from other human beings in order to learn. That could be a tutor, a conversation partner, members of an online community, or even people you know from your life who speak the language. 
+The point of learning a language is to communicate with other people, yet certain self-studiers take pride in “doing it on their own” to their own detriment. At some point you are going to need help from other human beings in order to learn. That could be a [tutor](https://www.wyzant.com/French_tutors.aspx), a conversation partner, members of an online community, or even people you know from your life who speak the language. 
 
 ## Thinking in translation 
 
@@ -56,5 +58,5 @@ You may have heard that the best way to learn a new language is immersion. There
 
 If you’ve never learned another language before, the thought of it might intimidate you. This is especially likely if you were raised in the United States and don’t know anyone who is bilingual. The way mainstream US culture devalues foreign languages keeps them mysterious and intimidating. But if you go into it thinking “this is going to be so hard and I’m going to have to work so hard to accomplish it,” the mindset can get in the way. Start learning from a place of curiosity. This will make learning an adventure, not an obligation. Plus, if it feels like you’re slogging away at it, it will be hard to stay motivated. 
 
-Learning a language will take a lot of effort, but you can absolutely set yourself up for success. Start by naming what you want to accomplish and how you learn best. Then start working on pronunciation sooner rather than later, learn words that are relevant to you, and look for patterns. Over time, work towards thinking in your new language and incorporating it into your everyday life. Getting an online tutor will help keep you accountable at any stage of the process. Most importantly, enjoy it and be patient with yourself. Knowing a second language will change the way you experience the world. If you spend all your time with your nose to the grindstone, you’ll miss it.
+Learning a language will take a lot of effort, but you can absolutely set yourself up for success. Start by naming what you want to accomplish and how you learn best. Then start working on pronunciation sooner rather than later, learn words that are relevant to you, and look for patterns. Over time, work towards thinking in your new language and incorporating it into your everyday life. [Getting an online tutor](https://www.wyzant.com/Spanish_tutors.aspx) will help keep you accountable at any stage of the process. Most importantly, enjoy it and be patient with yourself. Knowing a second language will change the way you experience the world. If you spend all your time with your nose to the grindstone, you’ll miss it.
 
