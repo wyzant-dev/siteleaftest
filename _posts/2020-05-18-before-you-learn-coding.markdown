@@ -12,11 +12,11 @@ hero-image: "/blog/uploads/6%20Things%20to%20Learn%20before%20You%20Learn%20Codi
 
 Coding is not as intimidating as people sometimes think or Hollywood depicts, but there are some skills that are strongly recommended or essential before [learning to code](https://www.wyzant.com/blog/learn-to-code/). While it’s possible to, say, find a [Java](https://www.wyzant.com/Java_tutors.aspx) or [Python tutor](https://www.wyzant.com/Python_tutors.aspx) and jump right in if you are learning from scratch, it’s better to confirm you have the basics first.
 
-This list covers the lowest common denominator across different kinds of coding in different contexts. Specialized areas might have their own requirements. As a result, this article will focus on skills that are needed for the vast majority of coding, whether its for education, academic, industry, practical, or hobbyist reasons. 
+This list covers the "lowest common denominators" across different kinds of coding in different contexts. Specialized areas might have their own requirements. As a result, this article will focus on skills that are needed for the vast majority of coding, whether its for education, academic, industry, practical, or hobbyist reasons. 
 
-It’s analogous to music composition. Making up a simple tune, composing a symphony, and improvising a jazz solo are all composition but composition of very different kinds. There’s a baseline of musical knowledge and experience but the amount and specifics vary.
+Computer programming is somewhat analogous to music composition. Making up a simple tune, composing a symphony, and improvising a jazz solo are all composition, but of very different types. There’s a baseline of musical knowledge and experience, but the amount and specifics vary.
 
-Don’t be intimidated by this list’s length. One, you probably have at least some of them already. Two, the knowledge and skill required in each is pretty shallow. For example, for typing, the requirement is a steady pace, not rapid speed or even good technique. Three, these subjects can all be [learned at home](https://www.wyzant.com/blog/learning-at-home/).
+Don’t be intimidated by how much there is to learn to become a coding whiz. You've probably mastered at least some of the items on this list already, and the knowledge and skill required in each is not exactly comprehensive. For example, for typing, the requirement is a steady pace, not rapid speed (or even good technique). These skills can all be [learned at home](https://www.wyzant.com/blog/learning-at-home/).
 
 ## Typing
 
