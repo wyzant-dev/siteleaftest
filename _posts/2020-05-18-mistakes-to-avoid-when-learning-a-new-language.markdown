@@ -47,11 +47,17 @@ Remember: the only way you can get better is to keep practicing.
 
 ## Focusing on the wrong vocabulary
 
-When you’re learning vocabulary, focus on words that you will actually use, not what other people think you should learn. Most people need words on typical beginner topics like greetings, numbers, and colors. But once you get more advanced, what you need to know will be different from what other people need to know. Learn vocabulary that is specific to your life. Focus on subjects that you talk about regularly like your hobbies, job, family, and other interests. Since these are words you will use often, it will be easy for you to remember them. 
+When you’re learning vocabulary, focus on words that you will actually use, not what other people think you should learn.
+
+Most people need words on typical beginner topics like greetings, numbers, and colors. But once you become more advanced, what you need to know will likely be very different from what other people tell you to know.
+
+Learn vocabulary that is specific to your life. Focus on subjects that you talk about regularly like your hobbies, job, family, and other interests. Since these are words you will use often, it will be easy for you to remember them. 
 
 ## Getting too tied up in grammar
 
-Grammar is definitely important, but that doesn’t mean you have to get bogged down by the details. Some grammar concepts will seem logical and easy right away, but others will seem more intimidating. You may be asking “how can I [learn grammar naturally](https://www.wyzant.com/blog/french-grammar-basics/)?” Though you will not be able to avoid rote memorization altogether, recognizing patterns will help the concepts make sense. 
+Grammar is definitely important, but that doesn’t mean you have to get bogged down by the details. Some grammar concepts will seem logical and easy right away, but others will seem more intimidating.
+
+You may be asking, “How can I [learn grammar naturally](https://www.wyzant.com/blog/french-grammar-basics/)?” Though you will not be able to avoid rote memorization altogether (sorry, it's a part of learning a language), recognizing patterns will help the concepts make sense. 
 
 ## Not giving yourself enough time
 
