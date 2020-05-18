@@ -6,12 +6,20 @@ categories:
 tags:
 - Computer Programming
 author: Alys Brooks
+sub-headline: This list covers the "lowest common denominators" across different kinds
+  of coding in various contexts. Specialized areas come with their own requirements.
 hero-image: "/blog/uploads/6%20Things%20to%20Learn%20before%20You%20Learn%20Coding.png"
+meta-description: Don’t be intimidated by how much there is to learn to become a coding
+  whiz. You've probably mastered at least some of the items on this list already,
+  and the knowledge and skill required in each is not exactly comprehensive.
+post-description: Don’t be intimidated by how much there is to learn to become a coding
+  whiz. You've probably mastered at least some of the items on this list already,
+  and the knowledge and skill required in each is not exactly comprehensive.
 ---
 
 Coding is not as intimidating as people sometimes think or Hollywood depicts, but there are some skills that are strongly recommended or essential before [learning to code](https://www.wyzant.com/blog/learn-to-code/). While it’s possible to, say, find a [Java](https://www.wyzant.com/Java_tutors.aspx) or [Python tutor](https://www.wyzant.com/Python_tutors.aspx) and jump right in if you are learning from scratch, it’s better to confirm you have the basics first.
 
-This list covers the "lowest common denominators" across different kinds of coding in different contexts. Specialized areas might have their own requirements. As a result, this article will focus on skills that are needed for the vast majority of coding, whether its for education, academic, industry, practical, or hobbyist reasons. 
+This list covers the "lowest common denominators" across different kinds of coding in different contexts. Specialized areas might have their own requirements. As a result, this article will focus on skills that are needed for the vast majority of coding, whether its for education, academic, industry, practical, or hobby reasons. 
 
 Computer programming is somewhat analogous to music composition. Making up a simple tune, composing a symphony, and improvising a jazz solo are all composition, but of very different types. There’s a baseline of musical knowledge and experience, but the amount and specifics vary.
 
