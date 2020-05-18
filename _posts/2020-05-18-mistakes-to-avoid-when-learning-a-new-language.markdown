@@ -20,7 +20,12 @@ So you want to learn a new language. There’s never been a better time to take 
 
 ## Using an approach that doesn’t match how you learn 
 
-What’s the easiest way to learn a language? That depends on how you learn best. There is no one-size-fits-all approach. Think about how you like to learn. Do you remember things best by reading, listening, watching, or doing? How good are you at memorization? How much structure do you need to thrive? The answers to the questions can help you figure out an approach that suits you. 
+What’s the easiest way to learn a language? That depends on how you learn best. There is no one-size-fits-all approach. Think about how you like to learn:
+* Do you remember things best by reading, listening, watching, or doing?
+* How good are you at memorization?
+* How much structure do you need to thrive? 
+
+The answers to the questions can help you figure out an approach that suits you. 
 
 ## Having vague goals
 
