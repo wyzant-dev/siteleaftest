@@ -44,7 +44,7 @@ Grammar is definitely important, but that doesn’t mean you have to get bogged 
 
 ## Not giving yourself enough time
 
-How long does it take to learn a new language? It depends. If your native language is English, it will take you a longer time to learn Mandarin than Spanish. It also depends on you. Are you good at memorization? Are you self-motivated? What does your strategy look like? When do you consider yourself “done” learning? Those will all affect how long it takes you to make progress. If it takes you longer to learn the same language than someone else you know, that doesn’t mean you’re doing a bad job. Learn at your own pace. 
+How long does it take to learn a new language? It depends. If your native language is English, it will take you a longer time to learn Mandarin than [Spanish](https://www.wyzant.com/blog/online-spanish-lessons/). It also depends on you. Are you good at memorization? Are you self-motivated? What does your strategy look like? When do you consider yourself “done” learning? Those will all affect how long it takes you to make progress. If it takes you longer to learn the same language than someone else you know, that doesn’t mean you’re doing a bad job. Learn at your own pace. 
 
 ## Not asking for help
 
