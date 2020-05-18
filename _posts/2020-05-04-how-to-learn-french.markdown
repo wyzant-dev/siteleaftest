@@ -19,7 +19,7 @@ post-description: Is it possible to learn French outside of the context of the c
   recommendations from French educators.
 ---
 
-Is it possible to learn French outside of a classroom setting? Sure! Whether you’re anxious about making mistakes (an inevitable part of learning) in front of other people, your schedule is too unconventional to take a class, or you’re just an independent spirit, you have options.
+Is it possible to learn French outside of a classroom setting? Sure! Whether you’re anxious about [making mistakes](https://www.wyzant.com/blog/mistakes-to-avoid-when-learning-a-new-language/) (an inevitable part of learning) in front of other people, your schedule is too unconventional to take a class, or you’re just an independent spirit, you have options.
 
 You could follow an online French course, take private lessons, order some materials and buckle down to study, download an app, or any combination of tools. 
 
