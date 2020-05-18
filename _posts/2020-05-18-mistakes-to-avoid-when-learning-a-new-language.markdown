@@ -54,7 +54,7 @@ Listening to native speakers and emulating them is a great way to pick up good s
 
 You may have heard that the best way to learn a new language is immersion. There is truth to that statement, but some people take it to mean “if you can’t uproot your whole life and spend a year living in Paris you will never be good at French.” If that’s an option for you, go for it! Plenty of countries let you take language courses there on a student visa. If it’s not, there aren’t other ways that you can immerse yourself into your target language. You could seek out the kind of media you enjoy in the language. Apps like italki or tandem make it easy to find a conversation partner. You can even change the language settings on your phone, email, web browser, and social media. Incorporating the language into your everyday life will help you learn more without it feeling like work. 
 
-## Thinking it has to be Hard
+## Thinking language learning has to be difficult
 
 If you’ve never learned another language before, the thought of it might intimidate you. This is especially likely if you were raised in the United States and don’t know anyone who is bilingual. The way mainstream US culture devalues foreign languages keeps them mysterious and intimidating. But if you go into it thinking “this is going to be so hard and I’m going to have to work so hard to accomplish it,” the mindset can get in the way. Start learning from a place of curiosity. This will make learning an adventure, not an obligation. Plus, if it feels like you’re slogging away at it, it will be hard to stay motivated. 
 
