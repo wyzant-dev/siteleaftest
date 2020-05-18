@@ -71,23 +71,41 @@ Are you good at memorization? Are you self-motivated? What does your strategy lo
 
 ## Not asking for help
 
-The point of learning a language is to communicate with other people, yet certain self-studiers take pride in “doing it on their own” to their own detriment. At some point you are going to need help from other human beings in order to learn. That could be a [tutor](https://www.wyzant.com/French_tutors.aspx), a conversation partner, members of an online community, or even people you know from your life who speak the language. 
+The point of learning a language is to communicate with other people, yet certain self-directed language learners take pride in “doing it on their own”...to their own detriment. At some point you are going to need help from other human beings in order to learn. That could be a [tutor](https://www.wyzant.com/French_tutors.aspx), a conversation partner, members of an online community, or even people you know from your life who speak the language. 
 
 ## Thinking in translation 
 
-When you’re starting out, it may make sense to think about what you want to say in your native language and then translate it into your target language. But a lot of people fall into the trap of staying in that mindset too long. That’s a problem because speaking a language isn’t just about memorizing words and phrases, it’s about forming sentences on your own and thinking in that language. When you’re expressing more complex ideas, the way to do it in another language will typically be very different. The word you are looking for may not exist in that language. The structure of the sentence will usually be different. And if you’re using colloquialisms, forget it. You will build up your ability to think in your target language faster if you think of the idea you want to express and work out how to express it in the language instead of translating an exact sentence.  
+When you’re starting out, it may make sense to think about what you want to say in your native language and then translate it into your target language. But a lot of people fall into the trap of staying in that mindset too long. That’s a problem because speaking a language isn’t just about memorizing words and phrases - it’s about forming sentences on your own and thinking in that language.
+
+When you’re expressing more complex ideas, the way to do it in another language will typically be very different. The word you are looking for may not exist in that language. The structure of the sentence will usually be different. And if you’re using colloquialisms, forget it. You will build up your ability to think in your target language faster if you think of the idea you want to express and work out how to express it in the language instead of translating an exact sentence.  
 
 ## Getting frustrated when listening to native speakers
 
-Listening to native speakers and emulating them is a great way to pick up good speech habits. However when you’re a beginner, your listening comprehension skills can’t keep up with how fast they typically talk. It can be easy to get frustrated and stop trying to converse with them. You can always ask the person you’re talking to to slow down, but at the same time, work on your listening skills until you don’t have to anymore. Listening to the news and podcasts is a great way to start since newscasters typically speak clearly and use plain language. Then you can move on to movies and TV series. Start with audio in your target language and subtitles in your native language, then move to both the audio and subtitles in your target language, and eventually forgo the subtitles altogether. 
+Listening to native speakers and emulating them is a great way to pick up good speech habits. However when you’re a beginner, your listening comprehension skills can’t keep up with how fast they typically talk. It can be easy to get frustrated and stop trying to converse with them.
+
+You can always ask the person you’re talking to to slow down, but at the same time, work on your listening skills until you don’t have to anymore. Listening to the news and podcasts is a great way to start since newscasters typically speak clearly and use plain language. Then you can move on to movies and TV series. Start with audio in your target language and subtitles in your native language, then move to both the audio and subtitles in your target language, and eventually forgo the subtitles altogether. 
 
 ## Thinking you have to live abroad to immerse yourself
 
-You may have heard that the best way to learn a new language is immersion. There is truth to that statement, but some people take it to mean “if you can’t uproot your whole life and spend a year living in Paris you will never be good at French.” If that’s an option for you, go for it! Plenty of countries let you take language courses there on a student visa. If it’s not, there aren’t other ways that you can immerse yourself into your target language. You could seek out the kind of media you enjoy in the language. Apps like italki or tandem make it easy to find a conversation partner. You can even change the language settings on your phone, email, web browser, and social media. Incorporating the language into your everyday life will help you learn more without it feeling like work. 
+You may have heard that the best way to learn a new language is immersion. There is truth to that statement, but some people take it to mean, “If you can’t uproot your whole life and spend a year living in Paris, you will never be good at French.”
+
+If moving to Paris is an option for you, by all means, go for it! Plenty of countries let you take language courses there on a student visa. If you're like most, though, it’s not. 
+
+There are lots of other ways that to immerse yourself into your new language. You could seek out the kind of media you enjoy in the language. Apps like [italki](https://www.italki.com/) or [Tandem](https://www.tandem.net/) make it easy to find a conversation partner. You can even change the language settings on your phone, email, web browser, and social media.
+
+Incorporating parts of a new language into your everyday life will help you learn more, and use language more effectively, without it feeling like work. 
 
 ## Thinking language learning has to be difficult
 
-If you’ve never learned another language before, the thought of it might intimidate you. This is especially likely if you were raised in the United States and don’t know anyone who is bilingual. The way mainstream US culture devalues foreign languages keeps them mysterious and intimidating. But if you go into it thinking “this is going to be so hard and I’m going to have to work so hard to accomplish it,” the mindset can get in the way. Start learning from a place of curiosity. This will make learning an adventure, not an obligation. Plus, if it feels like you’re slogging away at it, it will be hard to stay motivated. 
+If you’ve never learned another language before, the thought of it is probably intimidating. This is especially likely if you were raised in the United States and don’t know anyone who is bilingual. The way mainstream US culture devalues foreign languages keeps them mysterious and intimidating.
 
-Learning a language will take a lot of effort, but you can absolutely set yourself up for success. Start by naming what you want to accomplish and how you learn best. Then start working on pronunciation sooner rather than later, learn words that are relevant to you, and look for patterns. Over time, work towards thinking in your new language and incorporating it into your everyday life. [Getting an online tutor](https://www.wyzant.com/Spanish_tutors.aspx) will help keep you accountable at any stage of the process. Most importantly, enjoy it and be patient with yourself. Knowing a second language will change the way you experience the world. If you spend all your time with your nose to the grindstone, you’ll miss it.
+If you go into learning a second language thinking, “This is going to be so hard, and I’m going to have to work so hard to accomplish any semblance of fluency,” your mindset will get in the way.
+
+Start learning from a place of curiosity. This makes a language an adventure, not an obligation. Plus, if it feels like you’re slogging away at it, it will be hard to stay motivated. 
+
+Learning a language will take a lot of effort, but you can absolutely set yourself up for success. Start by naming what you want to accomplish and how you learn best. Then start working on pronunciation sooner rather than later, learn words that are relevant to you, and look for patterns.
+
+Over time, work towards thinking in your new language and incorporating it into your everyday life. [Getting an online tutor](https://www.wyzant.com/Spanish_tutors.aspx) will help keep you accountable at any stage of the process. Most importantly, enjoy it and be patient with yourself.
+
+Knowing a second language will change the way you experience the world. If you spend all your time with your nose to the grindstone, you’ll miss it.
 
