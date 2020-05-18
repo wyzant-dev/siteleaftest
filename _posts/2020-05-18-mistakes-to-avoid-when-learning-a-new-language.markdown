@@ -3,6 +3,7 @@ title: 12 Biggest Mistakes to Avoid When Learning a New Language
 date: 2020-05-18 09:17:00 -05:00
 published: false
 author: Lauren Harsh
+hero-image: "/blog/uploads/12%20Mistakes%20to%20Avoid%20When%20Learning%20a%20New%20Language.png"
 ---
 
 So you want to learn a new language. There’s never been a better time to take the plunge! “How to learn a second language” has over three billion results on Google. The world is more connected than ever before and language apps, online tutoring, tips to learn a language, and classes are available at your fingertips. However, when you learn a language online and self-direct your study it’s easy to pick up some bad habits. Knowing some common mistakes that other learners make early on and planning will help set you up for a successful language learning journey. 
