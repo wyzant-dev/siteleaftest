@@ -9,13 +9,13 @@ tags:
 author: Alys Brooks
 ---
 
-Coding is not as intimidating as people sometimes think or Hollywood depicts, but there are some skills that are strongly recommended or essential before learning to code. While it’s possible to, say, find a Java or Python tutor and jump right in if you are learning from scratch, it’s better to confirm you have the basics first.
+Coding is not as intimidating as people sometimes think or Hollywood depicts, but there are some skills that are strongly recommended or essential before [learning to code](https://www.wyzant.com/blog/learn-to-code/). While it’s possible to, say, find a [Java](https://www.wyzant.com/Java_tutors.aspx) or [Python tutor](https://www.wyzant.com/Python_tutors.aspx) and jump right in if you are learning from scratch, it’s better to confirm you have the basics first.
 
 This list covers the lowest common denominator across different kinds of coding in different contexts. Specialized areas might have their own requirements. As a result, this article will focus on skills that are needed for the vast majority of coding, whether its for education, academic, industry, practical, or hobbyist reasons. 
 
 It’s analogous to music composition. Making up a simple tune, composing a symphony, and improvising a jazz solo are all composition but composition of very different kinds. There’s a baseline of musical knowledge and experience but the amount and specifics vary.
 
-Don’t be intimidated by this list’s length. One, you probably have at least some of them already. Two, the knowledge and skill required in each is pretty shallow. For example, for typing, the requirement is a steady pace, not rapid speed or even good technique. Three, these subjects can all be learned at home.
+Don’t be intimidated by this list’s length. One, you probably have at least some of them already. Two, the knowledge and skill required in each is pretty shallow. For example, for typing, the requirement is a steady pace, not rapid speed or even good technique. Three, these subjects can all be [learned at home](https://www.wyzant.com/blog/learning-at-home/).
 
 ## Typing
 
@@ -27,11 +27,11 @@ Increasing accuracy is also helpful. Typos are frustrating, for one thing. Addit
 For all these benefits, they hit diminishing returns rather quickly. If you’re fast enough to type up detailed emails, five-paragraph essays, and other medium-length pieces of writing without much inconvenience or errors, you’re probably fast and accurate enough. (You’ll also improve over time anyway.)
 With the threshold this low, it might also seem too basic to mention. While the prevalence of computers in schools and homes means the average speed of 30-40 WPM is enough, there’s about one in five people who are slower than that. Fortunately, bringing up typing speeds that range is usually the work of a few weeks of regular practice.
 
-There are two important exceptions to note: disabled programmers and young kids. Accommodations for programmers who can’t use their hands aren’t as advanced as those for blind or low vision programmers, unfortunately, but they do exist. For young kids who may also be learning to read at the same time, there are a number of good options, including visual programming languages that bypass most (or all) reading and typing.
+There are two important exceptions to note: disabled programmers and young kids. Accommodations for programmers who can’t use their hands aren’t as advanced as those for blind or low vision programmers, unfortunately, but they do exist. For young kids who may also be learning to read at the same time, there are a number of [good options](https://www.wyzant.com/blog/coding-for-kids/), including visual programming languages that bypass most (or all) reading and typing.
 
 ## Reading
 
-If you are a native speaker who struggles with reading or writing, it might be wise to build your skills first. Fortunately, many communities have literacy programs for low or no cost, librarians are happy to help you find books and other resources at the right reading level, and many tutors cover English literacy.
+If you are a native speaker who struggles with reading or writing, it might be wise to build your skills first. Fortunately, many communities have literacy programs for low or no cost, librarians are happy to help you find books and other resources at the right reading level, and many tutors can help with [English literacy](https://www.wyzant.com/ESL_tutors.aspx).
 
 Non-English speakers are often encouraged to learn English as well before learning to code. Because English is the dominant language for teaching, documenting, discussing, and commenting code, it’s arguably the no. 1 “programming language.” However, if you can find resources in your language, it’s probably something you can learn alongside programming rather than something you need to do first.
 
@@ -41,7 +41,7 @@ Coding is all about giving structured instructions to computers, and that means 
 While hardware design and academic logic gets very involved, the logic you need isn’t. Just be comfortable with the basic logic operators and combining them. Deciding whether a statement like “True and False and (True or False)” is true or false doesn’t have to be second-nature but should be doable. You may have already picked this up from math class or from using software like search engines that has logic operators built into the interface.
 
 Pre-algebra
-While programming doesn’t require a lot of math, there are a few helpful math skills needed to understand both coding and the technical details of your computer’s operation. These aren’t strictly related to algebra itself, but tend to be taught in the years leading up to algebra. These skills include decimals, rounding, scientific notation, function notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or the GRE, you’re likely ready, as these cover a broader range of math.
+While programming doesn’t require a lot of math, there are a few helpful math skills needed to understand both coding and the technical details of your computer’s operation. These aren’t strictly related to algebra itself, but tend to be taught in the years leading up to algebra. These skills include decimals, rounding, scientific notation, function notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or [the GRE](https://www.wyzant.com/blog/gre-math-formulas/), you’re likely ready, as these cover a broader range of math.
 You don’t have to be good at pen-and-paper math, let alone mental math—you are working with a computer—but you should have a good conceptual understanding of all of it.
 
 ## Science and problem solving
@@ -83,5 +83,5 @@ For coding with a creative or design element, you can of course explore the rele
 
 Finally, there is computer science, which is the theory of computing, and computer engineering, which is the science of how computers physically operate. They are almost always taught with coding as a prerequisite rather than the other way around and are included here for completeness.
 
-As you assess whether you have these skills, keep in mind that these not a prerequisite for reaching out to a tutor, signing up for a class or even dipping your toes in. They are recommended before starting in earnest. You can also reach out to tutors, classes, and other places to get help for help with these prerequisites, too.
+As you assess whether you have these skills, keep in mind that these not a prerequisite for [reaching out to a tutor](https://www.wyzant.com/computer_programming_lessons.aspx), signing up for a class or even dipping your toes in. They are recommended before starting in earnest. You can also reach out to tutors, classes, and other places to get help for help with these prerequisites, too.
 
