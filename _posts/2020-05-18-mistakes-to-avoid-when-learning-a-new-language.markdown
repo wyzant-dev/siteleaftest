@@ -3,7 +3,15 @@ title: 12 Biggest Mistakes to Avoid When Learning a New Language
 date: 2020-05-18 09:17:00 -05:00
 published: false
 author: Lauren Harsh
+sub-headline: " When you learn a language online and self-direct your study, it’s
+  easy to pick up some bad habits."
 hero-image: "/blog/uploads/12%20Mistakes%20to%20Avoid%20When%20Learning%20a%20New%20Language.png"
+meta-description: What’s the easiest way to learn a second language? That depends
+  on how you learn best. Knowing how you learn, and some common mistakes that other
+  learners make, will help set you up for fluency.
+post-description: What’s the easiest way to learn a second language? That depends
+  on how you learn best. Knowing how you learn, and some common mistakes that other
+  learners make, will help set you up for fluency.
 ---
 
 So you want to learn a new language. There’s never been a better time to take the plunge!
