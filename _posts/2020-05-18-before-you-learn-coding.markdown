@@ -36,9 +36,9 @@ There are two important exceptions to note: disabled programmers and young kids.
 
 ## Reading
 
-If you are a native speaker who struggles with reading or writing, it might be wise to build your skills first. Fortunately, many communities have literacy programs for low or no cost, librarians are happy to help you find books and other resources at the right reading level, and many tutors can help with [English literacy](https://www.wyzant.com/ESL_tutors.aspx).
+If you are a native English speaker who struggles with reading or writing, it's wise to refresh and build your skills first. Fortunately, many communities have literacy programs for low or no cost, librarians are happy to help you find books and other resources at the right reading level, and many tutors are specialized in helping with [English literacy](https://www.wyzant.com/ESL_tutors.aspx).
 
-Non-English speakers are often encouraged to learn English as well before learning to code. Because English is the dominant language for teaching, documenting, discussing, and commenting code, it’s arguably the no. 1 “programming language.” However, if you can find resources in your language, it’s probably something you can learn alongside programming rather than something you need to do first.
+Non-English speakers are often encouraged to learn English as well before learning to code. Because English is the dominant language for teaching, documenting, discussing, and commenting code, it’s arguably the no. 1 “programming language.” However, if you can find resources in your language, it’s usually something you can learn alongside programming rather than something you need to do first.
 
 ## Logic
 Coding is all about giving structured instructions to computers, and that means you need to be explicit about the logic. In fact, while computers are often as described as being “all about numbers,” those numeric operations are usually based on combining individual bits using very simple logic gates.
