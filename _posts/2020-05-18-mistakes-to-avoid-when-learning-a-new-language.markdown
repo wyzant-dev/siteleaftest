@@ -1,7 +1,14 @@
 ---
 title: 12 Biggest Mistakes to Avoid When Learning a New Language
 date: 2020-05-18 09:17:00 -05:00
-published: false
+categories:
+- Language Learning
+- French
+- Online Learning
+tags:
+- Language Learning
+- French
+- Online Learning
 author: Lauren Harsh
 sub-headline: " When you learn a language online and self-direct your study, it’s
   easy to pick up some bad habits."
