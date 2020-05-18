@@ -29,7 +29,9 @@ The answers to the questions can help you figure out an approach that suits you.
 
 ## Having vague goals
 
-A lot of the language learning material online focuses on how to become fluent in a certain amount of time. Instead of focusing on a proficiency level you want to reach, think about what you want to do in your target language and why you’re interested in it in the first place. Do you want to go on a trip to a country that speaks the language? Do you want to be able to watch movies without subtitles? Are there certain books you want to read in their original language? Would learning the language have career benefits? Those are all goals that will be much more helpful for keeping you on track than “I want to be fluent.” 
+A lot of the language learning material online focuses on how to become fluent in a certain amount of time. Instead of focusing on a proficiency level you want to reach, think about what you want to do in your target language and why you’re interested in it in the first place.
+
+Do you want to go on a trip to a country that speaks the language? Do you want to be able to watch movies without subtitles? Are there certain books you want to read in their original language? Would learning the language have career benefits? Those are all goals that will be much more helpful for keeping you on track than “I want to be fluent.” 
 
 ## Not starting with sounds
 
@@ -37,7 +39,11 @@ Learning any new language will involve saying sounds your mouth isn’t used to.
 
 ## Getting discouraged by your mistakes
 
-If you’re the type of person who is tempted to give up when you’re not good at something right away, you’ll need to overcome that instinct. You will probably have parts that you excel at and parts that you struggle with. Reading might come easily for you, but pronunciation might be difficult. It’s important to view mistakes as learning opportunities instead of failures and not to give up. The only way you can get better is to keep trying. 
+If you’re the type of person who is tempted to give up when you’re not good at something right away, you’ll need to overcome that instinct.
+
+You will probably excel in some parts of language learning, and find there are parts with which you struggle. Reading might come easily for you, but pronunciation might be difficult. It’s important to view mistakes as learning opportunities instead of failures and not to give up.
+
+Remember: the only way you can get better is to keep practicing. 
 
 ## Focusing on the wrong vocabulary
 
