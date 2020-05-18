@@ -106,7 +106,7 @@ Homework is a helpful resource to learn any language, and Spanish is no exceptio
 
 As an online language learner, you’ll have the opportunity to complete the assignment in your own free time, and connect with your tutor to review in preparation for the contents of your next lessons.
 
-The tutor will clarify doubts, correct mistakes, and answer questions, so use your homework in a smart way, to guide your own learning and stay at a comfortable pace.
+The tutor will clarify doubts, [correct mistakes](https://www.wyzant.com/blog/mistakes-to-avoid-when-learning-a-new-language/), and answer questions, so use your homework in a smart way, to guide your own learning and stay at a comfortable pace.
 
 ## Spanish Immersion
 The best way to learn Spanish is by immersion in the language. Immersion is a technique used in bilingual language education in which two languages are used for instruction. Becoming immersed helps you get involved in actively using a language, and allows you to practice Spanish as much as possible - both during your online Spanish lessons and afterward.
