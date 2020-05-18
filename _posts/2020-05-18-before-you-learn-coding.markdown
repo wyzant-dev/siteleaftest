@@ -67,17 +67,17 @@ Coding has relatively shallow background knowledge requirements, at least at the
 
 Sometimes you can postpone these until you have the basics of coding down, but if you want to dive in quickly or take a fast-paced course, getting them out of the way might be necessary. In case you’re in one of these situations, here are some common additional areas to consider for background study:
 
-* Discrete math is the umbrella category for much of the math mentioned earlier. Diving deeper into these or exploring additional topics likes graphs and combinatorics is helpful or necessary for more advanced coding.
-* Geometry and trigonometry are the basis for much of computer graphics, including games, multimedia, and some web and GUI development.
-* Statistics is a must for any kind of data science or analysis or machine learning. It can also be helpful for doing intensive work optimizing programs, as it helps you interpret the results.
-* Calculus is useful both for video games, because they provide the basis for equations of motion, and machine learning, as the strategies to progressively train the models.
-* Linear algebra is also useful for both games and machine learning, as vectors and matrices are used in both types of programming.
+* **Discrete math** is the umbrella category for much of the math mentioned earlier. Diving deeper into these or exploring additional topics likes graphs and combinatorics is helpful or necessary for more advanced coding.
+* **Geometry and trigonometry** are the basis for much of computer graphics, including games, multimedia, and some web and GUI development.
+* **Statistics** is a must for any kind of data science or analysis or machine learning. It can also be helpful for doing intensive work optimizing programs, as it helps you interpret the results.
+* **Calculus** is useful both for video games, because they provide the basis for equations of motion, and machine learning, as the strategies to progressively train the models.
+* **Linear algebra** is also useful for both games and machine learning, as vectors and matrices are used in both types of programming.
 
 Another group of skills is helpful background for the organizational and social elements of coding:
 
-* Software engineering is the discipline concerned with specifying, producing, validating, and maintaining large software systems.
-* UML and ER Diagramming are specialized tools for helping plan the design of object-oriented programs and relational databases respectively. These skills and diagramming in general are helpful to know but can be postponed until the programs you’re working on get more complex.
-* Technical communication is the field concerned with gathering and documenting technical information, including software. Much of it is technical writing, but it also encompasses instructional videos, graphics, animations, and oral presentations.
+* **Software engineering** is the discipline concerned with specifying, producing, validating, and maintaining large software systems.
+* **UML and ER Diagramming** are specialized tools for helping plan the design of object-oriented programs and relational databases respectively. These skills and diagramming in general are helpful to know but can be postponed until the programs you’re working on get more complex.
+* **Technical communication** is the field concerned with gathering and documenting technical information, including software. Much of it is technical writing, but it also encompasses instructional videos, graphics, animations, and oral presentations.
 
 For coding with a creative or design element, you can of course explore the relevant arts as well. For example, you could practice creative writing in order to write dialog for games or pick up graphic design to create a logo.
 
