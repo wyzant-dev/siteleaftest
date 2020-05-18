@@ -19,7 +19,7 @@ post-description: While you can learn the principles, terminology, caveats, tric
   have to write that code.
 ---
 
-Regardless of which computer programming language you choose, you’ll need resources to actually learn to code.
+Regardless of which computer programming language you choose, you’ll need resources to actually [learn to code](https://www.wyzant.com/blog/before-you-learn-coding/).
 
 As you evaluate your options, remember that, like learning a musical instrument, actual practice is key when you’re learning to code. While you can learn the principles, terminology, caveats, tricks, and pitfalls from listening or reading, to actually improve your ability to write code...you have to write that code.
 
