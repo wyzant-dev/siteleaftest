@@ -20,13 +20,17 @@ Don’t be intimidated by how much there is to learn to become a coding whiz. Yo
 
 ## Typing
 
-Typing may seem irrelevant. Does it matter how you get the code in the computer?
+Typing may seem irrelevant. Does it matter **how** you get the code in the computer?
 
-While it’s true that your program runs identically regardless of how it was typed in, being able to type fluidly lets you focus on the problem and reduces the risk of losing your train of thought.
-Increasing accuracy is also helpful. Typos are frustrating, for one thing. Additionally, if things frequently don’t work on the first time because of a typo, it can make you feel like “things never work” and cause you to lose confidence in yourself, your tools, or your learning materials.
+Yes.
 
-For all these benefits, they hit diminishing returns rather quickly. If you’re fast enough to type up detailed emails, five-paragraph essays, and other medium-length pieces of writing without much inconvenience or errors, you’re probably fast and accurate enough. (You’ll also improve over time anyway.)
-With the threshold this low, it might also seem too basic to mention. While the prevalence of computers in schools and homes means the average speed of 30-40 WPM is enough, there’s about one in five people who are slower than that. Fortunately, bringing up typing speeds that range is usually the work of a few weeks of regular practice.
+While it’s true that your program runs identically regardless of how it was typed in, the ability to type fluidly allows you to focus on a problem, and reduces the risk of losing your train of thought.
+
+Increasing accuracy is also helpful. Typos are frustrating, for one thing. Additionally, if things frequently don’t work the first time because of a typo, it can make you feel like “things never work” and cause you to lose confidence in yourself, your tools, or your learning materials.
+
+All these benefits hit diminishing returns rather quickly. If you’re fast enough to type up detailed emails, five-paragraph essays, or other medium-length pieces of writing without much inconvenience or errors, you’re probably fast and accurate enough (you’ll also improve over time anyway).
+
+While the prevalence of computers in schools and homes means the average speed of 30-40 WPM is enough, there’s about one in five people who are slower than that. Fortunately, bringing up typing speeds in a slower-than-normal range is usually a matter of working on improving over the course of a few weeks of regular practice.
 
 There are two important exceptions to note: disabled programmers and young kids. Accommodations for programmers who can’t use their hands aren’t as advanced as those for blind or low vision programmers, unfortunately, but they do exist. For young kids who may also be learning to read at the same time, there are a number of [good options](https://www.wyzant.com/blog/coding-for-kids/), including visual programming languages that bypass most (or all) reading and typing.
 
