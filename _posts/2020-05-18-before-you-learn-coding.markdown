@@ -1,5 +1,5 @@
 ---
-title: 6 Things You Should Learn Before You Learn Coding
+title: 7 Things You Should Learn Before You Learn Coding
 date: 2020-05-18 08:27:00 -05:00
 categories:
 - Computer Programming
