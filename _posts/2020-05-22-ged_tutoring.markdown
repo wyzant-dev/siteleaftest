@@ -64,3 +64,29 @@ Two parts, one break:
 
 **Total test time:** 2 hrs, 30 mins
 
+### Social Studies
+**Content**
+* Reading for meaning in social studies
+* Analyzing historical events and arguments 
+* Using numbers and graphs in social studies
+
+**Format**
+* 30-35 questions in 70 mins (no breaks)
+
+**Total test time:** 1 hr, 10 mins
+
+### Science
+
+**Content**
+* Reading for meaning in science
+* Designing and interpreting science experiments
+* Using numbers and graphics in science
+
+**Format**
+* 30-35 questions in 90 mins (no breaks), including two short-answer written responses to passages and/or graphics (up to 10 mins for each)
+
+**Total test time:** 1 hr, 30 mins
+
+
+
+
