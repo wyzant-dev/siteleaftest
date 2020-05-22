@@ -54,11 +54,11 @@ The official titles for the four GED subjects are Mathematical Reasoning, Reason
 **Content:** 
 * Elementary math
 * Geometry
-* Basic algebra
+* [Basic algebra](https://www.wyzant.com/algebra_tutors.aspx)
 * Graphs and functions
 
 **Format**
-Two parts, one break: 
+* Two parts, one break
 * 5 questions with no calculator: 20 mins
 * Short break
 * 35-40 questions with the official GED calculator: 95 mins
@@ -83,7 +83,7 @@ Two parts, one break:
 
 ### Social Studies
 **Content**
-* Reading for meaning in social studies
+* Reading for meaning in [social studies](https://www.wyzant.com/Chicago_social_studies_tutors.aspx)
 * Analyzing historical events and arguments 
 * Using numbers and graphs in social studies
 
@@ -118,7 +118,7 @@ The Mathematical Reasoning Test covers two broad categories of material using mu
 * Algebraic Reasoning (roughly 55% of the test): included expressions, polynomials, equations, inequalities, linear equations, quadratic equations, and patterns and functions.
 
 ### Reasoning through Language Arts
-This GED subject test consists of questions (multiple-choice, fill-in-the-blank, drag-and-drop, and drop-down) on English and reading comprehension and an essay testing your rhetorical and composition skills: 
+This GED subject test consists of questions (multiple-choice, fill-in-the-blank, drag-and-drop, and drop-down) on [English and reading comprehension](https://www.wyzant.com/English_tutors.aspx) and an essay testing your rhetorical and composition skills: 
 
 * Reading Content: Approximately three-fourths of the questions are based on informational texts, which include workplace- and community-based documents, general nonfiction, and nonfiction related to general-interest social studies and science topics. The other fourth of the test is based upon fiction selections.
 * Language Content: The language skills required for the test model real-life editing that ensures correct grammar, sentence structure, capitalization, punctuation, and word choice.
