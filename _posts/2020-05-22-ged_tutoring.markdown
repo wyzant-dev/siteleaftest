@@ -35,18 +35,31 @@ The official titles for the four GED® subjects are Mathematical Reasoning, Reas
 ### Mathematical Reasoning
 
 **Content:** 
-•  Elementary math
-•  Geometry
-•  Basic algebra
-•  Graphs and functions
+* Elementary math
+* Geometry
+* Basic algebra
+* Graphs and functions
 
 **Format**
 Two parts, one break: 
-•  5 questions with no calculator: 20 mins
-•  Short break
-•  35-40 questions with the official GED® calculator: 95 mins
+* 5 questions with no calculator: 20 mins
+* Short break
+* 35-40 questions with the official GED® calculator: 95 mins
 
 **Total test time:** 1 hr, 55mins
 
- 
+### Reasoning through Language Arts
+
+**Content**
+* Reading for meaning
+* Identifying and creating arguments
+* Grammar and language
+
+**Format**
+* Three sections, one break
+* About 20 questions in 30 mins
+* Written essay (extended response comparison of two passages);     maximum 45 mins
+* 10-min break
+* 30-35 questions in 65 mins
+
 
