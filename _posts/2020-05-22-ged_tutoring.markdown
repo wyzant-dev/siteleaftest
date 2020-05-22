@@ -13,7 +13,7 @@ For those who never graduated from high school, the GED test can open up new occ
 
 The GED is a nationwide exam designed to determine high school equivalency as well as college and career readiness.
 
-Depending on your high school experience or how long it’s been since you attended high school, you may feel that getting your GED diploma is a daunting proposition. Thankfully, there are plenty of expert tutors out there that can guide you on the path to that diploma.
+Depending on your high school experience or how long it’s been since you attended high school, you may feel that getting your GED diploma is a daunting proposition. Thankfully, there are plenty of [expert tutors](https://www.wyzant.com/GED_tutors.aspx) out there that can guide you on the path to that diploma.
 
 As you enter that first tutoring lesson, you may be wondering what to expect as you embark on the preparation experience.
 
@@ -41,7 +41,7 @@ During that preparation process, you’ll become familiar with all the question 
 * Short-answer: Write a paragraph or two of explanation in response to passages and/or graphics.
 * Extended response: Compose a well-developed and supported response to two passages.
 
-Of course, you want to how to take the GED, and you may even be asking about how to get your GED online. Unfortunately, online testing is not currently an option according to the GED Testing Service: “The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
+Of course, you want to how to take the GED, and you may even be asking about how to get your GED online. Unfortunately, online testing is not currently an option according to the [GED Testing Service](https://ged.com/): “The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
 
 #### The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.
 
@@ -169,16 +169,16 @@ Scoring above 175 (on any test subject) means you have demonstrated skills that 
 You’ll need two more things to really get rolling on the test prep process: a calculator and some form of GED prep materials.
 Remember that the TI-30XS is the official calculator for the test, and obtaining one of your own will enable you to get comfortable with its many functions. As for prep materials, look for books that have practice tests, as those will offer you the most effective training. Some companies also have personalized GED courses and additional practice material online.
 
-Although the GED itself cannot be administered remotely, your tutoring can take place online. Thanks to the development of powerful online learning platforms, tutors can guide your GED classes just as effectively as they could if they were right next to you. 
+Although the GED itself cannot be administered remotely, [your tutoring](https://www.wyzant.com/blog/online-tutoring-best-practices/) can take place online. Thanks to the development of powerful [online learning platforms](https://www.wyzant.com/blog/online-learning-tool-video/), tutors can guide your GED classes just as effectively as they could if they were right next to you. 
 
 7. Register for the GED tests when you feel you’re ready
-After your first session with a GED tutor, you should sign up for MyGED, a personalized online program that will be your entry point to all test activities, including scheduling tests, viewing score reports, ordering transcripts, and obtaining your diploma.
+After your first session with a GED tutor, you should sign up for [MyGED](https://ged.com/), a personalized online program that will be your entry point to all test activities, including scheduling tests, viewing score reports, ordering transcripts, and obtaining your diploma.
 
 As a final step before scheduling any actual GED tests, you should take the GED Ready Official Practice Tests, which are available through the MyGED portal. If you get 75% or more questions correct on a GED practice test, you are highly likely to pass the actual GED subject test. 
 
 ### When is the GED?
-To find a test center and a date to take the GED, you’ll have to explore the available options on the official scheduling website. Registration costs vary from state to state, with the most common fee being $30 per subject test ($120 total).
+To find a test center and a date to take the GED, you’ll have to [explore the available options](https://wsr.pearsonvue.com/testtaker/registration/SelectTestCenterProximity/GEDTS?conversationId=113810) on the official scheduling website. Registration costs vary from state to state, with the most common fee being $30 per subject test ($120 total).
 
 Make sure you check for updates to GED test dates, as certain test centers may not be open due to the COVID-19 restrictions.
 
-While everyone’s test preparation varies in duration, just eight hours of tutoring can give you a significant advantage. Reach out to an experienced GED tutor today to get started on your journey to greater educational and occupational opportunities. 
+While everyone’s test preparation varies in duration, just eight hours of tutoring can give you a [significant advantage](https://www.wyzant.com/blog/why-8-hours-of-private-tutoring-is-a-letter-grade-of-improvement/). Reach out to an experienced [GED tutor](https://www.wyzant.com/GED_tutors.aspx) today to get started on your journey to greater educational and occupational opportunities. 
