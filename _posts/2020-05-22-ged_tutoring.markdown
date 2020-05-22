@@ -1,11 +1,22 @@
 ---
 title: 'Your First GED Tutoring Session: 6 Things To Expect, and How to Prepare'
 date: 2020-05-22 09:00:00 -05:00
-published: false
+categories:
+- GED
+- Test Prep
+tags:
+- GED
+- Test Prep
 author: Jonathan Reidenouer
 sub-headline: For those who never graduated from high school, the GED test opens up
   new occupational and academic opportunities.
 hero-image: "/blog/uploads/Your%20First%20GED%20Tutoring%20Session.png"
+meta-description: Depending on your high school experience, or how long it’s been
+  since you were in a classroom, getting your GED can be a daunting proposition. Thankfully,
+  the help of an expert GED tutor is all you need to get you on track to your diploma.
+post-description: Depending on your high school experience, or how long it’s been
+  since you were in a classroom, getting your GED can be a daunting proposition. Thankfully,
+  the help of an expert GED tutor is all you need to get you on track to your diploma.
 ---
 
 Let’s face it—adulthood is more complicated now than it has ever been. With the technological, economical, and societal landscapes changing right before our eyes, it’s no surprise that so many adults are seeking out additional education.
