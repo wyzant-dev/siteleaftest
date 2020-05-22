@@ -3,6 +3,8 @@ title: 'Your First GED Tutoring Session: 6 Things To Expect, and How to Prepare'
 date: 2020-05-22 09:00:00 -05:00
 published: false
 author: Jonathan Reidenouer
+sub-headline: For those who never graduated from high school, the GED test opens up
+  new occupational and academic opportunities.
 hero-image: "/blog/uploads/Your%20First%20GED%20Tutoring%20Session.png"
 ---
 
@@ -163,7 +165,7 @@ To earn your high school equivalency, you’ll need to score **145 or higher** o
 ### 165–174: GED College Ready
 Scoring above 165 (on any test subject) means you have demonstrated you are ready to take college level courses. If you ever choose to enroll in college, you may qualify for waivers from placement testing or developmental education requirements.
 
-###175–200: GED College Ready + Credit
+### 175–200: GED College Ready + Credit
 Scoring above 175 (on any test subject) means you have demonstrated skills that could qualify for up to 10 college credit hours.
 
 ## 6. Lay out a plan for test preparation
