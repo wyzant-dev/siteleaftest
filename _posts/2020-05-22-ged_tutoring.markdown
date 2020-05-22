@@ -5,7 +5,7 @@ published: false
 author: Jonathan Reidenouer
 ---
 
-Let’s face it—adulthood is more complicated now than it has ever been. With the technological, economical, and societal landscapes changing right before our eyes, it’s no surprise that so many adults are seeking out additional education. For those who never graduated from high school, the GED® test can open up new occupational and academic opportunities amidst the shifting scene.
+Let’s face it—adulthood is more complicated now than it has ever been. With the technological, economical, and societal landscapes changing right before our eyes, it’s no surprise that so many adults are seeking out additional education. For those who never graduated from high school, the GED test can open up new occupational and academic opportunities amidst the shifting scene.
 
 ## What is the GED?
 
