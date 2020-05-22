@@ -37,7 +37,12 @@ It goes without saying that you’ll need to practice a lot (a LOT), so your onl
 
 ## LSAT Logical Reasoning
 
-Among all the LSAT test sections, logical reasoning takes center stage and accounts for half of your total score. You get two types of logical reasoning questions - the regular logical reasoning questions that involve using nuances in language to deduce the right answer and the analytical reasoning questions involving logic games.
+Among all the LSAT test sections, logical reasoning takes center stage, and accounts for half of your total score.
+
+You'll two types of logical reasoning questions: 
+
+* Regular logical reasoning questions that involve using nuances in language to deduce the right answer
+* Analytical reasoning questions involving logic games
 
 ### Understand the Basic Strategies to Tackle Logical Reasoning
 
