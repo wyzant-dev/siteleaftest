@@ -87,6 +87,76 @@ Two parts, one break:
 
 **Total test time:** 1 hr, 30 mins
 
+4. Learn about the content and format of each subject test
+Once you have a big-picture perspective of the four subject tests, you’ll want to spend time going over the GED® requirements for each exam.
+
+### Mathematical Reasoning 
+Except for the first five questions, a calculator is permitted on the GED® math test. However, only one calculator model is permitted: the TI-30XS. It’s recommended that you purchase one so you can practice with it, but even if you don’t have one of your own, a virtual version will be available on the computer when you take the test. In addition, you will have access to a calculator reference sheet and a math formula sheet. Instead of scratch paper, you will be provided with a hand-held whiteboard and dry-erase marker, which you can make use of throughout the test: don’t hesitate to ask for a new one if you feel that you need it.
+
+The Mathematical Reasoning Test covers two broad categories of material using multiple-choice, fill-in-the-blank, drag-and-drop, and drop-down question types:
+
+* Quantitative Reasoning (roughly 45% of the test): includes problems with positive and negative whole numbers, decimals and fractions; ratios, proportions, and percents; data and statistics; and geometric measurement.
+* Algebraic Reasoning (roughly 55% of the test): included expressions, polynomials, equations, inequalities, linear equations, quadratic equations, and patterns and functions.
+
+### Reasoning through Language Arts
+This GED® subject test consists of questions (multiple-choice, fill-in-the-blank, drag-and-drop, and drop-down) on English and reading comprehension and an essay testing your rhetorical and composition skills: 
+
+* Reading Content: Approximately three-fourths of the questions are based on informational texts, which include workplace- and community-based documents, general nonfiction, and nonfiction related to general-interest social studies and science topics. The other fourth of the test is based upon fiction selections.
+* Language Content: The language skills required for the test model real-life editing that ensures correct grammar, sentence structure, capitalization, punctuation, and word choice.
+* Extended Response: The essay requires that you read two passages and then respond to a writing prompt by developing and supporting your ideas with evidence from the text.
+
+The extended response is an evidence-based writing task, meaning that you need to base your position on the information and arguments in the reading materials. Your submitted essay will be assigned a score from 0-2 in three “traits”: Creation of Arguments and use of Evidence; Development of Ideas and Organizational Structure; and Clarity and Command of Standard English Conventions.
+
+### Social Studies
+The GED® Social Studies test covers material from Civics and Government (50% of the content), U.S. History (20%), Economics (15%), and Geography and the World (15%).  Questions in the exam are primarily based on your understanding of Social Studies Practices:
+
+* Determining central ideas, inferences, hypotheses, and conclusions
+* Analyzing words, events, and ideas in social studies contexts
+* Analyzing author’s purpose and point of view
+* Evaluating author’s reasoning and evidence
+* Analyzing and integrating relationships within and between social studies materials
+* Interpreting data and statistics in graphs and charts
+* Finding the center (mean, median, and mode) in a statistical data set
+
+Because the test includes data and infographics, you will be permitted to use a calculator and be given access to the calculator reference sheet. All questions in the Social Studies test are multiple-choice, fill-in-the-blank, drag-and-drop, and drop-down.
+
+### Science
+Covering material from Life Science (40% of the content), Earth and Space Science (20%), and Physical Science (40%), the Science test consists of questions that are primarily based on your understanding of Science Practices:
+
+* Comprehending scientific presentations to interpret passages and graphics
+* Using the scientific method to design investigations, reason from data, and work with findings
+* Reasoning with scientific information to evaluate conclusions with evidence
+* Applying concepts and formulas to express scientific information and apply scientific theories
+* Using probabilities and statistics in a science context
+
+You may use a calculator on the GED® Science test, so you will have access to the calculator reference sheet. While most of the questions are the usual styles (multiple-choice, fill-in-the-blank, drag-and-drop, and drop-down), there are also two short-answer questions where you will type in a text box to write a summary, create an experiment design, or explain how evidence supports a hypothesis or conclusion. An effective response should not be based on your opinions or personal experiences, but rather will use specific information from the source materials to answer the questions. Each short-answer response is worth up to 3 points, so take the time to understand the question plan your response, and choose several facts from the information to back up your position. 
+
+## 5. Set personal goals based on test score requirements
+The number of points you earn is translated into a scaled score ranging from 100-200 for each subject test. Knowing what opportunities each score tier offers will give you something to shoot for as you enter the test prep process.
+
+### 145: GED® Passing Score
+To earn your high school equivalency, you’ll need to score 145 or higher on all four subjects. If you score below 145 on any of the subject tests, you’ll have to retake all four tests regardless of how you performed on the others.
+
+### 165–174: GED® College Ready
+Scoring above 165 (on any test subject) means you have demonstrated you are ready to take college level courses. If you ever choose to enroll in college, you may qualify for waivers from placement testing or developmental education requirements.
+
+###175–200: GED® College Ready + Credit
+Scoring above 175 (on any test subject) means you have demonstrated skills that could qualify for up to 10 college credit hours.
+
+## 6. Lay out a plan for test preparation
+You’ll need two more things to really get rolling on the test prep process: a calculator and some form of GED® prep materials. Remember that the TI-30XS is the official calculator for the test, and obtaining one of your own will enable you to get comfortable with its many functions. As for prep materials, look for books that have practice tests, as those will offer you the most effective training. Some companies also have personalized GED courses and additional practice material online.
+
+Although the GED® itself cannot be administered remotely, your tutoring can take place online. Thanks to the development of powerful online learning platforms, tutors can guide your GED classes just as effectively as they could if they were right next to you. 
+
+7. Register for the GED® tests when you feel you’re ready
+After your first session with a GED tutor, you should sign up for MyGED®, a personalized online program that will be your entry point to all test activities, including scheduling tests, viewing score reports, ordering transcripts, and obtaining your diploma. As a final step before scheduling any actual GED® tests, you should take the GED Ready® Official Practice Tests, which are available through the MyGED® portal. If you get 75% or more questions correct on a GED practice test, you are highly likely to pass the actual GED® subject test. 
+
+When is the GED? To find a test center and a date to take the GED®, you’ll have to explore the available options on the official scheduling website. Registration costs vary from state to state, with the most common fee being $30 per subject test ($120 total). Make sure you check for updates to GED test dates, as certain test centers may not be open due to the COVID-19 restrictions.
+
+While everyone’s test preparation varies in duration, just eight hours of tutoring can give you a significant advantage. Reach out to an experienced GED tutor today to get started on your journey to greater educational and occupational opportunities. 
+
+
+
 
 
 
