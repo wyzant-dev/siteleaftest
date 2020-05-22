@@ -1,5 +1,5 @@
 ---
-title: 'Your First GED Tutoring Session: 7 Things To Expect, and How to Prepare'
+title: 'Your First GED Tutoring Session: 6 Things To Expect, and How to Prepare'
 date: 2020-05-22 09:00:00 -05:00
 published: false
 author: Jonathan Reidenouer
