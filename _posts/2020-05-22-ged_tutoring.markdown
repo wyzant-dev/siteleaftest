@@ -62,4 +62,5 @@ Two parts, one break:
 * 10-min break
 * 30-35 questions in 65 mins
 
+**Total test time:** 2 hrs, 30 mins
 
