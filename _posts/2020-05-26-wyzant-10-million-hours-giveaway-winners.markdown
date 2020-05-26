@@ -68,7 +68,7 @@ Wyzant awarded Katie a $1,000 prize for being the tutor to give the lesson that 
 
 “I got it yesterday and used it right away to pay my rent, which in west LA is ridiculous!” Interestingly, Katie had only done in-person tutoring prior to COVID-19, and she’s been pleasantly surprised with Wyzant’s online learning tool.
 
-“I love the online classroom, especially the fact that we can both upload documents and collaborate on them together. Plus, I save time and money not having to drive.” 
+“I love the [online classroom](https://www.wyzant.com/blog/online-learning-tool-video/), especially the fact that we can both upload documents and collaborate on them together. Plus, I save time and money not having to drive.” 
 
 ## Looking to the future
 
