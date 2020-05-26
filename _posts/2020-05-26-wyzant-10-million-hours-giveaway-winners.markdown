@@ -1,6 +1,6 @@
 ---
 title: Wyzant's 10 Million Hours Giveaway Winners!
-date: 2020-04-22 11:22:00 -05:00
+date: 2020-05-26 09:00:00 -05:00
 published: false
 categories:
 - Online Learning
@@ -23,7 +23,7 @@ post-description: 'Back in February 2020, we announced that Wyzant was fast appr
   would take home a prize of $1000.'
 ---
 
-Back in February 2020, we announced that Wyzant was fast approaching the biggest milestone in our platform’s history - **10 million hours of lessons**. To celebrate, we decided to go big: the student whose lesson took Wyzant over the 10 million hour mark would receive an entire year of free tutoring, and their tutor would take home a prize of $1000.
+Back in early 2020, we announced that Wyzant was fast approaching the biggest milestone in our platform’s history - **10 million hours of lessons**. To celebrate, we decided to go big: the student whose lesson took Wyzant over the 10 million hour mark would receive an entire year of free tutoring, and their tutor would take home a prize of $1000.
 
 Last week, I had the pleasure to interview Adarsh and his mom, Hema, the lucky recipients of Wyzant’s 10 million hour giveaway! 
 
