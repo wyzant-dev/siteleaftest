@@ -44,7 +44,7 @@ Enter Wyzant.
 
 In February, Adarsh started AP Chemistry, and knew it was going to be tough right away. That’s when he realized he wanted a tutor.
 
-He looked in the App Store, where he found Wyzant's free app, and remembered hearing good things about our platform previously from his friends. After reviewing numerous tutor profiles with Hema, they chose Katie, a math and science tutor with a perfect five star rating.
+He looked in the App Store, where he found [Wyzant's free app](https://apps.apple.com/us/app/wyzant-find-a-tutor/id1042081370), and remembered hearing good things about our platform previously from his friends. After reviewing numerous tutor profiles with Hema, they chose Katie, a math and science tutor with a perfect five star rating.
 
 The icing on the cake? She’s working toward a doctorate in dentistry at UCLA, Adarsh's dream school.
 
