@@ -1,6 +1,6 @@
 ---
 title: 'LSAT 101: Everything You Need to Maximize Your Prep'
-date: 2020-05-22 11:46:00 -05:00
+date: 2020-05-27 11:46:00 -05:00
 categories:
 - LSAT
 - Test Prep
