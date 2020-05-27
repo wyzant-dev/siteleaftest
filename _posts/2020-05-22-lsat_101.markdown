@@ -9,82 +9,68 @@ tags:
 - LSAT
 - Test Prep
 author: Jacqueline Zote
+sub-headline: Learn the important basics with this comprehensive list of LSAT resources
 ---
 
-If you’re an aspiring lawyer, chances are you’ve done a fair bit of research to learn all about the LSAT. By now, you probably have answers to some common questions, like, "When is the LSAT?", or, "What LSAT score do I need to get into my dream school?"
+If you’re an aspiring lawyer, chances are you’ve done a fair bit of research to learn all about the LSAT. For those who dream of getting into top-tier schools like Yale, Stanford, or Harvard, an average LSAT score just won’t cut it. You need to score well above 165 to even stand a chance at being considered for admissions.
 
-For those who dream of getting into top-tier schools like Yale, Stanford, or Harvard, an average LSAT score just won’t cut it. You need to score well above 165 to even stand a chance at being considered for admissions.
+## What is the LSAT?
+The Law School Admission Test (LSAT) is an integral part of the admission process. It assesses critical reading comprehension, analytical and logical reasoning, and writing skills. The LSAT is the only test accepted for admission purposes by all ABA-accredited law schools and Canadian common-law law schools.
 
-So the best thing to do is to ramp up your prep. For that, you’ll need high-quality resources that can teach you how to study for the LSAT and assure better scores. This LSAT 101 guide contains everything you'll need to maximize your LSAT prep. 
+The LSAT is administered in two parts:
 
-Your LSAT score is easily the most crucial element of your law school admission, and the school you attend has significant impact on the trajectory of your law career. Preparation is key; put in the time and study, and you can expect improvement.
+A multiple-choice exam administered at official test centers
+
+A written essay (LSAT Writing Sample), administered online
+
+The test consists of four scored sections, one experimental section, and an unscored essay section. Two of the scored sections are Logical Reasoning, one is Reading Comprehension, and the last is Analytical Reasoning (aka Logic Games). The LSAT is not a test that rewards last-minute cramming, so future test-takers should consider their strategy and prepare thoroughly.
+
+So the best thing to do is to ramp up your prep. For that, you’ll need high-quality resources that can teach you how to study for the LSAT and assure better scores.
+
+This LSAT 101 guide contains links to articles on the Wyzant Blog, giving you everything you'll need to understand the test and maximize your LSAT prep. 
+
+## Learn the Most Effective LSAT Prep Methods
+Getting a good LSAT score isn’t so much diving blindly into your LSAT prep as learning how to study for the LSAT in a more strategic, organized manner. Strategic LSAT prep helps you make sure that all the time and energy you spend on studying isn’t for nothing. It involves knowing which aspects of the test to focus on, maintaining a study schedule, learning testing methods to improve your speed, and more.
+
+In the article below, we outline LSAT basics, including registration dates, important info about LSAT scoring, and tips to help you set up a study schedule. 
 
 ![LSAT scantron - How to Prep for the LSAT](/blog/uploads/7%20Tips%20on%20How%20to%20Prep%20for%20the%20LSAT.png)
-## 7 Tips on How to Prep for the LSAT
-Getting a good LSAT score isn’t so much diving blindly into your LSAT prep as learning how to study for the LSAT in a more strategic, organized manner.
-
-It’s not enough that you know all the answers to the questions in your test; you should also work fast enough to finish answering them. That means you should learn how to study smart and improve your speed.
-
-Strategic LSAT prep helps you make sure that all the time and energy you spend on studying isn’t for nothing. It involves knowing which aspects of the test to focus on, maintaining a study schedule, learning testing methods to improve your speed, and more.
 
 It goes without saying that you’ll need to practice a lot (a LOT), so your online LSAT prep should also include knowing where to get LSAT practice tests, and how best to take them.
 
-![7 Ways to Conquer LSAT Logical Reasoning.png](/blog/uploads/7%20Ways%20to%20Conquer%20LSAT%20Logical%20Reasoning.png)
-## 7 Ways to Conquer LSAT Logical Reasoning
+## Understand each section on the LSAT
 
-Among all the LSAT test sections, logical reasoning takes center stage, and accounts for half of your total score.
+The LSAT, unlike tests many students are accustomed to taking during college, rewards one’s ability to apply logical concepts to new yet predictable arguments, scenarios, or sets of related statements rather than regurgitate facts accrued over the course of a semester.
 
-You'll two types of logical reasoning questions: 
+### LSAT logical reasoning
 
-* Regular logical reasoning questions that involve using nuances in language to deduce the right answer
-* Analytical reasoning questions involving logic games
+Among all the LSAT test sections, logical reasoning takes center stage, and accounts for half of your total score. The LR section features short arguments, sets of facts, or a paradoxical situation. You’ll be asked to do a variety of things, such as strengthen or weaken the argument, determine a logical conclusion, explain a paradox, or make inferences.
 
-With questions designed to confuse you, tackling the logical reasoning section of the LSAT can take up a lot of your time. As such, it’s crucial that you focus your efforts on understanding the basic strategies to answer logical reasoning questions without spending too much time on them. Learning the do’s and don’ts of tackling this section of the test will help you avoid costly mistakes and improve your overall LSAT scores.
+With questions designed to confuse you, tackling the logical reasoning section of the LSAT can take up a lot of your time. As such, it’s crucial that you focus your efforts on understanding the basic strategies to answer logical reasoning questions without spending too much time on them. 
 
-### Practice Using Logic Games and Tests
-As important as it is to learn the basic methods for tackling logical reasoning questions, it’s also important that you spend a lot of time putting those methods into practice. Use logic games to test your skills and improve how quickly you analyze the situation to come up with the right answer.
+This article will help you learn the do’s and don’ts of tackling the LR section of the test, which might help you avoid costly mistakes and improve your overall LSAT scores.
 
-Additionally, you can also find practice tests for the common types of logical reasoning questions that often appear on the LSAT. Practicing on these tests will help you speed up your ability to deduce the issue being presented based on the specific language being used in the question, which means you’ll have a better understanding of what to expect on the actual test, and how to answer LR questions without wasting your allotted time.
+![Man turning page in law textbook - Ways to Conquer LSAT Logical Reasoning](/blog/uploads/7%20Ways%20to%20Conquer%20LSAT%20Logical%20Reasoning.png)
 
-## Reading Comprehension
-Believe it or not, there are strategies to improve how quickly you comprehend a given passage and derive correct answers from it. The LSAT reading comprehension test can take up a lot of your time, as it involves reading a passage and using your understanding of the information (as well as the ways the writers of the LSAT throw in things to misdirect test-takers) to answer the given questions.
+### LSAT Logic Games (Analytical Reasoning)
 
-### Discover Strategies to Improve Reading Comprehension
-To work faster on reading comp questions, you’ll need to learn how to standardize your reading process and better understand the text. You might even need to take a different approach based on the type of question you’re getting. So it’s crucial that you learn the strategies to improve your reading comprehension and better prep for the LSAT.
 
-### Brush Up on Your Skills Using Practice Passages
-Just like with other sections of the LSAT, your reading comprehension needs practice. The more you hone your skill at reading passages and answering given questions, the better you’ll become at processing the most crucial parts of the text. Use reading comprehension practice questions and test passages to get better at this part of the LSAT.
+For many, logic games are initially the most difficult (but ultimately the most improvable) of the 3 kinds of LSAT multiple-choice sections: it’s foreign to a majority of those preparing for the LSAT, so most students start far back on what can be a steep learning curve. Thankfully, logic games are based purely on deduction, so some definitions can be considered mathematics, and accordingly can be mastered more easily with intensive practice than can something lik, say, the Reading Comprehension section of the LSAT. 
 
-## Writing
-Although the essay section won’t have an effect on your overall LSAT scores, that doesn’t make it any less important. In fact, it could be the determining factor for whether or not you get into your dream school because it will be a part of your official report. You could end up not getting into Harvard because of a poorly-written sample, although you scored a 179 in the test. 
+![Glasses on a laptop keyboard - Strategies for Tackling Logic Games on the LSAT](/blog/uploads/7%20Ways%20to%20Conquer%20LSAT%20Logical%20Reasoning.png)
 
-### The Law School Hopeful’s Guide to Confident LSAT Writing
-Since your writing sample can be considered by universities, it's crucial that you spend an equal amount of time and effort into improving your LSAT writing. Have a clear idea of how this section of the test works so you understand what you need to do, and how you can write a compelling sample.
+### Reading Comprehension
+Believe it or not, there are strategies to improve how quickly you comprehend a given passage and derive correct answers from it! The LSAT reading comprehension involves reading a passage and using your understanding of the information (as well as the ways the writers of the LSAT throw in things to misdirect test-takers) to answer the given questions.
 
-### Improve Your Writing Skills
-It takes a lot of practice to improve your writing skills. It also requires understanding of the best practices that can help you become a better writer. Start with learning how to tell a compelling story and make a strong points through your sample, which will then improve your chances of getting into your dream school.
+To work faster on reading comp questions, you’ll need to learn how to standardize your reading process and better understand a given text. You might even need to take a different approach based on the type of question you’re getting. Reading comprehension tends to be the least improvable section of the test given how well ingrained a student’s reading ability is by the time they sit to take the LSAT, but test-takers still need to give the section its due.
 
-Tackling prep for the LSAT should involve thorough writing practice in addition to practicing other sections of the test that get scored. 
+![Man standing on courthouse steps - Ways to Improve on LSAT Reading Comprehension](/blog/uploads/7%20Ways%20to%20Conquer%20LSAT%20Logical%20Reasoning.png)
 
-## Getting Help
-Whether it’s your first time taking the LSAT or you’ve taken it a few times before, working with a dedicated tutor increases your chances at hitting - or exceeding - your ideal LSAT scores. There’s a lot involved in prepping for the LSAT, and it’s not enough to just study alone. Otherwise, you risk taking the test knowing a lot of information, but lacking the guidance you need to apply it successfully.
+### LSAT Writing Sample
+The good news: LSAT test-takers no longer must complete a writing sample shortly after 5 LSAT multiple choice sections. Now, they get to complete LSAT Writing up to a full year after their test date.
 
-### Consider Working with an LSAT Tutor
+The bad news: a higher standard of writing will likely be expected given that test-takers may now optimize or at least try to optimize outside factors
 
-An LSAT tutor will provide you with personalized guidance on how to improve your test-taking skills, what to expect, how to improve your speed, and more. Dedicated sessions can be your secret weapon in understanding how each section of the test works, why they're important, and, most importantly, how to prepare in the way that works best for **you**.
+Although the essay section won’t have an effect on your overall LSAT scores, that doesn’t make it any less important. Since your writing sample can be considered by universities, it's crucial that you spend an equal amount of time and effort into improving your LSAT writing. Tackling prep for the LSAT should involve thorough writing practice in addition to practicing other sections of the test that get scored. Read the article below for more details.
 
-With your personalized LSAT tutoring, you’ll gain better knowledge and skills to take the test with a good chance of getting high scores. Some LSAT tutors even provide helpful tips and tricks to tackle certain types of questions with ease and efficiency.
-
-## Get Help from a Writing Tutor
-Your LSAT tutor will touch on all the scored sections of the test as well as the essay, providing comprehensive guidance on online LSAT prep. However, that may not be enough to help you write a compelling paper.
-
-To stand a better chance of getting into your dream school, consider working with a dedicated tutor who can help you brush up on your writing skills as well.
-
-A writing tutor will provide you with hands-on training on how to improve your writing skills by overcoming your unique challenges. They will help you improve your grammar, sentence flow, word choice, and overall storytelling technique. In other words, they can help pave the way to get into your dream school after completing the LSAT.
-
-You can even find writing tutors who specialize in LSAT essays. With many of these tutors having taken the LSAT themselves, they have real-life experience with what works and what doesn’t. This puts them in a position to provide valuable guidance from an inside perspective, which you can then use to fuel your own LSAT success.
-
-## Shoot for Success
-With all these resources, you have everything you need to start your LSAT prep. Remember that your mindset plays a crucial role in where you land, so shoot for success and put in the hard work to reach your destination.
-
-Don’t forget that getting a great score on the LSAT is just the beginning, and you’ll still need to put in tons of hard work to become a lawyer. Make sure you get the help you need and work with a private law tutor who can guide you on every step your journey.
+![Person typing an essay - Law School Hopeful’s Guide to Confident LSAT Writing](/blog/uploads/7%20Ways%20to%20Conquer%20LSAT%20Logical%20Reasoning.png)
