@@ -19,9 +19,9 @@ The Law School Admission Test (LSAT) is an integral part of the admission proces
 
 The LSAT is administered in two parts:
 
-A multiple-choice exam administered at official test centers
+* A multiple-choice exam administered at official test centers
 
-A written essay (LSAT Writing Sample), administered online
+* A written essay (LSAT Writing Sample), administered online
 
 The test consists of four scored sections, one experimental section, and an unscored essay section. Two of the scored sections are Logical Reasoning, one is Reading Comprehension, and the last is Analytical Reasoning (aka Logic Games). The LSAT is not a test that rewards last-minute cramming, so future test-takers should consider their strategy and prepare thoroughly.
 
