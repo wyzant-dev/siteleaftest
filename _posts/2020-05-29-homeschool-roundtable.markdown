@@ -22,13 +22,15 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 
 ## Our panel of homeschool educators
 
+![Homeschool Educators Camelia Crawford James Lanier Pam Shaffer and Becky Dole](/blog/uploads/Homeschool%20Roundtable%20Educators%20Banner.png)
+
+**Camelia Crawford** lives in Aurora, Illinois (a Chicago neighbor!). She’s been tutoring homeschooled students since 1998.
+
 **James Lanier** hails from Cary, North Carolina, and for the last several years, has averaged roughly 1000 hours/year teaching homeschoolers core subjects in both STEM and the humanities. 
 
 **Pam Shaffer** lives in Northampton, Pennsylvania. Pam has taught middle school math and science for more than 20 years, including helping to “homeschool” a member of the USA Olympic Team. 
 
 **Becky Dole** connects with us from Saint Peters, Missouri. Her experience includes a Master's in Elem Ed and 30+ years experience. Becky is a member of 7 professional organizations, including Teachers Association International and International Tutoring Association.
-
-**Camelia Crawford** lives in Aurora, Illinois (a Chicago neighbor!). She’s been tutoring homeschooled students since 1998.
 
 ## Homeschool Roundtable topics and highlights
 
