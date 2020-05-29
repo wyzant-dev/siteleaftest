@@ -56,4 +56,4 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 
 ## We’re here to help
 
-Homeschooling, [remote learning](https://www.wyzant.com/blog/types-of-remote-learning/), distance learning - whatever you call it in your home - is a tough situation. We hope you’re taking away some useful and actionable information from our discussion, and share it with your friends and family. Searching for help with remote learning is easy - [just start with a clear goal](https://www.wyzant.com/blog/3-things-to-keep-in-mind-when-choosing-a-tutor/).
+Homeschooling, [remote learning](https://www.wyzant.com/blog/types-of-remote-learning/), distance learning - whatever you call it in your home - is a tough situation. We hope you’re taking away some useful and actionable information from our discussion, and share it with your friends and family. Searching for help with remote learning is easy - [just start with a clear goal](https://www.wyzant.com/blog/3-things-to-keep-in-mind-when-choosing-a-tutor/), and partner with an expert.
