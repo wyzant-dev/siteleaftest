@@ -25,7 +25,7 @@ We’ve seen new approaches taking shape - including governments, publishers, co
 
 We want to help families manage their own versions of [“homeschooling,”](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/) so we sourced some expert advice on how to succeed - even thrive - in online education.
 
-There’s a lot to take in, and the learning curve is steep, so we decided to cut through the noise and go straight to the source for some expert advice. We gathered the top [Homeschool tutors](https://www.wyzant.com/Homeschool_tutors.aspx) on Wyzant to discuss topics on everyone’s minds these days: “homeschooling”, remote learning, and **how parents and families can keep their at-home students on a path to success** in their education. 
+We gathered the top [Homeschool tutors](https://www.wyzant.com/Homeschool_tutors.aspx) on Wyzant to discuss topics on everyone’s minds these days: “homeschooling”, remote learning, and **how parents and families can keep their at-home students on a path to success** in their education. 
 
 ## Watch the Roundtable 
 <br />
@@ -44,6 +44,8 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 **[Becky Dole](https://www.wyzant.com/match/tutor/77803630)** connects with us from Saint Peters, Missouri. Her experience includes a Master's in Elem Ed and 30+ years experience. Becky is a member of 7 professional organizations, including Teachers Association International and International Tutoring Association.
 
 ## Homeschool Roundtable topics and highlights<br />
+
+There’s a lot to take in, and the learning curve is steep, so we decided to cut through the noise and go straight to the source for some expert advice.
 
 - Traditional homeschooling is a lot different than what many are calling homeschooling these days. What are the main differences?
 - What can “traditional” homeschooling teach parents about managing their child’s education from home? 
