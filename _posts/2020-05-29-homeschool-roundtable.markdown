@@ -26,8 +26,6 @@ We want to help families manage their own versions of [“homeschooling,”](htt
 
 There’s a lot to take in, and the learning curve is steep, so we decided to cut through the noise and go straight to the source for some expert advice. We gathered the top [Homeschool tutors](https://www.wyzant.com/Homeschool_tutors.aspx) on Wyzant to discuss topics on everyone’s minds these days: “homeschooling”, remote learning, and **how parents and families can keep their at-home students on a path to success** in their education. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wJkjNIlyPVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Our panel of homeschool educators
 
 ![Homeschool Educators Camelia Crawford James Lanier Pam Shaffer and Becky Dole](/blog/uploads/Homeschool%20Roundtable%20Educators%20Banner.png)
@@ -39,6 +37,8 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 **[Pam Shaffer](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F87489653)** lives in Northampton, Pennsylvania. Pam has taught middle school math and science for more than 20 years, including helping to “homeschool” a member of the USA Olympic Team. 
 
 **[Becky Dole](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F77803630)** connects with us from Saint Peters, Missouri. Her experience includes a Master's in Elem Ed and 30+ years experience. Becky is a member of 7 professional organizations, including Teachers Association International and International Tutoring Association.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJkjNIlyPVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Homeschool Roundtable topics and highlights<br />
 
