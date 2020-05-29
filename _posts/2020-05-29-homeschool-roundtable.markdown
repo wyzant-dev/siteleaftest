@@ -38,6 +38,9 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 
 **[Becky Dole](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F77803630)** connects with us from Saint Peters, Missouri. Her experience includes a Master's in Elem Ed and 30+ years experience. Becky is a member of 7 professional organizations, including Teachers Association International and International Tutoring Association.
 
+<br />
+<br />
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJkjNIlyPVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Homeschool Roundtable topics and highlights<br />
