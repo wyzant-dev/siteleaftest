@@ -80,3 +80,5 @@ These obviously won’t make or break your RC score, but while reading, you shou
  
 **Bonus Tip:** Ask yourself if you falsely deliberate between answer choices.
 False deliberation: spending ANY additional time on an RC question when there is little to no chance you change your mind regarding which answer you’re going to select. This is a problem that affects many students on RC, often without their knowledge, and it takes discipline to solve. True deliberation involves some consideration of actually switching from one answer to another, but false deliberation lacks that consideration, and it eats away time because of double-checking and self-reassurance. Work to remove the error by intentionally moving on from a question once you “know” you’ve made your call.
+
+For more in-depth info on everything LSAT, head to [LSAT 101: Everything You Need to Maximize Your Prep](https://www.wyzant.com/blog/lsat_101/)
