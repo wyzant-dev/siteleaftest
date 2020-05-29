@@ -25,7 +25,7 @@ A major theme of tutor feedback was the lack of transparency around hourly rate 
 
 ![A screenshot of new recommended rate function in tutoring jobs](/blog/uploads/Wyzant%20Job%20Update%201.png)
 
-A number of you have already asked us “where the heck does this number come from?”
+A number of you have already asked us, “Where the heck does this number come from?”
 
 Here is the answer: we are not using a complicated algorithm or asking students what their expected budget is; we are using the best predictor we have – their actual behavior.
 
