@@ -20,7 +20,7 @@ Gain a small victory on the road to medical school success right now by coming t
 
 The first thing to know about the MCAT is that you’ve never seen an exam quite like it.  The test covers an incredibly broad range of topics, from physics to psychology, critical reasoning to biochemistry.  While upper level science content is not tested directly, all of the introductory science courses covered in a strong pre-med program will be on the exam. 
 
-From the perspective of the Association of American Medical Colleges (AAMC), the goal of the MCAT is not to see whether you have accumulated the science knowledge apposite to being a doctor - that’s the goal of medical school; the goal of the MCAT is to see whether you have developed the core competencies necessary to succeed in medical school - whether you have learned how to efficiently process and memorize vast amounts of information, whether you know how to synthesize information from different sources, whether you can bring such a synthesis to bear on the issue at hand, and so forth.
+From the perspective of the Association of American Medical Colleges (AAMC), the goal of the MCAT is not to see whether you have accumulated the science knowledge apposite to being a doctor - that’s the goal of medical school; the goal of the MCAT is to see whether you have developed the [core competencies](https://students-residents.aamc.org/applying-medical-school/article/core-competencies/) necessary to succeed in medical school - whether you have learned how to efficiently process and memorize vast amounts of information, whether you know how to synthesize information from different sources, whether you can bring such a synthesis to bear on the issue at hand, and so forth.
 
 In other words, you need more than facts.
 
@@ -28,22 +28,22 @@ In other words, you need more than facts.
 
 That said, facts are the foundation of your MCAT prep, and there are an awful lot of them on the exam. The MCAT tests significant portions of material from the standard premed introductory courses in:
 
-* Biology (2 semesters)
-* General chemistry (2 semesters)
-* Organic chemistry (2 semesters)
-* Biochemistry (1 semester)
-* Physics (2 semesters)
-* Psychology (1 semester), and
-* Sociology (1 semester)
+* [Biology](https://www.wyzant.com/biology_tutors.aspx) (2 semesters)
+* [General chemistry](https://www.wyzant.com/chemistry_tutors.aspx) (2 semesters)
+* [Organic chemistry](https://www.wyzant.com/organic_chemistry_tutors.aspx) (2 semesters)
+* [Biochemistry](https://www.wyzant.com/biochemistry_tutors.aspx) (1 semester)
+* [Physics](https://www.wyzant.com/physics_tutors.aspx) (2 semesters)
+* [Psychology](https://www.wyzant.com/psychology_tutors.aspx) (1 semester), and
+* [Sociology](https://www.wyzant.com/sociology_tutors.aspx) (1 semester)
 
-You'll be tested on everything from amino acids to torque, bioenergetics to theories of language development.  For a complete overview of exam, you will need to read the 128 page MCAT Content Review published by the AAMC, but nothing quite replaces the value of seeing the exam for yourself on an official practice test.
+You'll be tested on everything from amino acids to torque, bioenergetics to theories of language development.  For a complete overview of exam, you will need to read the 128 page [MCAT Content Review](https://aamc-orange.global.ssl.fastly.net/production/media/filer_public/95/36/953625eb-6e5d-4521-80e0-054eb511e18f/combined_mcat-content_new_61419.pdf) published by the AAMC, but nothing quite replaces the value of seeing the exam for yourself on an [official practice test](https://store.aamc.org/official-mcat-sample-test-online.html).
  
 In addition to the science knowledge base, you will be tested on your reading comprehension and rhetorical analysis skills.  While, to some, this might sound like a lightweight, freebie skillset, don’t underestimate the difficulty of the Critical Analysis and Reasoning Skills (CARS) section of the MCAT.  CARS is actually one of the most feared sections on the exam.
 
 ### Format of the MCAT
 Before we get into the details of the format of the MCAT, a warning is in order: Watch out for outdated advice - the MCAT changed radically in 2015.
 
-Your friendly neighborhood MD more than likely took the old version of the exam, which was shorter and didn’t test biochemistry, psychology, or sociology. In the same way, older webpages can also lead you astray, so be sure to take your advice from a trusted expert. 
+Your friendly neighborhood MD more than likely took the old version of the exam, which was shorter and didn’t test biochemistry, psychology, or sociology. In the same way, older webpages can also lead you astray, so be sure to take your advice from a [trusted expert](https://www.wyzant.com/MCAT_tutors.aspx). 
 
 The current MCAT divides the exam into four sections: CARS and three science sections.  The science sections all test students using passage-based and isolated questions. CARS, however, only tests students via passages.  
 
@@ -81,7 +81,7 @@ The section scores are then combined to produce an overall score, ranging from t
 ### What’s a good MCAT score?
 As most med school applicants are rejected, it is important to have a great MCAT score.  A **500** tells a school that you can probably handle med school, but, given the limited number of slots, the schools can afford to be selective.
 
-To maximize your chances of being accepted at a med school, you should aim for an above average score. This is especially true if you some aspects of your application (overall GPA, science GPA, recommendations, experience, essays, etc.) are below the averages for the med school that you hope to attend. 
+To maximize your chances of being accepted at a med school, you should [aim for an above average score](https://www.aamc.org/download/321508/data/factstablea23.pdf). This is especially true if you some aspects of your application (overall GPA, science GPA, recommendations, experience, essays, etc.) are below the averages for the med school that you hope to attend. 
 
 At most med schools, a 510 or better is competitive. Still, some medical schools (notably Osteopathic schools) will consider applicants with lower scores.
 
@@ -90,11 +90,11 @@ Conversely, the best medical schools in the country generally expect MCAT scores
 ## When should I take the MCAT?
 Given the importance of the MCAT, it’s vital to come to grips with where you score (at the moment) early. Ignorance about your strengths and weaknesses only reduces your chances of future MCAT success.  
 
-So, take an official practice MCAT as soon as possible. This weekend would be best.
+So, take an [official practice MCAT](https://store.aamc.org/official-mcat-sample-test-online.html) as soon as possible. This weekend would be best.
 
 Having said that, your actual MCAT testing date does not have to be so soon.  In fact, given that your MCAT prep will take a substantial amount of time, your test should be months down the road from you.
 
-But you should probably register today. 
+But you should probably [register today](https://students-residents.aamc.org/applying-medical-school/taking-mcat-exam/register-mcat-exam/). 
 
 ### Why register early?
 There are four reasons for registering early.
@@ -146,6 +146,6 @@ Having enough time to study for the MCAT is all well and good, but it won’t ge
 
 Some of the right goals and habits can be acquired through working official practice tests, MCAT prep books, and flashcards.  However, nothing is more effective than working with an expert MCAT coach.
 
-An expert MCAT tutor can help you from wasting your time with poor review habits or identify key faults in your understanding of the material.  A good coach will also provide accountability for sticking to your study schedule, will be able to pinpoint missteps in your problem solving process, and can give you perspective on integrating the details into the big picture.  All in all, a good coach is invaluable tool that can often make the difference between a med school acceptance or rejection letter.
+An expert [MCAT tutor](https://www.wyzant.com/MCAT_tutors.aspx) can help you from wasting your time with poor review habits or identify key faults in your understanding of the material.  A good coach will also provide accountability for sticking to your study schedule, will be able to pinpoint missteps in your problem solving process, and can give you perspective on integrating the details into the big picture.  All in all, a good coach is invaluable tool that can often make the difference between a med school acceptance or rejection letter.
 
 It’s just common sense that the best way to learn how to rock the MCAT is by learning from someone who has mastered the MCAT themselves and helped others to do the same.  Find a tutor today who can catapult you to MCAT success!
