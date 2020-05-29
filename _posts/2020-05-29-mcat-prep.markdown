@@ -8,6 +8,7 @@ categories:
 tags:
 - MCAT
 - Test Prep
+author: James Lanier
 hero-image: "/blog/uploads/A%20Comprehensive%20Guide%20to%20Effective%20MCAT%20Prep.png"
 ---
 
