@@ -25,13 +25,13 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 
 ![Homeschool Educators Camelia Crawford James Lanier Pam Shaffer and Becky Dole](/blog/uploads/Homeschool%20Roundtable%20Educators%20Banner.png)
 
-**Camelia Crawford** lives in Aurora, Illinois (a Chicago neighbor!). She’s been tutoring homeschooled students since 1998.
+**[Camelia Crawford](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F86809758)** lives in Aurora, Illinois (a Chicago neighbor!). She’s been tutoring homeschooled students since 1998.
 
-**James Lanier** hails from Cary, North Carolina, and for the last several years, has averaged roughly 1000 hours/year teaching homeschoolers core subjects in both STEM and the humanities. 
+**[James Lanier](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F85862980)** hails from Cary, North Carolina, and for the last several years, has averaged roughly 1000 hours/year teaching homeschoolers core subjects in both STEM and the humanities. 
 
-**Pam Shaffer** lives in Northampton, Pennsylvania. Pam has taught middle school math and science for more than 20 years, including helping to “homeschool” a member of the USA Olympic Team. 
+**[Pam Shaffer](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F87489653)** lives in Northampton, Pennsylvania. Pam has taught middle school math and science for more than 20 years, including helping to “homeschool” a member of the USA Olympic Team. 
 
-**Becky Dole** connects with us from Saint Peters, Missouri. Her experience includes a Master's in Elem Ed and 30+ years experience. Becky is a member of 7 professional organizations, including Teachers Association International and International Tutoring Association.
+**[Becky Dole](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F77803630)** connects with us from Saint Peters, Missouri. Her experience includes a Master's in Elem Ed and 30+ years experience. Becky is a member of 7 professional organizations, including Teachers Association International and International Tutoring Association.
 
 ## Homeschool Roundtable topics and highlights
 
