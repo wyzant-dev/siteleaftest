@@ -1,7 +1,6 @@
 ---
 title: 'WATCH: Wyzant Homeschool Roundtable'
 date: 2020-05-29 13:48:00 -05:00
-published: false
 categories:
 - Homeschool
 - Video
