@@ -35,6 +35,7 @@ Our data shows you are more likely to hear back from the student if the hourly r
 
 At times you will see a recommended rate field that says, “None.” This happens when a prospective student posts a job without first contacting tutors.
 
+### Required rates for partnership student jobs
 Another new feature is the “required rate” for partnership student jobs. Partnership students are pre-approved for multiple tutoring sessions. They do not pay for their own tutoring and are subject to an hourly rate budget set by their institution. This is listed on the job as a “required rate” and you must agree to the required rate when applying to the job.
 
 ![Screenshot of required rate function in tutoring jobs](/blog/uploads/Wyzant%20Job%20Update%202.png)
