@@ -2,6 +2,14 @@
 title: Updated Tutoring Jobs Experience
 date: 2020-05-29 12:29:00 -05:00
 published: false
+sub-headline: On Wednesday, May 27th we launched an update to the tutoring jobs experience.
+hero-image: "/blog/uploads/Tutor%20Jobs%20Update%20.png"
+meta-description: 'Given how vital tutoring jobs are to tutors’ businesses, we decided
+  to create a better experience, one that will allow us to respond faster to your
+  feedback and evolving needs moving forward. '
+post-description: 'Given how vital tutoring jobs are to tutors’ businesses, we decided
+  to create a better experience, one that will allow us to respond faster to your
+  feedback and evolving needs moving forward. '
 ---
 
 On Wednesday, May 27th we launched an update to the tutoring jobs experience. As many of you are probably painfully aware, the tutoring jobs pages had not been updated in a very long time. The old pages were built with now outdated code, which made it hard to change or add functionality. Given how vital tutoring jobs are to tutors’ businesses we decided to create a new version, one that will allow us to respond faster to your feedback and evolving needs moving forward. 
