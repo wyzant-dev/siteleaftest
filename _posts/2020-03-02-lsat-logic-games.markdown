@@ -110,3 +110,4 @@ By allowing yourself only 34.5 minutes per section, 34 minutes per section, and 
  
 You should start by finding the one with dinosaurs roaming through the sub zones of zones 1, 2, and 3 in an attempt to track the spread of a computer virus… If you recognized the 3 game topics in that ridiculous description, then you’re likely a candidate for redoing those games - and ones like them - to max out your LG score. If you didn’t, then no worries, as you can encounter the dinosaurs on LSAT PrepTest 57, the sub zones on LSAT PrepTest 67, or the computer virus on LSAT PrepTest 79.
  
+Read our comprehensive guide to preparing for the LSAT today: [LSAT 101: Everything You Need to Maximize Your Prep](https://www.wyzant.com/blog/lsat_101/)
