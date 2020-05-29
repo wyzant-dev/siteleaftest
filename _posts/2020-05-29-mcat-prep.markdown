@@ -1,7 +1,6 @@
 ---
 title: A Comprehensive Guide to Effective MCAT Prep
 date: 2020-05-29 07:58:00 -05:00
-published: false
 categories:
 - MCAT
 - Test Prep
@@ -9,7 +8,17 @@ tags:
 - MCAT
 - Test Prep
 author: James Lanier
+sub-headline: 'The first thing to know about the MCAT is that you’ve never seen an
+  exam quite like it. '
 hero-image: "/blog/uploads/A%20Comprehensive%20Guide%20to%20Effective%20MCAT%20Prep.png"
+meta-description: 'Having enough time to study for the MCAT is all well and good,
+  but it won’t get you very far if you are not studying the right things.  Merely
+  logging time will not improve your score; you have to be working the right way on
+  the right goals. '
+post-description: 'Having enough time to study for the MCAT is all well and good,
+  but it won’t get you very far if you are not studying the right things.  Merely
+  logging time will not improve your score; you have to be working the right way on
+  the right goals. '
 ---
 
 If you are anything like most prospective med students, you've been putting off the day when you have to think about the MCAT.
