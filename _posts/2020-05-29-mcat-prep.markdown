@@ -24,7 +24,7 @@ From the perspective of the Association of American Medical Colleges (AAMC), the
 
 In other words, you need more than facts.
 
-### MCAT Content
+### MCAT content
 
 That said, facts are the foundation of your MCAT prep, and there are an awful lot of them on the exam. The MCAT tests significant portions of material from the standard premed introductory courses in:
 
@@ -47,7 +47,7 @@ Your friendly neighborhood MD more than likely took the old version of the exam,
 
 The current MCAT divides the exam into four sections: CARS and three science sections.  The science sections all test students using passage-based and isolated questions. CARS, however, only tests students via passages.  
 
-## Breakdown of the MCAT Science Sections
+## Breakdown of the MCAT science sections
 The three science sections test different content, as their titles suggest.
 
 The **Biological and Biochemical Foundations of Living Systems** section primarily tests biology and biochemistry.  According to the AAMC, 25% of the section is devoted to first-semester biochemistry, 65% to introductory biology, 5% to general chemistry, and 5% to organic chemistry.
@@ -65,7 +65,7 @@ Either way, careful reading and strong reasoning skills are a must.
 
 The passages are largely drawn from sources outside of the standard premed curricula. About half of the reading passages are on topics in the humanities (e.g., art, literature, architecture, etc.). The other half stem from the social sciences (e.g., geography, political science, economics, etc.).
 
-## MCAT Timing
+## MCAT timing
 In CARS, you will have 90 minutes to answer 53 questions. In each of the three science sections, however, you will have 95 minutes to complete 59 questions. So, on average, you have about 1 minute and 35 seconds to answer each question.
 
 ### How long is the MCAT from start to finish?
@@ -87,7 +87,7 @@ At most med schools, a 510 or better is competitive. Still, some medical schools
 
 Conversely, the best medical schools in the country generally expect MCAT scores in the top 1-2% of all test takers—a 520 or better.  
 
-## When Should I take the MCAT?
+## When should I take the MCAT?
 Given the importance of the MCAT, it’s vital to come to grips with where you score (at the moment) early. Ignorance about your strengths and weaknesses only reduces your chances of future MCAT success.  
 
 So, take an official practice MCAT as soon as possible. This weekend would be best.
@@ -96,7 +96,7 @@ Having said that, your actual MCAT testing date does not have to be so soon.  In
 
 But you should probably register today. 
 
-### Why Register Early?
+### Why register early?
 There are four reasons for registering early.
 
 First, most test takers end up taking the exam a second time.  (The first exam wakes them up to the realities that you will, hopefully, see on your practice test this weekend.)  
