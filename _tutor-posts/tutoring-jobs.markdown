@@ -15,7 +15,9 @@ post-description: 'Given how vital tutoring jobs are to tutors’ businesses, we
 
 On Wednesday, May 27th we launched an update to the tutoring jobs experience. As many of you are probably painfully aware, the tutoring jobs pages had not been updated in a very long time. The old pages were built with now outdated code, which made it hard to change or add functionality. Given how vital tutoring jobs are to tutors’ businesses we decided to create a new version, one that will allow us to respond faster to your feedback and evolving needs moving forward. 
 
-This update was based on years of your prior feedback as well as interviews and tests of new designs we ran recently with a number of you. Some highlights from the recent release include:
+This update was based on years of your prior feedback as well as interviews and tests of new designs we ran recently with a number of you.
+
+Some highlights from the recent release include:
 
 ## Hourly Rate Guidance 
 
