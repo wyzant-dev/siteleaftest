@@ -15,7 +15,7 @@ If necessity is the mother of all invention, global pandemics are the father of 
 
 ![A graph that reads Covid is Moving Consumers Up the Adoption Curve](/blog/uploads/People%20Want%20To%20Learn%20From%20Humans%201.jpg)
 
-It’s very clear that online tutoring is serving as a lifeline during COVID and a remedy to the abrupt remote learning implementations from K-12 to college. And as millions of people experience Zoom for the first time, they now more intuitively understand the experience and potential of online tutoring. Each passing week, more parents and students are turning to online tutoring. Last week we saw 158% growth.
+It’s very clear that online tutoring is serving as a lifeline during COVID and [a remedy](https://www.wyzant.com/blog/covid-19-tutoring/) to the abrupt remote learning implementations from K-12 to college. And as millions of people experience Zoom for the first time, they now more intuitively understand the experience and potential of online tutoring. Each passing week, more parents and students are turning to online tutoring. Last week we saw 158% growth.
 
 ![A graph that reads Year Over Year Online Tutoring Growth](/blog/uploads/People%20Want%20To%20Learn%20From%20Humans%202.jpg)
 
@@ -85,7 +85,7 @@ The beauty of on-on-one online tutoring is that everything you can do in-person 
 
 What makes online tutoring in fact superior to the in-person version are the things you can’t do in person but are enabled with online. For one, you can be far more picky about finding the perfect tutor. Second is access; it’s cheaper and available no matter where you live. The third reason online tutoring is better is that it’s massively more convenient, especially when you need help right away, late in the evening or on-the go. Finally, the online format allows for functionality like lesson recording and playback that enhances the overall experience and impact.
 
-![Four Reasons why Tutoring is Better Online: Fit, Access, Convenience, and Functionality](/blog/uploads/People%20Want%20To%20Learn%20From%20Humans%205.jpg)
+![Four Reasons why Tutoring is Better Online Fit, Access, Convenience, and Functionality](/blog/uploads/People%20Want%20To%20Learn%20From%20Humans%205.jpg)
 
 At some point, the COVID-19 vaccine will be widely available, and we will be free to resume our lives as they were prior to the pandemic. When this happens, we’re going to immediately embrace certain activities we missed dearly like visiting friends and family, going on vacation and dining out. Some pandemic-necessitated behaviors and solutions, however, are going to fundamentally change how we operate. Online tutoring is one of them. As education inevitably becomes more digital and self-directed, it’s the perfect way to keep learning human.
 
