@@ -9,6 +9,14 @@ tags:
 - Homeschool
 - Video
 author: Jay Pike
+sub-headline: We want to help families manage their own versions of “homeschooling,”
+  so we went straight to the experts.
+meta-description: 'We gathered the top Homeschool tutors on Wyzant to discuss topics
+  on everyone’s minds these days: school at home, remote learning, and how parents
+  and families can keep their at-home students on a path to success in their education.'
+post-description: 'We gathered the top Homeschool tutors on Wyzant to discuss topics
+  on everyone’s minds these days: school at home, remote learning, and how parents
+  and families can keep their at-home students on a path to success in their education.'
 ---
 
 In many ways, tutors are on the frontlines of our shared education crisis. They’re out there all over the country, day in and day out, working to keep students engaged and learning as routines and support systems - both their own and those of their families - have been turned upside down by [the pandemic](https://www.wyzant.com/blog/covid-19-tutoring/).
