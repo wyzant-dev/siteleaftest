@@ -47,7 +47,7 @@ Campus-based college students have been the most severely disrupted by the pande
 
 Demand for online tutoring among college students is up 170% so far in May. And when you look at “killer courses” like organic chemistry and physics, the need is even more pronounced, with both subjects spiking over 450%. 
 
-In general, you can view tutoring demand as a proxy for learning urgency. Fully remote learning of advanced subject material without access to campus support resources is causing students to turn to tutors in various states of anxiety and even panic. One tutor I talked to referred to his new students as “weary travelers seeking shelter.”
+In general, you can view tutoring demand as a proxy for learning urgency. Fully [remote learning](https://www.wyzant.com/blog/types-of-remote-learning/) of advanced subject material without access to campus support resources is causing students to turn to tutors in various states of anxiety and even panic. One tutor I talked to referred to his new students as “weary travelers seeking shelter.”
 
 ## The younger the student, the bigger the challenge of remote learning
 
