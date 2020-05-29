@@ -41,6 +41,7 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 <br />
 <br />
 
+## Watch the Roundtable 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJkjNIlyPVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Homeschool Roundtable topics and highlights<br />
