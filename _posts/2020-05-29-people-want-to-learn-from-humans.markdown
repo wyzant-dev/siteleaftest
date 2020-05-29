@@ -9,6 +9,14 @@ sub-headline: 'COVID-era education is a glimpse into the future of learning; mor
   online, self-directed and affordable. But also less human, which is why the role
   of online tutors is so important. '
 hero-image: "/blog/uploads/People%20Want%20To%20Learn%20From%20Humans%20Especially%20During%20a%20Pandemic.png"
+meta-description: Some pandemic-necessitated behaviors and solutions are going to
+  fundamentally change how we operate. Online tutoring is one of them. As education
+  inevitably becomes more digital and self-directed, it’s the perfect way to keep
+  learning human.
+post-description: Some pandemic-necessitated behaviors and solutions are going to
+  fundamentally change how we operate. Online tutoring is one of them. As education
+  inevitably becomes more digital and self-directed, it’s the perfect way to keep
+  learning human.
 ---
 
 *This article was originally [published on LinkedIn](https://www.linkedin.com/pulse/people-want-learn-from-humans-especially-during-pandemic-andrew-geant-1e/) on May 21, 2020*
