@@ -35,7 +35,7 @@ Another new feature is the “required rate” for partnership student jobs. Par
 
 ## Search and Filter Functionality 
 
-During tutor interviews, the jobs page search functionality was described as “a real pill” and “the bane of my existence,” so we simplified it. The search now defaults to online jobs, we removed the complicated nested filters and replaced it with alphabetized typeahead dropdown, and the search results automatically update when you change a filter (so you no longer have to click the “Search” button each time). You will also notice that your searches now persist. No more resetting your filters every time you navigate back to the search page! 
+During tutor interviews, the jobs page search functionality was described as “a real pill” and “the bane of my existence,” so we simplified it. The search now defaults to online jobs, filtering has been dramatically streamlined and results automatically update when you change a filter (so you no longer have to click the “Search” button each time). You will also notice that your searches now persist. No more resetting your filters every time you navigate back to the search page! 
 
 ![Drop down menu of tutoring job options](/blog/uploads/Wyzant%20Job%20Update%203.png)
 
