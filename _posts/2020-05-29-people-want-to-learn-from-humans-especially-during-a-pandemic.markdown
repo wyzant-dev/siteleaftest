@@ -2,6 +2,8 @@
 title: People Want To Learn From Humans, Especially During a Pandemic
 date: 2020-05-29 15:06:00 -05:00
 published: false
+tags:
+- Wyzant News
 author: Andrew Geant, CEO
 sub-headline: 'COVID-era education is a glimpse into the future of learning; more
   online, self-directed and affordable. But also less human, which is why the role
