@@ -128,7 +128,7 @@ Now that you hopefully have a better understanding of what LSAT Writing is and h
  
 For plenty of additional released writing sample prompts, ask your [LSAT tutor](https://www.wyzant.com/LSAT_tutors.aspx) to go over the end of any printed LSAT PrepTest, which will actually include the prompt used as part of that test administration. You can easily get a good amount of practice using some of these (ideally between 2 and 4) over the course of your LSAT prep.
 
-
+To find all the info you need to confidently prepare for every section of the LSAT, read [LSAT 101: Everything You Need to Maximize Your Prep](https://www.wyzant.com/blog/lsat_101/).
 
 
 
