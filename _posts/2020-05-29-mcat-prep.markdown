@@ -8,6 +8,7 @@ categories:
 tags:
 - MCAT
 - Test Prep
+hero-image: "/blog/uploads/A%20Comprehensive%20Guide%20to%20Effective%20MCAT%20Prep.png"
 ---
 
 If you are anything like most prospective med students, you've been putting off the day when you have to think about the MCAT.
