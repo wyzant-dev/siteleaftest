@@ -2,10 +2,14 @@
 title: People Want To Learn From Humans, Especially During a Pandemic
 date: 2020-05-29 15:06:00 -05:00
 published: false
+author: Andrew Geant, CEO
 sub-headline: 'COVID-era education is a glimpse into the future of learning; more
   online, self-directed and affordable. But also less human, which is why the role
   of online tutors is so important. '
+hero-image: "/blog/uploads/People%20Want%20To%20Learn%20From%20Humans%20Especially%20During%20a%20Pandemic.png"
 ---
+
+*this article was originally [posted on LinkedIn](https://www.linkedin.com/pulse/people-want-learn-from-humans-especially-during-pandemic-andrew-geant-1e/) on May 21, 2020*
 
 If necessity is the mother of all invention, global pandemics are the father of adoption. Overnight, people have been forced to embrace tech-enabled behaviors like online tutoring, remote work, ecommerce, telehealth and grocery delivery. All of these were at various points on the adoption curve and are now universal behaviors. 
 
