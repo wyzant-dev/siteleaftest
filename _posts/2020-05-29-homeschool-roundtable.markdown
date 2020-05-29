@@ -8,7 +8,7 @@ tags:
 - Homeschool
 - Video
 author: Jay Pike
-sub-headline: We want to help families manage their own versions of “homeschooling,”
+sub-headline: We want to help families manage their own versions of “homeschooling",
   so we went straight to the experts.
 hero-image: "/blog/uploads/Homeschool%20Roundtable-abb899.png"
 meta-description: 'We gathered the top Homeschool tutors on Wyzant to discuss topics
