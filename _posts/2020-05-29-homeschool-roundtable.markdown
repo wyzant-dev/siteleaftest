@@ -33,19 +33,12 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 ## Homeschool Roundtable topics and highlights
 
 1. Traditional homeschooling is a lot different than what many are calling homeschooling these days (online or remote learning versions of “homeschooling”, resulting from school closures). What are the main differences...?
-
 2. What do you think families struggle with most, with regard to remote learning?
-
 3. What can “traditional” homeschooling teach parents about managing their child’s education from home? 
-
 4. What kinds of things have you noticed parents or families doing in response to school closures? Thoughts?
-
 5. What are some ways that parents can help their at-home students with their education starting today?
-
 6.Where does online tutoring fit into the remote learning/homeschooling equation? How does it help?
-
 7. What are some of your favorite resources for homeschooling or remote learning?
-
 8. What’s your number one piece of advice for parents and families who are trying to find a way to make “homeschooling” work? 
 
 ## We’re here to help
