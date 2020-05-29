@@ -114,7 +114,9 @@ Peter, who works full-time (about 40 hours per week excluding his commute), ackn
 
 With about 10 weeks until his test date, alongside the fact that he takes a practice test every Saturday, Peter decides to allot himself an extra 9 minutes on both LR sections (and perhaps the other sections as well) on his next practice test. These time buffers allow him to get through all of each section’s questions, and given his tutor’s plan to decrease the time buffer by 1 minute per test, Peter will be able (1) to slowly adjust to the time pressure, and (2) to complete his last practice test at the stipulated 35 minutes per section.
 
+## Need more LSAT help?
 
+Head to [LSAT 101: Everything You Need to Maximize Your Prep](https://www.wyzant.com/blog/lsat_101/), our comprehensive guide that includes everything you'll need to approach the exam with confidence. 
 
 
 
