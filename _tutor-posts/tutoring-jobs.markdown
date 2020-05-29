@@ -3,7 +3,7 @@ title: Updated Tutoring Jobs Experience
 date: 2020-05-29 12:29:00 -05:00
 published: false
 author: Mackenzie Siren, Senior Product Manager
-sub-headline: On Wednesday, May 27th we launched an update to the tutoring jobs experience.
+sub-headline: On May 27th, 2020 we launched an update to the tutoring jobs experience.
 hero-image: "/blog/uploads/Tutor%20Jobs%20Update%20.png"
 meta-description: 'Given how vital tutoring jobs are to tutors’ businesses, we decided
   to create a better experience, one that will allow us to respond faster to your
