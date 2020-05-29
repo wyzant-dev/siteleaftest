@@ -13,7 +13,7 @@ author: Jay Pike
 
 In many ways, tutors are on the frontlines of our shared education crisis. They’re out there all over the country, day in and day out, working to keep students engaged and learning as routines and support systems - both their own and those of their families - have been turned upside down by [COVID-19](https://www.wyzant.com/blog/covid-19-tutoring/).
 
-In just a matter of a few weeks, we’ve seen new approaches taking shape - including governments, publishers, content creators, educators, tech providers, teachers, and especially tutors - rethinking how we use remote learning and online platforms as a temporary solution to the crisis.
+We’ve seen new approaches taking shape - including governments, publishers, content creators, educators, tech providers, teachers, and especially tutors - rethinking how we use remote learning and online platforms as a temporary solution to the crisis.
 
 We want to help families manage their own versions of [“homeschooling,”](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/) so we sourced some expert advice on how to succeed - even thrive - in online education.
 
