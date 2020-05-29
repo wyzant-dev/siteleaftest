@@ -8,6 +8,7 @@ categories:
 tags:
 - Homeschool
 - Video
+author: Jay Pike
 ---
 
 In many ways, tutors are on the frontlines of our shared education crisis. They’re out there all over the country, day in and day out, working to keep students engaged and learning as routines and support systems - both their own and those of their families - have been turned upside down by [COVID-19](https://www.wyzant.com/blog/covid-19-tutoring/).
