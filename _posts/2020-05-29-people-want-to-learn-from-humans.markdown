@@ -1,7 +1,6 @@
 ---
 title: People Want To Learn From Humans, Especially During a Pandemic
 date: 2020-05-29 15:06:00 -05:00
-published: false
 tags:
 - Wyzant News
 author: Andrew Geant, CEO
