@@ -41,7 +41,7 @@ There’s a lot to take in, and the learning curve is steep, so we decided to cu
 
 **[Becky Dole](https://www.youtube.com/redirect?v=wJkjNIlyPVM&event=video_description&redir_token=hCEGf0BGJGW5UhkcSgXl2sEJK7h8MTU5MDg2NDc3MEAxNTkwNzc4Mzcw&q=https%3A%2F%2Fwww.wyzant.com%2Fmatch%2Ftutor%2F77803630)** connects with us from Saint Peters, Missouri. Her experience includes a Master's in Elem Ed and 30+ years experience. Becky is a member of 7 professional organizations, including Teachers Association International and International Tutoring Association.
 
-## Homeschool Roundtable topics and highlights
+## Homeschool Roundtable topics and highlights<br />
 
 - Traditional homeschooling is a lot different than what many are calling homeschooling these days. What are the main differences?
 - What can “traditional” homeschooling teach parents about managing their child’s education from home? 
