@@ -139,58 +139,66 @@ Here are some ways to greet someone and introduce yourself in Spanish:
 * *Con mucho gusto* - It is a pleasure
 
 ### Asking around for help
-If you ever encounter a problem when you are on a trip, getting information, or shopping, the following phrases should be helpful. Since you are going to talk to strangers, then keeping the grammar in formal mode is advisable. Puede ayudarme por favor? is Could you please help me? Or you can ask if the person speaks English, ¿Habla inglés?
+If you ever encounter a problem when you are on a trip, getting information, or shopping, the following phrases should be helpful. Since you are going to talk to strangers, then keeping the grammar in formal mode is advisable. 
 
-* ¿Puede ayudarme, por favor? - Can you help me, please?
-* ¿Habla inglés? – Do you speak English?
-* ¿Cuánto es? or Cuánto cuesta? -How much is it?
-* ¿Dónde está? – Where is?
-* ¿Qué hora es, por favor?  ¿Qué hora tiene por favor? – What time is it, please?
-* ¿Hay un banco cerca? Is there a bank nearby?
-* ¿Cómo llego al aeropuerto?  How do I get to the airport?
-* ¿Cómo llego al museo? How do I get to the museum?
+* *¿Puede ayudarme, por favor?* - Can you help me, please?
+* *¿Habla inglés?* – Do you speak English?
+* *¿Cuánto es?* or *Cuánto cuesta?* - How much is it?
+* *¿Dónde está?* – Where is?
+* *¿Qué hora es, por favor?* or *¿Qué hora tiene por favor?* – What time is it, please?
+* *¿Hay un banco cerca?* - Is there a bank nearby?
+* *¿Cómo llego al aeropuerto?* - How do I get to the airport?
+* *¿Cómo llego al museo?* - How do I get to the museum?
 
 ### Asking questions
-When learning the language, knowing the first words to start formulating questions will help you organize your sentences. ¿Qué? Is the most popular term for what? You might use it to ask about anything in general. ¿Cuál? is also used for que but mainly means which. It suggests picking one of a group. ¿Por qué? spelled separated is why and porque spelled together is because.
+When learning the Spanish language, knowing the first words to start formulating questions will help you organize your sentences.
+*¿Qué?* is the most popular term for "what?". You might use it to ask about anything in general.
 
-* ¿Qué? – What?
-* ¿Cuál? – What? which?
-* ¿Cómo? – How?
-* ¿Por qué? – Why?
-* Porque - because
-* ¿Qué es esto? - What is this?
+*¿Cuál?* is also used for *que* but mainly means "which", as it suggests picking one of a group.
+
+*¿Por qué?* spelled separated is "why", and *porque* spelled together is "because".
+
+* *¿Qué?* – What?
+* *¿Cuál?* – What? which?
+* *¿Cómo?* – How?
+* *¿Por qué?* – Why?
+* *Porque - Because
+* *¿Qué es esto?* - What is this?
 
 ### Making polite commands and small requests
-Whether you are traveling, ordering food, meeting new people, or in a first Spanish lesson, these phrases will help you make small requests.
+Whether you are traveling, ordering food, meeting new people, or in your [first Spanish lesson](https://www.wyzant.com/blog/online-spanish-lessons/), these phrases will help you make small requests.
 
-* Tengo una pregunta - I have a question
-* ¿Cómo se dice…? – How do you say…?
-* ¿Qué es…? – What is…?
-* Repita por favor – Repeat, please
-* No entiendo – I don’t understand
-* No sé – I don’t know
-* ¿Puedo ir al baño, por favor? – Can I go to the restroom, please?
-* Explique otra vez, por favor – Explain again, please.
-* Hable más despacio por favor- Speak slower, please.
-* Llame un taxi, por favor- Call a cab, please.
-* Necesito ayuda, por favor – I need help, please
+* *Tengo una pregunta* - I have a question
+* *¿Cómo se dice?* – How do you say...?
+* *¿Qué es...?* – What is...?
+* *Repita por favor* – Repeat, please
+* *No entiendo* – I don’t understand
+* *No sé* – I don’t know
+* *¿Puedo ir al baño, por favor?* – Can I go to the restroom, please?
+* *Explique otra vez, por favor* – Explain again, please
+* *Hable más despacio por favor* - Speak slower, please
+* *Llame un taxi, por favor* - Call a cab, please
+* *Necesito ayuda, por favor* – I need help, please
 
 ### Apologizing
 
-Disculpe means excuse me when you want to ask a question to a stranger. ¿Disculpe, dónde está el banco? Excuse me, where is the bank? It also means excuse me if you are giving forewarning that you are weaving through. Disculpe, voy a pasar. Excuse me, I am passing through.
+*Disculpe* means "excuse me" when you want to ask a question to a stranger, as in, "*¿Disculpe, dónde está el banco?* which means, "Excuse me, where is the bank?" It also means "excuse me" if you are giving forewarning: *Disculpe, voy a pasar* (excuse me, I am passing through).
 
-Perdón is used to say I am sorry if you bump into someone. Lo siento does mean I am sorry, but usually used to say I am sorry for feeling someone’s tragedy (I am sorry for you).
+*Perdón* is used to say "I am sorry" if you bump into someone. *Lo siento* does mean "I am sorry", but is usually used to say, "I am sorry for you."
 
-* Disculpe - excuse me
-* Perdón, perdóneme – excuse me, I am sorry (if you bump into someone)
-* Disculpe, disculpeme – excuse me (giving forewarning)
-* Lo siento or lo lamento - I am sorry or I am sorry for you (for feeling someone’s tragedy)
+* *Disculpe* - Excuse me
+* *Perdón, perdóneme* – Excuse me, I am sorry (if you bump into someone)
+* *Disculpe, disculpeme* – Excuse me (giving forewarning)
+* *Lo siento or lo lamento* - I am sorry, or I am sorry for you (for expressing sympathy)
 
 ## Ordering food in Spanish
-Quiero literally means I want, but unlike English, quiero is polite in Spanish. Me gustaría is the literal translation of I would like. However, we don’t really use it when ordering food. 
-For example, if you are ordering something to drink for yourself, “Quiero un vaso de agua, por favor. I want (would like) a glass of water, please. Adding the word por favor (please) at the end will complement politeness.
+*Quiero* literally means "I want", but unlike English, *quiero* is polite in Spanish; *me gustaría* is the literal translation of "I would like."
 
-If you are with a group of people and you would like to order for each of you, then para mí, (for me) can be used to order for yourself, para él (to order for a male, para ella (to order for a female). For example, Para mí, un jugo de naranja, para él una cerveza y para ella un café con leche. Literally translated to for me, orange juice, for him a beer, and for her a latte.
+However, you don’t really use it when ordering food. 
+
+If you are ordering something to drink for yourself, you'll say, “Quiero un vaso de agua, por favor* (I want a glass of water, please)." Adding the word *por favor* (please) at the end will express politeness.
+
+If you are with a group of people and you would like to order for each of you, then *para mí* (for me) can be used to order for yourself, *para él* (to order for a male), *para ella* (to order for a female). For example, *"Para mí, un jugo de naranja, para él una cerveza y para ella un café con leche," literally translated means, "For me, orange juice, for him a beer, and for her, a latte."
 
 When asking for a glass of wine, we say Quiero una copa de vino. Vaso is generally the word for glass. But copa is used only when drinking wine. Red wine is vino tinto and not vino rojo. White wine is vino blanco.
 
