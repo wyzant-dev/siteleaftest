@@ -15,7 +15,7 @@ To begin, though, it's essential to understand basics about how to speak and wri
 
 Generally, in a word in Spanish, each vowel and each consonant are almost often pronounced.
 
-The pronunciation may indeed vary according to some Spanish dialects. In Spain, for example, the consonant c is pronounced like” th” of thanks. That pronunciation occurs when the consonant c is accompanied by the vowels “e” and “i.”  However, the same consonant is pronounced as “s” in Latin America. Also, the z is pronounced like “th” of thief in Spain. But the same consonant is pronounced like “s” in Latin American.
+Their pronunciation varies according to some Spanish dialects. In Spain, for example, the consonant c is pronounced like” th” of thanks. That pronunciation occurs when the consonant c is accompanied by the vowels “e” and “i.”  However, the same consonant is pronounced as “s” in Latin America. Also, the z is pronounced like “th” of thief in Spain. But the same consonant is pronounced like “s” in Latin American.
 
 The consonant ll is pronounced like the y as in yellow in most countries of Latin America, but in Argentina and Uruguay is pronounced like the sound “sh” of the word shoe in English.
 Other sounds are pronounced differently than in English. The consonant h is silent, so it is never uttered. The j is pronounced similar to the h in hello. The ñ is stronger than an n and sounds closer to a “ny” sound.
