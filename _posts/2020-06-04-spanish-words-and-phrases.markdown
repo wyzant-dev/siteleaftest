@@ -56,7 +56,9 @@ Some examples: año (year), niño, (boy), and baño (bathroom).
 
 The acute accent is the most common accent mark in the Spanish language. It can appear above all five vowels: á, é, í, ó, ú. At most, it appears once per word.
 
-Generally, an acute accent is used to denote word stress. For example, the word *canción* (song) has a sharp emphasis on the vowel "ó". This suggests stressing more on the last syllable of *can-ción*.
+Generally, an acute accent is used to denote word stress.
+
+For example, the word *canción* (song) has a sharp emphasis on the vowel "ó". This suggests stressing more on the last syllable of *can-ción*.
 
 Most words in Spanish have an accent, but not all words have acute accents. Just remember: when you see a word with an acute accent, the stress will be stronger in that syllable. 
 
