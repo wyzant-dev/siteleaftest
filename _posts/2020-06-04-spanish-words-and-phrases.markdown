@@ -2,7 +2,21 @@
 title: 80 Useful Spanish Words and Phrases for Every Beginner
 date: 2020-06-04 08:30:00 -05:00
 published: false
+categories:
+- Spanish
+- Language Learning
+tags:
+- Spanish
+- Language Learning
 author: Gissela Tomasello
+sub-headline: Learning Spanish online, through personalized lessons, is one of the
+  most practical methods for picking up the language effectively.
+meta-description: 'First-time students of Spanish seem to be interested in a simple
+  question: how to learn Spanish faster. One way to begin is by learning basic Spanish
+  phrases and words.'
+post-description: 'First-time students of Spanish seem to be interested in a simple
+  question: how to learn Spanish faster. One way to begin is by learning basic Spanish
+  phrases and words.'
 ---
 
 Spanish is the second largest language in the United States. Many students are looking for different ways to learn it than simply traditional methods. They're in luck - learning Spanish online, or through personalized lessons, is one of the most practical methods for picking up the language.
