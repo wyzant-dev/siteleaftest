@@ -200,7 +200,7 @@ If you are ordering something to drink for yourself, you'll say, “Quiero un va
 
 If you are with a group of people and you would like to order for each of you, then *para mí* (for me) can be used to order for yourself, *para él* (to order for a male), *para ella* (to order for a female). For example, *"Para mí, un jugo de naranja, para él una cerveza y para ella un café con leche," literally translated means, "For me, orange juice, for him a beer, and for her, a latte."
 
-When asking for a glass of wine, we say Quiero una copa de vino. Vaso is generally the word for glass. But copa is used only when drinking wine. Red wine is vino tinto and not vino rojo. White wine is vino blanco.
+When asking for a glass of wine, we say *quiero una copa de vino*. *Vaso* is generally the word for "glass", but *copa* is used only when drinking wine. Red wine is *vino tinto* and not *vino rojo." White wine is *vino blanco.*
 
 When asking for the check is la cuenta, por favor. Instead of saying I would like the check please, we just go straight to "the check, please." 
 
