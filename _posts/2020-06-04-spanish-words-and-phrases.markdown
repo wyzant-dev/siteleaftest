@@ -113,17 +113,17 @@ Here are some ways to greet someone and introduce yourself in Spanish:
 * *¿Cuántos años tienes?* - How old are you? (Informal)
 * *¿Cuántos años tiene?* - How old are you? (formal)
 * *Yo tengo X años* - I am X years old
-* ¿Qué onda? What’s up? (informal situations)
-* ¿Qué cuentas? What’s new? (informal situations)
-* ¿Qué tal? -How are you? 
-* ¿Cómo estás? How are you? (Informal)
-* ¿Cómo está? How are you? (Formal)
-* ¿Bien y tú? Fine and you? (informal)
-* ¿Bien y usted? Fine, and you? (formal
-* Cuídate - Take care (informal)
-* Cuídese- Take care (formal)
-* Tú también- You too (informal)
-* Usted también –(formal)
+* *¿Qué onda?* - What’s up? (informal situations)
+* *¿Qué cuentas?* - What’s new? (informal situations)
+* *¿Qué tal?* - How are you? 
+* *¿Cómo estás?* - How are you? (Informal)
+* *¿Cómo está?* - How are you? (Formal)
+* *¿Bien y tú?* - Fine and you? (informal)
+* *¿Bien y usted?* - Fine, and you? (formal
+* *Cuídate* - Take care (informal)
+* *Cuídese* - Take care (formal)
+* *Tú también* - You too (informal)
+* *Usted también* – You too (formal)
 
 ### Being polite
 Gracias is the most popular way to say thank you. It works in any setting. There are other variations as well, for example, muchas gracias and muchísimas gracias. Both mean thank you very much. Por favor is used to say please and de nada to say your welcome.
