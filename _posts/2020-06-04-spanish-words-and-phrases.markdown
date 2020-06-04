@@ -166,7 +166,7 @@ When learning the Spanish language, knowing the first words to start formulating
 * *¿Cuál?* – What? which?
 * *¿Cómo?* – How?
 * *¿Por qué?* – Why?
-* *Porque - Because
+* *Porque* - Because
 * *¿Qué es esto?* - What is this?
 
 ### Making polite commands and small requests
