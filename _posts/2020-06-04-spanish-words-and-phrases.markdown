@@ -5,9 +5,11 @@ published: false
 author: Gissela Tomasello
 ---
 
-Nowadays, Spanish is the second largest language in the United States. Many students are looking for different ways to learn it. It has become practical. As a first-time student, you might be wondering how to learn Spanish faster. One way to achieve it is by learning basic phrases and words. Perhaps you are interested in teaching phrases on how to introduce yourself, to ask questions, to order food, or to travel. This guide will present you with useful Spanish phrases for beginners.
+Spanish is the second largest language in the United States. Many students are looking for different ways to learn it than simply traditional methods. They're in luck - learning Spanish online, or through personalized lessons, is one of the most practical methods for picking up the language.
 
-First, it is essential to understand how to speak and write in Spanish. For that, we will first look at general information on pronunciation, accents, accents marks, and some grammar rules.
+First-time students of Spanish seem to be interested in a simple question: how to learn Spanish faster. One way to begin is by learning basic Spanish phrases and words. As a beginner, you're likely interested in learning easy phrases to introduce yourself, ask questions, order food, or travel.
+
+To begin, though, it's essential to understand basics about how to speak and write in Spanish. For that, let's first look at general information on Spanish pronunciation, accents and accent marks, and some Spanish grammar rules.
 
 ## Pronunciation
 
