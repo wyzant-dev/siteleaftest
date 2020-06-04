@@ -2,6 +2,7 @@
 title: 80 Useful Spanish Words and Phrases for Every Beginner
 date: 2020-06-04 08:30:00 -05:00
 published: false
+author: Gissela Tomasello
 ---
 
 Nowadays, Spanish is the second largest language in the United States. Many students are looking for different ways to learn it. It has become practical. As a first-time student, you might be wondering how to learn Spanish faster. One way to achieve it is by learning basic phrases and words. Perhaps you are interested in teaching phrases on how to introduce yourself, to ask questions, to order food, or to travel. This guide will present you with useful Spanish phrases for beginners.
