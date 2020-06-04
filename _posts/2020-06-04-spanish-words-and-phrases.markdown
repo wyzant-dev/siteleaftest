@@ -50,7 +50,7 @@ An example: *cigüeña* (stork).
 ### Virgulilla
 The virgulilla (ñ) is only used on top of the letter "n". When we see a word with a virgulilla it suggests to pronounce the n more strongly. The sound is like a “ny” sound.
 
-Some examples: año (year), niño, (boy), and baño (bathroom).
+Some examples: *año* (year), *niño*, (boy), and *baño* (bathroom).
 
 ## Acute accent
 
