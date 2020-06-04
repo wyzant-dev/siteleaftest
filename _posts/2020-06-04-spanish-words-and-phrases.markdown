@@ -28,7 +28,7 @@ Last but not least, the "q" (like in queso) is pronounced like the "c" of “cat
 
 One best way to learn Spanish is by practicing these sounds. You will feel more comfortable using them regularly, and your pronunciation will be refined.
 
-## Accents
+## Accents on syllables
 Accents are important to stress words correctly. For example, the word intelligent in English is stressed in the syllable “te.” In contrast, the word in Spanish *inteligente* is emphasized in the syllable “gen.” 
 
 Another example is the word ac-ti-vi-ty. In English, it is stressed on the second syllable “ti.” In contrast, *actividad* (activity) in Spanish is emphasized in the last syllable: ac-ti vi-**dad**.
