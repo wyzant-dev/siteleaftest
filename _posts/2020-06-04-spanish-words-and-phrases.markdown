@@ -202,21 +202,21 @@ If you are with a group of people and you would like to order for each of you, t
 
 When asking for a glass of wine, we say *quiero una copa de vino*. *Vaso* is generally the word for "glass", but *copa* is used only when drinking wine. Red wine is *vino tinto* and not *vino rojo." White wine is *vino blanco.*
 
-When asking for the check is la cuenta, por favor. Instead of saying I would like the check please, we just go straight to "the check, please." 
+When asking for the check is *la cuenta, por favor*. Instead of saying "I would like the check please", we just go straight to "the check, please". 
 
 Here are more useful words that will help you practice Spanish when ordering food.
 
-* Quiero - I want, I would like 
-* Quiero un jugo de naranja, por favor – I want orange juice, please
-* Quiero un café (con leche), por favor – I want a latte, please
-* Quiero una cerveza, por favor- I want a beer, please
-* Quiero una copa de vino, por favor - I want a glass of wine, please 
-* Quiero una copa de vino tinto, por favor – I want a glass of red wine, please
-* Quiero una copa de vino blanco, por favor – I want a glass of white wine, please.
-* Quiero tacos de carne, por favor. – I want beef tacos, please
-* ¿Tienes mantequilla? – Do you have butter?
-* La cuenta por favor – The check. please
-* ¿Cuánto es? – How much is it?
+* *Quiero* - I want, I would like 
+* *Quiero un jugo de naranja, por favor* – I want orange juice, please
+* *Quiero un café (con leche), por favor* – I want a latte, please
+* *Quiero una cerveza, por favor* - I want a beer, please
+* *Quiero una copa de vino, por favor* - I want a glass of wine, please 
+* *Quiero una copa de vino tinto, por favor* – I want a glass of red wine, please
+* *Quiero una copa de vino blanco, por favor* – I want a glass of white wine, please.
+* *Quiero tacos de carne, por favor* – I want beef tacos, please
+* *¿Tienes mantequilla?* – Do you have butter?
+* *La cuenta por favor* – The check, please
+* *¿Cuánto es?* – How much is it?
 
 ### Expanding your Spanish language learning
 If you are interested in obtaining further education, contacting a [Spanish tutor](https://www.wyzant.com/Spanish_tutors.aspx) would be very beneficial. The tutor will tailor the lesson according to your needs. Also, with advanced technology, you wouldn’t need to leave your home if you take online Spanish lessons.
