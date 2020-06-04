@@ -126,15 +126,17 @@ Here are some ways to greet someone and introduce yourself in Spanish:
 * *Usted también* – You too (formal)
 
 ### Being polite
-Gracias is the most popular way to say thank you. It works in any setting. There are other variations as well, for example, muchas gracias and muchísimas gracias. Both mean thank you very much. Por favor is used to say please and de nada to say your welcome.
+*Gracias* is the most popular way to say "thank you" in Spanish. It works in any setting. There are other variations as well, like *muchas gracias* and *muchísimas gracias*. Both mean "thank you very much."
 
-* Gracias- Thank you
-* Muchas gracias- Thank you very much
-* Muchísimas gracias-Thank you very much
-* Por favor - please
-* De nada- Your welcome
-* Es un placer- It is a pleasure
-* Con mucho gusto- It is a pleasure
+*Por favor* is used to say "please" and *de nada* to say "you're welcome."
+
+* *Gracias* - Thank you
+* *Muchas gracias* - Thank you very much
+* *Muchísimas gracias* -Thank you very much
+* *Por favor* - please
+* *De nada* - Your welcome
+* *Es un placer* - It is a pleasure
+* *Con mucho gusto* - It is a pleasure
 
 ### Asking around for help
 If you ever encounter a problem when you are on a trip, getting information, or shopping, the following phrases should be helpful. Since you are going to talk to strangers, then keeping the grammar in formal mode is advisable. Puede ayudarme por favor? is Could you please help me? Or you can ask if the person speaks English, ¿Habla inglés?
