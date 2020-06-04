@@ -15,84 +15,104 @@ To begin, though, it's essential to understand basics about how to speak and wri
 
 Generally, in a word in Spanish, each vowel and each consonant are almost often pronounced.
 
-Their pronunciation varies according to some Spanish dialects. In Spain, for example, the consonant c is pronounced like” th” of thanks. That pronunciation occurs when the consonant c is accompanied by the vowels “e” and “i.”  However, the same consonant is pronounced as “s” in Latin America. Also, the z is pronounced like “th” of thief in Spain. But the same consonant is pronounced like “s” in Latin American.
+Their pronunciation varies according to some Spanish dialects. In Spain, for example, the consonant c is pronounced like” th” of thanks. That pronunciation occurs when the consonant c is accompanied by the vowels “e” and “i.”
+
+However, the same consonant is pronounced as “s” in Latin America. Also, the z is pronounced like “th” of thief in Spain. But the same consonant is pronounced like “s” in Latin American.
 
 The consonant ll is pronounced like the y as in yellow in most countries of Latin America, but in Argentina and Uruguay is pronounced like the sound “sh” of the word shoe in English.
-Other sounds are pronounced differently than in English. The consonant h is silent, so it is never uttered. The j is pronounced similar to the h in hello. The ñ is stronger than an n and sounds closer to a “ny” sound.
+Other sounds are pronounced differently than in English. The consonant "h" is silent, so it is never uttered. The "j" is pronounced similar to the "h" in hello. The "ñ" is stronger than an n and sounds closer to a “ny” sound.
 
-The r is a soft vibration, and the rr is a rough vibration using the tongue.
+The "r" is a soft vibration, and the "rr" is a rough vibration using the tongue.
 
-Last but not least, the q like in queso, for example, is pronounced like the c of “cat.” The u following q is always silent. So, the word que, which means what in English is pronounced keh. (insert link on Spanish pronunciation)
+Last but not least, the "q" (like in queso) is pronounced like the "c" of “cat.” The "u" following the "q" is always silent. So, the word *que*, which means "what" in English, is pronounced keh. 
+
 One best way to learn Spanish is by practicing these sounds. You will feel more comfortable using them regularly, and your pronunciation will be refined.
 
 ## Accents
-Accents are important to stress words correctly. For example, the word intelligent in English is stressed in the syllable “te.” In contrast, the word in Spanish inteligente is emphasized in the syllable “gen.” 
+Accents are important to stress words correctly. For example, the word intelligent in English is stressed in the syllable “te.” In contrast, the word in Spanish *inteligente* is emphasized in the syllable “gen.” 
 
-Another example is the word ac-ti-vi-ty. In English, it is stressed on the syllable “ti.” In contrast, actividad (activity) in Spanish is emphasized in the last syllable ac-ti vi-dad.
+Another example is the word ac-ti-vi-ty. In English, it is stressed on the second syllable “ti.” In contrast, *actividad* (activity) in Spanish is emphasized in the last syllable: ac-ti vi-**dad**.
 
-A good number of words in Spanish have stronger stress in one syllable. 
-
-There are other words, though, that don’t have stress in any syllable. Most of them are monosyllables like articles el, la, los, las (the) and possessives mi, su, tu, sus. (my, your, his, hers).
+A good number of words in Spanish have stronger stress in one syllable. There are other words, though, that don’t have stress in **any** syllable. Most of them are monosyllables like articles *el, la, los, las* (the) and possessives *mi, su, tu, sus* (my, your, his, hers).
 
 ## Spanish accent marks
-In Spanish, accent marks are essential. More often, an accent (or lack of it) completely changes the meaning of a word. For example, llamo (present tense for I call) and llamó (preterite tense for he or she called)
+In Spanish, accent marks are essential. More often, an accent (or lack of it) completely changes the meaning of a word.
 
-Spanish uses three types of accent marks: the dieresis (ü), the virgulilla (ñ), and the acute accent (é).
-The dieresis (ü) is used on top of the vowel u in certain words after the letter g to request that the u must be pronounced. For example, cigüeña (stork).
+A good example is *llamo* (present tense for "I call") and *llamó* (preterite tense for "he/she called").
 
-The virgulilla (ñ) is only used on top of the letter n. When we see a word with a virgulilla it suggests to pronounce the n stronger. The sound is like a “ny” sound. For example, año (year), niño, (boy), and baño (bathroom).
+Spanish uses three types of accent marks: the **dieresis (ü)**, the **virgulilla (ñ)**, and the **acute accent (é)**.
 
-The acute accent is the most common accent mark in the Spanish language. It can appear above all five vowels: á, é, í, ó, ú. At most, it appears once per word. Generally, an acute accent is used to denote word stress. For example, the word canción (song) has a sharp emphasis on the vowel ó. This suggests stressing more on the last syllable of can-ción. Most of the words in Spanish have an accent. But not all the words have acute accents. Only the words that follow specific rules. We will leave those rules for another article. The main goal is to understand that when we see a word with an acute accent, the stress will be stronger in that syllable. (insert link on Spanish accents marks)
+### Dieresis
+The *dieresis* (ü) is used on top of the vowel "u" after the letter "g" in certain words to request that the "u" must be pronounced.
+
+An example: *cigüeña* (stork).
+
+### Virgulilla
+The virgulilla (ñ) is only used on top of the letter "n". When we see a word with a virgulilla it suggests to pronounce the n more strongly. The sound is like a “ny” sound. For example, año (year), niño, (boy), and baño (bathroom).
+
+## Acute accent
+
+The acute accent is the most common accent mark in the Spanish language. It can appear above all five vowels: á, é, í, ó, ú. At most, it appears once per word.
+
+Generally, an acute accent is used to denote word stress. For example, the word *canción* (song) has a sharp emphasis on the vowel "ó". This suggests stressing more on the last syllable of *can-ción*.
+
+Most words in Spanish have an accent, but not all words have acute accents. Just remember: when you see a word with an acute accent, the stress will be stronger in that syllable. 
 
 ## Some Spanish grammar rules
-Verb conjugation: verbs conjugate differently according to personal pronouns and tenses. For example, the verb to have is tener. In the present tense, it conjugates as yo tengo (I have), but it conjugates as tú tienes for you have.
+**Verbs** in Spanish conjugate differently according to personal pronouns and tenses.
 
-Genre and number: Nouns in Spanish have gender. They are either feminine or masculine. Consequently, they must be used with articles and adjectives that match their gender. When nouns become plural, the articles and adjectives also adapt to the sentence accordingly. For example, La mesa roja, which is the red table. Mesa is feminine, so the article la is used, and the color rojo is adjusted to feminine replacing an a for an o at the end roja. Here another example, the phrase los restaurantes nuevos, which means the new restaurants. Restaurantes is a masculine word and, in this case, is plural. The article los is adjusting to the noun to match masculine and plural. Also, the letter s is added at the end of the adjective nuevos to match the noun (restaurantes) to masculine plural. (insert link on Spanish grammar)
+For example, the verb "to have" is *tener*. In the present tense, it conjugates as *yo tengo* (I have), but it conjugates as *tú tienes* for "you have".
+
+**Nouns** in Spanish have gender - they are either feminine or masculine. Consequently, they must be used with articles and adjectives that match their gender.
+
+When nouns become plural, the articles and adjectives also adapt to the sentence accordingly. For example, *la mesa roja*, or "the red table". Mesa is feminine, so the article *la* is used, and the color *rojo* is adjusted to feminine (replacing an "a" with an "o" at the end).
+
+Here's another example. The phrase *los restaurantes nuevos* means "the new restaurants". *Restaurantes* is a masculine word and, in this case, is plural. The article *los* is adjusting to the noun being masculine and plural. Also, the letter "s" is added at the end of the adjective *nuevos* to match the noun *restaurantes*. 
 
 ## Useful Spanish words and phrases
-Now that there is a better comprehension of how to speak and write in the language, we will look at useful Spanish words and phrases. This second part will cover greetings, introducing yourself, being polite, asking for help, formulating questions, making polite requests, apologizing, and ordering food.
+Now that you've got a better comprehension of how to speak and read in the language, we will look at some easy to learn and important words and phrases in Spanish.
 
 ### Greetings
-The most popular Spanish greetings are hola and adiós. They are used to say hello and goodbye. Hola is generally used between friends, family, and people we already know. In a more formal setting, like in the airport or to talk to people you don’t know, other greetings are more appropriate. For instance, buenos días (good morning), buenas tardes (good afternoon), or buenas noches (good evening) is more appropriate. Adiós or chao are used to say goodbye. Here there is a list of more Easy Spanish Phrases related to greetings.
+The most popular Spanish greetings are *hola* and *adiós*. They are used to say "hello" and "goodbye".
 
-* Hola- “Hello”
-* Buenos Días – Good morning
-* Buenas Tardes – Good afternoon
-* Buenas Noches – Good evening
-* Adiós – Goodbye, bye
-* Chao – Goodbye, bye
-* Hasta mañana – See you tomorrow
-* Nos vemos – See you
+*Hola* is generally used between friends, family, and people you already know. In a more formal setting, like in the airport, or with someone you've just met, other greetings are more appropriate, like *buenos días* (good morning), *buenas tardes* (good afternoon), or *buenas noches* (good evening).
 
-### Introducing yourself and starting Conversation
-¿Cómo te llamas? or ¿Cuál es tu nombre? are questions used to ask what is your name? To reply, you can say me llamo (literally I am called) or mi nombre es… (my name is…).
+* *Hola*- “Hello”
+* *Buenos Días* – Good morning
+* *Buenas Tardes* – Good afternoon
+* *Buenas Noches* – Good evening
+* *Adiós* – Goodbye, bye
+* *Chao* – Goodbye, bye
+* *Hasta mañana* – See you tomorrow
+* *Nos vemos* – See you
 
-If you are in a formal setting or asking someone you just met for the first time, the questions change slightly to ¿Como se llama? or¿Cuál es su nombre? 
+### Introducing yourself and starting a conversation
+*¿Cómo te llamas?* or *¿Cuál es tu nombre?* are questions used to ask "what is your name?" To reply, you can say *me llamo* (literally "I am called"), or *mi nombre es* (my name is).
 
-¿Cómo estás? is used to ask, how are you? in an informal setting. ¿Cómo está? without the s is used in formal settings and with people you don’t know.
+If you are in a formal setting or speaking with someone you just met for the first time, the questions change slightly to *¿Como se llama?* or *¿Cuál es su nombre?* 
 
-There is also ¿Qué onda? or ¿Qué cuentas? They mean what’s up and what’s new. Both used in casual and informal situations only with close friends and family. 
+*¿Cómo estás?* is used to ask "how are you?" in an informal setting. *¿Cómo está?* without the "s" is used in formal settings and with people you don’t know.
 
-¿Qué tal? is a very general greeting. You can use it with everyone regardless of their age and how well you know them. It works just like ¿Cómo estás?
+There is also *¿Qué onda?* or *¿Qué cuentas?* They mean "what’s up?" and "what’s new?". Both are used in casual and informal situations, only with close friends and family. 
 
-This could be helpful when travelling, meeting new people or even in your first Spanish tutoring class. 
+*¿Qué tal?* is a very general Spanish greeting. You can use it with everyone regardless of their age and how well you know them. It works just like *¿Cómo estás?* This could be helpful when travelling, meeting new people or even in your first Spanish tutoring class. 
 
-Here are some more ways to greet someone and introduce yourself in Spanish:
+Here are some ways to greet someone and introduce yourself in Spanish:
 
-* ¿Cómo te llamas? – What is your name? (informal)
-* ¿Cómo se llama? – What is your name? (formal)
-* ¿Cuál es tu nombre? What is your name? (informal)
-* ¿Cuál es su nombre? What is your name? (formal)
-* Mi nombre es- My name is
-* Yo me llamo – My name is (literally, I am called)
-* Yo soy… – I am…
-* ¿De dónde eres?  Where are you from? (informal)
-* ¿De dónde es usted? Where are you from? (formal)
-* Mucho gusto- Nice to meet you
-* Igualmente- the same
-* ¿Cuántos años tienes? - How old are you? (Informal)
-* ¿Cuántos años tiene? How old are you? (formal)
-* Yo tengo X años… I am X years old
+* *¿Cómo te llamas?* – What is your name? (informal)
+* *¿Cómo se llama?* – What is your name? (formal)
+* *¿Cuál es tu nombre?* What is your name? (informal)
+* *¿Cuál es su nombre?* What is your name? (formal)
+* *Mi nombre es* - My name is
+* *o me llamo* – My name is (literally, I am called)
+* *Yo soy* – I am
+* *¿De dónde eres?* - Where are you from? (informal)
+* *¿De dónde es usted?* - Where are you from? (formal)
+* *Mucho gusto* - Nice to meet you
+* *Igualmente* - the same
+* *¿Cuántos años tienes?* - How old are you? (Informal)
+* *¿Cuántos años tiene?* - How old are you? (formal)
+* *Yo tengo X años* - I am X years old
 * ¿Qué onda? What’s up? (informal situations)
 * ¿Qué cuentas? What’s new? (informal situations)
 * ¿Qué tal? -How are you? 
