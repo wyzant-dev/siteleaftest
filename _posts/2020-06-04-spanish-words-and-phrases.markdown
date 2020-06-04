@@ -48,7 +48,9 @@ The *dieresis* (ü) is used on top of the vowel "u" after the letter "g" in cert
 An example: *cigüeña* (stork).
 
 ### Virgulilla
-The virgulilla (ñ) is only used on top of the letter "n". When we see a word with a virgulilla it suggests to pronounce the n more strongly. The sound is like a “ny” sound. For example, año (year), niño, (boy), and baño (bathroom).
+The virgulilla (ñ) is only used on top of the letter "n". When we see a word with a virgulilla it suggests to pronounce the n more strongly. The sound is like a “ny” sound.
+
+Some examples: año (year), niño, (boy), and baño (bathroom).
 
 ## Acute accent
 
