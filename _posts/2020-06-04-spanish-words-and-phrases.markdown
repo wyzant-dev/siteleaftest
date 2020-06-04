@@ -10,6 +10,7 @@ tags:
 author: Gissela Tomasello
 sub-headline: Learning Spanish online, through personalized lessons, is one of the
   most practical methods for picking up the language effectively.
+hero-image: "/blog/uploads/80%20Useful%20Spanish%20Words%20and%20Phrases%20For%20Every%20Beginner.png"
 meta-description: 'First-time students of Spanish seem to be interested in a simple
   question: how to learn Spanish faster. One way to begin is by learning basic Spanish
   phrases and words.'
