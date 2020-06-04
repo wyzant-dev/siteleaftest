@@ -13,7 +13,7 @@ To begin, though, it's essential to understand basics about how to speak and wri
 
 ## Pronunciation
 
-Generally, in a word in Spanish, each vowel and each consonant are almost often pronounced.
+Generally, in a word in Spanish, each vowel and each consonant are pronounced.
 
 Their pronunciation varies according to some Spanish dialects. In Spain, for example, the consonant c is pronounced like” th” of thanks. That pronunciation occurs when the consonant c is accompanied by the vowels “e” and “i.”
 
