@@ -219,12 +219,9 @@ Here are more useful words that will help you practice Spanish when ordering foo
 * *¿Cuánto es?* – How much is it?
 
 ### Expanding your Spanish language learning
-If you are interested in obtaining further education, contacting a [Spanish tutor](https://www.wyzant.com/Spanish_tutors.aspx) would be very beneficial. The tutor will tailor the lesson according to your needs. Also, with advanced technology, you wouldn’t need to leave your home if you take online Spanish lessons.
 
-Another fastest way to learn the language, besides having a Spanish tutor, is by Spanish Immersion. Get in contact with the language as much as possible. You could watch movies, listen to music and podcasts, write messages, and speak with your friends in the Spanish language.
+With the right knowledge of Spanish grammar basics, accent marks, and this personal phrasebook, you're ready to tackle learning Spanish. If you are interested in becoming fluent, or just want to try out a beautiful and interesting language, work with a [Spanish tutor](https://www.wyzant.com/Spanish_tutors.aspx) to maximize the effectiveness of your study.
 
-If you are wondering How can I learn Spanish by myself? There are different apps like Duolingo, or Babble that help you start with the language
-Putting all these ideas together and practicing the useful Spanish words will help you achieve your Spanish educational goals.
 
 
 
