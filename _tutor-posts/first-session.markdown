@@ -43,7 +43,7 @@ The data suggests that the more tips you add to your practice, the more successf
 
 ## Communicate your process for student assessment
 
-Unless your prospective student is looking for quick help on a specific problem, chances are, you're conducting a student assessment, whether you realize it or not. Many tutors we spoke with use the first session as an assessment and a meet-n-greet. Some tutors charge for this time; others conduct the assessment asynchronously and allot a portion of the first session to a meet-n-greet. Regardless of your approach, being intentional in communicating it to students is crucial. Think of it as a signal of your preparedness. 
+Unless your prospective student is looking for quick help on a specific problem, chances are good that you're conducting a student assessment, whether you realize it or not. Many tutors we spoke with use the first session as an assessment and a meet-n-greet. Some tutors charge for this time; others conduct the assessment asynchronously and allot a portion of the first session to a meet-n-greet. Regardless of your approach, being intentional in communicating it to students is crucial. Think of it as a signal of your preparedness. 
 
 Here is an example of how other tutors conduct an assessment:
 
