@@ -7,7 +7,7 @@ tags:
 - Online Tutoring
 sub-headline: Confidently engaging with students and encouraging them to book future
   sessions is a critical component of continuing to grow your tutoring practice.
-hero-image: "/blog/uploads/img-first-lesson-blog-header.jpg"
+hero-image: "/blog/uploads/img-first-lesson-blog-header-a5e4d4.jpg"
 meta-description: 'The vast majority of students seek out tutoring because they''re
   reaching for help beyond equations, technical competency, or subject content comprehension.
   They want to overcome their own challenges and achieve success in their learning
