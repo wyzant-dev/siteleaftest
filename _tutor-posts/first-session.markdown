@@ -52,9 +52,9 @@ Here is an example of how other tutors conduct an assessment:
 3. Assessments will vary by age and subject, but often include some combination of the following:
 
 - Conversation with or reviewing a report from a parent or teacher<br />
-...Reviewing past and current assignments <br />
-...Sharing syllabus, textbook, or discussion posts <br />
-...Learning your student's interests as a way to connect outside of the material
+- Reviewing past and current assignments <br />
+- Sharing syllabus, textbook, or discussion posts <br />
+- Learning your student's interests as a way to connect outside of the material
 
 ![A vector image of a talking head](/blog/uploads/img-head-first-lesson.jpg)
 
