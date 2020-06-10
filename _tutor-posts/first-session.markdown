@@ -2,6 +2,17 @@
 title: Tips for First Session Success
 date: 2020-06-10 13:30:00 -05:00
 published: false
+sub-headline: Confidently engaging with students and encouraging them to book future
+  sessions is a critical component of continuing to grow your tutoring practice.
+hero-image: "/blog/uploads/img-first-lesson-blog-header.jpg"
+meta-description: 'The vast majority of students seek out tutoring because they''re
+  reaching for help beyond equations, technical competency, or subject content comprehension.
+  They want to overcome their own challenges and achieve success in their learning
+  goals.  '
+post-description: 'The vast majority of students seek out tutoring because they''re
+  reaching for help beyond equations, technical competency, or subject content comprehension.
+  They want to overcome their own challenges and achieve success in their learning
+  goals.  '
 ---
 
 Students come to Wyzant in search of expert guidance.
