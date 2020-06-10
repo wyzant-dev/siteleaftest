@@ -59,7 +59,9 @@ How you build a rapport with a student is best determined by you. We continually
 
 For many students, incorporating interests into the session material may be the key to unlocking a love (or at least get over a hatred) for a particular subject. 
 
-Most importantly, inviting students and parents to ask you questions is critical, especially in the first session. Our student survey showed unanimously that their **initial tutor failed to invite them to ask clarifying questions about their tutoring process**. However, 80% of the tutors they worked with next encouraged those questions.
+Most importantly, inviting students and parents to ask you questions is critical, especially in the first session. Our student survey showed unanimously that their **initial tutor failed to invite them to ask clarifying questions about their tutoring process**.
+
+However, 80% of the tutors they worked with next encouraged those questions.
 
 ![img-award-first-lesson.jpg](/blog/uploads/img-award-first-lesson.jpg)
 
