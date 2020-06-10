@@ -19,7 +19,11 @@ Students come to Wyzant in search of expert guidance.
 
 Some only require one session – theirs is a short-term goal that needs specific help to solve a particular problem. The vast majority of students have sought out 1:1 tutoring because they are reaching for help beyond equations, technical competency, or subject content comprehension. They want support on how to overcome their own challenges best and achieve success in their learning goals.  
 
-At Wyzant, we see hundreds of new tutoring connections every day. As a result, we know that the first session with a new student is a critical point. Often, we see highly competent tutors lose out on new business based solely on how they handle that moment. As tutors, you're evaluating fit, ability, and interest in helping a student. As students, they're evaluating your expertise, approach, and ability to help them reach their goals. 
+At Wyzant, we see hundreds of new tutoring connections every day. As a result, we know that the first session with a new student is a critical point. Often, we see highly competent tutors lose out on new business based solely on how they handle that moment.
+
+As tutors, you're evaluating fit, ability, and interest in helping a student.
+
+As students, they're evaluating your expertise, approach, and ability to help them reach their goals. 
 
 Confidently engaging with students and encouraging them to book future sessions is a critical component of continuing to grow your tutoring practice. We surveyed students about some proven tactics sourced from tutors that we believe can help you grow your business. The students we chose all decided to change tutors after their first session. **44% of respondents reported that the tutor's approach and level of guidance during the first session led them to search for another tutor**.
 
