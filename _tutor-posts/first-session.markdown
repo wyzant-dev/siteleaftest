@@ -46,7 +46,7 @@ Unless your prospective student is looking for quick help on a specific problem,
 
 Here is an example of how other tutors conduct an assessment:
 
-1)  Adjust each evaluation to the specific student's needs and your mutual availability. <br />
+1)  Adjust each evaluation to the specific student's needs and your mutual availability. <br /><br />
 2)  Conduct it in advance over the phone, via messaging, as a free first session, or as an introductory discussion before getting started. You can also use the Online Demo feature in messaging to schedule a meet and greet in the Wyzant tool.
 
 ![img-blog-online-demo.gif](/blog/uploads/img-blog-online-demo.gif)
