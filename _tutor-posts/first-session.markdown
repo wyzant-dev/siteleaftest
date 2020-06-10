@@ -55,7 +55,9 @@ Here is an example of how your fellow tutors conduct an assessment:
 
 ## Connect and invite students to ask questions
  
-How you build a rapport with a student is best determined by you. We continually hear that students appreciate when tutors take the time to get to know their interests and personality. Doing so will help you tailor your approach and materials in a way that's more likely to resonate with the student and result in a long-term tutoring relationship. For many students, incorporating interests into the session material may be the key to unlocking a love (or at least get over a hatred) for a particular subject. 
+How you build a rapport with a student is best determined by you. We continually hear that students appreciate when tutors take the time to get to know their interests and personality. Doing so will help you tailor your approach and materials in a way that's more likely to resonate with the student and result in a long-term tutoring relationship.
+
+For many students, incorporating interests into the session material may be the key to unlocking a love (or at least get over a hatred) for a particular subject. 
 
 Most importantly, inviting students and parents to ask you questions is critical, especially in the first session. Our student survey showed unanimously that their **initial tutor failed to invite them to ask clarifying questions about their tutoring process**. However, 80% of the tutors they worked with next encouraged those questions.
 
