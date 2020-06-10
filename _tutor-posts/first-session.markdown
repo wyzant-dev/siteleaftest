@@ -50,10 +50,11 @@ Here is an example of how your fellow tutors conduct an assessment:
 1. Adjust each evaluation to the specific student's needs and your mutual availability. 
 2. Conduct it in advance over the phone, via messaging, as a free first session, or as an introductory discussion before getting started. 
 3. Assessments will vary by age and subject, but often include some combination of the following:
-* Conversation with or reviewing a report from a parent or teacher
-* Reviewing past and current assignments 
-* Sharing syllabus, textbook, or discussion posts 
-* Learning your student's interests as a way to connect outside of the material
+
+...Conversation with or reviewing a report from a parent or teacher<br />
+...Reviewing past and current assignments <br />
+...Sharing syllabus, textbook, or discussion posts <br />
+...Learning your student's interests as a way to connect outside of the material
 
 ![A vector image of a talking head](/blog/uploads/img-head-first-lesson.jpg)
 
