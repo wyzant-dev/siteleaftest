@@ -40,7 +40,7 @@ The data suggests that the more tips you add to your practice, the more successf
 
 ![A vector image of a graduation cap](/blog/uploads/img-cap-first-lesson.jpg)
 
-## Communicate your process for student assessment
+## 1. Communicate your process for student assessment
 
 Unless your prospective student is looking for quick help on a specific problem, chances are good that you're conducting a student assessment, whether you realize it or not. Many tutors we spoke with use the first session as an assessment and a meet-n-greet. Some tutors charge for this time; others conduct the assessment asynchronously and allot a portion of the first session to a meet-n-greet. Regardless of your approach, being intentional in communicating it to students is crucial. Think of it as a signal of your preparedness. 
 
@@ -57,7 +57,7 @@ Here is an example of how other tutors conduct an assessment:
 
 ![A vector image of a talking head](/blog/uploads/img-head-first-lesson.jpg)
 
-## Connect and invite students to ask questions
+## 2. Connect and invite students to ask questions
  
 How you build a rapport with a student is best determined by you. We continually hear that students appreciate when tutors take the time to get to know their interests and personality. Doing so will help you tailor your approach and materials in a way that's more likely to resonate with the student and result in a long-term tutoring relationship.
 
@@ -69,7 +69,7 @@ However, 80% of the tutors they worked with next encouraged those questions.
 
 ![A vector image of an award ribbon](/blog/uploads/img-award-first-lesson.jpg)
 
-## Collaboratively identify the goal and set measurable objectives
+## 3. Collaboratively identify the goal and set measurable objectives
 
 Tutors recommend asking both, "What are you struggling with?" and, "What do you want from the tutoring experience?"
 
@@ -79,7 +79,7 @@ Once you're both clear on the goal, determine a way to measure progress. All tut
 
 ![A vector image of a computer](/blog/uploads/img-computer-first-lesson.jpg)
 
-## Schedule your next (and recurring) sessions 
+## 4. Schedule your next (and recurring) sessions 
 
 At the end of the session, save five minutes for arguably the most straightforward item on this list – comparing calendars and agreeing on the next appointment.
 
@@ -89,7 +89,7 @@ Flexibility is essential, but a *laissez-faire* approach leaves many students se
 
 ![A vector image of a notebook](/blog/uploads/img-notebook-first-lesson.jpg)
 
-## Show your work!
+## 5. Show your work!
 This old academic adage applies to tutors too. For all of the previous steps above, summarize the learnings in writing and share with the student post-session. Important points to highlight:
 
 * A reminder that you're there for questions or clarifications
