@@ -67,7 +67,9 @@ However, 80% of the tutors they worked with next encouraged those questions.
 
 ## Collaboratively identify the goal and set measurable objectives
 
-Tutors recommend asking both, "What are you struggling with?" and, "What do you want from the tutoring experience?" We're often surprised by how much the answers can differ between similar questions! Many times, the goal of tutoring goes beyond an improved grade. As you know, the benefits of tutoring are vast; improved confidence, de-escalation of behavioral problems at home or in the classroom, and mentorship are just a few of those added benefits. Pinpointing a student's ultimate goals can be difficult in their moment of need. However, doing so can help both parties determine if there is a good match for ongoing work and then build their tutoring plan.
+Tutors recommend asking both, "What are you struggling with?" and, "What do you want from the tutoring experience?"
+
+We're often surprised by how much the answers can differ between similar questions! Often, the goal of tutoring goes beyond an improved grade. As you know, the benefits of tutoring are vast; improved confidence, de-escalation of behavioral problems at home or in the classroom, and mentorship are just a few of those added benefits. Pinpointing a student's ultimate goals can be difficult in their moment of need. However, doing so can help both parties determine if there is a good match for ongoing work and then build their tutoring plan.
   
 Once you're both clear on the goal, determine a way to measure progress. All tutors personalize their sessions and know this will look different for everyone. But helping your student identify their unique success metrics helps them work toward them, even when they are not in a session with you. 
 
@@ -75,7 +77,11 @@ Once you're both clear on the goal, determine a way to measure progress. All tut
 
 ## Schedule your next (and recurring) sessions 
 
-At the end of the session, save five minutes for arguably the most straightforward item on this list – comparing calendars and agreeing on the next appointment. Some tutors say that they don't do this for fear of being presumptive or pushy. Still, our student survey suggests that scheduling the next session, or a recurring timeslot, is another easy way for tutors to demonstrate enthusiasm and guidance throughout the process. Flexibility is essential, but a laissez-faire approach leaves many students searching for a little more structure in the relationship.
+At the end of the session, save five minutes for arguably the most straightforward item on this list – comparing calendars and agreeing on the next appointment.
+
+Some tutors say that they don't do this for fear of being presumptive or pushy. Still, our student survey suggests that scheduling the next session, or a recurring timeslot, is another easy way for tutors to demonstrate enthusiasm and guidance throughout the process.
+
+Flexibility is essential, but a *laissez-faire* approach leaves many students searching for a little more structure in the relationship.
 
 ![img-notebook-first-lesson.jpg](/blog/uploads/img-notebook-first-lesson.jpg)
 
