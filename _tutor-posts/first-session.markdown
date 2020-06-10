@@ -31,11 +31,11 @@ Confidently engaging with students and encouraging them to book future sessions 
 
 In digging deeper, it wasn't the approach, but that tutors appeared to have no evident approach at all. **Over 35% of respondents reported that their tutor used none of the tactics listed below**. 
 
-![img-35-percent.jpg](/blog/uploads/img-35-percent.jpg)
+![A graphic that reads Over 35 percent of respondents reported that their tutor used none of the tactics listed below](/blog/uploads/img-35-percent.jpg)
 
 The data suggests that the more tips you add to your practice, the more successful you'll be at retaining new students. 
 
-![img-cap-first-lesson.jpg](/blog/uploads/img-cap-first-lesson.jpg)
+![A vector image of a graduation cap](/blog/uploads/img-cap-first-lesson.jpg)
 
 ## Communicate your process for student assessment
 
@@ -51,7 +51,7 @@ Here is an example of how your fellow tutors conduct an assessment:
 * Sharing syllabus, textbook, or discussion posts 
 * Learning your student's interests as a way to connect outside of the material
 
-![img-head-first-lesson.jpg](/blog/uploads/img-head-first-lesson.jpg)
+![A vector image of a talking head](/blog/uploads/img-head-first-lesson.jpg)
 
 ## Connect and invite students to ask questions
  
@@ -63,7 +63,7 @@ Most importantly, inviting students and parents to ask you questions is critical
 
 However, 80% of the tutors they worked with next encouraged those questions.
 
-![img-award-first-lesson.jpg](/blog/uploads/img-award-first-lesson.jpg)
+![A vector image of an award ribbon](/blog/uploads/img-award-first-lesson.jpg)
 
 ## Collaboratively identify the goal and set measurable objectives
 
@@ -73,7 +73,7 @@ We're often surprised by how much the answers can differ between similar questio
   
 Once you're both clear on the goal, determine a way to measure progress. All tutors personalize their sessions and know this will look different for everyone. But helping your student identify their unique success metrics helps them work toward them, even when they are not in a session with you. 
 
-![img-computer-first-lesson.jpg](/blog/uploads/img-computer-first-lesson.jpg)
+![A vector image of a computer](/blog/uploads/img-computer-first-lesson.jpg)
 
 ## Schedule your next (and recurring) sessions 
 
@@ -83,7 +83,7 @@ Some tutors say that they don't do this for fear of being presumptive or pushy. 
 
 Flexibility is essential, but a *laissez-faire* approach leaves many students searching for a little more structure in the relationship.
 
-![img-notebook-first-lesson.jpg](/blog/uploads/img-notebook-first-lesson.jpg)
+![A vector image of a notebook](/blog/uploads/img-notebook-first-lesson.jpg)
 
 ## Show your work!
 This old academic adage applies to tutors too. For all of the previous steps above, summarize the learnings in writing and share with the student post-session. Important points to highlight:
