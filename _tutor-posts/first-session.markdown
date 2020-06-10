@@ -21,7 +21,13 @@ Some only require one session – theirs is a short-term goal that needs specifi
 
 At Wyzant, we see hundreds of new tutoring connections every day. As a result, we know that the first session with a new student is a critical point. Often, we see highly competent tutors lose out on new business based solely on how they handle that moment. As tutors, you're evaluating fit, ability, and interest in helping a student. As students, they're evaluating your expertise, approach, and ability to help them reach their goals. 
 
-Confidently engaging with students and encouraging them to book future sessions is a critical component of continuing to grow your tutoring practice. We surveyed students about some proven tactics sourced from tutors that we believe can help you grow your business. The students we chose all decided to change tutors after their first session. 4**4% of respondents reported that the tutor's approach and level of guidance during the first session led them to search for another tutor**. In digging deeper, it wasn't the approach, but that tutors appeared to have no evident approach at all. **Over 35% of respondents reported that their tutor used none of the tactics listed below**. The data suggests that the more tips you add to your practice, the more successful you'll be at retaining new students. 
+Confidently engaging with students and encouraging them to book future sessions is a critical component of continuing to grow your tutoring practice. We surveyed students about some proven tactics sourced from tutors that we believe can help you grow your business. The students we chose all decided to change tutors after their first session. 4**4% of respondents reported that the tutor's approach and level of guidance during the first session led them to search for another tutor**.
+
+![img-44-percent.jpg](/blog/uploads/img-44-percent.jpg)
+
+In digging deeper, it wasn't the approach, but that tutors appeared to have no evident approach at all. **Over 35% of respondents reported that their tutor used none of the tactics listed below**. The data suggests that the more tips you add to your practice, the more successful you'll be at retaining new students. 
+
+![img-35-percent.jpg](/blog/uploads/img-35-percent.jpg)
 
 ## Communicate your process for student assessment
 
