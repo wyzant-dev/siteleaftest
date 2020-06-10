@@ -2,6 +2,10 @@
 title: Tips for First Session Success
 date: 2020-06-10 13:30:00 -05:00
 published: false
+categories:
+- online tutoring
+tags:
+- Online Tutoring
 sub-headline: Confidently engaging with students and encouraging them to book future
   sessions is a critical component of continuing to grow your tutoring practice.
 hero-image: "/blog/uploads/img-first-lesson-blog-header.jpg"
