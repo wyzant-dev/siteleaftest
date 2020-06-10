@@ -1,5 +1,5 @@
 ---
-title: Tips for First Session Success
+title: 5 Tips for First Session Success
 date: 2020-06-10 13:30:00 -05:00
 published: false
 categories:
