@@ -21,13 +21,17 @@ Some only require one session – theirs is a short-term goal that needs specifi
 
 At Wyzant, we see hundreds of new tutoring connections every day. As a result, we know that the first session with a new student is a critical point. Often, we see highly competent tutors lose out on new business based solely on how they handle that moment. As tutors, you're evaluating fit, ability, and interest in helping a student. As students, they're evaluating your expertise, approach, and ability to help them reach their goals. 
 
-Confidently engaging with students and encouraging them to book future sessions is a critical component of continuing to grow your tutoring practice. We surveyed students about some proven tactics sourced from tutors that we believe can help you grow your business. The students we chose all decided to change tutors after their first session. 4**4% of respondents reported that the tutor's approach and level of guidance during the first session led them to search for another tutor**.
+Confidently engaging with students and encouraging them to book future sessions is a critical component of continuing to grow your tutoring practice. We surveyed students about some proven tactics sourced from tutors that we believe can help you grow your business. The students we chose all decided to change tutors after their first session. **44% of respondents reported that the tutor's approach and level of guidance during the first session led them to search for another tutor**.
 
 ![img-44-percent.jpg](/blog/uploads/img-44-percent.jpg)
 
-In digging deeper, it wasn't the approach, but that tutors appeared to have no evident approach at all. **Over 35% of respondents reported that their tutor used none of the tactics listed below**. The data suggests that the more tips you add to your practice, the more successful you'll be at retaining new students. 
+In digging deeper, it wasn't the approach, but that tutors appeared to have no evident approach at all. **Over 35% of respondents reported that their tutor used none of the tactics listed below**. 
 
 ![img-35-percent.jpg](/blog/uploads/img-35-percent.jpg)
+
+The data suggests that the more tips you add to your practice, the more successful you'll be at retaining new students. 
+
+![img-cap-first-lesson.jpg](/blog/uploads/img-cap-first-lesson.jpg)
 
 ## Communicate your process for student assessment
 
@@ -43,11 +47,15 @@ Here is an example of how your fellow tutors conduct an assessment:
 * Sharing syllabus, textbook, or discussion posts 
 * Learning your student's interests as a way to connect outside of the material
 
+![img-head-first-lesson.jpg](/blog/uploads/img-head-first-lesson.jpg)
+
 ## Connect and invite students to ask questions
  
 How you build a rapport with a student is best determined by you. We continually hear that students appreciate when tutors take the time to get to know their interests and personality. Doing so will help you tailor your approach and materials in a way that's more likely to resonate with the student and result in a long-term tutoring relationship. For many students, incorporating interests into the session material may be the key to unlocking a love (or at least get over a hatred) for a particular subject. 
 
 Most importantly, inviting students and parents to ask you questions is critical, especially in the first session. Our student survey showed unanimously that their **initial tutor failed to invite them to ask clarifying questions about their tutoring process**. However, 80% of the tutors they worked with next encouraged those questions.
+
+![img-award-first-lesson.jpg](/blog/uploads/img-award-first-lesson.jpg)
 
 ## Collaboratively identify the goal and set measurable objectives
 
@@ -55,9 +63,13 @@ Tutors recommend asking both, "What are you struggling with?" and, "What do you 
   
 Once you're both clear on the goal, determine a way to measure progress. All tutors personalize their sessions and know this will look different for everyone. But helping your student identify their unique success metrics helps them work toward them, even when they are not in a session with you. 
 
+![img-computer-first-lesson.jpg](/blog/uploads/img-computer-first-lesson.jpg)
+
 ## Schedule your next (and recurring) sessions 
 
 At the end of the session, save five minutes for arguably the most straightforward item on this list – comparing calendars and agreeing on the next appointment. Some tutors say that they don't do this for fear of being presumptive or pushy. Still, our student survey suggests that scheduling the next session, or a recurring timeslot, is another easy way for tutors to demonstrate enthusiasm and guidance throughout the process. Flexibility is essential, but a laissez-faire approach leaves many students searching for a little more structure in the relationship.
+
+![img-notebook-first-lesson.jpg](/blog/uploads/img-notebook-first-lesson.jpg)
 
 ## Show your work!
 This old academic adage applies to tutors too. For all of the previous steps above, summarize the learnings in writing and share with the student post-session. Important points to highlight:
