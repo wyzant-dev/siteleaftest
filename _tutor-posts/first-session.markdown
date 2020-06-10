@@ -27,7 +27,7 @@ As students, they're evaluating your expertise, approach, and ability to help th
 
 Confidently engaging with students and encouraging them to book future sessions is a critical component of continuing to grow your tutoring practice. We surveyed students about some proven tactics sourced from tutors that we believe can help you grow your business. The students we chose all decided to change tutors after their first session. **44% of respondents reported that the tutor's approach and level of guidance during the first session led them to search for another tutor**.
 
-![img-44-percent.jpg](/blog/uploads/img-44-percent.jpg)
+![A graphic that reads 44 percent of respondents reported that the tutors approach and level of guidance during the first session led them to search for another tutor](/blog/uploads/img-44-percent.jpg)
 
 In digging deeper, it wasn't the approach, but that tutors appeared to have no evident approach at all. **Over 35% of respondents reported that their tutor used none of the tactics listed below**. 
 
@@ -95,7 +95,3 @@ This old academic adage applies to tutors too. For all of the previous steps abo
 * Following session details and confirmation 
 
 At Wyzant, our goal is to serve the individual learner, and the way we do that best is by letting you focus on the tutoring. We're here to support you and share broader trends from the marketplace so that we can Achieve More Together.
-
-
-
-
