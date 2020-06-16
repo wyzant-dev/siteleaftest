@@ -63,7 +63,7 @@ Let’s take the verb *trabajar* (to work) and conjugate it following the same e
 * *Yo trabajo* - I work
 * *Tú trabajas* - You work (informal, singular)
 * *Él trabaja* - He works
-* *Ella Trabaja* - She works
+* *Ella trabaja* - She works
 * *Usted trabaja* - You work (formal, singular)
 * *Ellos trabajan* - They work
 * *Vosotros trabajáis* - You work (plural)
