@@ -96,6 +96,7 @@ The extended response is an evidence-based writing task, meaning that you need t
 The GED Social Studies test and Science test both center on the skills of analysis, inference, evaluation, and data interpretation. Content covered on the Social Studies test includes material from Civics and Government (50% of the content), U.S. History (20%), Economics (15%), and Geography and the World (15%).  
  
 **Format:** 30-35 questions with no breaks
+
 **Total test time:** 1 hour, 10 minutes
 
 ### Science
@@ -103,7 +104,7 @@ The GED Social Studies test and Science test both center on the skills of analys
 
 The GED Science test includes content from Life Science (40% of the content), Physical Science (40%), and Earth and Space Science (20%). Because both tests include data and infographics, you will be permitted to use a calculator and given access to the calculator reference sheet. 
 
-**Format: **30-35 questions with no breaks
+**Format:** 30-35 questions with no breaks
 * Includes two short-answer written responses to passages and/or graphics (up to 10 minutes for each)
 
 **Total test time:** 1 hour, 30 minutes
