@@ -4,7 +4,7 @@ date: 2020-06-16 14:44:00 -05:00
 published: false
 ---
 
-One of the significant aspects of learning Spanish is knowing how to conjugate verbs in Spanish. As a beginner student, you will notice that verbs conjugate differently based on tenses and personal pronouns. The Spanish Present Tense is not an exception.
+One of the most important aspects of learning Spanish is knowing how to conjugate verbs. As a beginner student, you will notice that verbs conjugate differently based on tenses and personal pronouns. The Spanish Present Tense is not an exception.
 
 The conjugation of verbs in the Spanish present tense is not the same for all groups. Consequently, you might be wondering how to practice and when to use the conjugations of el presente. The good news is that studying the present tense in an organized way will help you comprehend it better.
 
