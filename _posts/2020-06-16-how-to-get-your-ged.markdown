@@ -34,7 +34,9 @@ First, let’s answer a basic question: what is the GED? Traditionally referred 
 
 The GED includes the reading, writing, thinking, and problem-solving skills needed for postsecondary programs and for the workplace. This means that your high school equivalency diploma is not an end in itself—it’s the springboard to more education, to better-paying jobs, and to more rewarding career paths. 
 
-What does GED stand for? Originally, it was short for the Tests of General Educational Development, but since 2011 the company has just used the term GED. 
+### What does GED stand for?
+
+Originally, it was short for the Tests of General Educational Development, but since 2011 the company has just used the term GED. 
 
 As the most recognizable of the high school equivalency tests, the GED is used in 40 of the 50 states, although some of those states also accept the TASC (Test Assessing Secondary Completion) and/or the HiSET (High School Equivalency Test). Three states use only the TASC (Indiana, New York, and West Virginia), while seven states use only the HiSET (Iowa, Louisiana, Maine, Missouri, Montana, New Hampshire, and Tennessee).
 
