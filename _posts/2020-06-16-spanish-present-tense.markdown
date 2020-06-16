@@ -133,47 +133,57 @@ The third person plural for ellos and ustedes have the same endings as the er ve
 When studying, make sure to practice these verbs and make comparisons when necessary. To feel more familiar in a shorter amount of time, [practice in small conversations](https://www.wyzant.com/Spanish_tutors.aspx) with friends or a Spanish tutor.
 
 Once you feel comfortable with the conjugation of regular verbs, start expanding your knowledge by studying the conjugation of a few main irregular Spanish verbs.
+
 ## Spanish Irregular verbs
+
 Conjugations in Spanish can be irregular. That means they don’t follow certain endings in quite the same easy to remember ways as -ar, -er, and -ir regular verbs.
 
 In Spanish present tense, irregular verbs vary according to the subject, have a change of stem or root, or completely change when they’re conjugated. *El presente del indicativo* has a large number of irregular verbs. Here’s how some of the most useful irregular verbs conjugate.
-Tener
+
+### Tener
 *Tener* means “to have” in English. The *tener* conjugation is irregular because of three characteristics:
+
 First, instead of dropping the ending -er and adding an -o for the *yo* (I) form, it adds a -go. This is common in verbs that end in -ner. The conjugation for the yo form is then *yo tengo* (I have).
+
 Second, when conjugating the rest of the pronouns, there is a stem-changing verb from “e” to “ie”. In other words, the vowel “e” from the stem or root *ten-* changes to -ie. This happens with all the rest of the conjugations except for the *nosotros* and *vosotros* form, where there is no change of vowel. The conjugations will be like this: *Tu tienes* (you have-singular), *el tiene* (he has), *ella tiene* (she has), *nosotros tenemos* (we have), *ellos tienen* (they have), *vosotros tenéis* (you have plural), *ustedes tienen* (you have-plural)
+
 Third the endings of the conjugations of the pronouns, except for the yo form, are the same as the -er regular verbs (as seen above). 
-*Yo tengo*		    I have
-*Tú tienes*		    You have (informal-singular)
-*Él tiene*		    He has
-*Ella tiene*		    She has
-*Usted tiene*		   You have (formal-singular) 
-*Nosotros tenemos*	   We have
-*Ellos tienen*		    They have
-*Vosotros tenéis*	 You have (plural)
-*Ustedes tienen*   You have (plural)
+
+*Yo tengo* - I have
+*Tú tienes* - You have (informal-singular)
+*Él tiene* - He has
+*Ella tiene* - She has
+*Usted tiene* - You have (formal-singular) 
+*Nosotros tenemos* - We have
+*Ellos tienen* - They have
+*Vosotros tenéis* - You have (plural)
+*Ustedes tienen* - You have (plural)
+
 There are other irregular verbs that end in -ner in the present tense that conjugate similar endings as *tener*. These are some of them: *contener* (to contain), *detener* (to detain), *entretener* (to entertain), *obtener* (to obtain), *retener* (to retain).
 
-Hacer
+### Hacer
 *Hacer* means “to do” or “to make”. *Hacer* conjugation changes in the *yo* form. Instead of dropping the ending -er and adding an -o, this verb actually drops the -cer and adds -go. The rest of the conjugations for *hacer* follow all the regular endings for -er verbs.
 
 Let’s take a look at the chart to understand it better.
-*Yo hago*			 I do, I make
-*Tú haces*			 You do, you make (informal-singual)
-*Él hace*			 He does, He makes
-*Ella hace*			 She does She makes
-*Usted hace*			 You do, you make (formal-singular)
-*Nosotros hacemos*		 We do, we make
-*Ellos hacen*			 They do they make
-*Vosotros hacéis*		 You do, yo make (plural)
-*Ustedes hacen*		 You do, you make (plural)
 
+*Yo hago* - I do, I make
+*Tú haces* - You do, you make (informal-singual)
+*Él hace* - He does, He makes
+*Ella hace* - She does She makes
+*Usted hace* - You do, you make (formal-singular)
+*Nosotros hacemos* - We do, we make
+*Ellos hacen* - They do they make
+*Vosotros hacéis* - You do, yo make (plural)
+*Ustedes hacen* - You do, you make (plural)
 
 Here some examples using the verb *hacer* in the Spanish present tense:
-*Mi hermana hace su tarea todas las tardes.* - My sister does her homework every day.
-*Manuel y Rosa hacen manualidades los miércoles.* - Manuel and Rosa make crafts on Wednesdays.
 
-Ir
+* *Mi hermana hace su tarea todas las tardes.* - My sister does her homework every day.
+* *Manuel y Rosa hacen manualidades los miércoles.* - Manuel and Rosa make crafts on Wednesdays.
+
+### Ir
 *Ir* means “to go”. The *ir* conjugation is irregular because it completely changes its form when conjugating in the present tense:
+
 *Yo voy*		 I go
 *Tu vas*		You go (informal-singular)
 *Él va* 			 He goes
