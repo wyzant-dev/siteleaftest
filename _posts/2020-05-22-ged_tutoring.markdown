@@ -25,7 +25,7 @@ For those who never graduated from high school, the GED test can open up new occ
 
 ## What is the GED?
 
-The GED is a nationwide exam designed to determine high school equivalency as well as college and career readiness.
+[The GED](https://www.wyzant.com/blog/how-to-get-your-ged/) is a nationwide exam designed to determine high school equivalency as well as college and career readiness.
 
 Depending on your high school experience or how long it’s been since you attended high school, you may feel that getting your GED diploma is a daunting proposition. Thankfully, there are plenty of [expert tutors](https://www.wyzant.com/GED_tutors.aspx) out there that can guide you on the path to that diploma.
 
