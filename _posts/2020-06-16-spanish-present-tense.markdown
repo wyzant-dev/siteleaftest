@@ -161,7 +161,7 @@ In Spanish present tense, irregular verbs vary according to the subject, have a 
 
 First, instead of dropping the ending -er and adding an -o for the *yo* (I) form, it adds a -go. This is common in verbs that end in -ner. The conjugation for the yo form is then *yo tengo* (I have).
 
-Second, when conjugating the rest of the pronouns, there is a stem-changing verb from “e” to “ie”. In other words, the vowel “e” from the stem or root *ten-* changes to -ie. This happens with all the rest of the conjugations except for the *nosotros* and *vosotros* form, where there is no change of vowel. The conjugations will be like this: *Tu tienes* (you have-singular), *el tiene* (he has), *ella tiene* (she has), *nosotros tenemos* (we have), *ellos tienen* (they have), *vosotros tenéis* (you have plural), *ustedes tienen* (you have-plural)
+Second, when conjugating the rest of the pronouns, there is a stem-changing verb from “e” to “ie”. In other words, the vowel “e” from the stem or root *ten-* changes to -ie. This happens with all the rest of the conjugations except for the *nosotros* and *vosotros* form, where there is no change of vowel. The conjugations will be like this: *Tu tienes* (you have, singular), *el tiene* (he has), *ella tiene* (she has), *nosotros tenemos* (we have), *ellos tienen* (they have), *vosotros tenéis* (you have plural), *ustedes tienen* (you have, plural)
 
 Third the endings of the conjugations of the pronouns, except for the yo form, are the same as the -er regular verbs (as seen above). 
 
@@ -183,7 +183,7 @@ There are other irregular verbs that end in -ner in the present tense that conju
 Let’s take a look at the chart to understand it better.
 
 * *Yo hago* - I do, I make
-* *Tú haces* - You do, you make (informal, singual)
+* *Tú haces* - You do, you make (informal, singular)
 * *Él hace* - He does, He makes
 * *Ella hace* - She does She makes
 * *Usted hace* - You do, you make (formal, singular)
