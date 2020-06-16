@@ -55,19 +55,25 @@ To conjugate a regular -ar Spanish verb, drop the infinitive ending -ar and repl
 *Ustedes hablan* - You speak (plural)
 
 These rules can be applied to all other regular verbs ending in -ar. These are some -ar regular verbs: *trabajar* (to work), *estudiar* (to study), *limpiar* (to clean), *enseñar* (to teach), *caminar* (to walk), *cantar* (to sing), *cocinar* (to cook).
+
 Let’s take the verb *trabajar* (to work) and conjugate it following the same endings we used for the verb *hablar* (to talk). Keep the root *trabaj-* but drop the infinitive -ar and replace it with the word’s respective conjugation. 
-*Yo trabajo*			    I work
-*Tú trabajas*			   You work (informal-singular)
-*Él trabaja*			   He works
-*Ella Trabaja*			   She works
-*Usted trabaja*			   You work (formal-singular)
-*Ellos trabajan*	  They work
-*Vosotros trabajáis*			You work (plural)
-*Ustedes trabajan* 			 You work (plural)
+
+*Yo trabajo* - I work
+*Tú trabajas* - You work (informal-singular)
+*Él trabaja* - He works
+*Ella Trabaja* - She works
+*Usted trabaja* - You work (formal-singular)
+*Ellos trabajan* - They work
+*Vosotros trabajáis* - You work (plural)
+*Ustedes trabajan* - You work (plural)
+
 Notice that the -ar verbs conjugated in the third person singular, *el* (he), *ella* (she), and *usted* (you-formal) have the same ending: -a. Some examples include *él cocina* (he cooks), *ella estudia* (she studies), and *usted canta* (you sing-formal)
 Also, Spanish -ar verbs conjugated in the third person plural for *ellos* (they) and *ustedes* (you-plural) also have the same ending: -an. For example, *ellos enseñan* (they teach), and *ustedes limpian* (you clean-plural).
+
 To continue learning the conjugation of this group, practice conjugating other regular verbs, like the ones above (*limpiar, caminar, estudiar, cantar, cocinar*, etc). Keep the roots of each verb, drop the infinitive -ar, and add the respectfully ending learned in the chart above. Write it down in a notebook or in an electronic device and practice several times until you feel more familiar with the conjugation of regular -ar verbs.
+
 ## Spanish Regular -er  verbs
+
 Regular -er verbs have mostly different ending conjugations than the -ar verbs. To conjugate them, remove the infinitive ending (-er) and add the ending that matches the subject.
 You can find some examples of these endings in the following table using the verb comer (to eat).
 *Yo como*		    I eat
