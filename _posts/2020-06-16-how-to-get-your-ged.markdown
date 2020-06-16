@@ -46,11 +46,11 @@ Next, you’ll need some books or online programs to aid in the test prep proces
 
 Obviously, you will want to know what it will cost you to get your GED — not just the money, but the time involved. Securing a tutor can go a long way to getting you fully ready for the test. The guidance of a skilled tutor can help you obtain your desired score in less time - and with fewer headaches - than preparing solely on your own.
 
+#### The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
+
 With the recent explosion of online tutoring, there are now a wide range of [GED tutors](https://www.wyzant.com/blog/ged_tutoring/) out there to fit anyone’s schedule or budgetary needs. With a quick search online and a few [well-crafted interview questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), you can land the right tutor to guide your personalized GED preparation process.
 
 Of course, you want to know how to take the GED, and you may even be asking about how to get your GED online. Unfortunately, online testing is [not currently an option](https://ged.com/) according to the GED Testing Service: “The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
-
-#### The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
 
 ## Gain a fundamental understanding of what is on the GED
 The GED test comprises four subjects: math, science, social studies, and language arts. Each subject test assesses a student’s knowledge of topics covered in a typical high school classroom, from history and government to life science and algebra.
