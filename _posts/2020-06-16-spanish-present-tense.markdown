@@ -11,15 +11,23 @@ The conjugation of verbs in the Spanish present tense is not the same for all gr
 This article will present you with organized ideas on how to conjugate and study regular and main irregular verbs in the present tense, and how to use this tense. It will make a short comparison with the preterite and future tenses in Spanish. With these selections, practicing the present tense will be more natural and more understandable, which means you’re on your way to mastering Spanish.
 
 ## El presente del indicativo - Spanish present tense
+
 The first step to practice el presente del indicativo is to understand that all the verbs in Spanish are grouped into three categories according to the endings:
-Verbs that end in “-ar” like *hablar* (to talk or to speak)
-Verbs that end in “-er” like *comer* (to eat)
-Verbs that end in “-ir” like *vivir* (to live) 
+
+1. Verbs that end in “-ar” like *hablar* (to talk or to speak)
+2. Verbs that end in “-er” like *comer* (to eat)
+3. Verbs that end in “-ir” like *vivir* (to live) 
+
 Understanding how verbs are grouped in Spanish is the first step; the second step to study is to divide them into regular and irregular verbs. 
+
 ## Spanish regular verbs
+
 The regular verbs in Spanish follow specific rules for each category, either in the -ar, -er, or -ir categories. One tip for studying the conjugation of the regular verbs is to divide them by type and learn the conjugation of each group.
+
 ## Spanish regular -ar verbs
+
 To conjugate regular -ar verbs in Spanish in the present, remove the infinitive ending (-ar) and add the ending that matches the subject or personal pronoun. But before conjugating, here it is the list of the personal pronouns in Spanish.
+
 *Yo:* I
 *Tú:* You (singular, informal)
 *Él:* he
@@ -30,9 +38,12 @@ To conjugate regular -ar verbs in Spanish in the present, remove the infinitive 
 *Ellas:* They (feminine)
 *Vosotros/as:* You (plural)
 *Ustedes You:* (plural)
+
 *Vosotros* and *ustedes* have the same usage, and mean “you” in the plural form. Most countries of South America, Central America, and Mexico only use the *ustedes* pronoun. *Vosotros* is mostly used in Spain. This article presents you with both pronouns to show that verbs conjugate differently with each of them.
 Now that we have the list of the personal pronouns, we are going to conjugate the verb hablar (to speak or to talk) from the -ar group of verbs. 
+
 To conjugate a regular -ar Spanish verb, drop the infinitive ending -ar and replace it with its correct ending, as explained in this table:
+
 *Yo hablo*			    I speak
 *Tú hablas*			   You speak (informal-singular)
 *Él habla*		   He speaks
