@@ -82,8 +82,8 @@ Let’s take the verb *trabajar* (to work) and conjugate it following the same e
 * *Vosotros trabajáis* - You work (plural)
 * *Ustedes trabajan* - You work (plural)
 
-Notice that the -ar verbs conjugated in the third person singular, *el* (he), *ella* (she), and *usted* (you-formal) have the same ending: -a. Some examples include *él cocina* (he cooks), *ella estudia* (she studies), and *usted canta* (you sing-formal)
-Also, Spanish -ar verbs conjugated in the third person plural for *ellos* (they) and *ustedes* (you-plural) also have the same ending: -an. For example, *ellos enseñan* (they teach), and *ustedes limpian* (you clean-plural).
+Notice that the -ar verbs conjugated in the third person singular, *el* (he), *ella* (she), and *usted* (you, formal) have the same ending: -a. Some examples include *él cocina* (he cooks), *ella estudia* (she studies), and *usted canta* (you sing, formal)
+Also, Spanish -ar verbs conjugated in the third person plural for *ellos* (they) and *ustedes* (you, plural) also have the same ending: -an. For example, *ellos enseñan* (they teach), and *ustedes limpian* (you clean-plural).
 
 To continue learning the conjugation of this group, practice conjugating other regular verbs, like the ones above (*limpiar, caminar, estudiar, cantar, cocinar*, etc). Keep the roots of each verb, drop the infinitive -ar, and add the respectfully ending learned in the chart above. Write it down in a notebook or in an electronic device and practice several times until you feel more familiar with the conjugation of regular -ar verbs.
 
@@ -116,11 +116,11 @@ Let’s practice with the verb *aprender* (to learn), conjugating it following t
 * *Vosotros aprendéis* - You learn (plural)
 * *Ustedes aprenden* - You learn (plural)
 
-Just like -ar verbs, -er verbs conjugated in the third person singular, like *el* (he), *ella* (she) and *usted* (you-formal) also have the same endings. But these have -e endings instead of -a. 
+Just like -ar verbs, -er verbs conjugated in the third person singular, like *el* (he), *ella* (she) and *usted* (you, formal) also have the same endings. But these have -e endings instead of -a. 
 
-Here are a few examples: *él bebe* (he drinks), *ella corre* (she runs), and *usted lee* (you read-formal).
+Here are a few examples: *él bebe* (he drinks), *ella corre* (she runs), and *usted lee* (you read, formal).
 
-Moreover, -er verbs conjugated in the third person plural for *ellos* (they) and *ustedes* (you-plural) also have the same ending: -en, like *ellos responden* (they answer) and *ustedes venden* (you sell-plural)
+Moreover, -er verbs conjugated in the third person plural for *ellos* (they) and *ustedes* (you, plural) also have the same ending: -en, like *ellos responden* (they answer) and *ustedes venden* (you sell, plural)
 
 ### Regular IR verbs
 
@@ -142,7 +142,7 @@ To conjugate an -ir verb, remove the infinitive ending -ir and add the ending th
 
 These endings can be applied to other regular -ir verbs. Some of the most useful are *escribir* (to write), *recibir* (to receive), *abrir* (to open), *permitir* (to allow), *dividir* (to divide), and *imprimir* (to print).
 
-Once again, third person singulars like *el*, *ella*, and *usted* have the same endings as the -er verb counterparts: -e. You can see it in action in verbs like *él come* (he eats), *él vive* (he lives), *ella aprende* (she learns)* ella vive* (she lives), *usted lee* (you read-formal), and *usted vive* (you live-formal).
+Once again, third person singulars like *el*, *ella*, and *usted* have the same endings as the -er verb counterparts: -e. You can see it in action in verbs like *él come* (he eats), *él vive* (he lives), *ella aprende* (she learns)* ella vive* (she lives), *usted lee* (you read, formal), and *usted vive* (you live, formal).
 The third person plural for ellos and ustedes have the same endings as the er verbs -en. 
 
 When studying, make sure to practice these verbs and make comparisons when necessary. To feel more familiar in a shorter amount of time, [practice in small conversations](https://www.wyzant.com/Spanish_tutors.aspx) with friends or a Spanish tutor.
