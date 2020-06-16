@@ -202,7 +202,7 @@ When studying, one of the fastest ways to learn Spanish is by practicing writing
 *  *Mi amiga va a la piscina.* - My friend goes to the pool.
 *  *Nosotros vamos a la tienda.* - We go to the store.
 
-If you feel up to it, try using conjugations in Spanish while practicing important words and phrases in Spanish.
+If you feel up to it, try using conjugations in Spanish while practicing important [words and phrases in Spanish](https://www.wyzant.com/blog/spanish-words-and-phrases/).
 
 
 ## Using the Spanish present tense
