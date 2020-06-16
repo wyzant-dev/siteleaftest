@@ -75,35 +75,46 @@ To continue learning the conjugation of this group, practice conjugating other r
 ## Spanish Regular -er  verbs
 
 Regular -er verbs have mostly different ending conjugations than the -ar verbs. To conjugate them, remove the infinitive ending (-er) and add the ending that matches the subject.
+
 You can find some examples of these endings in the following table using the verb comer (to eat).
-*Yo como*		    I eat
-*Tú comes*		    You eat (singular)
-*Él come*		    He eats
-*Ella come*		    She eats
-*Usted come*		    You eat (singular formal)
-*Nosotros comemos*	   We eat
-*Ellos comen*		    They eat
-*Vosotros coméis*	 You eat (plural)
-*Ustedes comen*	   You eat (plural)
+
+*Yo como* - I eat
+*Tú comes* - You eat (singular)
+*Él come* - He eats
+*Ella come* - She eats
+*Usted come* - You eat (singular formal)
+*Nosotros comemos* - We eat
+*Ellos comen* - They eat
+*Vosotros coméis* - You eat (plural)
+*Ustedes comen* - You eat (plural)
+
 These rules can be applied to all other regular verbs ending in -er . These are some -er common regular verbs: *aprender* (to learn), *beber*, (to drink), *comprender* (to understand), *correr* (to run), *leer* (to read), *responder* (to answer), and *vender* (to sell).
+
 Let’s practice with the verb *aprender* (to learn), conjugating it following the same endings we used for the verb *comer* (to eat). Keep the root *aprend-* but drop the infinitive -er and use the correct endings: 
-*Yo aprendo* 			    I learn
-*Tú aprendes*			     You learn (informal-singular)
-*Él aprende*			     He learns
-*Usted aprende*		    You (formal) learn
-*Nosotros aprendemos*	   We learn
-*Ellos aprenden*	    They learn
-*Vosotros aprendéis*	You learn (plural)
-*Ustedes aprenden*		    You learn (plural)
+
+*Yo aprendo* - I learn
+*Tú aprendes* - You learn (informal-singular)
+*Él aprende* - He learns
+*Usted aprende* - You (formal) learn
+*Nosotros aprendemos* - We learn
+*Ellos aprenden* - They learn
+*Vosotros aprendéis* - You learn (plural)
+*Ustedes aprenden* - You learn (plural)
+
 Just like -ar verbs, -er verbs conjugated in the third person singular, like *el* (he), *ella* (she) and *usted* (you-formal) also have the same endings. But these have -e endings instead of -a. 
-Here are a few examples: *él bebe* (he drinks), *ella corre* (she runs), and *usted lee* (you read-formal)
+
+Here are a few examples: *él bebe* (he drinks), *ella corre* (she runs), and *usted lee* (you read-formal).
+
 Moreover, -er verbs conjugated in the third person plural for *ellos* (they) and *ustedes* (you-plural) also have the same ending: -en, like *ellos responden* (they answer) and *ustedes venden* (you sell-plural)
 
-Spanish Regular IR verbs
+## Spanish Regular IR verbs
+
 Most of the present tense endings for -er and -ir Spanish verbs are the same. Easy! Only the *nosotros* and *vosotros* endings are different.
+
 The verb *comer* (to eat) conjugated as *nosotros comemos* (we eat) has the endings -emos (for its regular -er verb). But for the regular -ir verbs, the ending for *nosotros* is -imos, as in *nosotros vivimos* (we live) from the verb *vivir* (to live).
 *Vender* (to sell) conjugated as *vosotros vendéis* (you dance-plural) has the ending -éis. However, for regular -ir verbs, the ending for *vosotros* is -ís, like in *vosotros vivís*.
 To conjugate an -ir verb, remove the infinitive ending -ir and add the ending that matches the subject. 
+
 *Yo vivo*    I live
 *Tu vives*	    You live (singular)
 *El vive* 		    He lives
