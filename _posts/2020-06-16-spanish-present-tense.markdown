@@ -1,7 +1,12 @@
 ---
 title: How to Practice Conjugations in Spanish Present Tense
 date: 2020-06-16 14:44:00 -05:00
-published: false
+categories:
+- Spanish
+- Language Learning
+tags:
+- Spanish
+- Language Learning
 author: Gissela Tomasello
 hero-image: "/blog/uploads/How%20to%20Practice%20Conjugations%20in%20Spanish%20Present%20Tense.png"
 ---
