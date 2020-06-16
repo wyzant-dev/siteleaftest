@@ -115,21 +115,22 @@ The verb *comer* (to eat) conjugated as *nosotros comemos* (we eat) has the endi
 *Vender* (to sell) conjugated as *vosotros vendéis* (you dance-plural) has the ending -éis. However, for regular -ir verbs, the ending for *vosotros* is -ís, like in *vosotros vivís*.
 To conjugate an -ir verb, remove the infinitive ending -ir and add the ending that matches the subject. 
 
-*Yo vivo*    I live
-*Tu vives*	    You live (singular)
-*El vive* 		    He lives
-*Ella vive*		    She lives
-*Usted vive*		    You live (singular formal)
-*Nosotros vivimos*	   We live
-*Ellos viven*		    They live
-*Vosotros vivís*	 You live (plural)
-*Ustedes viven*	   You live (plural)
+*Yo vivo* - I live
+*Tu vives* - You live (singular)
+*El vive* - He lives
+*Ella vive* - She lives
+*Usted vive* - You live (singular formal)
+*Nosotros vivimos* - We live
+*Ellos viven* - They live
+*Vosotros vivís* - You live (plural)
+*Ustedes viven* - You live (plural)
+
 These endings can be applied to other regular -ir verbs. Some of the most useful are *escribir* (to write), *recibir* (to receive), *abrir* (to open), *permitir* (to allow), *dividir* (to divide), and *imprimir* (to print).
+
 Once again, third person singulars like *el*, *ella*, and *usted* have the same endings as the -er verb counterparts: -e. You can see it in action in verbs like *él come* (he eats), *él vive* (he lives), *ella aprende* (she learns)* ella vive* (she lives), *usted lee* (you read-formal), and *usted vive* (you live-formal).
 The third person plural for ellos and ustedes have the same endings as the er verbs -en. 
 
-When studying, make sure to practice these verbs and make comparisons when necessary. To feel more familiar in a shorter amount of time, practice in small conversations with friends or a Spanish tutor. https://www.wyzant.com/Spanish_tutors.aspx
-
+When studying, make sure to practice these verbs and make comparisons when necessary. To feel more familiar in a shorter amount of time, [practice in small conversations](https://www.wyzant.com/Spanish_tutors.aspx) with friends or a Spanish tutor.
 
 Once you feel comfortable with the conjugation of regular verbs, start expanding your knowledge by studying the conjugation of a few main irregular Spanish verbs.
 ## Spanish Irregular verbs
