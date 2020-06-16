@@ -26,7 +26,7 @@ Understanding how verbs are grouped in Spanish is the first step; the second ste
 
 The regular verbs in Spanish follow specific rules for each category, either in the -ar, -er, or -ir categories. One tip for studying the conjugation of the regular verbs is to divide them by type and learn the conjugation of each group.
 
-## Spanish regular -ar verbs
+### Regular -ar verbs
 
 To conjugate regular -ar verbs in Spanish in the present, remove the infinitive ending (-ar) and add the ending that matches the subject or personal pronoun. But before conjugating, here it is the list of the personal pronouns in Spanish.
 
@@ -74,7 +74,7 @@ Also, Spanish -ar verbs conjugated in the third person plural for *ellos* (they)
 
 To continue learning the conjugation of this group, practice conjugating other regular verbs, like the ones above (*limpiar, caminar, estudiar, cantar, cocinar*, etc). Keep the roots of each verb, drop the infinitive -ar, and add the respectfully ending learned in the chart above. Write it down in a notebook or in an electronic device and practice several times until you feel more familiar with the conjugation of regular -ar verbs.
 
-## Spanish Regular -er  verbs
+### Regular -er  verbs
 
 Regular -er verbs have mostly different ending conjugations than the -ar verbs. To conjugate them, remove the infinitive ending (-er) and add the ending that matches the subject.
 
@@ -109,7 +109,7 @@ Here are a few examples: *él bebe* (he drinks), *ella corre* (she runs), and *u
 
 Moreover, -er verbs conjugated in the third person plural for *ellos* (they) and *ustedes* (you-plural) also have the same ending: -en, like *ellos responden* (they answer) and *ustedes venden* (you sell-plural)
 
-## Spanish Regular IR verbs
+### Regular IR verbs
 
 Most of the present tense endings for -er and -ir Spanish verbs are the same. Easy! Only the *nosotros* and *vosotros* endings are different.
 
