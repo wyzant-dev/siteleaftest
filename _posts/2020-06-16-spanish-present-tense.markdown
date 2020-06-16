@@ -2,6 +2,8 @@
 title: How to Practice Conjugations in Spanish Present Tense
 date: 2020-06-16 14:44:00 -05:00
 published: false
+author: Gissela Tomasello
+hero-image: "/blog/uploads/How%20to%20Practice%20Conjugations%20in%20Spanish%20Present%20Tense.png"
 ---
 
 One of the most important aspects of learning Spanish is knowing how to conjugate verbs. As a beginner student, you will notice that verbs conjugate differently based on tenses and personal pronouns. The Spanish present tense is not an exception.
