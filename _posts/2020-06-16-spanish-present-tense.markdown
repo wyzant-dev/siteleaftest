@@ -8,7 +8,15 @@ tags:
 - Spanish
 - Language Learning
 author: Gissela Tomasello
+sub-headline: 'One of the most important aspects of learning Spanish is knowing how
+  to conjugate verbs. '
 hero-image: "/blog/uploads/How%20to%20Practice%20Conjugations%20in%20Spanish%20Present%20Tense.png"
+meta-description: 'The conjugation of verbs in the Spanish present tense is not the
+  same for all kinds of verbs. The good news is: studying el presente del indicativo
+  in an organized way will help you better comprehend Spanish at-large.'
+post-description: 'The conjugation of verbs in the Spanish present tense is not the
+  same for all kinds of verbs. The good news is: studying el presente del indicativo
+  in an organized way will help you better comprehend Spanish at-large.'
 ---
 
 One of the most important aspects of [learning Spanish](https://www.wyzant.com/Spanish_tutors.aspx) is knowing how to conjugate verbs. As a beginner student, you will notice that verbs conjugate differently based on tenses and personal pronouns. The Spanish present tense is not an exception.
