@@ -233,77 +233,107 @@ Notice that in the previous sentences, the subjects are not visually written. In
 
 ### Near Future
 The Spanish present tense can also be used to express events that will happen in the near future, like:
-*Voy al supermecado. ¿Vienes conmigo?* - I am going to the supermarket. Do you want to come with me?
-*Nosotros llegamos a tu casa em media hora.* - We are going to arrive at your house in thirty minutes.
+
+* *Voy al supermecado. ¿Vienes conmigo?* - I am going to the supermarket. Do you want to come with me?
+* *Nosotros llegamos a tu casa em media hora.* - We are going to arrive at your house in thirty minutes.
+
 ### Universal Truths
 *El presente* is also used to express things that are universally known or generally accepted. These can be facts, opinions, or proverbs. For example:
-*Un dia tiene 24 horas.* - A day has 24 hours.
-*El agua es vida.* - Water is life
-*“No todo lo que brilla es oro”* - Not all that glitters is gold.
+
+* *Un dia tiene 24 horas.* - A day has 24 hours.
+* *El agua es vida.* - Water is life
+* *“No todo lo que brilla es oro”* - Not all that glitters is gold.
+
 In general, idioms and sayings in Spanish do not literally use the same vocabulary as in English. What translates is the whole meaning. 
+
 Practice looking for Spanish idioms in English and finding the correct translation into Spanish. You will be surprised by the difference in vocabulary. However, the present tense will be used abundantly.
+
 ### Hypothetical Situations
+
 When used with the conjunction *si* (if), the Spanish present tense can express hypothetical situations and outcomes, as it does in these examples:
-*Si hablas despacio, te entiendo.* - If you speak slowly, I understand.
-*Si llegas temprano hoy, vemos una película.* - If you arrive home early today, we watch a movie.
+
+* *Si hablas despacio, te entiendo.* - If you speak slowly, I understand.
+* *Si llegas temprano hoy, vemos una película.* - If you arrive home early today, we watch a movie.
+
 ### Ordering
 *El presente del indicativo* is also used when ordering in a restaurant or in a store.
-*Quiero dos tacos de carne con queso.* - I would like two beef tacos with cheese.
-*¿Me trae un café con leche, por favor?* - Would you bring me a latte, please?
+
+* *Quiero dos tacos de carne con queso.* - I would like two beef tacos with cheese.
+* *¿Me trae un café con leche, por favor?* - Would you bring me a latte, please?
+
 Practice by writing sentences ordering your favorite food or from a specific Spanish speaking country. 
+
 Learning the usages of present tense will provide more opportunities to use regular and irregular verbs. Once this tense has been polished, other tenses can be introduced like the preterite or the future tense.
+
 ## Comparing the Spanish present tense to the preterite
 Perhaps you’re wondering how many verb tenses in Spanish exist. There are several tenses, but the three critical tenses are the present, the preterite, and the future tense.
+
 As already stated, conjugations in Spanish vary based on personal pronouns and tenses.
+
 The next examples will briefly show some conjugations of three verbs in the preterite. This will help you notice that conjugations in the present tense are different from those in the preterite.
+
 For the -ar regular verbs, we will briefly review the conjugation of the verb hablar (to speak or to talk) in the preterite. When conjugating it, drop the infinitive-ar and change it for the corresponding endings.
-*Yo hablé*		    I spoke
-*Tu hablaste*		    You spoke (informal-singular)
-*El habló*		    He spoke
-*Ella habló*		    She spoke
-*Usted habló*		    You spoke (formal-singular)
-*Nosotros hablamos*	   We spoke
-*Ellos hablaron*	   They spoke
-*Vosotros hablasteis*   You spoke (plural)
-*Ustedes hablaron*	   You spoke (plural)
+
+* *Yo hablé*		    I spoke
+* *Tu hablaste*		    You spoke (informal-singular)
+* *El habló*		    He spoke
+* *Ella habló*		    She spoke
+* *Usted habló*		    You spoke (formal-singular)
+* *Nosotros hablamos*	   We spoke
+* *Ellos hablaron*	   They spoke
+* *Vosotros hablasteis*   You spoke (plural)
+* *Ustedes hablaron*	   You spoke (plural)
+
 Notice the accent marks on the *yo* form -é, and in *el, ella*, and *usted* forms -ó. These are very important when writing and speaking in Spanish. It gives the intonation of the consonant marking a difference between tenses.
 
 For example, *yo canto* (I sing from the present tense) and *el cantó* (he sang in the preterite).
+
 Now to practice with an -er regular verb. The verb *comer* (to eat) will be conjugated in the preterite. Watch for the endings, where some of them also have the accent marks.
-*Yo comí* 		 I ate
-*Tu comiste*		   You ate (informal-singular)
-*Él comió*		   He ate
-*Usted comió*		You ate (formal-singular)
-*Nosotros comimos*	   We ate
-*Ellos comieron*	   They ate
-*Vosotros comisteis*	   You ate (plural)
-*Ustedes comieron*	   You ate (plural)
-Lastly, we will conjugate the verb vivir in the preterite.
-*Yo viví* 		   I lived
-*Tu viviste*		    You lived (informal-plural)
-*El vivió*		    He lived
-*Usted vivió*		    You lived (formal-singular)
-*Nosotros vivimos*	   We lived
-*Vosotros vivisteis*	   You lived (plural)
-*Ustedes vivieron	*   You lived (plural)
-As you can see, the regular verbs ending in -er and ir have the exactly same endings when conjugated in the preterite. Now let’s briefly conjugate the same verbs in the future tense. This will show that again the future tense conjugates differently than the present and preterite
-Comparing present tense to Spanish future tense
+
+* *Yo comí* 		 I ate
+* *Tu comiste*		   You ate (informal-singular)
+* *Él comió*		   He ate
+* *Usted comió*		You ate (formal-singular)
+* *Nosotros comimos*	   We ate
+* *Ellos comieron*	   They ate
+* *Vosotros comisteis*	   You ate (plural)
+* *Ustedes comieron*	   You ate (plural)
+
+Lastly, we will conjugate the verb *vivir* in the preterite.
+
+* *Yo viví* 		   I lived
+* *Tu viviste*		    You lived (informal-plural)
+* *El vivió*		    He lived
+* *Usted vivió*		    You lived (formal-singular)
+* *Nosotros vivimos*	   We lived
+* *Vosotros vivisteis*	   You lived (plural)
+* *Ustedes vivieron	*   You lived (plural)
+
+As you can see, the regular verbs ending in -er and ir have the exactly same endings when conjugated in the preterite. Now let’s briefly conjugate the same verbs in the future tense. This will show that again the future tense conjugates differently than the present and preterite.
+
+## Comparing present tense to Spanish future tense
+
 Spanish conjugations in the future tense are a little different than the present and the preterite. Instead of dropping the endings and replacing them, we add endings to the already existed infinitive verbs according to each personal pronoun. The good news is that all the regular verbs ending in -ar, -er and -ir the endings are the same.
-*Yo hablaré*		   I will speak
-*Tu hablarás* 		   You will speak (informal-singular)
-*El hablará*		    He will speak
-*Usted hablará*	   You will peak (formal-singular)
-*Nosotros hablaremos* We will speak
-*Ellos hablarán*	   They will speak
-*Vosotros hablaréis*	   You will speak (plural)
-*Ustedes hablarán*	   You will speak(plural)
+
+* *Yo hablaré*		   I will speak
+* *Tu hablarás* 		   You will speak (informal-singular)
+* *El hablará*		    He will speak
+* *Usted hablará*	   You will peak (formal-singular)
+* *Nosotros hablaremos* We will speak
+* *Ellos hablarán*	   They will speak
+* *Vosotros hablaréis*	   You will speak (plural)
+* *Ustedes hablarán*	   You will speak(plural)
+
 Notice that the infinitive has stayed as it is, as in the yo form, hablar, and then the ending is -é resulting in yo hablaré. The same happens with all the conjugations of the other verbs but with different endings.
+
 As you can see, the present, the preterite and, the future tenses conjugate differently. However, studying and putting them into use will help you feel confident as you continue to practice Spanish.
+
 ## How do you memorize Spanish verb conjugations?
 The answer is: by tense and category. Write down each ending for regular verbs, then irregular verbs. Then, form small sentences based on all the uses of the present tense. Base the sentences in your own life, your hobbies, responsibilities, and actions of the moment. Write down about hypothetical situations, talk about what you will do in the near future, and practice ordering food.
+
 Another tip on how to learn Spanish conjugations is to read small stories in the language, and watch for the verb tenses. If you’d like, listen to music in Spanish and pay attention to how the verbs work, and you’ll find yourself better able to memorize their uses.
 
-If your goal is to become fluent, practicing with an experienced Spanish tutor can help you learn Spanish more effectively, and even more quickly. Through personalized lessons targeted to your own unique understanding of Spanish language, a fluent educator with the right know-how can be the difference between saying, “I’m learning Spanish,” and “I speak Spanish!”
+If your goal is to become fluent, practicing with an experienced Spanish tutor can help you learn Spanish more effectively, and even more quickly. Through personalized lessons targeted to your own unique understanding of Spanish language, a [fluent educator](https://www.wyzant.com/blog/online-spanish-lessons/) with the right know-how can be the difference between saying, “I’m learning Spanish,” and “I speak Spanish!”
 
- https://www.wyzant.com/blog/online-spanish-lessons/
+ 
 
