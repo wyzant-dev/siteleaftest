@@ -48,7 +48,6 @@ Your first step should be to sign up for [MyGED](https://ged.com/), a personaliz
 Next, you’ll need some books or online programs to aid in the test prep process. Look for books that have practice tests, as those will offer you the most effective training. Some companies also have personalized GED courses and additional practice material online. As your local area opens up from COVID-19 restrictions, you may be able to find some local GED classes as well. 
 
 Obviously, you will want to know what it will cost you to get your GED — not just the money, but the time involved. Securing a tutor can go a long way to getting you fully ready for the test. The guidance of a skilled tutor can help you obtain your desired score in less time - and with fewer headaches - than preparing solely on your own.
-
 #### The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
 
 With the recent explosion of online tutoring, there are now a wide range of [GED tutors](https://www.wyzant.com/blog/ged_tutoring/) out there to fit anyone’s schedule or budgetary needs. With a quick search online and a few [well-crafted interview questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), you can land the right tutor to guide your personalized GED preparation process.
@@ -100,7 +99,6 @@ The GED Social Studies test and Science test both center on the skills of analys
 **Total test time:** 1 hour, 10 minutes
 
 ### Science
-
 
 The GED Science test includes content from Life Science (40% of the content), Physical Science (40%), and Earth and Space Science (20%). Because both tests include data and infographics, you will be permitted to use a calculator and given access to the calculator reference sheet. 
 
