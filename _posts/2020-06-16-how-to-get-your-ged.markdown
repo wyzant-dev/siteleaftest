@@ -37,18 +37,18 @@ What does GED stand for? Originally, it was short for the Tests of General Educa
 
 As the most recognizable of the high school equivalency tests, the GED is used in 40 of the 50 states, although some of those states also accept the TASC (Test Assessing Secondary Completion) and/or the HiSET (High School Equivalency Test). Three states use only the TASC (Indiana, New York, and West Virginia), while seven states use only the HiSET (Iowa, Louisiana, Maine, Missouri, Montana, New Hampshire, and Tennessee).
 
-As for who can take the GED exam: basically, anyone at least 18 years old who hasn’t graduated from or isn’t currently enrolled in high school. If you’re 16 or 17 years old and have officially withdrawn from high school, you may also be able to take the GED if you meet special requirements. You will also have to meet all local requirements regarding age, residency, preparation, and the length of time since leaving school, so check out the specific details for your state.  
+As for who can take the GED exam: basically, anyone at least 18 years old who hasn’t graduated from or isn’t currently enrolled in high school. If you’re 16 or 17 years old and have officially withdrawn from high school, you may also be able to take the GED if you meet special requirements. You will also have to meet all [local requirements](https://bestgedclasses.org/ged-age-requirements-state/) regarding age, residency, preparation, and the length of time since leaving school, so check out the specific details for your state.  
 
 ## Take the first steps to get ready for the tests
-Your first step should be to sign up for MyGED, a personalized online program that will be your entry point to all test activities, including scheduling tests, viewing score reports, ordering transcripts, and obtaining your diploma.
+Your first step should be to sign up for [MyGED](https://ged.com/), a personalized online program that will be your entry point to all test activities, including scheduling tests, viewing score reports, ordering transcripts, and obtaining your diploma.
 
 Next, you’ll need some books or online programs to aid in the test prep process. Look for books that have practice tests, as those will offer you the most effective training. Some companies also have personalized GED courses and additional practice material online. As your local area opens up from COVID-19 restrictions, you may be able to find some local GED classes as well. 
 
-Obviously, you will want to know what it will cost you to get your GED—not just the money, but the time involved. Securing a tutor can go a long way to getting you fully ready for the test. The guidance of a skilled tutor can help you obtain your desired score in less time - and with fewer headaches - than preparing solely on your own.
+Obviously, you will want to know what it will cost you to get your GED — not just the money, but the time involved. Securing a tutor can go a long way to getting you fully ready for the test. The guidance of a skilled tutor can help you obtain your desired score in less time - and with fewer headaches - than preparing solely on your own.
 
-With the recent explosion of online tutoring, there are now a wide range of GED tutors out there to fit anyone’s schedule or budgetary needs. With a quick search online and a few well-crafted screening questions, you can land the right tutor to guide your personalized GED preparation process.
+With the recent explosion of online tutoring, there are now a wide range of [GED tutors](https://www.wyzant.com/blog/ged_tutoring/) out there to fit anyone’s schedule or budgetary needs. With a quick search online and a few [well-crafted interview questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), you can land the right tutor to guide your personalized GED preparation process.
 
-Of course, you want to know how to take the GED, and you may even be asking about how to get your GED online. Unfortunately, online testing is not currently an option according to the GED Testing Service: “The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
+Of course, you want to know how to take the GED, and you may even be asking about how to get your GED online. Unfortunately, online testing is [not currently an option](https://ged.com/) according to the GED Testing Service: “The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
 
 #### The GED test must be taken at a physical test center on a computer, where there is a proctor on site to monitor all test takers and ensure all protocol is followed.”
 
@@ -119,7 +119,7 @@ A score of 165-174 is considered GED College Ready: if you ever choose to enroll
 A score of 175-200 qualifies as GED College Ready + Credit, meaning you have demonstrated skills that could earn you up to 10 college credit hours.
 
 ## Work with a GED tutor who can guide your preparation process
-Although the GED itself cannot be administered remotely, your tutoring can take place online. Thanks to the development of powerful online learning platforms, tutors can guide your GED sessions just as effectively as they could if they were right next to you. During that preparation process, your tutor can help you become familiar with both the content and the format of the test by recommending study material and reviewing your work on GED practice tests.
+Although the GED itself cannot be administered remotely, your tutoring can [take place online](https://www.wyzant.com/blog/online-tutoring-best-practices/). Thanks to the development of powerful online learning platforms, tutors can guide your GED sessions [just as effectively](https://www.wyzant.com/blog/online-learning-tool-video/) as they could if they were right next to you. During that preparation process, your tutor can help you become familiar with both the content and the format of the test by recommending study material and reviewing your work on GED practice tests.
 
 While much of the material on the GED, such as certain concepts in Social Studies and Science, is conducive to self-study, having a tutor will give you that extra edge. Some math skills are necessary for both tests, as you will be asked to interpret data and statistics in graphs and charts, find the center (mean, median, and mode) in a statistical data set, and use probabilities and statistics in a science context.
 
@@ -140,11 +140,11 @@ As a final step in your preparation, you should take the GED Ready Official Prac
 
 ### Where are GED testing sites?
 
-To find a test center nearby, you can search directly from your MyGED account. When is the GED? Once you know which GED testing location works best, you can explore the available dates on the website for that particular facility. Registration costs vary from state to state, with the most common GED test costs being $30 per subject test ($120 total). Make sure you check for updates to GED test dates, as certain test centers may not be open due to the COVID-19 restrictions.
+To find a test center nearby, you can search directly from your MyGED account. When is the GED? Once you know which [GED testing location](https://ged.com/about_test/scheduling/#:~:text=Scheduling%20Your%20Test,-Once%20you're&text=Simply%20log%20into%20your%20GED,a%20credit%20or%20debit%20card.) works best, you can explore the available dates on the website for that particular facility. Registration costs vary from state to state, with the most [common GED test costs](https://ged.com/about_test/price_and_state_rules/) being $30 per subject test ($120 total). Make sure you check for updates to GED test dates, as certain test centers may not be open due to the COVID-19 restrictions.
 
 ## Get started today
 
 Few people are built for self-guided learning, so it’s natural to feel rudderless as you begin the path toward obtaining your GED. 
 
-Fortunately, an experienced GED tutor can provide the stability and direction you need, so take some time to reflect on your learning needs and what you want in a tutor. Reach out to an experienced tutor today to get the GED help you need to complete your journey to greater educational and occupational opportunities. 
+Fortunately, an experienced GED tutor can provide the stability and direction you need, so take some time to reflect on your learning needs and [what you want in a tutor](https://www.wyzant.com/blog/3-things-to-keep-in-mind-when-choosing-a-tutor/). Reach out to an experienced tutor today to get the [GED help you need](https://www.wyzant.com/GED_tutors.aspx) to complete your journey to greater educational and occupational opportunities. 
 
