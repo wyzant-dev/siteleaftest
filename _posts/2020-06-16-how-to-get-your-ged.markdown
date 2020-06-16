@@ -1,7 +1,6 @@
 ---
 title: How to Get Your GED
 date: 2020-06-16 11:09:00 -05:00
-published: false
 categories:
 - GED
 - Test Prep
