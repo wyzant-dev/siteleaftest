@@ -34,7 +34,7 @@ To conjugate regular -ar verbs in Spanish in the present, remove the infinitive 
 * *Tú:* You (singular, informal)
 * *Él:* he
 * *Ella:* she
-* *Usted:* (you -formal, singular)
+* *Usted:* (you - formal, singular)
 * *Nosotros:* We
 * *Ellos:* They (masculine)
 * *Ellas:* They (feminine)
@@ -47,10 +47,10 @@ Now that we have the list of the personal pronouns, we are going to conjugate th
 To conjugate a regular -ar Spanish verb, drop the infinitive ending -ar and replace it with its correct ending, as explained in this table:
 
 * *Yo hablo* - I speak
-* *Tú hablas* - You speak (informal-singular)
+* *Tú hablas* - You speak (informal, singular)
 * *Él habla* - He speaks
 * *Ella habla* - She speaks
-* *Usted habla* - You speak (formal-singular)
+* *Usted habla* - You speak (formal, singular)
 * *Nosotros hablamos* - We speak
 * *Ellos hablan* - They speak
 * *Vosotros hablais* - You speak (plural) 
@@ -61,10 +61,10 @@ These rules can be applied to all other regular verbs ending in -ar. These are s
 Let’s take the verb *trabajar* (to work) and conjugate it following the same endings we used for the verb *hablar* (to talk). Keep the root *trabaj-* but drop the infinitive -ar and replace it with the word’s respective conjugation. 
 
 * *Yo trabajo* - I work
-* *Tú trabajas* - You work (informal-singular)
+* *Tú trabajas* - You work (informal, singular)
 * *Él trabaja* - He works
 * *Ella Trabaja* - She works
-* *Usted trabaja* - You work (formal-singular)
+* *Usted trabaja* - You work (formal, singular)
 * *Ellos trabajan* - They work
 * *Vosotros trabajáis* - You work (plural)
 * *Ustedes trabajan* - You work (plural)
@@ -84,7 +84,7 @@ You can find some examples of these endings in the following table using the ver
 * *Tú comes* - You eat (singular)
 * *Él come* - He eats
 * *Ella come* - She eats
-* *Usted come* - You eat (singular formal)
+* *Usted come* - You eat (formal, singular)
 * *Nosotros comemos* - We eat
 * *Ellos comen* - They eat
 * *Vosotros coméis* - You eat (plural)
@@ -95,7 +95,7 @@ These rules can be applied to all other regular verbs ending in -er . These are 
 Let’s practice with the verb *aprender* (to learn), conjugating it following the same endings we used for the verb *comer* (to eat). Keep the root *aprend-* but drop the infinitive -er and use the correct endings: 
 
 * *Yo aprendo* - I learn
-* *Tú aprendes* - You learn (informal-singular)
+* *Tú aprendes* - You learn (informal, singular)
 * *Él aprende* - He learns
 * *Usted aprende* - You (formal) learn
 * *Nosotros aprendemos* - We learn
@@ -121,7 +121,7 @@ To conjugate an -ir verb, remove the infinitive ending -ir and add the ending th
 * *Tu vives* - You live (singular)
 * *El vive* - He lives
 * *Ella vive* - She lives
-* *Usted vive* - You live (singular formal)
+* *Usted vive* - You live (singular, formal)
 * *Nosotros vivimos* - We live
 * *Ellos viven* - They live
 * *Vosotros vivís* - You live (plural)
@@ -152,10 +152,10 @@ Second, when conjugating the rest of the pronouns, there is a stem-changing verb
 Third the endings of the conjugations of the pronouns, except for the yo form, are the same as the -er regular verbs (as seen above). 
 
 * *Yo tengo* - I have
-* *Tú tienes* - You have (informal-singular)
+* *Tú tienes* - You have (informal, singular)
 * *Él tiene* - He has
 * *Ella tiene* - She has
-* *Usted tiene* - You have (formal-singular) 
+* *Usted tiene* - You have (formal, singular) 
 * *Nosotros tenemos* - We have
 * *Ellos tienen* - They have
 * *Vosotros tenéis* - You have (plural)
@@ -169,10 +169,10 @@ There are other irregular verbs that end in -ner in the present tense that conju
 Let’s take a look at the chart to understand it better.
 
 * *Yo hago* - I do, I make
-* *Tú haces* - You do, you make (informal-singual)
+* *Tú haces* - You do, you make (informal, singual)
 * *Él hace* - He does, He makes
 * *Ella hace* - She does She makes
-* *Usted hace* - You do, you make (formal-singular)
+* *Usted hace* - You do, you make (formal, singular)
 * *Nosotros hacemos* - We do, we make
 * *Ellos hacen* - They do they make
 * *Vosotros hacéis* - You do, yo make (plural)
@@ -186,15 +186,15 @@ Here some examples using the verb *hacer* in the Spanish present tense:
 ### Ir
 *Ir* means “to go”. The *ir* conjugation is irregular because it completely changes its form when conjugating in the present tense:
 
-* *Yo voy*		 I go
-* *Tu vas*		You go (informal-singular)
-* *Él va* 			 He goes
-* *Ella va*		 She goes
-* *Usted va*		You go (fomal-singular)
-* *Nosotros vamos*	 We go
-* *Ellos van*		 They go
-* *Vosotros váis*	 You go (plural)
-* *Ustedes van*		 You go (plural)
+* *Yo voy* - I go
+* *Tu vas* - You go (informal, singular)
+* *Él va* - He goes
+* *Ella va* - She goes
+* *Usted va* - You go (formal, singular)
+* *Nosotros vamos* - We go
+* *Ellos van* - They go
+* *Vosotros váis* - You go (plural)
+* *Ustedes van* - You go (plural)
 
 When studying, one of the fastest ways to learn Spanish is by practicing writing one conjugation at a time. Create small sentences with each subject about yourself and people you know. Incorporate the verbs in your life applying the uses we will see in the following sections. It will help to be more familiarized with the conjugations of regular verbs and especially the irregular verbs. For example:
 
@@ -205,7 +205,7 @@ When studying, one of the fastest ways to learn Spanish is by practicing writing
 If you feel up to it, try using conjugations in Spanish while practicing important words and phrases in Spanish.
 
 
-## Uses of the Spanish Present Tense
+## Using the Spanish present tense
 *El presente* is used to talk about routines or habitual actions, for stating what is happening now, to talk about the near future, for universal truths, for hypothetical situations, and for ordering food.
  
 ### Routines or Habitual Actions
@@ -225,7 +225,7 @@ Expressing something happening at the moment of speaking is usually done in the 
 For example:
 
 * *Qué haces?* - What are you doing?
-* *Limpio mi cuarto.* - I am cleaning my room
+* *Limpio mi cuarto.* - I am cleaning my room.
 * *¿Cómo estás?* - How are you doing?
 * *Estoy bien.* - I am doing well.
 
@@ -233,13 +233,13 @@ Notice that in the previous sentences, the subjects are not visually written. In
 
 *Tengo* comes from the verb *tener*. It is the only verb in the *yo* form that conjugates like that. So, the subject *yo* is implicit in the verb itself.
 
-### Near Future
+### Near-future
 The Spanish present tense can also be used to express events that will happen in the near future, like:
 
 * *Voy al supermecado. ¿Vienes conmigo?* - I am going to the supermarket. Do you want to come with me?
 * *Nosotros llegamos a tu casa em media hora.* - We are going to arrive at your house in thirty minutes.
 
-### Universal Truths
+### Expressing universal truths
 *El presente* is also used to express things that are universally known or generally accepted. These can be facts, opinions, or proverbs. For example:
 
 * *Un dia tiene 24 horas.* - A day has 24 hours.
@@ -250,14 +250,14 @@ In general, idioms and sayings in Spanish do not literally use the same vocabula
 
 Practice looking for Spanish idioms in English and finding the correct translation into Spanish. You will be surprised by the difference in vocabulary. However, the present tense will be used abundantly.
 
-### Hypothetical Situations
+### Hypothetical situations
 
 When used with the conjunction *si* (if), the Spanish present tense can express hypothetical situations and outcomes, as it does in these examples:
 
 * *Si hablas despacio, te entiendo.* - If you speak slowly, I understand.
 * *Si llegas temprano hoy, vemos una película.* - If you arrive home early today, we watch a movie.
 
-### Ordering
+### Ordering food 
 *El presente del indicativo* is also used when ordering in a restaurant or in a store.
 
 * *Quiero dos tacos de carne con queso.* - I would like two beef tacos with cheese.
@@ -276,40 +276,40 @@ The next examples will briefly show some conjugations of three verbs in the pret
 
 For the -ar regular verbs, we will briefly review the conjugation of the verb hablar (to speak or to talk) in the preterite. When conjugating it, drop the infinitive-ar and change it for the corresponding endings.
 
-* *Yo hablé*		    I spoke
-* *Tu hablaste*		    You spoke (informal-singular)
-* *El habló*		    He spoke
-* *Ella habló*		    She spoke
-* *Usted habló*		    You spoke (formal-singular)
-* *Nosotros hablamos*	   We spoke
-* *Ellos hablaron*	   They spoke
-* *Vosotros hablasteis*   You spoke (plural)
-* *Ustedes hablaron*	   You spoke (plural)
+* *Yo hablé* - I spoke
+* *Tu hablaste* - You spoke (informal, singular)
+* *El habló* - He spoke
+* *Ella habló* - She spoke
+* *Usted habló* - You spoke (formal, singular)
+* *Nosotros hablamos* - We spoke
+* *Ellos hablaron* - They spoke
+* *Vosotros hablasteis* - You spoke (plural)
+* *Ustedes hablaron* - You spoke (plural)
 
 Notice the accent marks on the *yo* form -é, and in *el, ella*, and *usted* forms -ó. These are very important when writing and speaking in Spanish. It gives the intonation of the consonant marking a difference between tenses.
 
-For example, *yo canto* (I sing from the present tense) and *el cantó* (he sang in the preterite).
+For example, *yo canto* ("I sing" from the present tense) and *el cantó* ("he sang" in the preterite).
 
 Now to practice with an -er regular verb. The verb *comer* (to eat) will be conjugated in the preterite. Watch for the endings, where some of them also have the accent marks.
 
-* *Yo comí* 		 I ate
-* *Tu comiste*		   You ate (informal-singular)
-* *Él comió*		   He ate
-* *Usted comió*		You ate (formal-singular)
-* *Nosotros comimos*	   We ate
-* *Ellos comieron*	   They ate
-* *Vosotros comisteis*	   You ate (plural)
-* *Ustedes comieron*	   You ate (plural)
+* *Yo comí* - I ate
+* *Tu comiste* - You ate (informal, singular)
+* *Él comió* - He ate
+* *Usted comió* - You ate (formal, singular)
+* *Nosotros comimos* - We ate
+* *Ellos comieron* - They ate
+* *Vosotros comisteis* - You ate (plural)
+* *Ustedes comieron* - You ate (plural)
 
 Lastly, we will conjugate the verb *vivir* in the preterite.
 
-* *Yo viví* 		   I lived
-* *Tu viviste*		    You lived (informal-plural)
-* *El vivió*		    He lived
-* *Usted vivió*		    You lived (formal-singular)
-* *Nosotros vivimos*	   We lived
-* *Vosotros vivisteis*	   You lived (plural)
-* *Ustedes vivieron	*   You lived (plural)
+* *Yo viví* - I lived
+* *Tu viviste* - You lived (informal, plural)
+* *El vivió* - He lived
+* *Usted vivió* - You lived (formal, singular)
+* *Nosotros vivimos* - We lived
+* *Vosotros vivisteis* - You lived (plural)
+* *Ustedes vivieron* - You lived (plural)
 
 As you can see, the regular verbs ending in -er and ir have the exactly same endings when conjugated in the preterite. Now let’s briefly conjugate the same verbs in the future tense. This will show that again the future tense conjugates differently than the present and preterite.
 
@@ -317,21 +317,24 @@ As you can see, the regular verbs ending in -er and ir have the exactly same end
 
 Spanish conjugations in the future tense are a little different than the present and the preterite. Instead of dropping the endings and replacing them, we add endings to the already existed infinitive verbs according to each personal pronoun. The good news is that all the regular verbs ending in -ar, -er and -ir the endings are the same.
 
-* *Yo hablaré*		   I will speak
-* *Tu hablarás* 		   You will speak (informal-singular)
-* *El hablará*		    He will speak
-* *Usted hablará*	   You will peak (formal-singular)
-* *Nosotros hablaremos* We will speak
-* *Ellos hablarán*	   They will speak
-* *Vosotros hablaréis*	   You will speak (plural)
-* *Ustedes hablarán*	   You will speak(plural)
+* *Yo hablaré* - I will speak
+* *Tu hablarás* - You will speak (informal, singular)
+* *El hablará* - He will speak
+* *Usted hablará* - You will peak (formal, singular)
+* *Nosotros hablaremos* - We will speak
+* *Ellos hablarán* - They will speak
+* *Vosotros hablaréis* - You will speak (plural)
+* *Ustedes hablarán* - You will speak(plural)
 
-Notice that the infinitive has stayed as it is, as in the yo form, hablar, and then the ending is -é resulting in yo hablaré. The same happens with all the conjugations of the other verbs but with different endings.
+Notice that the infinitive has stayed as it is, as in the *yo* form, *hablar*, and then the ending is -é resulting in *yo hablaré.* The same happens with all the conjugations of the other verbs but with different endings.
 
 As you can see, the present, the preterite and, the future tenses conjugate differently. However, studying and putting them into use will help you feel confident as you continue to practice Spanish.
 
 ## How do you memorize Spanish verb conjugations?
-The answer is: by tense and category. Write down each ending for regular verbs, then irregular verbs. Then, form small sentences based on all the uses of the present tense. Base the sentences in your own life, your hobbies, responsibilities, and actions of the moment. Write down about hypothetical situations, talk about what you will do in the near future, and practice ordering food.
+
+The answer is: by tense and category. First, write down each ending for regular verbs, then irregular verbs.
+
+Then, form small sentences based on all the uses of the present tense. Base the sentences in your own life, your hobbies, responsibilities, and actions of the moment. Write down about hypothetical situations, talk about what you will do in the near future, and practice ordering food.
 
 Another tip on how to learn Spanish conjugations is to read small stories in the language, and watch for the verb tenses. If you’d like, listen to music in Spanish and pay attention to how the verbs work, and you’ll find yourself better able to memorize their uses.
 
