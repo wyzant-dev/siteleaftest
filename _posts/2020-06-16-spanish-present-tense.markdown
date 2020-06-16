@@ -13,7 +13,7 @@ hero-image: "/blog/uploads/How%20to%20Practice%20Conjugations%20in%20Spanish%20P
 
 One of the most important aspects of [learning Spanish](https://www.wyzant.com/Spanish_tutors.aspx) is knowing how to conjugate verbs. As a beginner student, you will notice that verbs conjugate differently based on tenses and personal pronouns. The Spanish present tense is not an exception.
 
-The conjugation of verbs in the Spanish present tense is not the same for all kinds of verbs (regular, irregular, etc.). Consequently, you might be wondering how to practice and when to use the conjugations of *el presente*. The good news is that studying the present tense in an organized way will help you comprehend it better.
+The conjugation of verbs in the Spanish present tense is not the same for all kinds of verbs (regular, irregular, etc.). Consequently, you might be wondering how to practice, and when to use the conjugations of *el presente*. The good news is that studying the present tense in an organized way will help you comprehend it better.
 
 This article will present you with organized ideas on how to conjugate and study regular and main irregular verbs in the present tense, and how to use this tense. It will make a short comparison with the preterite and future tenses in Spanish. With these selections, practicing the present tense will be more natural and more understandable, which means you’re on your way to mastering Spanish.
 
