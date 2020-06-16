@@ -11,6 +11,7 @@ tags:
 author: Jonathan Reidenouer
 sub-headline: The GED assesses a student’s knowledge of topics covered in a typical
   high school classroom, from history and government, to life science and algebra.
+hero-image: "/blog/uploads/How%20to%20Get%20Your%20GED.png"
 meta-description: 'Regardless of why you didn''t finish high school, it’s important
   to recognize that you have the right to change direction in life: it’s not that
   you made mistakes in the past, but that you''re making the right decision for your
