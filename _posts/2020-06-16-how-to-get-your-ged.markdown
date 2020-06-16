@@ -68,11 +68,12 @@ Each of the four GED tests has its own specific content. By far, the test that m
 
 In addition, you will have access to a calculator reference sheet, a math formula sheet, and a hand-held whiteboard and dry-erase marker (instead of scratch paper).
 
-Format: Two parts, one break
-5 questions with no calculator: 20 mins
-Short break
-35-40 questions with the official GED calculator: 95 mins
-Total test time: 1 hour, 55 minutes
+**Format:** Two parts, one break
+* 5 questions with no calculator: 20 mins
+* Short break
+* 35-40 questions with the official GED calculator: 95 mins
+
+**Total test time:** 1 hour, 55 minutes
 
 ### Reasoning through Language Arts
 
@@ -80,28 +81,30 @@ In the Reasoning through Language Arts test, you will answer questions on Langua
 
 The extended response is an evidence-based writing task, meaning that you need to base your position on the information and arguments in the two passages that are provided. Most students find the essay quite challenging, so you’ll want to rely heavily on your tutor to teach you the proper analytical and writing skills. 
 
-Format: Three sections, one break
-About 20 questions in 30 minutes
-Written essay (extended response comparison of two passages): maximum 45 minutes
-10-minute break
-30-35 questions in 65 minutes
-Total test time: 2 hours, 30 minutes
+**Format:** Three sections, one break
+* About 20 questions in 30 minutes
+* Written essay (extended response comparison of two passages): maximum 45 minutes
+* 10-minute break
+* 30-35 questions in 65 minutes
+
+**Total test time:** 2 hours, 30 minutes
 
 ###  Social Studies
 
 The GED Social Studies test and Science test both center on the skills of analysis, inference, evaluation, and data interpretation. Content covered on the Social Studies test includes material from Civics and Government (50% of the content), U.S. History (20%), Economics (15%), and Geography and the World (15%).  
  
-Format: 30-35 questions with no breaks
-Total test time: 1 hour, 10 minutes
+**Format:** 30-35 questions with no breaks
+**Total test time:** 1 hour, 10 minutes
 
 ### Science
 
 
 The GED Science test includes content from Life Science (40% of the content), Physical Science (40%), and Earth and Space Science (20%). Because both tests include data and infographics, you will be permitted to use a calculator and given access to the calculator reference sheet. 
 
-Format: 30-35 questions with no breaks
-Includes two short-answer written responses to passages and/or graphics (up to 10 minutes for each)
-Total test time: 1 hour, 30 minutes
+**Format: **30-35 questions with no breaks
+* Includes two short-answer written responses to passages and/or graphics (up to 10 minutes for each)
+
+**Total test time:** 1 hour, 30 minutes
 
 The number of points you earn is translated into a scaled score ranging from 100-200 for each subject test. Understanding the different tiers of passing GED scores will give you something to shoot for as you go through the test prep process.
 
