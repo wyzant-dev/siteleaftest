@@ -44,15 +44,16 @@ Now that we have the list of the personal pronouns, we are going to conjugate th
 
 To conjugate a regular -ar Spanish verb, drop the infinitive ending -ar and replace it with its correct ending, as explained in this table:
 
-*Yo hablo*			    I speak
-*Tú hablas*			   You speak (informal-singular)
-*Él habla*		   He speaks
-*Ella habla*		   She speaks
-*Usted habla*			   You speak (formal-singular)
-*Nosotros hablamos*		 We speak
-*Ellos hablan*			   They speak
-*Vosotros hablais*		 You speak (plural) 
-*Ustedes hablan*		 You speak (plural)
+*Yo hablo* - I speak
+*Tú hablas* - You speak (informal-singular)
+*Él habla* - He speaks
+*Ella habla* - She speaks
+*Usted habla* - You speak (formal-singular)
+*Nosotros hablamos* - We speak
+*Ellos hablan* - They speak
+*Vosotros hablais* - You speak (plural) 
+*Ustedes hablan* - You speak (plural)
+
 These rules can be applied to all other regular verbs ending in -ar. These are some -ar regular verbs: *trabajar* (to work), *estudiar* (to study), *limpiar* (to clean), *enseñar* (to teach), *caminar* (to walk), *cantar* (to sing), *cocinar* (to cook).
 Let’s take the verb *trabajar* (to work) and conjugate it following the same endings we used for the verb *hablar* (to talk). Keep the root *trabaj-* but drop the infinitive -ar and replace it with the word’s respective conjugation. 
 *Yo trabajo*			    I work
