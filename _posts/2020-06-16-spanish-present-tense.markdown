@@ -143,6 +143,7 @@ To conjugate an -ir verb, remove the infinitive ending -ir and add the ending th
 These endings can be applied to other regular -ir verbs. Some of the most useful are *escribir* (to write), *recibir* (to receive), *abrir* (to open), *permitir* (to allow), *dividir* (to divide), and *imprimir* (to print).
 
 Once again, third person singulars like *el*, *ella*, and *usted* have the same endings as the -er verb counterparts: -e. You can see it in action in verbs like *él come* (he eats), *él vive* (he lives), *ella aprende* (she learns)* ella vive* (she lives), *usted lee* (you read, formal), and *usted vive* (you live, formal).
+
 The third person plural for ellos and ustedes have the same endings as the er verbs -en. 
 
 When studying, make sure to practice these verbs and make comparisons when necessary. To feel more familiar in a shorter amount of time, [practice in small conversations](https://www.wyzant.com/Spanish_tutors.aspx) with friends or a Spanish tutor.
