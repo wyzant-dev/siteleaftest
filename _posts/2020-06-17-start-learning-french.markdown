@@ -18,6 +18,8 @@ Once you’ve set your goals, stick to a schedule. How long does it take to lear
 
 Having the right attitude is just as important as using the right study materials. If you go into learning French with an attitude of curiosity instead of obligation to meet certain milestones, it will be easier to maintain your enthusiasm over time
 
+![How to Learn French on Your Own](/blog/uploads/How%20to%20Learn%20French%20on%20Your%20Own%20w%20text.png)
+
 Read More: [How to Learn French on Your Own](https://www.wyzant.com/blog/how-to-learn-french/)
 
 ## Avoid common language-learning mistakes
