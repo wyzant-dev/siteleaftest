@@ -201,5 +201,7 @@ Once you decide which keyboard add-on you want to use, here are the instructions
 
 No matter which method you like the best, you’ll be ready to type in French whether it’s in [present](https://www.wyzant.com/blog/french-verbs-present-tense/), [past](https://www.wyzant.com/blog/french-past-tense/), or [future tense](https://www.wyzant.com/blog/french-future-tense/). Don’t forget to make the most of your learning by booking a [French tutor](https://www.wyzant.com/French_tutors.aspx).
 
+To learn everything you need to start learning French, check out our [indispensable guide](https://www.wyzant.com/blog/start-learning-french/). 
+
 
  
