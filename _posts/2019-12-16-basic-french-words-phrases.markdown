@@ -138,6 +138,8 @@ No one wants to be That American Tourist. Here are some tips that will make you 
 
 If you want to prepare as well as you can, try booking a French tutor. That way, you can get lessons that are tailored to your goals that include [French grammar rules](https://www.wyzant.com/blog/french-grammar-basics/). Contrary to popular belief, one-on-one tutoring is not just for students who want to do better in their classes. Many tutors have specific curriculum for travel preparation. Look for words like tourism, travel preparation, adult education, and adult learning in their descriptions. For the best results, start a month or two before your trip. Have some goals in mind when you schedule your first session. The more specific you can get, the better.
 
+Our [indispensable guide to learning French](https://www.wyzant.com/blog/start-learning-french/) contains everything you need to know to begin learning one of the most-spoken languages in the world. 
+
 If you would rather learn in a classroom setting, see if your city has an [Alliance Francaise](https://afusa.org/chapters-map/). It is a great place to take lessons and go to events for French learners. Many cities also have social groups for language learners that you can find on Facebook groups or Meetup.
 
 There are also tons of great language learning apps. They work best as a supplement to your lessons, not as your only source of education. Duolingo makes learning a game. Babbel is a great way to practice real-life situations.
