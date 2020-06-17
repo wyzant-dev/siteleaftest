@@ -85,6 +85,8 @@ There are also three ways to talk about the future in French: *le futur proche, 
 
 *Le futur antérieur* is for “will have” statements. Like *le passé composé*, it has two parts: a helping verb and a main verb.
 
+![A French Future Tense Study Guide](/blog/uploads/A%20French%20Future%20Tense%20Study%20Guide%20w%20text.png)
+
 Read More: [A French Future Tense Study Guide](https://www.wyzant.com/blog/french-future-tense/)
 
 ## Practice pronunciation
@@ -94,6 +96,8 @@ French sounds may be hard for English speakers to make. The nasal sounds will es
 French accent marks also are easier to understand than they look. In English, one letter can make a variety of different sounds. In French and other languages that have accent marks, letters that make a different sound than they typically do are marked with an accent mark. 
 
 Don’t wait to start working on pronunciation. Start by learning the sounds that each letter makes in French, then keep working on it until it doesn’t feel weird anymore. Practicing with the intention to get it right early will help you speak more confidently. Listening to native speakers will also help you sound more authentic. 
+
+![An Easy Guide to French Pronunciation](/blog/uploads/An%20Easy%20Guide%20to%20French%20Pronunciation%20w%20text.png)
 
 Read More: [An Easy Guide to French Pronunciation](https://www.wyzant.com/blog/french-pronunciation/)
 	         
