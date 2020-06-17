@@ -18,8 +18,6 @@ Once you’ve set your goals, stick to a schedule. How long does it take to lear
 
 Having the right attitude is just as important as using the right study materials. If you go into learning French with an attitude of curiosity instead of obligation to meet certain milestones, it will be easier to maintain your enthusiasm over time
 
-![12 Biggest Mistakes to Avoid When Learning a New Language](/blog/uploads/12%20Biggest%20Mistakes%20to%20Avoid%20When%20Learning%20a%20New%20Language%20w%20text.png)
-
 Read More: [How to Learn French on Your Own](https://www.wyzant.com/blog/how-to-learn-french/)
 
 ## Avoid common language-learning mistakes
@@ -29,6 +27,8 @@ Self-directed study may be liberating, but it’s important not to pick up bad h
 Some examples of these mistakes include using an approach that doesn’t match the way you learn, setting vague goals, getting discouraged by your mistakes, focusing on the wrong vocabulary, not asking for help, thinking immersion requires moving to another country, and thinking it has to be hard.
 
 Learning how to establish good habits instead of these bad ones will get you on the right track sooner.
+
+![12 Biggest Mistakes to Avoid When Learning a New Language](/blog/uploads/12%20Biggest%20Mistakes%20to%20Avoid%20When%20Learning%20a%20New%20Language%20w%20text.png)
 
 Read More: [12 Biggest Mistakes to Avoid When Learning a New Language](https://www.wyzant.com/blog/mistakes-to-avoid-when-learning-a-new-language/)
 
