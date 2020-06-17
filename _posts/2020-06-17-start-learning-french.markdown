@@ -127,6 +127,8 @@ Learning a little French before you go to France (or any other Francophone terri
 
 Starting with greetings like most beginner French instruction programs is still a good idea, but after that you will need to focus on things that will be relevant to your travels. You will also need to know how to ask for help or directions, apologize, and order food among other things. It is also a good idea to learn about social norms before you go. Knowing how to be respectful to locals isn’t just the right thing to do, but it will make your trip much more enjoyable.
 
+![46 Basic French Words and Phrases for Travel.png](/blog/uploads/46%20Basic%20French%20Words%20and%20Phrases%20for%20Travel.png)
+
 Read More: [46 Basic French Words and Phrases for Travel](https://www.wyzant.com/blog/french-expressions/)
 
 ## Partner with a French tutor
