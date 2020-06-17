@@ -56,3 +56,10 @@ A logical next step in French verb conjugations is the past tense.There are thre
  
 Read more: [Le Passé Composé: Learning the French Past Tense](https://www.wyzant.com/blog/french-past-tense/) 
 
+### French future tense conjugations
+
+There are also three ways to talk about the future in French: le futur proche, le futur simple, and le futur antérieur. Le futur proche is for “going to” expressions and works almost exactly the same as it does in English. Le futur simple is equivalent to “will” statements, though it’s constructed differently that in English becauses the word “will” on its own does not exist in French. Le futur antérieur is for “will have” statements. Like le passé composé it has two parts: a helping verb and a main verb.
+
+Read More: [A French Future Tense Study Guide](https://www.wyzant.com/blog/french-future-tense/)
+	         
+
