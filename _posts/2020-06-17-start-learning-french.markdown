@@ -135,8 +135,8 @@ Read More: [46 Basic French Words and Phrases for Travel](https://www.wyzant.com
 
 No matter what your French learning goals are, a tutor or conversation partner can help you meet them. Hands-down, personalized lessons in a new language are the most effective method of starting on a path to fluency. 
 
-French tutoring is so much more than help with school assignments. One-on-one assistance can hold you accountable in your self-study, and that study will be more productive, since your focus will always remain on the elements of learning French that you need help understanding (no one-size-fits-all approaches here). There are even tutors that specialize in adult learning. With online sessions, you can easily fit sessions into your schedule. 
-
 ![A list of online French Tutors at Wyzant](/blog/uploads/Online%20French%20Tutors%20at%20Wyzant.png)
+
+French tutoring is so much more than help with school assignments. One-on-one assistance can hold you accountable in your self-study, and that study will be more productive, since your focus will always remain on the elements of learning French that you need help understanding (no one-size-fits-all approaches here). There are even tutors that specialize in adult learning. With online sessions, you can easily fit sessions into your schedule. 
 
 Learn more by finding [your perfect French Tutor](https://www.wyzant.com/French_tutors.aspx)
