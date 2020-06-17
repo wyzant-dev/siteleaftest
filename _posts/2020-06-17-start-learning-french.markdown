@@ -42,6 +42,8 @@ Unlike English, every French rule exists on purpose. Since the seventeenth centu
 
 The clearest example of this are plurals. You won’t find anything like mouse/mice in French because there are fewer exceptions to the general rule that adding an -s to the end of a word makes it plural. There is some weird stuff tossed in the mix to keep non-native speakers on our toes, though. How else would they explain “le squelette”? 
 
+![Fundamentals of French Grammar](/blog/uploads/Fundamentals%20of%20French%20Grammar%20w%20text.png)
+
 Read More: [Fundamentals of French Grammar](https://www.wyzant.com/blog/french-grammar-basics/)
 
 ## Learn French tenses
