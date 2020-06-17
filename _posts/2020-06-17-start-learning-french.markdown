@@ -55,7 +55,9 @@ The three main tenses - past, present, and future - are the right place to begin
 
 ### French present tense conjugations
 
-The most logical place to start learning how to conjugate French verbs is with the present tense. It’s both the easiest and allows you to communicate the most concepts. There are three kinds of regular French verbs: -er verbs, -ir verbs, and -re verbs, each with different conjugation patterns. 
+The most logical place to start learning how to conjugate French verbs is with the present tense. It’s both the easiest and allows you to communicate the most concepts. There are three kinds of regular French verbs: -er verbs, -ir verbs, and -re verbs, each with different conjugation patterns.
+
+![22 French Verbs w Present Tense Conjugations](/blog/uploads/22%20French%20Verbs%20w%20Present%20Tense%20Conjugations%20w%20text.png) 
 
 Read more: [22 French Verbs with Present Tense Conjugations](https://www.wyzant.com/blog/french-verbs-present-tense/)
 
