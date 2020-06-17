@@ -52,14 +52,36 @@ Read more: [22 French Verbs with Present Tense Conjugations](https://www.wyzant.
 
 ### French past tense conjugations 
 
-A logical next step in French verb conjugations is the past tense.There are three ways to talk about the past in French: le passé composé, l’imparfait, and le passé simple. Le passé composé is the most common one and the easiest to understand. It is used to describe events that took place entirely in the past. L’imparfait describes people’s emotional or physical states during past events, “used to” expressions, and events that were ongoing while something else was happening. Le passé simple is used in literature, so most French instructors don’t spend a lot of time on teaching how to use it, just how to understand it when you read it. 
+A logical next step in French verb conjugations is the past tense. There are three ways to talk about the past in French: *le passé composé, l’imparfait*, and *le passé simple*.
+
+*Le passé composé* is the most common one and the easiest to understand. It is used to describe events that took place entirely in the past.
+
+*L’imparfait* describes people’s emotional or physical states during past events, “used to” expressions, and events that were ongoing while something else was happening.
+
+*Le passé simple* is used in literature, so most French instructors don’t spend a lot of time on teaching how to use it, just how to understand it when you read it. 
  
 Read more: [Le Passé Composé: Learning the French Past Tense](https://www.wyzant.com/blog/french-past-tense/) 
 
 ### French future tense conjugations
 
-There are also three ways to talk about the future in French: le futur proche, le futur simple, and le futur antérieur. Le futur proche is for “going to” expressions and works almost exactly the same as it does in English. Le futur simple is equivalent to “will” statements, though it’s constructed differently that in English becauses the word “will” on its own does not exist in French. Le futur antérieur is for “will have” statements. Like le passé composé it has two parts: a helping verb and a main verb.
+There are also three ways to talk about the future in French: *le futur proche, le futur simple*, and *le futur antérieur*.
+
+*Le futur proche* is for “going to” expressions and works almost exactly the same as it does in English.
+
+*Le futur simple* is equivalent to “will” statements, though it’s constructed differently that in English because the word “will” on its own does not exist in French.
+
+*Le futur antérieur* is for “will have” statements. Like *le passé composé*, it has two parts: a helping verb and a main verb.
 
 Read More: [A French Future Tense Study Guide](https://www.wyzant.com/blog/french-future-tense/)
+
+## Practice pronunciation
+
+French sounds may be hard for English speakers to make. The nasal sounds will especially take a lot of practice because English does not have a direct equivalent. There is good news though: French pronunciation rules are more consistent and logical than English pronunciation rules.
+
+French accent marks also are easier to understand than they look. In English, one letter can make a variety of different sounds. In French and other languages that have accent marks, letters that make a different sound than they typically do are marked with an accent mark. 
+
+Don’t wait to start working on pronunciation. Start by learning the sounds that each letter makes in French, then keep working on it until it doesn’t feel weird anymore. Practicing with the intention to get it right early will help you speak more confidently. Listening to native speakers will also help you sound more authentic. 
+
+Read More: [An Easy Guide to French Pronunciation](https://www.wyzant.com/blog/french-pronunciation/)
 	         
 
