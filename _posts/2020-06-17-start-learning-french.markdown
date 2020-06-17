@@ -84,4 +84,10 @@ Don’t wait to start working on pronunciation. Start by learning the sounds tha
 
 Read More: [An Easy Guide to French Pronunciation](https://www.wyzant.com/blog/french-pronunciation/)
 	         
+## Learn French idioms and expressions
 
+Unless you only plan to use your French in stuffy, formal settings, you'll need to learn about colloquialisms at some point. And unless you are stuffy and formal as a person, you will probably want to anyway. They’re fun!
+
+As you’ve probably guessed by now, non-literal expressions don’t translate directly between languages. Learning a few of the most common French phrases, expressions, idioms, and colloquialisms will get you on your way to speaking French more like a native speaker. 
+
+Read More: [26 French Expressions Everyone Should Know](https://www.wyzant.com/blog/french-expressions/)
