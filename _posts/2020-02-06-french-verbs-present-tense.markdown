@@ -19,7 +19,7 @@ post-description: The most logical place to start is le present, or the French p
   facts, current actions, and repeated actions.
 ---
 
-If your goal is to be fluent in French, you're going to have to make peace with verb conjugations. Conjugations are rules about how you say a verb depending on the tense, mood, and subject of a sentence. If you’re an adult native English speaker, you probably spend very little time, if any at all, thinking about English verb conjugations.
+If your goal is to [be fluent in French](https://www.wyzant.com/blog/start-learning-french/), you're going to have to make peace with verb conjugations. Conjugations are rules about how you say a verb depending on the tense, mood, and subject of a sentence. If you’re an adult native English speaker, you probably spend very little time, if any at all, thinking about English verb conjugations.
 
 When you’re [learning a new language](https://www.wyzant.com/French_tutors.aspx), though, you have to. French conjugations are not  usually intuitive to English speakers. Though many French tenses have direct English equivalents, many don't. If, like many first-time French language learners, you're trying to pick up the basics for [an upcoming trip](https://www.wyzant.com/blog/basic-french-words-phrases/), conjugations can seem intimidating.
 
