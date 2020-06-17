@@ -10,6 +10,7 @@ tags:
 author: Lauren Harsh
 sub-headline: 'French is not considered a difficult language for English speakers
   to learn, but it can certainly seem that way at the start. '
+hero-image: "/blog/uploads/How%20to%20Start%20Learning%20French%20An%20Indispensible%20Guide.png"
 meta-description: Success in self-directed French study is an achievable goal with
   the right resources (and lots of hard work). Whether you’re naturally suited to
   language learning or not, these are the ways you can set yourself up for success
