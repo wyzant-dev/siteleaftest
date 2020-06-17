@@ -117,6 +117,8 @@ In French, and most languages that use the Latin alphabet besides English, accen
 
 However, if you’re used to only typing in English, figuring out how to type accent marks is, simply put, not intuitive. It works slightly differently for every word processor and every device, but you can learn them all with this guide. 
 
+![How to Type French Accent Marks Keyboard Shortcuts w text.png](/blog/uploads/How%20to%20Type%20French%20Accent%20Marks%20Keyboard%20Shortcuts%20w%20text.png)
+
 Read More: [How to Type French Accents: 42 Keyboard Shortcuts](https://www.wyzant.com/blog/how-to-type-french-accents/)
 
 ## Try learning French for travel
