@@ -10,7 +10,7 @@ What’s the best way to learn French online? That depends on you, but if you fo
 
 ## How to learn French on your own
 
-Self-directed French study is definitely possible if you put enough work into it. Is French hard? Some people have an easier time than others. Whether you’re naturally suited to language learning or not, there are ways you can set yourself up for success.
+Success in self-directed French study is definitely possible if you put the right work into it. Is French hard? Some people have an easier time than others. Whether you’re naturally suited to language learning or not, there are ways you can set yourself up for success.
 
 Start by setting achievable, specific goals. If you’re stuck on that, think about when you would consider yourself “fluent” and what you want to do when you reach that level. Your goals could be something like going on a trip, communicating with French-speakers at work, reading certain literature in French, or watching films without English subtitles. 
 
