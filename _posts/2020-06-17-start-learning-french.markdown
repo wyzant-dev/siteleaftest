@@ -2,6 +2,12 @@
 title: 'How to Start Learning French: An Indispensable Guide'
 date: 2020-06-17 08:00:00 -05:00
 published: false
+categories:
+- French
+- Language Learning
+tags:
+- French
+- Language Learning
 author: Lauren Harsh
 sub-headline: 'French is not considered a difficult language for English speakers
   to learn, but it can certainly seem that way at the start. '
