@@ -91,3 +91,27 @@ Unless you only plan to use your French in stuffy, formal settings, you'll need 
 As you’ve probably guessed by now, non-literal expressions don’t translate directly between languages. Learning a few of the most common French phrases, expressions, idioms, and colloquialisms will get you on your way to speaking French more like a native speaker. 
 
 Read More: [26 French Expressions Everyone Should Know](https://www.wyzant.com/blog/french-expressions/)
+
+## Type in French
+
+In French, and most languages that use the Latin alphabet besides English, accent marks can entirely change a word. Using them is essential.
+
+However, if you’re used to only typing in English, figuring out how to type accent marks is, simply put, not intuitive. It works slightly differently for every word processor and every device, but you can learn them all with this guide. 
+
+Read More: [How to Type French Accents: 42 Keyboard Shortcuts](https://www.wyzant.com/blog/how-to-type-french-accents/)
+
+## Try learning French for travel
+
+Learning a little French before you go to France (or any other Francophone territory) is always a good idea. If you’re going on your trip soon, you will need to focus on different topics than other new learners.
+
+Starting with greetings like most beginner French instruction programs is still a good idea, but after that you will need to focus on things that will be relevant to your travels. You will also need to know how to ask for help or directions, apologize, and order food among other things. It is also a good idea to learn about social norms before you go. Knowing how to be respectful to locals isn’t just the right thing to do, but it will make your trip much more enjoyable.
+
+Read More: [46 Basic French Words and Phrases for Travel](https://www.wyzant.com/blog/french-expressions/)
+
+## Partner with a French tutor
+
+No matter what your French learning goals are, a tutor or conversation partner can help you meet them. Hands-down, personalized lessons in a new language are the most effective method of starting on a path to fluency. 
+
+French tutoring is so much more than help with school assignments. One-on-one assistance can hold you accountable in your self-study, and that study will be more productive, since your focus will always remain on the elements of learning French that you need help understanding (no one-size-fits-all approaches here). There are even tutors that specialize in adult learning. It’s also more affordable than you may think. Rates can vary widely, but there are several tutors who charge less than 25 dollars per hour. With online sessions, you can easily fit sessions into your schedule. 
+
+Learn more by finding [your perfect French Tutor](https://www.wyzant.com/French_tutors.aspx)
