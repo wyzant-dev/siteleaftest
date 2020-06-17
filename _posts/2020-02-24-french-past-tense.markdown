@@ -301,3 +301,4 @@ Reflexive verbs are used when the subject and object of a verb (action) are the 
 
 Conjugations require a lot of rote memorization. You get better at them by using them, so if you're planning a [trip to Paris](https://www.wyzant.com/blog/basic-french-words-phrases/), studying French tenses is a great place to begin. *Le passé composé* is easy enough to master with practice alongside a [French tutor](https://www.wyzant.com/French_tutors.aspx). Not only does it make logical sense to English speakers, but the patterns are easy to recognize. And even if you do make mistakes, it’s clear enough that francophones will still know what you are talking about. 
 
+Learn more about picking up French as a second language with [our indispensable guide](https://www.wyzant.com/blog/start-learning-french/).
