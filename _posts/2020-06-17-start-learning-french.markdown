@@ -107,6 +107,8 @@ Unless you only plan to use your French in stuffy, formal settings, you'll need 
 
 As you’ve probably guessed by now, non-literal expressions don’t translate directly between languages. Learning a few of the most common French phrases, expressions, idioms, and colloquialisms will get you on your way to speaking French more like a native speaker. 
 
+![26 French Expressions Everyone Should Know w text.png](/blog/uploads/26%20French%20Expressions%20Everyone%20Should%20Know%20w%20text.png)
+
 Read More: [26 French Expressions Everyone Should Know](https://www.wyzant.com/blog/french-expressions/)
 
 ## Type in French
