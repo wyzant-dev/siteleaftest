@@ -282,7 +282,7 @@ This makes sentences like *“J’arrive dans dix minutes”* ("I arrive in ten 
 
 When to use each type of future tense is, for the most part, logical. Like other French verb conjugations, becoming more fluent is a matter of memorization, noticing patterns, and **[practice, practice, practice](https://www.wyzant.com/French_tutors.aspx)**. The conjugation of *futur simple* is easier than others, so the challenging part will be memorizing irregular stems well enough to use them off the cuff. Stick to it! You'll be ready for a [trip to Paris](https://www.wyzant.com/blog/basic-french-words-phrases/) in no time.
 
-Keep your French self-study going, and check out [Fundamentals of French Grammar](https://www.wyzant.com/blog/french-grammar-basics/). 
+Keep your French self-study going, and check out [How to Start Learning French: An Indispensable Guide](https://www.wyzant.com/blog/start-learning-french/) and [Fundamentals of French Grammar](https://www.wyzant.com/blog/french-grammar-basics/). 
 
 
 
