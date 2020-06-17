@@ -181,3 +181,5 @@ Usage: This is a snappy way to say “mind your own business.” Similarly, *c�
 
 You are now closer to knowing how to speak French like a local and not like a learner. Try some of these phrases out with a [French tutor](https://www.wyzant.com/French_tutors.aspx) or conversation partner. 
 In the meantime, it never hurts to review French [past](https://www.wyzant.com/blog/french-past-tense/), [present](https://www.wyzant.com/blog/french-verbs-present-tense/), and [future](https://www.wyzant.com/blog/french-future-tense/) tenses.
+
+For a comprehensive guide to learning French for the first time, check out [How to Start Learning French: An Indispensable Guide.](https://www.wyzant.com/blog/start-learning-french/)
