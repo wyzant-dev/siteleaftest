@@ -4,7 +4,9 @@ date: 2020-06-17 08:00:00 -05:00
 published: false
 ---
 
-Do you want to start learning French as a second language, but not know where to start? The internet has made great strides in the availability of foreign language education. The information you need to learn French at home is out there - classes, apps, English to French books, tutoring, and other French for beginners programs, but how do you figure out what will work best for you? What’s the best way to learn French online? That depends on you, but if you follow these steps to learning French, you’ll start off on the right foot. 
+Do you want to start learning French as a second language, but not know where to start? The internet has made great strides in the availability of foreign language education. The information you need to learn French at home is out there - classes, apps, English to French books, tutoring, and other French for beginners programs, but how do you figure out what will work best for you? 
+
+What’s the best way to learn French online? That depends on you, but if you follow these steps to learning French, you’ll start off on the right foot. 
 
 ## How to learn French on your own
 
