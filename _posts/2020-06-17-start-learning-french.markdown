@@ -3,6 +3,16 @@ title: 'How to Start Learning French: An Indispensable Guide'
 date: 2020-06-17 08:00:00 -05:00
 published: false
 author: Lauren Harsh
+sub-headline: 'French is not considered a difficult language for English speakers
+  to learn, but it can certainly seem that way at the start. '
+meta-description: Success in self-directed French study is an achievable goal with
+  the right resources (and lots of hard work). Whether you’re naturally suited to
+  language learning or not, these are the ways you can set yourself up for success
+  in learning one of the most-spoken languages in the world.
+post-description: Success in self-directed French study is an achievable goal with
+  the right resources (and lots of hard work). Whether you’re naturally suited to
+  language learning or not, these are the ways you can set yourself up for success
+  in learning one of the most-spoken languages in the world.
 ---
 
 Do you want to start learning French as a second language, but not know where to start? The internet has made great strides in the availability of foreign language education. The information you need to learn French at home is out there - classes, apps, English to French books, tutoring, and other French for beginners programs, but how do you figure out what will work best for you? 
