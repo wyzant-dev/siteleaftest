@@ -70,6 +70,8 @@ A logical next step in French verb conjugations is the past tense. There are thr
 *L’imparfait* describes people’s emotional or physical states during past events, “used to” expressions, and events that were ongoing while something else was happening.
 
 *Le passé simple* is used in literature, so most French instructors don’t spend a lot of time on teaching how to use it, just how to understand it when you read it. 
+
+![Le Passe Compose Learning the French Past Tense](/blog/uploads/Le%20Passe%20Compose%20Learning%20the%20French%20Past%20Tense%20w%20text.png)
  
 Read more: [Le Passé Composé: Learning the French Past Tense](https://www.wyzant.com/blog/french-past-tense/) 
 
