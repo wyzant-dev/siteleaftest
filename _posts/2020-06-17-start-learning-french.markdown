@@ -44,8 +44,15 @@ Whether you consider yourself a French beginner or are already well on your way 
 
 The three main tenses - past, present, and future - are the right place to begin. Understanding the nuances of each of these tenses will make learning all those moods even simpler.
 
-### French Present Tense Conjugations
+### French present tense conjugations
 
 The most logical place to start learning how to conjugate French verbs is with the present tense. It’s both the easiest and allows you to communicate the most concepts. There are three kinds of regular French verbs: -er verbs, -ir verbs, and -re verbs, each with different conjugation patterns. 
 
 Read more: [22 French Verbs with Present Tense Conjugations](https://www.wyzant.com/blog/french-verbs-present-tense/)
+
+### French past tense conjugations 
+
+A logical next step in French verb conjugations is the past tense.There are three ways to talk about the past in French: le passé composé, l’imparfait, and le passé simple. Le passé composé is the most common one and the easiest to understand. It is used to describe events that took place entirely in the past. L’imparfait describes people’s emotional or physical states during past events, “used to” expressions, and events that were ongoing while something else was happening. Le passé simple is used in literature, so most French instructors don’t spend a lot of time on teaching how to use it, just how to understand it when you read it. 
+ 
+Read more: [Le Passé Composé: Learning the French Past Tense](https://www.wyzant.com/blog/french-past-tense/) 
+
