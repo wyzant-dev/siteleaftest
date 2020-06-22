@@ -4,7 +4,7 @@ date: 2020-06-22 09:54:00 -05:00
 published: false
 ---
 
-In the 1980 film, **Private Benjamin**, the main character enlisted in an army which was quite different from the one she had envisioned. Private Benjamin,  portrayed by the talented Goldie Hawn, laments, “See, I **did** join the army, but I joined a “different” army. I joined the one with the condos and the private rooms.” 
+In the 1980 film, *Private Benjamin*, the main character enlisted in an army which was quite different from the one she had envisioned. Private Benjamin,  portrayed by the talented Goldie Hawn, laments, “See, I *did* join the army, but I joined a “different” army. I joined the one with the condos and the private rooms.” 
 
 Just as Private Benjamin found herself in a place for which she hadn’t bargained, perhaps you're reading this article because your role as a parent has broadened to include being your child’s teacher. 
 
