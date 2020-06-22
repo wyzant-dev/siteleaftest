@@ -52,7 +52,7 @@ In the number 57821:
 
 There are many ways to help your kids understand place value. Using opportunities which present themselves every day in a casual manner might just be the best way for your child to learn and appreciate math. One of the most useful ways is by using a hundreds chart.
 
-## Hundreds chart
+### Hundreds chart
 
 Consider printing this chart, or saving it to your computer or phone for quick reference.
 
