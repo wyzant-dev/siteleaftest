@@ -184,7 +184,7 @@ The amount of this bill is, in turn, inversely proportional to the amount of exc
 
 Your child might enjoy the challenge of bringing the electric bill down by unplugging curling irons and turning off lights if he or she knew the excess money would be put towards a family vacation. Making a table of the data and graphing it would the icing on the pi.
 
-Yes, that was a math joke. 
+(Yes, that was a math joke.)
 
 Shopping with a middle schooler? Computing sale prices when items are on a percentage-off sale will sharpen your young adult’s mathematical skills (and teach them real-life ones, as well). An understanding of money always opens the door to being able to compute with decimals, a skill, which by now, should have been covered in their classrooms using all four operations. 
 
