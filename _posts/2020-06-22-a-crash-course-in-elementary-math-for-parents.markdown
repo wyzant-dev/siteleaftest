@@ -66,7 +66,7 @@ Using [various techniques](https://www.mathsolutions.com/documents/978-1-935099-
 
 ### Money
 
-Money can be learned at the same time as teaching numbers. By placing pennies on each of the squares of a hundreds chart, and you will have a dollar’s worth of pennies when the chart is filled. Your child will have fun trading groups of  five pennies for nickels. Placing nickels on the multiples of five, and dimes on the multiples of ten will give your child a head start in counting money as well as learning their multiplication facts. Another activity which your child might enjoy is counting while taking counted steps from across the room. Hopping while counting by fives will surely help cement their learning. Make learning fun and it will engage, as well as teach your child. 
+Money can be learned at the same time as teaching numbers on a hundreds chart. By placing pennies on each of the squares, you will have a dollar’s worth of pennies when the chart is filled. Your child will have fun trading groups of five pennies for nickels, or ten pennies for one dime, et cetera. Placing nickels on the multiples of five, and dimes on the multiples of ten will give your child a head start in counting money as well as introducing concepts relevant to multiplication. Make learning fun and it will engage, as well as teach your child. 
 
 ### Calendar math
 When a new month begins, gather popsicle sticks and a few rubber bands to teach place value. On the tenth day celebrate and raise a fuss. You can now make a ten-bundle!
