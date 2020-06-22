@@ -2,6 +2,7 @@
 title: A Crash Course in Elementary Math for Parents
 date: 2020-06-22 09:54:00 -05:00
 published: false
+author: Pam Shaffer
 meta-description: 'Math is, hands-down, the subject of struggle for a majority of
   elementary students, and with Common Core standards so different from those parents
   learned as students, there''s a good chance you need a little help understanding,
