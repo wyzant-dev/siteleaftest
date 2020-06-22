@@ -13,7 +13,9 @@ Teaching math at home is not the parenthood role for which you had enlisted!
 Math is, hands-down, the subject of struggle for a majority of elementary students, and with Common Core standards so different from those we learned as students, there's a good chance you need a little help understanding, too. 
 
 ## Math for parents
-You may be asking yourself many questions. What is Common Core Mathematics? Is this math so very different from the way students were taught when you were their age? Is there a best way to teach math? Should the math lessons be supplemented with math activities? You are beginning to think like a teacher and you are feeling as though you are pushing your limits. In an attempt to alleviate your fears, please consider some of the following ideas. 
+Is the question, "What is Common Core Math?" familiar? Is this math so very different from the way students were taught when you were their age? Is there a best way to teach math? Should the math lessons be supplemented with math activities? 
+
+It can be confusing. But good news: you're already beginning to think like a teacher by pushing your limits and striving to make connections. You'll need that when you're helping your kids develop their skills.
 
 ## How to do Common Core Math
 One of  the essential goals in Common Core Mathematics is for children to make sense of the mathematical processes. The Common Core standards were developed in an attempt to raise the level of mathematical understanding in the United States. Simply memorizing the algorithms for common calculations, as was often common practice, did not promote mathematical understanding. The mathematical reasoning behind these algorithms needed to be at the core of understanding. 
