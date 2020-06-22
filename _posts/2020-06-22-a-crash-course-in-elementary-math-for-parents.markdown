@@ -4,9 +4,13 @@ date: 2020-06-22 09:54:00 -05:00
 published: false
 ---
 
-In the 1980 film, “Private Benjamin,” the main character enlisted in an army which was quite different from the one she had envisioned. Private Benjamin,  portrayed by the talented Goldie Hawn laments, “See, I did join the army, but I joined a “different” army. I joined the one with the condos and the private rooms.” 
+In the 1980 film, **Private Benjamin**, the main character enlisted in an army which was quite different from the one she had envisioned. Private Benjamin,  portrayed by the talented Goldie Hawn, laments, “See, I **did** join the army, but I joined a “different” army. I joined the one with the condos and the private rooms.” 
 
-Just as Private Benjamin found herself in a place for which she hadn’t bargained, perhaps you are reading this blog because your role as a parent has broadened to include being your child’s teacher. Teaching math at home is not the parenthood role for which you had enlisted! Perhaps you are telecommuting from home while your children are receiving their education  via wireless connections and technology. Are you ready for your crash course in education? 
+Just as Private Benjamin found herself in a place for which she hadn’t bargained, perhaps you're reading this article because your role as a parent has broadened to include being your child’s teacher. 
+
+Teaching math at home is not the parenthood role for which you had enlisted!
+
+Math is, hands-down, the subject of struggle for a majority of elementary students, and with Common Core standards so different from those we learned as students, there's a good chance you need a little help understanding, too. 
 
 ## Math for parents
 You may be asking yourself many questions. What is Common Core Mathematics? Is this math so very different from the way students were taught when you were their age? Is there a best way to teach math? Should the math lessons be supplemented with math activities? You are beginning to think like a teacher and you are feeling as though you are pushing your limits. In an attempt to alleviate your fears, please consider some of the following ideas. 
