@@ -2,6 +2,14 @@
 title: A Crash Course in Elementary Math for Parents
 date: 2020-06-22 09:54:00 -05:00
 published: false
+meta-description: 'Math is, hands-down, the subject of struggle for a majority of
+  elementary students, and with Common Core standards so different from those parents
+  learned as students, there''s a good chance you need a little help understanding,
+  too. '
+post-description: 'Math is, hands-down, the subject of struggle for a majority of
+  elementary students, and with Common Core standards so different from those parents
+  learned as students, there''s a good chance you need a little help understanding,
+  too. '
 ---
 
 In the 1980 film, *Private Benjamin*, the main character enlisted in an army which was quite different from the one she had envisioned. Private Benjamin,  portrayed by the talented Goldie Hawn, laments, “See, I *did* join the army, but I joined a “different” army. I joined the one with the condos and the private rooms.” 
