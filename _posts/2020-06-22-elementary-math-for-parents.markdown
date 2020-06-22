@@ -24,6 +24,8 @@ For these reasons, helping your kids understand the meanings behind the mathemat
 
 In addition, the Common Core strives for a **greater focus on fewer topics**, allowing for a deeper understanding of each topic while connecting them across grade levels. This coherence will lend itself to a solid mathematical foundation upon which later areas of mathematics will be built. 
 
+### Elementary math concepts
+
 The most important elementary math concepts are age and developmentally appropriate. The Core Standards for Math lists the standards in detail. The various focal topics, which illustrate the key shifts in mathematics delineated by the [Core Standards for each  grade level](http://www.corestandards.org/other-resources/key-shifts-in-mathematics/), are as follows: 
 
 * **Grades K-2:** Concepts, skills, and problem solving related to addition and subtraction
