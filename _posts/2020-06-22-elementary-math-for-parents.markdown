@@ -75,7 +75,7 @@ Money can be learned at the same time as teaching numbers on a hundreds chart. B
 This concept is common in classrooms, and can be changed as needed to suit your student's particular level of understanding. Make learning fun and it will engage, as well as teach, your child. 
 
 ### Calendar math
-When learning math using a calendar, students can learn by doing all sorts of things: drawing, writing, adding/subtracting, multiplying/dividing, measuring, counting, telling time, and many others. Applying it specifically to Common Core math, you can use simple manipulatives to illustrate concepts. Try this simple one:
+When learning math using a calendar, students can learn by doing all sorts of things: drawing, writing, adding/subtracting, multiplying/dividing, measuring, counting, telling time, and many others. Applying it specifically to Common Core math, you can use simple manipulatives to illustrate concepts. Try this simple one, which builds on the hundreds chart:
 
 1. When a new month begins, gather popsicle sticks and a few rubber bands to teach place value.
 2. On the tenth day of the month, gather the ten sticks together and secure them with an elastic band. Announce, “We now have our first ten-bundle!”
