@@ -58,11 +58,11 @@ Consider printing this chart, or saving it to your computer or phone for quick r
 
 ![Hundreds chart for common core math](/blog/uploads/Hundreds%20chart.png)
 
-This is commonly referred to as a “hundreds chart.” Many children gain a better understanding of numbers by using a “hundreds chart.”
+This is commonly referred to as a “hundreds chart.” Many teachers use it to help students gain a better understanding of numbers according to Common Core standards.
 
-At first, the sequence of numbers can be taught as they read the numbers on the chart from left to right. Print a few with some numbers missing. Ask your child to write the numbers in the correct spots. The process of writing, saying and hearing all done simultaneously might be the key to your child’s understanding. Students sometimes get stuck within a skill.
+At first, the sequence of numbers can be taught by asking students to read the numbers on the chart from left to right. Scale this by printing a few hundreds charts with some numbers missing, and ask your child to write the numbers in the correct spots. The process of writing, saying, and hearing each step can be key to your child’s understanding, and might prevent them from getting stuck.
 
-Using various techniques which might seem like oversimplification, might be all that is needed to move a child towards success.  A lot can be gleaned from working with a “hundreds chart.” Skip every other number and help your child count by twos.
+Using [various techniques](https://www.mathsolutions.com/documents/978-1-935099-37-6_HowtoUse.pdf) (which might seem like oversimplifications to an adult) can be all that is needed to move a child towards success while school is happening at home.  
 
 ### Money
 
