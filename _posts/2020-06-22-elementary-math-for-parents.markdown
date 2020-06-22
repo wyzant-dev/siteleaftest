@@ -75,9 +75,11 @@ Money can be learned at the same time as teaching numbers on a hundreds chart. B
 This concept is common in classrooms, and can be changed as needed to suit your student's particular level of understanding. Make learning fun and it will engage, as well as teach, your child. 
 
 ### Calendar math
-When a new month begins, gather popsicle sticks and a few rubber bands to teach place value. On the tenth day celebrate and raise a fuss. You can now make a ten-bundle!
+When learning math using a calendar, students can learn by doing all sorts of things: drawing, writing, adding/subtracting, multiplying/dividing, measuring, counting, telling time, and many others. Applying it specifically to Common Core math, you can use simple manipulatives to illustrate concepts. Try this one:
 
-Gather the ten sticks together and secure them with an elastic band. Announce, “We now have our first ten-bundle!” Use the calendar to illustrate that the digit 1 in the 10 tells us the number of ten-bundles we have. The zero tells us there are no loose “ones.” On day 14 there will be 1 ten-bundle and 4-ones. The bridge from ten-bundles and loose “ones” should make teaching addition an easy bridge to cross. Carrying a number to another column now has mathematical meaning. This understanding of the mathematical process is our goal. 
+1. When a new month begins, gather popsicle sticks and a few rubber bands to teach place value.
+2. On the tenth day of the month, gather the ten sticks together and secure them with an elastic band. Announce, “We now have our first ten-bundle!”
+3. Use the calendar to illustrate that the digit 1 in the 10 tells us the number of ten-bundles we have. The zero tells us there are no loose “ones.” So, for example: on day 14 there will be 1 ten-bundle and 4-ones. The bridge from ten-bundles and loose “ones” should make teaching addition simpler - carrying a number to another column now has mathematical meaning. This understanding of the mathematical process is our goal. 
 
 ### Time references
 In grades K-2 classrooms, you'll find making reference to a physical calendar every day. Reviewing the date starting with the month, day, and year will help your child understand the marking of time. Talking about past, present, and future events and indicating them on a calendar is also a worthwhile activity.
