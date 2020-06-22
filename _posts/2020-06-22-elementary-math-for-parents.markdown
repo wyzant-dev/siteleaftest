@@ -84,11 +84,13 @@ When learning math using a calendar, students can learn by doing all sorts of th
 The bridge from ten-bundles and loose “ones” should make teaching addition simpler - carrying a number to another column now has mathematical meaning. This understanding of the mathematical process is our goal. 
 
 ### Time references
-In grades K-2 classrooms, you'll find making reference to a physical calendar every day. Reviewing the date starting with the month, day, and year will help your child understand the marking of time. Talking about past, present, and future events and indicating them on a calendar is also a worthwhile activity.
+In grades K-2 classrooms, references to a physical calendar are made every day as part of the learning process. This is easy to do at home. 
 
-Ask your child to record the date on a whiteboard each day. The act of physically writing the month’s name and the numbers for the date will help cement the concept.
+Reviewing the date starting with the month, day, and year will help your young students child understand the marking of time. Talking about past, present, and future events and indicating them on a calendar is also a worthwhile activity.
 
-By hanging this whiteboard in a conspicuous place in your home, where it can be referenced by others, makes this task authentic and valuable. 
+Build on this activity, and ask your child to record the date on a whiteboard each day. The act of physically writing the month’s name and the numbers for the date will help cement the concept.
+
+Hanging this whiteboard in a well-trafficked place in your home, where it can be seen by everyone in your family, makes this task authentic and valuable...and that leads to self-confidence in your young students.
 
 ## Grades 3-5
 
