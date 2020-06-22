@@ -8,7 +8,7 @@ In the 1980 film, *Private Benjamin*, the main character enlisted in an army whi
 
 Just as Private Benjamin found herself in a place for which she hadn’t bargained, perhaps you're reading this article because your role as a parent has broadened to include being your child’s teacher. 
 
-Teaching math at home is not the parenthood role for which you had enlisted!
+Teaching math at home is not the parenthood role for which you enlisted!
 
 Math is, hands-down, the subject of struggle for a majority of elementary students, and with Common Core standards so different from those we learned as students, there's a good chance you need a little help understanding, too. 
 
