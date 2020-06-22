@@ -94,20 +94,38 @@ Hanging this whiteboard in a well-trafficked place in your home, where it can be
 
 ## Grades 3-5
 
-The Core Standards for math, will list the standards in detail. Please see the above reference. Many states also have released tests from prior years starting with grade 3. While “teaching to a test” should not be your intent, seeing that reading a ruler is a tested skill might prompt you to help your child explore linear measurements using the markings on a ruler. 
+In addition to the published Common Core standards, many states also have released tests from prior years, starting with grade 3. While “teaching to a test” should not be your intent, seeing that, for example, reading a ruler is a tested skill might prompt you to help your child explore linear measurements using the markings on a ruler. 
+
+There are a few key things that kids learn in grades 3-5 math:
+
+### Using manipulatives 
+
+Manipulatives, in the context of education, are physical teaching tools. Students visually and physically interact with objects (like coins, pebbles, beads, puzzles, etc.) as part of learning.  There are lots of reasons teachers agree that manipulatives are an effective tool: they're multisensory, represent concepts in more than a single way, promote critical thinking and communication, and leads to lessened confusion. This, in turn, leads to deeper understanding.
 
 ### Measurement - linear, time, and capacity
 
-Encourage the use of manipulatives. They are readily accessible in your home. The use of cereal, cereal boxes, spaghetti noodles, blocks, toothpicks, measuring cups and more will help bring mathematics to life for your child.
+You've already got manipulatives at home! Cereal, bottle caps, spaghetti noodles, blocks, toothpicks, measuring cups, beans, or even slips of paper will help bring mathematics to life for your at-home student.
 
-Have you considered measuring a length using marshmallows laid end to end? What happens when you switch from regular-sized marshmallows to mini-marshmallows? The unit (marshmallow) is smaller and the number of the units becomes larger. Help your child draw the connection between measuring with smaller units versus measuring with larger units. Hopefully this activity will help them know whether to multiply or divide while doing unit conversions.
+Here's a fun one to try that helps students learn concepts about measurement, using some fun manipulatives:
+
+Measuring a length (any length) using marshmallows laid end-to-end.  
+
+Now...what happens when you switch from regular-sized marshmallows to mini marshmallows? (Answer: the unit (marshmallow) is smaller, and the number of the units becomes larger.)
+
+This exercise helps your child draw the connection between measuring with smaller units versus measuring with larger units. This is particularly helpful to kids who are learning to multiply or divide while doing unit conversions.
 
 Connections made by your child during discovery are the best learning connections. Neurologically speaking, if they are having fun while these connections are made, there is a greater probability these connections will be retained. 
 
 ### Fractions and measurement
-When making cookies point out the four sticks which make up the pound of butter. One stick would be ¼ of a pound. What a marvelous opportunity to teach fractions!
+When students start struggling with math, it often coincides with their introduction to fractions. Before, they've been exposed only to whole numbers, with emphasis on the one-to-one relationship between the number and what it represented.
 
-Ask your child to help you measure the other ingredients with safe plastic bowls and measuring cups. A dozen eggs in their carton will help illustrate a multiplication array. This 2 by 6 array can be used to illustrate the basics of multiplication. Make learning these facts fun and engaging for your child. Their reward will not only be in the dessert, but also in the math they are learning along the way. 
+Fractions change all of that. The main challenge is teaching your student how to think about rational numbers in a different way. Once again, taking a creative approach can help kids better understand these concepts.
+
+Most kids love to make cookies. Ask them to help you measure the ingredients with bowls and measuring cups/spoons (which already have fractions included). A dozen eggs in their carton can help illustrate a multiplication array, and this 2x6 array can be used to illustrate the basics of multiplication.
+
+Or, point out the four sticks which make up the pound of butter. One stick is ¼ of a pound. How many other ways could the pound of butter be represented by fractions? What a marvelous opportunity to teach!
+
+Make learning fractions fun and engaging for your kids. Their reward will not only be in the desserts they create, but also in the deeper understanding of math they're picking up along the way. 
 
 ### Multiplication
 Although a deep understanding is our greatest goal, knowing some facts will serve as our greatest tools. Memorizing multiplication facts is one such tool.
