@@ -18,12 +18,13 @@ Is the question, "What is Common Core Math?" familiar? Is this math so very diff
 It can be confusing. But good news: you're already beginning to think like a teacher by pushing your limits and striving to make connections. You'll need that when you're helping your kids develop their skills.
 
 ## How to do Common Core Math
-One of  the essential goals in Common Core Mathematics is for children to make sense of the mathematical processes. The Common Core standards were developed in an attempt to raise the level of mathematical understanding in the United States. Simply memorizing the algorithms for common calculations, as was often common practice, did not promote mathematical understanding. The mathematical reasoning behind these algorithms needed to be at the core of understanding. 
-For these reasons, helping your child to understand the meanings behind the mathematical processes will enable your child to think through problems and make sense of the process while doing so. Encourage exploration and embrace challenges. Foster the inquisitive nature within your child. Allow questions to be the springboard for discovery and understanding. 
+One of  the essential goals in Common Core Mathematics is for **children to make sense of the mathematical processes**. The Common Core standards were developed in an attempt to raise the level of mathematical understanding in the United States. Simply memorizing the algorithms for common calculations, as was often common practice, did not promote mathematical understanding. The **mathematical reasoning** behind these algorithms needed to be at the core of understanding. 
 
-In addition, the Common Core strives for a greater focus on fewer topics allowing for a deeper understanding of each topic while connecting these topics across the grade levels. This coherence will lend itself to a solid mathematical foundation upon which later areas of mathematics will be built. 
+For these reasons, helping your kids understand the meanings behind the mathematical processes will enable them to think through problems and make sense of the process while doing so. Encourage exploration and embrace challenges. Foster the inquisitive nature within your child. Allow questions to be the springboard for discovery and understanding. 
 
-The most important elementary math concepts are age and developmentally appropriate. The Core Standards for Math, lists the standards in detail. Please see the reference below. The various focal topics, which illustrate the key shifts in mathematics delineated by the [Core Standards for each  grade level](http://www.corestandards.org/other-resources/key-shifts-in-mathematics/) are as follows: 
+In addition, the Common Core strives for a **greater focus on fewer topics**, allowing for a deeper understanding of each topic while connecting them across grade levels. This coherence will lend itself to a solid mathematical foundation upon which later areas of mathematics will be built. 
+
+The most important elementary math concepts are age and developmentally appropriate. The Core Standards for Math lists the standards in detail. The various focal topics, which illustrate the key shifts in mathematics delineated by the [Core Standards for each  grade level](http://www.corestandards.org/other-resources/key-shifts-in-mathematics/), are as follows: 
 
 * **Grades K-2:** Concepts, skills, and problem solving related to addition and subtraction
 
@@ -35,7 +36,7 @@ The most important elementary math concepts are age and developmentally appropri
 
 * **Grade 8:** Linear algebra and linear functions
 
-Here are a few examples for each grade level, which you may find helpful. 
+Here are a few Common Core math examples for each grade level: 
 
 ## K-2: place value
 
