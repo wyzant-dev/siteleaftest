@@ -10,7 +10,7 @@ tags:
 - Math
 author: Pam Shaffer
 sub-headline: Some valuable ideas to help you help your your kids with "today's math."
-hero-image: "/blog/uploads/A%20Crash%20Course%20in%20Elementary%20Math%20for%20Parents.png"
+hero-image: "/blog/uploads/A%20Crash%20Course%20in%20Elementary%20Math%20for%20Parents-002f3a.png"
 meta-description: 'Math is, hands-down, the subject of struggle for a majority of
   elementary students, and with Common Core standards so different from those parents
   learned as students, there''s a good chance you need a little help understanding,
