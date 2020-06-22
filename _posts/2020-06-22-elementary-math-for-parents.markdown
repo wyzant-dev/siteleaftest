@@ -26,7 +26,7 @@ In addition, the Common Core strives for a **greater focus on fewer topics**, al
 
 ### Elementary math concepts
 
-The most important elementary math concepts are age and developmentally appropriate. The Core Standards for Math lists the standards in detail. The various focal topics, which illustrate the key shifts in mathematics delineated by the [Core Standards for each  grade level](http://www.corestandards.org/other-resources/key-shifts-in-mathematics/), are as follows: 
+The concepts taught to kids in elementary school are age and developmentally appropriate. The Core Standards for Math lists the standards in detail. The various focal topics, which illustrate the key shifts in mathematics delineated by the [Core Standards for each  grade level](http://www.corestandards.org/other-resources/key-shifts-in-mathematics/), are as follows: 
 
 * **Grades K-2:** Concepts, skills, and problem solving related to addition and subtraction
 
@@ -38,7 +38,7 @@ The most important elementary math concepts are age and developmentally appropri
 
 * **Grade 8:** Linear algebra and linear functions
 
-Here are a few Common Core math examples for each grade level: 
+Here are important Common Core math examples for each grade level: 
 
 ## K-2: place value
 
