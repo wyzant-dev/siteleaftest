@@ -108,7 +108,7 @@ You've already got manipulatives at home! Cereal, bottle caps, spaghetti noodles
 
 Here's a fun one to try that helps students learn concepts about measurement, using some fun manipulatives:
 
-Measuring a length (any length) using marshmallows laid end-to-end.  
+Measure a length (any length) using marshmallows laid end-to-end.  
 
 Now...what happens when you switch from regular-sized marshmallows to mini marshmallows? (Answer: the unit (marshmallow) is smaller, and the number of the units becomes larger.)
 
