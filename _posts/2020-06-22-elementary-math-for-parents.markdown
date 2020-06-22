@@ -79,7 +79,9 @@ When learning math using a calendar, students can learn by doing all sorts of th
 
 1. When a new month begins, gather popsicle sticks and a few rubber bands to teach place value.
 2. On the tenth day of the month, gather the ten sticks together and secure them with an elastic band. Announce, “We now have our first ten-bundle!”
-3. Use the calendar to illustrate that the digit 1 in the 10 tells us the number of ten-bundles we have. The zero tells us there are no loose “ones.” So, for example: on day 14 there will be 1 ten-bundle and 4-ones. The bridge from ten-bundles and loose “ones” should make teaching addition simpler - carrying a number to another column now has mathematical meaning. This understanding of the mathematical process is our goal. 
+3. Use the calendar to illustrate that the digit 1 in the 10 tells us the number of ten-bundles we have. The zero tells us there are no loose “ones.” So, for example: on day 14 there will be 1 ten-bundle and 4-ones.
+
+The bridge from ten-bundles and loose “ones” should make teaching addition simpler - carrying a number to another column now has mathematical meaning. This understanding of the mathematical process is our goal. 
 
 ### Time references
 In grades K-2 classrooms, you'll find making reference to a physical calendar every day. Reviewing the date starting with the month, day, and year will help your child understand the marking of time. Talking about past, present, and future events and indicating them on a calendar is also a worthwhile activity.
