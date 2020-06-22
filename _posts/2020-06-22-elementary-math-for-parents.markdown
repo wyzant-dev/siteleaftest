@@ -3,6 +3,7 @@ title: A Crash Course in Elementary Math for Parents
 date: 2020-06-22 09:54:00 -05:00
 published: false
 author: Pam Shaffer
+sub-headline: Some valuable ideas to help you help your your kids with "today's math."
 hero-image: "/blog/uploads/A%20Crash%20Course%20in%20Elementary%20Math%20for%20Parents.png"
 meta-description: 'Math is, hands-down, the subject of struggle for a majority of
   elementary students, and with Common Core standards so different from those parents
