@@ -153,7 +153,7 @@ You might want to teach the [finger method](https://www.wikihow.com/Use-Your-Fin
 
 Another useful skill is to help your child strategize when a product (the result of multiplying) can not be recalled. When given 8x7, illustrate how a larger factor such as 8 can be broken down into 4 + 4.
 
-These partial products can be added together to find the answer: 4x7=28, and 28+28=56. With this, you've arrived at the product of 8x7, which is 56. (A teacher's tip: caution them to only break one of the factors apart for this exapmple). 
+These partial products can be added together to find the answer: 4x7=28, and 28+28=56. With this, you've arrived at the product of 8x7, which is 56. (A teacher's tip: caution them to only break one of the factors apart for this example). 
 
 ### Math games for kids
 Making math fun help reinforce facts and concepts. A game your student may enjoy is quite simple:
