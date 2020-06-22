@@ -38,7 +38,7 @@ The concepts taught to kids in elementary school are age and developmentally app
 
 * **Grade 8:** Linear algebra and linear functions
 
-Here are important Common Core math examples for each grade level: 
+Here are important Common Core math concepts for each grade level: 
 
 ## K-2: place value
 
