@@ -146,7 +146,7 @@ Another useful skill is to help your child strategize when a product (the result
 These partial products can be added together to find the answer: 4x7=28, and 28+28=56. With this, you've arrived at the product of 8x7, which is 56. (A teacher's tip: caution them to only break one of the factors apart for this exapmple). 
 
 ### Math games for kids
-Making math fun (sometimes known as "gameification") can help reinforce facts and concepts. One which your child may enjoy is quite simple:
+Making math fun help reinforce facts and concepts. A game your student may enjoy is quite simple:
 
 * Take a deck of cards leaving out the J,Q, and K face cards.
 * Split the deck in half. 
@@ -154,24 +154,32 @@ Making math fun (sometimes known as "gameification") can help reinforce facts an
 Now you and your child are ready to play a math-focused game of “Who Can Gather the Most Cards?”
 
 * You'll each lay down a card face up.
-* Allow your child a little lead time, which you will have agreed to before the game, to shout out the product for the two numbers on the cards.
+* Allow your child a little lead time to shout out the product for the two numbers on the cards.
 * Whoever correctly says the product first gets both cards.
 
-Shorten your lead time for subsequent games as your child’s skills improve. Soon your child will be earning all the cards! Make memorizing their multiplication facts as easy and as much fun as possible, allowing time for practice on one table before moving to another. There are numerous websites which offer other suggested games, like [this one](https://www.timestables.com/5-times-table.html).
+Shorten your lead time for subsequent games as your child’s skills improve. Soon your child will be earning all the cards!
+
+Make memorizing their multiplication facts as easy, and as much fun, as possible, allowing time for practice on one table before moving to another. There are numerous websites which offer other suggested games, like [this one](https://www.timestables.com/5-times-table.html).
 
 ## Grades 6, 7, & 8 middle school math
 
-Common to middle schoolers, the theme often revolves not around the reasoning within math, but rather the reason for learning math. Since understanding proportional relationships is very valuable to understand, taking the time to share snapshots of the household budget with your middle schooler might be a valuable lesson.
+The common theme in teaching math with these grades often revolves not around the reasoning within math, but rather the reason *for* learning math. Since understanding proportional relationships is very valuable to understand, find real-life ways to demonstrate concepts, like taking the time to share snapshots of the household budget with your middle schooler might be a valuable lesson.
 
 ### Proportional relationships, algebraic equations and linear functions
 
-Let’s look at how a utility bill can teach math. The relationship between the kilowatt hours used in a month is directly proportional to the utility bill at the end of the month. The amount of this bill is then, in turn, inversely proportional to the amount of excess money available for the family to spend. Your child might enjoy the challenge of bringing the electric bill down by unplugging curling irons and turning off lights if he or she knew the excess money would be put towards a family vacation. Making a table of the data and graphing it would the icing on the pi.
+Let’s look at how a utility bill can teach math.
+
+The relationship between the kilowatt hours used in a month is directly proportional to the utility bill at the end of the month. 
+
+The amount of this bill is, in turn, inversely proportional to the amount of excess money available for the family to spend.
+
+Your child might enjoy the challenge of bringing the electric bill down by unplugging curling irons and turning off lights if he or she knew the excess money would be put towards a family vacation. Making a table of the data and graphing it would the icing on the pi.
 
 Yes, that was a math joke. 
 
-Shopping with a middle schooler? Computing sale prices when items are on a percentage-off sale will sharpen your young adult’s mathematical skills. An understanding of money always opens the door to being able to compute with decimals, a skill, which by now,  should have been mastered using all four operations. 
+Shopping with a middle schooler? Computing sale prices when items are on a percentage-off sale will sharpen your young adult’s mathematical skills (and teach them real-life ones, as well). An understanding of money always opens the door to being able to compute with decimals, a skill, which by now, should have been covered in their classrooms using all four operations. 
 
-Keep your mathematical eyes open and grab teaching opportunities when you see them.  In the trade, this is known as the “teachable moments.”
+Keep your mathematical eyes open and grab teaching opportunities when you see them.  In the teaching trade, these are known as “teachable moments.”
 
 ## Enrichment and support
 If you're looking for challenges, or just clarification of various topics that will help your students master math, consider using the services of a [tutor](https://www.wyzant.com/elementary_math_tutors.aspx Tutors). Like all teachers, tutors connect with students in different ways, and personalize each lesson. A tutor will approach difficult concepts a different angle, customizing their teaching to the unique needs of your child. They engage,  encourage, and motivate a love for learning.
