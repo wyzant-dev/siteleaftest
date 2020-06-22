@@ -192,5 +192,5 @@ Keep your mathematical eyes open and grab teaching opportunities when you see th
 ## Enrichment and support
 If you're looking for challenges, or just clarification of various topics that will help your students master math, consider using the services of a [tutor](https://www.wyzant.com/elementary_math_tutors.aspx Tutors). Like all teachers, tutors connect with students in different ways, and personalize each lesson. A tutor will approach difficult concepts a different angle, customizing their teaching to the unique needs of your child. They engage,  encourage, and motivate a love for learning.
 
-Children have a natural sense of wonder. What an honor it is to build on this natural curiosity. The joy of teaching may well have you thinking that the ‘Parenthood-now teaching army” for which you enlisted was certainly the correct one! Much like in **Private Benjamin**, the lessons you and your child learn will be priceless! 
+Children have a natural sense of wonder. What an honor it is to build on this natural curiosity. The joy of teaching may well have you thinking that the ‘Parenthood-now teaching army” for which you enlisted was certainly the correct one! Much like in *Private Benjamin*, the lessons you and your child learn will be priceless! 
 
