@@ -40,11 +40,21 @@ Here are a few Common Core math examples for each grade level:
 
 ## K-2: place value
 
-There are many ways to help your child understand place value. What does the first digit in a two-digit number represent? Using opportunities which present themselves every day in a casual manner might just be the best way for your child to learn and appreciate math. 
+In math, every digit in a number has a place value. Here's an easy example.
+
+In the number 57821:
+
+* 5 is in ten thousands place and its place value is 50,000,
+* 7 is in thousands place and its place value is 7,000,
+* 8 is in hundreds place and its place value is 800,
+* 2 is in tens place and its place value is 20,
+* 1 is in ones place and its place value is 10.
+
+There are many ways to help your kids understand place value. Using opportunities which present themselves every day in a casual manner might just be the best way for your child to learn and appreciate math. One of the most useful ways is by using a hundreds chart.
 
 ## Hundreds chart
 
-Consider printing the following chart, or saving it to your computer or phone for quick reference.
+Consider printing this chart, or saving it to your computer or phone for quick reference.
 
 ![Hundreds chart for common core math](/blog/uploads/Hundreds%20chart.png)
 
