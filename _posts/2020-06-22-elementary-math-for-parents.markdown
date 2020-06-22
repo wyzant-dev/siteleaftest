@@ -40,6 +40,8 @@ Here are a few Common Core math examples for each grade level:
 
 ## K-2: place value
 
+Place value is an important concept taught as early as kindergarten. As students learn about larger numbers, the concept of place value continues through other elementary grades.
+
 In math, every digit in a number has a place value. Here's an easy example.
 
 In the number 57821:
