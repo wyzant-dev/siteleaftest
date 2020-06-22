@@ -77,7 +77,7 @@ This concept is common in classrooms, and can be changed as needed to suit your 
 ### Calendar math
 When learning math using a calendar, students can learn by doing all sorts of things: drawing, writing, adding/subtracting, multiplying/dividing, measuring, counting, telling time, and many others. Applying it specifically to Common Core math, you can use simple manipulatives to illustrate concepts. Try this simple one, which builds on the hundreds chart:
 
-1. When a new month begins, gather popsicle sticks and a few rubber bands to teach place value.
+1. When a new month begins, ask your student to check the calendar and gather one stick per day.
 2. On the tenth day of the month, gather the ten sticks together and secure them with an elastic band. Announce, “We now have our first ten-bundle!”
 3. Use the calendar to illustrate that the digit 1 in the 10 tells us the number of ten-bundles we have. The zero tells us there are no loose “ones.” So, for example: on day 14 there will be 1 ten-bundle and 4-ones.
 
@@ -128,13 +128,22 @@ Or, point out the four sticks which make up the pound of butter. One stick is ¼
 Make learning fractions fun and engaging for your kids. Their reward will not only be in the desserts they create, but also in the deeper understanding of math they're picking up along the way. 
 
 ### Multiplication
-Although a deep understanding is our greatest goal, knowing some facts will serve as our greatest tools. Memorizing multiplication facts is one such tool.
+Although a deep understanding is our greatest goal, some facts will serve as our greatest tools. Memorizing multiplication facts is one such tool.
 
-Once your child actually understands why a 7 by 9 array equals 63 and a 6 by 9 array equals 54, the next step would be to begin helping your child put these facts to memory. The nines’ table has several patterns. The sum of the digits always equals 9. Also, the value of the tens’ place in the product is always one less than the non-nine factor. See if your child can spot a few of these patterns.
+Once your child actually understands **why** a 7 by 9 array equals 63, and a 6 by 9 array equals 54, the next step is to begin helping them put these facts to memory.
 
-You might want to teach the [finger method](https://www.wikihow.com/Use-Your-Fingers-to-Do-the-9s-Times-Tables) for the nines’ times table. This method is useful when the factor is a whole number less than 10 and the other factor is 9.  
+The nines’ table is a great example because if has several patterns, like:
 
-Another useful skill is to help your child strategize when the product can not be recalled. When given 8X7, show your child how a larger factor such as 8 can be broken down into 4 plus 4.These partial products can be added together to find the answer: 4X7=28 plus 4X7=28. 28 plus 28 = 56. They have arrived at the product of 8X7 which is 56. Caution them to only break one of the factors apart. 
+* The sum of the digits always equals 9
+* Also, the value of the tens’ place in the product is always one less than the non-nine factor
+
+See if your child can spot a few of these kinds of patterns.
+
+You might want to teach the [finger method](https://www.wikihow.com/Use-Your-Fingers-to-Do-the-9s-Times-Tables) for the nines’ times table. This method is useful when the factor is a whole number less than 10, and the other factor is 9.  
+
+Another useful skill is to help your child strategize when a product (the result of multiplying) can not be recalled. When given 8x7, illustrate how a larger factor such as 8 can be broken down into 4 + 4.
+
+These partial products can be added together to find the answer: 4x7=28, and 28+28=56. With this, you've arrived at the product of 8x7, which is 56. (A teacher's tip: caution them to only break one of the factors apart for this exapmple). 
 
 ### Math games for kids
 Making math fun (sometimes known as "gameification") can help reinforce facts and concepts. One which your child may enjoy is quite simple:
