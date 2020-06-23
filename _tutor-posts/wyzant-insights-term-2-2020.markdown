@@ -39,7 +39,7 @@ To clarify how the new Recommended Rate functionality works, it’s helpful to f
 
 Specifically:
 
-* **Wyzant does not ask students for rate information.** This data is based on a student’s behavior on our site. We know what tutors a student has contacted, and the hourly rate of those tutors. This data is nothing new - the student contacting a $15/hr Organic Chemistry tutor was doing that before this update. The sole difference is now we’ve made this information available to tutors by surfacing a “Recommended Rate”.
+* **Wyzant does not ask students for rate information.** This data is based on a student’s **behavior **on our site. We know what tutors a student has contacted, and the hourly rate of those tutors. This data is nothing new - the student contacting a $15/hr Organic Chemistry tutor was doing that before this update. The sole difference is now we’ve made this information available to tutors by surfacing a “Recommended Rate”.
 
 The Recommended Rate is meant to function as a guideline for tutors to assess potential students’ fit before applying to their jobs. *You will never be penalized for not adjusting your rate.* How you choose to use the Recommended Rate information is at your discretion.
 
