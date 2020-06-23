@@ -11,14 +11,14 @@ meta-description: 'In the era of school closures and lockdowns, we’ve all had 
 
 COVID continues to have a tremendous effect on the way we live our lives, and it's changed tutoring and education, as well. Our CEO, Andrew Geant, recently wrote [an article on LinkedIn](https://www.linkedin.com/pulse/people-want-learn-from-humans-especially-during-pandemic-andrew-geant-1e/?published=t&trackingId=SVdA5IsiSJuDy9%2FxoiCQ6g%3D%3D) exploring the changing role of online tutoring, and trends we’re noticing that we’d like to share with the tutor community. Here's an excerpt:
 
-![An excerpt from Andrew Geants article that reads Year over Year Tutoring Growth and illustrates 158 percent growth from March 8th to May 3 2020](/blog/uploads/Year%20over%20Year%20Tutoring%20Growth%20Wyzant.png)
+![An excerpt from Andrew Geant's article that reads Year over Year Tutoring Growth and illustrates 158 percent growth from March 8th to May 3 2020](/blog/uploads/Year%20over%20Year%20Tutoring%20Growth%20Wyzant.png)
 
 ### We want to hear from you!
 
 In the era of school closures and lockdowns, we’ve all had to rapidly adjust to a more virtual life. Tutoring is no exception. How are you [making sure your students still get the help they need?](https://forms.gle/rTUarjqKgnp4BZ7M8)
-## Product Updates
+## Product updates
 In the past few months, we have released some important updates for tutors. We hope these updates help you reach more students and provide an even better tutoring experience.
-### Tutoring Jobs
+### Tutoring jobs
 Last month [we updated the tutoring jobs experience](https://www.wyzant.com/blog/tutor/tutoring-jobs/). As part of that update, we circulated a survey to gather feedback on how the tutor community feels about the changes, and tutoring jobs on Wyzant tutoring at-large.
 
 The survey closed last week with 370 tutor responses! An enormous thanks to all the tutors who responded! We’ll discuss the “Recommended Rate” topic in this edition of *Insights*, but there was lots of great feedback that we’ll cover in future communications.  
