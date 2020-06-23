@@ -45,9 +45,9 @@ The Recommended Rate is meant to function as a guideline for tutors to assess po
 
 (On a related note, some tutors have rightfully wondered if the recommended rates shown are connected to a test Wyzant ran in May. In this test, we asked prospective students about their budget when they *went to exit Wyzant without contacting a tutor*. The goal was to see if Wyzant could encourage them to search for a tutor by using available price filters, instead of leaving the site. Though they address different parts of the same topic, this test was not tied to the launch of Recommended Rate.
 
-* **Recommended Rates differ by student and by request.** Wyzant is not using an algorithm or setting Recommended Rates on a per-subject basis. Since the rate is *specific to the student and their behavior on our site*, tutors will see a wide variety of Recommended Rates within and across subjects. 
+2) **Recommended Rates differ by student and by request.** Wyzant is not using an algorithm or setting Recommended Rates on a per-subject basis. Since the rate is *specific to the student and their behavior on our site*, tutors will see a wide variety of Recommended Rates within and across subjects. 
 
-* **Tutors still set their own hourly rates.** The Recommended Rate is meant to be a reference point for tutors when deciding what jobs to apply to, and what rate to use for a specific application. *We are not overriding default rates set by tutors or the rate established by previously connecting with students*. 
+3) **Tutors still set their own hourly rates.** The Recommended Rate is meant to be a reference point for tutors when deciding what jobs to apply to, and what rate to use for a specific application. *We are not overriding default rates set by tutors or the rate established by previously connecting with students*. 
 
 The only time we reinforce a specific hourly rate is when it is listed as a “Required Rate” for [Partnership](https://support.wyzant.com/hc/en-us/articles/360032408412-Wyzant-Partnership-FAQs-for-Tutors) students. These students do not pay for their own tutoring and are subject to an hourly rate budget set by their institutions. Tutors must agree to those  Required Rates when applying to those jobs.  
 
