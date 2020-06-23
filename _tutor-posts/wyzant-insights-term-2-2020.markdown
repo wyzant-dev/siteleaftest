@@ -109,7 +109,7 @@ In July, we’ll be talking with tutors about how you approach back-to-school ti
 
 ![A photo of Nick sitting near a blue lake](/blog/uploads/Nick%20Lux%20Wyzant%20Insights.png)
 
-Nick Lux, Issue Tracking Analyst
+### Nick Lux, Issue Tracking Analyst
 
 
 "I started at Wyzant five years ago (how time flies!) as a Customer Support Representative, before starting my current role as an Issue Tracking Analyst in Winter 2018. My experience as a Rep has informed how I navigate my new role in nearly every way - though I no longer directly discuss issues and feedback with users, I aggregate data from all of the conversations our Team has with users so that our Product and Engineering teams can make informed decisions regarding what part of the platform to focus on next.
