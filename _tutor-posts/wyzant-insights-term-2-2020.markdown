@@ -21,7 +21,7 @@ In the past few months, we have released some important updates for tutors. We h
 ### Tutoring Jobs
 Last month [we updated the tutoring jobs experience](https://www.wyzant.com/blog/tutor/tutoring-jobs/). As part of that update, we circulated a survey to gather feedback on how the tutor community feels about the changes, and tutoring jobs on Wyzant tutoring at-large.
 
-The survey closed last week with 370 tutor responses! An enormous thanks to all the tutors who responded! We’ll discuss the “Recommended Rate” topic in this edition of Insights, but there was lots of great feedback that we’ll cover in future communications.  
+The survey closed last week with 370 tutor responses! An enormous thanks to all the tutors who responded! We’ll discuss the “Recommended Rate” topic in this edition of *Insights*, but there was lots of great feedback that we’ll cover in future communications.  
 
 ### Recommended Rates
 
