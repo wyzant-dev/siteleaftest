@@ -43,7 +43,7 @@ Specifically:
 
 The Recommended Rate is meant to function as a guideline for tutors to assess potential students’ fit before applying to their jobs. *You will never be penalized for not adjusting your rate.* How you choose to use the Recommended Rate information is at your discretion.
 
-(On a related note, some tutors have rightfully wondered if the recommended rates shown are connected to a test Wyzant ran in May. In this test, we asked prospective students about their budget when they *went to exit Wyzant without contacting a tutor*. The goal was to see if Wyzant could encourage them to search for a tutor by using available price filters, instead of leaving the site. Though they address different parts of the same topic, this test was not tied to the launch of Recommended Rate.
+On a related note, some tutors have rightfully wondered if the recommended rates shown are connected to a test Wyzant ran in May. In this test, we asked prospective students about their budget when they *went to exit Wyzant without contacting a tutor*. The goal was to see if Wyzant could encourage them to search for a tutor by using available price filters, instead of leaving the site. Though they address different parts of the same topic, this test was not tied to the launch of Recommended Rate.
 
 **2) Recommended Rates differ by student and by request.** Wyzant is not using an algorithm or setting Recommended Rates on a per-subject basis. Since the rate is *specific to the student and their behavior on our site*, tutors will see a wide variety of Recommended Rates within and across subjects. 
 
