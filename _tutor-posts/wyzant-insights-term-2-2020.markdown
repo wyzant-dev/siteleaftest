@@ -35,7 +35,7 @@ Some tutors were happy to see the new feature...
 
 ![Three tutor survey responses that describe tutors who are skeptical about recommended rates having an impact on their business](/blog/uploads/Tutor%20Survey%20Responses%20Wyzant%20Insights%20Term%202%20number%202.png)
 
-To clarify how the new Recommended Rate functionality works, it’s helpful to first note that this feature doesn’t alter how the tutor or student experiences function. 
+To clarify how the new Recommended Rate functionality works, it’s helpful to first note that this feature **doesn’t alter how the tutor or student experiences function**. 
 
 Specifically:
 
