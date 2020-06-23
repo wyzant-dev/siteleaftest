@@ -4,6 +4,7 @@ date: 2020-06-23 12:02:00 -05:00
 published: false
 sub-headline: As we enter the summer term, we’re dealing with a different reality
   than a typical summer of tutoring.
+hero-image: "/blog/uploads/Wyzant%20Insights%20Term%202%202020%20v2.png"
 meta-description: 'In the era of school closures and lockdowns, we’ve all had to rapidly
   adjust to a more virtual life. Tutoring is no exception. '
 ---
