@@ -1,6 +1,10 @@
 ---
 title: Wyzant Insights
 date: 2019-09-09 10:00:00 -05:00
+categories:
+- Wyzant Insights
+tags:
+- Wyzant Insights
 sub-headline: We designed Wyzant Insights to give you important info you can use to
   grow your business, and help you understand more of what happens behind the scenes
   at Wyzant.
