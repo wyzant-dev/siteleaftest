@@ -34,7 +34,7 @@ Some tutors were happy to see the new feature...
 
 ![Three tutor survey responses that describe tutors who are excited about recommended rates](/blog/uploads/Tutor%20Survey%20Responses%20Wyzant%20Insights%20Term%202%20number%201.png)
 
-...And others expressed concern: where does the recommended rate come from? How is it used? Here are some verbatim examples that highlight the three main themes:
+...And others expressed concern: where does the Recommended Rate come from? How is it used? Here are some verbatim examples that highlight the three main themes:
 
 ![Three tutor survey responses that describe tutors who are skeptical about recommended rates having an impact on their business](/blog/uploads/Tutor%20Survey%20Responses%20Wyzant%20Insights%20Term%202%20number%202.png)
 
