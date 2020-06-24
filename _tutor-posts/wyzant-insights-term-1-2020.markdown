@@ -1,6 +1,10 @@
 ---
 title: Wyzant Insights - Term 1, 2020
 date: 2020-01-15 10:54:00 -06:00
+categories:
+- Wyzant Insights
+tags:
+- Wyzant Insights
 hero-image: "/blog/uploads/Wyzant%20Insights%20T1%202020%20PNG%202.png"
 ---
 
