@@ -1,7 +1,10 @@
 ---
 title: Wyzant Insights - Term 2, 2020
 date: 2020-06-23 12:02:00 -05:00
-published: false
+categories:
+- Wyzant Insights
+tags:
+- Wyzant Insights
 sub-headline: As we enter the summer term, we’re dealing with a different reality
   than a typical summer of tutoring.
 hero-image: "/blog/uploads/Wyzant%20Insights%20Term%202%202020%20v2.png"
