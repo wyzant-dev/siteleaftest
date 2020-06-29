@@ -6,7 +6,18 @@ categories:
 - Online Learning
 tags:
 - online tutoring
+sub-headline: In connecting with students in a personalized, 1-to-1 fashion, tutors
+  create confidence and accountability in a way that parents and teachers often just
+  can’t.
 hero-image: "/blog/uploads/Tutor%20is%20Not%20a%20Four%20Letter%20Word.png"
+meta-description: 'Tutoring is a lot of things: a way to expand your skills, explore
+  more opportunities, and an indispensable tool for anyone who wants to take their
+  success into their own hands. What tutoring is not, however, is a four-letter word.
+  At least, it shouldn’t be.'
+post-description: 'Tutoring is a lot of things: a way to expand your skills, explore
+  more opportunities, and an indispensable tool for anyone who wants to take their
+  success into their own hands. What tutoring is not, however, is a four-letter word.
+  At least, it shouldn’t be.'
 ---
 
 The word “tutor” can elicit a variety of reactions.
