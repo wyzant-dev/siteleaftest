@@ -60,6 +60,8 @@ A self-confident student is a student who is [more likely to participate](https:
 
 Through individualized attention within a peer pressure-free space, a less-confident student can begin to feel more comfortable asking questions, discussing what they need more help to understand, and tackling their material with more confidence. The work they do with a tutor focuses on areas specific to their learning, removing the worry that they’re not “getting it” as quickly as their classmates.
 
+![Three student Reviews of their tutors](/blog/uploads/Student%20Reviews.png)
+
 The result? We’ve heard time and time again from students that the relationship between them and their tutors was what steered them back on track.
 
 ## Top four reasons people hire a tutor in 2020
