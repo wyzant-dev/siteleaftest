@@ -9,6 +9,7 @@ tags:
 - GRE
 - Test Prep
 author: Andrew Colford
+hero-image: "/blog/uploads/Lets%20Unpack%20What%20A%20Good%20GRE%20Score%20Actually%20Means.png"
 ---
 
 Because numbers are such concrete things, we tend not to question where they come from or what they mean.
