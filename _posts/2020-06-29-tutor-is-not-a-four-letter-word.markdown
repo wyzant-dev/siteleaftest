@@ -66,30 +66,27 @@ The result? We’ve heard time and time again from students that the relationshi
 
 Let’s be real: times have changed. The reasons people seek out and hire a tutor have changed with them.   
 
-School closures - Demand for online tutoring for elementary students has expanded over 500% on Wyzant since April 2020. The major contributing factor? The US’s sudden switch to online learning as a stand-in for the traditional classroom.
+**1) School closures** - Demand for online tutoring for elementary students has expanded over 500% on Wyzant since April 2020. The major contributing factor? The US’s sudden switch to online learning as a stand-in for the traditional classroom.
 
 Parents, of course, are stressed. They’re keenly aware of the importance of developing foundational skills during the elementary years, but the fact is: it’s harder to learn when school happens at home. In response, parents and families are turning to personalized tutoring both to provide trusted guidance to their at-home students, and to help themselves manage remote learning at-large alongside their other responsibilities. 
 
 One more thing: parents intuitively understand that their kids need kind, human support. They’re hiring tutors in record numbers not just for homework help, but to provide social interaction, trust, and sometimes, just a cheerleader who can motivate their at-home students.
 
-
-Skills development - Nearly half of people who hire a tutor on Wyzant are not enrolled in any sort of degree- or diploma-granting program. They’re not students! Rather, they’re learning something for work. Or fun. Or just because they finally have time to devote to developing a new skill or revisit an old passion. 
+**2) Skills development** - Nearly half of people who hire a tutor on Wyzant are not enrolled in any sort of degree- or diploma-granting program. They’re not students! Rather, they’re learning something for work. Or fun. Or just because they finally have time to devote to developing a new skill or revisit an old passion. 
 
 Increasingly, we see people turning to Wyzant because they want to learn how to code their own games, study chess, confront their fear of public speaking, try sewing, or max out their proficiencies in software programs (like Adobe Photoshop or Tableau). People also hire tutors to practice foreign languages they haven’t used since high school, brush up on their email writing skills, or even learn to paint with oils or play piano.
 
 This tells us two things about tutoring: it’s a highly flexible, convenient way to learn nearly anything, and you don’t need to be a literal student to work with a tutor.
 
-
-Moving up the curve - Think tutoring is reserved for “bad” students? Think again. Among academic learners, only a small percentage of the students who come to Wyzant are failing. Most, in fact, are making average, even superior grades, but aren’t satisfied with their performance or need help staying on track.
+**3) Moving up the curve** - Think tutoring is reserved for “bad” students? Think again. Among academic learners, only a small percentage of the students who come to Wyzant are failing. Most, in fact, are making average, even superior grades, but aren’t satisfied with their performance or need help staying on track.
 
 #### Among academic learners, only a small percentage of the students who comes to Wyzant are failing
-
 
 Academic tutoring is effective for students who are struggling in school, yes, but it’s an equally powerful resource for students with great grades. Tutoring helps them manage their responsibilities, reduce stress, and prioritize.
 
 Tutoring lessons are always personalized, which means they’re custom-built to cater to your specific needs. No time is wasted on the stuff you already understand, so your learning focus remains squarely on your unique needs, subject weaknesses, and style of learning. Best of all, tutors make the learning process fun and interesting, which helps you build that all-important confidence we mentioned above as you go. When’s the last time you said that about a classroom lecture?
 
-Getting ahead - Everyone knows calculus and organic chemistry are tough subjects. And very few people show up to the LSAT, MCAT, GRE, or GMAT without significant preparation (not to mention the hundreds of high-stakes professional licensing exams like the NCLEX, CFA or Bar Exam). 
+**4) Getting ahead** - Everyone knows calculus and organic chemistry are tough subjects. And very few people show up to the LSAT, MCAT, GRE, or GMAT without significant preparation (not to mention the hundreds of high-stakes professional licensing exams like the NCLEX, CFA or Bar Exam). 
 
 Increasingly, we’re seeing learners take proactive measures to get prepared well in advance of difficult courses and tests. Much like in sports, practice and preparation is often the difference between success and failure. And just like a great coach, a tutor can help you design the right practice regimen so that come game day, you’re ready to go.
 
