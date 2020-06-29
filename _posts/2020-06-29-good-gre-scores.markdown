@@ -72,7 +72,7 @@ The two number lines below show the percent of test-takers who get below a parti
 
 You’ll notice here that not all score increases are created equal.  For instance, if you improve your Verbal score from 145 to 150, you’ll move from the 25th percentile to the 50th percentile--a huge jump relative to all other test-takers.  Meanwhile, going from 165 to 170 only moves you about 5 percentile points.  This means that it’s much easier to make gains on the lower end.  So if you hit a wall in your improvement, do not get frustrated.  Perhaps look into some GRE tutoring to learn strategies that will boost you into a higher percentile range.
 
-## What is a “good” GRE score for YOU?
+## Okay, but what is a “good” GRE score for YOU?
 The charts above, however, reflect the scores of all GRE test-takers.  It’s much more important to know what represents a good GRE score overall for the program you’re applying to.
 
 Let’s say you’re aiming for a top MBA program - Wharton, for instance.  The numbers below come from the Wharton website, and show the [average GRE scores](https://mba.wharton.upenn.edu/class-profile/) of the Class of 2021.
