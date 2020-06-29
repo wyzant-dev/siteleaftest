@@ -6,6 +6,7 @@ categories:
 - Online Learning
 tags:
 - online tutoring
+hero-image: "/blog/uploads/Tutor%20is%20Not%20a%20Four%20Letter%20Word.png"
 ---
 
 The word “tutor” can elicit a variety of reactions.
