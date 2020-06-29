@@ -39,7 +39,7 @@ While there may naturally be a bit of humility in asking for help, remember: a t
 
 The average hourly rate on Wyzant is $45/hr. What’s more, there are currently more than 10k tutors that charge $35/hr or less. Compare that to the price of a degree ($20-50k/year), a coding bootcamp ($10-20k), or even some pay-to-access web courses, and it’s easy to see how personalized sessions with a tutor can actually be a cost-effective method of learning something new.
 
-When looking for a tutor on Wyzant, you can even choose our own rate by simply filtering results for any subject you search. Additionally, most tutors are willing to change their rate depending on any number of factors, which is why our Customer Support team always urges students to reach out to tutors that may seem expensive. More often than not, both parties easily agree on a perfect price.
+When looking for a tutor on Wyzant, you can even choose your own rate by simply filtering results for any subject you search. Additionally, most tutors are willing to change their rate depending on any number of factors, which is why our Customer Support team always urges students to reach out to tutors that may seem expensive. More often than not, both parties easily agree on a perfect price.
 
 Read more about putting the cost of tutoring in perspective by [clicking here](https://www.wyzant.com/blog/cost-of-tutoring/).
 
