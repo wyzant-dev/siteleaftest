@@ -65,7 +65,7 @@ You’ll notice here that not all score increases are created equal.  For instan
 ## What is a “good” GRE score for YOU?
 The charts above, however, reflect the scores of all GRE test-takers.  It’s much more important to know what represents a good GRE score overall for the program you’re applying to.
 
-Let’s say you’re aiming for a top MBA program--Wharton, for instance.  The numbers below come from the Wharton website, and show the average GRE scores of the Class of 2021.
+Let’s say you’re aiming for a top MBA program - Wharton, for instance.  The numbers below come from the Wharton website, and show the [average GRE scores](https://mba.wharton.upenn.edu/class-profile/) of the Class of 2021.
 
 ![Data illustrating average GRE scores of the Class of 2021 at Wharton University](/blog/uploads/GRE%20Quant%20Scores%20Wyzant%202.png)
 
