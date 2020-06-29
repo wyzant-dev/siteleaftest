@@ -34,7 +34,7 @@ For some, having a tutor seems to indicate one is academically “weak”, or no
 
 While there may naturally be a bit of humility in asking for help, remember: a tutor’s whole job is to help you understand...not to remind you of your shortcomings. Tutoring is a judgment-free tool to help anyone succeed, regardless of their age, learning style, or level.
 
-### **MYTH:** Tutoring is unaffordable
+### **MYTH:** Tutoring is not affordable
 
 The average hourly rate on Wyzant is $45/hr. What’s more, there are currently more than 10k tutors that charge $35/hr or less. Compare that to the price of a degree ($20-50k/year), a coding bootcamp ($10-20k), or even some pay-to-access web courses, and it’s easy to see how personalized sessions with a tutor can actually be a cost-effective method of learning something new.
 
