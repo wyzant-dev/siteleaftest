@@ -1,7 +1,6 @@
 ---
 title: Let’s Unpack What A “Good GRE Score” Actually Means
 date: 2020-06-29 08:37:00 -05:00
-published: false
 categories:
 - GRE
 - Test Prep
@@ -9,7 +8,17 @@ tags:
 - GRE
 - Test Prep
 author: Andrew Colford
+sub-headline: GRE examinees often use colorful adjectives to describe the test day
+  experience.  “Fun” is most certainly not one of them.
 hero-image: "/blog/uploads/Lets%20Unpack%20What%20A%20Good%20GRE%20Score%20Actually%20Means.png"
+meta-description: The numbers associated with GRE scores might seem confounding and
+  arbitrary - determined by some capricious wizard behind a curtain.  But these numbers
+  have important consequences for your grad school application and for how you prep
+  for the exam as a whole.
+post-description: The numbers associated with GRE scores might seem confounding and
+  arbitrary - determined by some capricious wizard behind a curtain.  But these numbers
+  have important consequences for your grad school application and for how you prep
+  for the exam as a whole.
 ---
 
 Because numbers are such concrete things, we tend not to question where they come from or what they mean.
