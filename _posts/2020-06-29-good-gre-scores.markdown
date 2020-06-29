@@ -71,7 +71,7 @@ Let’s say you’re aiming for a top MBA program--Wharton, for instance.  The n
 
 As you can see, the average scores are quite high.  MBA programs place a strong emphasis on standardized tests, as they want candidates who can work well with numbers.  
 
-Contrast this with the GRE policy of the University of Chicago’s highly ranked social work program:
+Contrast this with the [GRE policy](http://ssaannouncements.uchicago.edu/ssa/admissionrequirements/) of the University of Chicago’s highly ranked social work program:
 
 #### The Graduate Record Examination is not required; however, an applicant with a low undergraduate grade point average may wish to submit GRE General Test scores as a possible means of strengthening the application.”
 
