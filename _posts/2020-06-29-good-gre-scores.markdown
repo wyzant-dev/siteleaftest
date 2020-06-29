@@ -92,7 +92,7 @@ Even if you’re on the fence about retesting, you should be sure to request a [
 Once you have your diagnostic information, you can take a GRE practice test to get an unofficial GRE score range.  Check ets.org to see if there are better locations where you can take the GRE to improve your performance.  As you progress in your studying, be careful not to fall into some of the [common GRE prep mistakes](https://www.wyzant.com/blog/gre-prep/) people make.
 
 ## Conclusion
-As random as GRE scores seem, there is a method to the madness.  Your best friend on this journey (aside from your wonderful GRE tutor) is information.
+As random as GRE scores seem, there is a method to the madness.  Your best friend on this journey (aside from [your wonderful GRE tutor](https://www.wyzant.com/GRE_tutors.aspx)) is information.
 
 The more you know about the particular programs you’re targeting, the more effective you’ll be in assembling your application.  Don’t assume that every program needs perfect scores, and don’t neglect the other portions of your application.
 
