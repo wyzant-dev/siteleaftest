@@ -1,5 +1,5 @@
 ---
-title: Let’s Unpack What “Good GRE Scores” Actually Means
+title: Let’s Unpack What A “Good GRE Score” Actually Means
 date: 2020-06-29 08:37:00 -05:00
 published: false
 categories:
