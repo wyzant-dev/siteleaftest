@@ -86,7 +86,7 @@ First off, take a deep breath.  Having multiple scores likely will not harm your
 
 The real question to answer is, what’s the return on your investment?  Will a few more weeks of hard-core studying put you over the top?  Or is that time better spent rounding out the other components of your application package?  How much emphasis does your target program place on scores?
 
-Even if you’re on the fence about retesting, you should be sure to request a free diagnostic report as soon as you can.  This report will allow you to pinpoint the question types that you missed, and it will inform how you study for the retest.  Many students don’t know about this, and consequently they have to begin studying again from square one!
+Even if you’re on the fence about retesting, you should be sure to request a [free diagnostic report](https://www.ets.org/s/gre/diagnostic_service/) as soon as you can.  This report will allow you to pinpoint the question types that you missed, and it will inform how you study for the retest.  Many students don’t know about this, and consequently they have to begin studying again from square one!
 
 Once you have your diagnostic information, you can take a GRE practice test to get an unofficial GRE score range.  Check ets.org to see if there are better locations where you can take the GRE to improve your performance.  As you progress in your studying, be careful not to fall into some of the common GRE prep mistakes people make.
 
