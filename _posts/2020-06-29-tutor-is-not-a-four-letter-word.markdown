@@ -28,8 +28,6 @@ In the case of Wyzant, tutors are independent, and work with one student at a ti
 
 Let’s address a few common misconceptions.
 
-![Embarrassed -e68821.png](/blog/uploads/Embarrassed%20-e68821.png)
-
 ### **MYTH:** Tutoring is something to be embarrassed about
 
 For some, having a tutor seems to indicate one is academically “weak”, or not “smart enough.” Here’s the real story, though: everybody has their own set of strengths and weaknesses. And no one learns in the exact same way (just ask any teacher). Needing help in order to learn something new is, well, perfectly normal.
