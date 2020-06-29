@@ -16,7 +16,7 @@ Because numbers are such concrete things, we tend not to question where they com
 
 For instance, one morning in 1933, the U.S Federal government increased the price of gold by 21 cents.  This figure, as it turned out, had been chosen by President Roosevelt himself.  As FDR explained to his Treasury Secretary, he believed that three times seven was a lucky number, and so that was that.
 
-The numbers associated with GRE scores might seem equally confounding and arbitrary--determined by some capricious wizard behind a curtain.  But these numbers have important consequences for your grad school application and for how you prepare for the GRE, so it’s important to understand the meaning behind them.
+The numbers associated with GRE scores might seem equally confounding and arbitrary--determined by some capricious wizard behind a curtain.  But these numbers have important consequences for your grad school application and for how you [prepare for the GRE](https://www.wyzant.com/blog/online-gre-prep/), so it’s important to understand the meaning behind them.
 
 ## Why do you have to take this Darn Test?
 
