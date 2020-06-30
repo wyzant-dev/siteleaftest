@@ -6,9 +6,9 @@ categories:
 - Online Learning
 tags:
 - online tutoring
-sub-headline: In connecting with students in a personalized, 1-to-1 fashion, tutors
-  create confidence and accountability in a way that parents and teachers often just
-  can’t.
+sub-headline: Through connecting with students in a personalized, 1-to-1 fashion,
+  tutors create confidence and accountability in a way that parents and teachers often
+  just can’t.
 hero-image: "/blog/uploads/Tutor%20is%20Not%20a%20Four%20Letter%20Word.png"
 meta-description: 'Tutoring is a lot of things: a way to expand your skills, explore
   more opportunities, and an indispensable tool for anyone who wants to take their
