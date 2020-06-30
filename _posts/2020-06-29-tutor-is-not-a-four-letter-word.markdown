@@ -101,7 +101,7 @@ Tutoring lessons are always personalized, which means they’re custom-built to 
 
 **4) Getting ahead** - Everyone knows calculus and organic chemistry are tough subjects. And very few people show up to the LSAT, MCAT, GRE, or GMAT without significant preparation (not to mention the hundreds of high-stakes professional licensing exams like the NCLEX, CFA or Bar Exam).
 
-Increasingly, we’re seeing learners take proactive measures to get prepared well in advance of difficult courses and tests. Much like in sports, practice and preparation is often the difference between success and failure. And just like a great coach, a tutor can help you design the right practice regimen so that come game day, you’re ready to go.
+Increasingly, we’re seeing learners take proactive measures to get prepared well in advance of difficult courses and tests. Much like in sports, practice and preparation are often the difference between success and failure. And just like a great coach, a tutor can help you design the right practice regimen so that come game day, you’re ready to go.
 
 ## The bottom line about tutoring
 
