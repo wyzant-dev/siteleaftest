@@ -80,7 +80,7 @@ Let’s be real: [times have changed](https://www.wyzant.com/blog/covid-19-tutor
 
 **1) School closures** - Demand for online tutoring for elementary students has expanded over 500% on Wyzant since April 2020. The major contributing factor? The US’s sudden switch to online learning as a stand-in for the traditional classroom.
 
-![Untitled-Demand for elementary online tutoring.png](/blog/uploads/Untitled-Demand%20for%20elementary%20online%20tutoring.png)
+![Untitled-Demand for elementary online tutoring-9e7848.png](/blog/uploads/Untitled-Demand%20for%20elementary%20online%20tutoring-9e7848.png)
 
 Parents, of course, are stressed. They’re keenly aware of the importance of developing foundational skills during the elementary years, but the fact is: it’s harder to learn when school happens at home. In response, parents and families are turning to personalized tutoring both to provide trusted guidance to their at-home students, and to help themselves manage remote learning at-large alongside their other responsibilities.
 
