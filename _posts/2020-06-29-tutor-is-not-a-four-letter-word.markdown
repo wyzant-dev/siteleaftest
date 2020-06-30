@@ -41,7 +41,7 @@ Let’s address a few common misconceptions.
 
 ### **MYTH:** Tutoring is something to be embarrassed about
 
-For some, having a tutor seems to indicate one is academically “weak”, or not “smart enough.” Here’s the real story, though: everybody has their own set of strengths and weaknesses. And no one learns in the exact same way (just ask any teacher). Needing help in order to learn something new is, well, perfectly normal.
+For some, having a tutor seems to indicate one is academically “weak”, or not “smart enough.” Here’s the real story, though: everybody has their own set of strengths and weaknesses. And no one learns in the exact same way (just ask any teacher). Needing help in order to learn something new is, well, *perfectly normal*.
 
 While there may naturally be a bit of humility in asking for help, remember: a tutor’s whole job is to help you understand...not to remind you of your shortcomings. Tutoring is a judgment-free tool to help anyone succeed, regardless of their age, learning style, or level.
 
