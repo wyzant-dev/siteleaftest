@@ -71,9 +71,11 @@ Statistics can also be useful for performance analysis when you have a lot of pe
 In general, there’s less need for complex statistics, since its often easy to gather more data or even change your program to eliminate confounding factors. This is different in data science or machine learning, though, where you are often working with data from systems that are difficult, impossible to control, or in some cases, even unethical.
 
 ## Graph Theory
-In a mathematical sense, graphs are collections of nodes and the connections between them. You might’ve already spotted the application to computing: networks, including the Internet, are graphs. For example, Google’s original algorithm for ordering results, PageRank, is a graph algorithm that scores each node based on the rank of pages that link to it. Other information can be represented as a graph: social relationships, subway stops, and molecules.
+In a mathematical sense, graphs are collections of nodes and the connections between them. You might’ve already spotted the application to computing: networks, including the Internet, are graphs.
 
-While in-depth graph theory courses and textbooks exist, the basics are often covered by discrete math courses. Once you have the basics, down, you’re well-positioned to study graph algorithms, which are often covered in introductory courses on algorithms or data structures.
+For example: Google’s original algorithm for ordering results, PageRank, is a graph algorithm that scores each node based on the rank of pages that link to it. Other information can also be represented as a graph: social relationships, subway stops, and molecules.
+
+While in-depth graph theory courses and textbooks exist, the basics are often covered by discrete math courses. Once you understand the foundations, you’re well-positioned to study graph algorithms, which are covered in introductory courses on algorithms and data structures.
 
 ## Linear Algebra
 Linear algebra studies vectors and matrices, which are widely used in both games and machine learning. Vectors are a quantity with a magnitude and a direction. Often, they’re in two dimensions, but they can have more. Matrices consists of rows and columns of numbers.
