@@ -40,9 +40,12 @@ While not technically required, it’s strongly recommended that you eventually 
 
 You probably remember that probability is about calculating the odds of something happening. But what is combinatorics?
 
-Combinatorics, simply put, is counting, although the techniques it uses are more sophisticated that ticking each thing off with your fingers. For example, word problems describing, say, a deli with five types of bread and two meats that ask you to come up with the total number of sandwich combinations (10) are a combinatorics problem. In computer programming, the uses of combinatorics are sometimes along the same lines: If you give your users the choice of five colors and two fonts for their user name, how many combinations are there?
+Combinatorics, simply put, is counting, although the techniques it uses are more sophisticated that ticking each thing off with your fingers. For example, word problems describing, say, a deli with five types of bread and two meats that asks you to come up with the total number of sandwich combinations (10).
 
-More seriously, assessing the strength of a password against common attacks is also a combinatorics problem. To estimate the time needed to guess the password using an exhaustive search, you need to figure out the total number of possible passwords.
+In computer programming, the uses of combinatorics are sometimes along the same lines: if you give your users the choice of five colors and two fonts for their user name, how many combinations are there?
+
+More seriously, assessing the strength of a password against common attacks is also a combinatorics problem. To estimate the time needed to guess a password using an exhaustive search, you need to figure out the total number of possible passwords.
+
 Part of why combinatorics and probability are useful is because computers often operate at scales that are hard to intuitively reason about. If your web site is processing a million requests per month, it suddenly becomes important whether an unlikely bug is a 1 in a million chance or a 1 in a billion chance.
 
 While combinatorics is a surprisingly deep subfield of mathematics because of its overlap with other subfields, a few techniques go a long way. Similarly, knowing the basic rules of calculating probabilities, the difference between independent and dependent events, and a few useful formulas like Bayes’ Rule and the formula for calculating binomial probabilities cover a lot of your needs.
