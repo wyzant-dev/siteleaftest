@@ -15,8 +15,9 @@ To help point you in the direction of the right math for your own coding goals, 
 
 ## Pre-algebra
 
-Several basic math skills from middle school are prerequisites for almost any kind of programming, because of how often they come up in programming or in simply understanding how your computer works.
-These tend to be taught in the years (and courses) leading up to algebra. These skills include decimals, rounding, scientific notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or the GRE, you’re likely ready, as these cover a broader range of math.
+Several basic math skills from middle school are prerequisites for almost any kind of programming, because of how often they come up in programming (or in simply understanding how your computer works.)
+
+These math skills tend to be taught in the years (and courses) leading up to algebra. These pre-algebra skills include decimals, rounding, scientific notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or the GRE, you’re likely familiar with most of these.
 
 A special topic is function notation, since many programming languages take the both the notation and the concept of a mathematical function and extend it to general computing. As an example, let’s take the well-known equation for force, f = ma. In functional notation, it’s F(m, a) = ma. Sometimes this is written F: m, a -> F(m, a) This is a pretty direct translation of the statement “force is a function of mass and acceleration,” which in non-mathematical language means the amount of force depends on the amount of mass and the amount of acceleration. Increase either one, and you get more force.
 
