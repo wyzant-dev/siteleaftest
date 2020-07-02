@@ -44,7 +44,7 @@ Combinatorics, simply put, is counting, although the techniques it uses are more
 
 In computer programming, the uses of combinatorics are sometimes along the same lines: if you give your users the choice of five colors and two fonts for their user name, how many combinations are there?
 
-More seriously, assessing the strength of a password against common attacks is also a combinatorics problem. To estimate the time needed to guess a password using an exhaustive search, you need to figure out the total number of possible passwords.
+Assessing the strength of a password against common attacks is also a combinatorics problem. To estimate the time needed to guess a password using an exhaustive search, you need to figure out the total number of possible passwords.
 
 Part of why combinatorics and probability are useful is because computers often operate at scales that are hard to intuitively reason about. If your web site is processing a million requests per month, it suddenly becomes important whether an unlikely bug is a 1 in a million chance or a 1 in a billion chance.
 
