@@ -63,8 +63,9 @@ Good news! Re-memorizing formulas you learned in high school is probably overkil
 ## Statistics
 Statistics is a must for any kind of data science, analysis, or machine learning. However, once you become comfortable with the basics of both statistics and programming, you can learn both the programming and statistical elements in parallel. In fact, immediately putting into practice the statistical concepts you learn is a fantastic way to cement the topics in your mind.
 
-If you’re intending to focus on the practical uses and don’t want to delve too deeply into the underlying math, doing both in once can help you validate that the statistics you’re learning are, in fact, practical.
+If you intend to focus on practical uses of programming and don’t want to delve too deeply into the underlying math, doing statistics and coding at once can often help you validate that the statistics you’re learning **are**, in fact, practical.
 
+### Performance analysis
 Statistics can also be useful for performance analysis when you have a lot of performance data to analyze, such as if you’re working with large-scale systems or running many tests. In this case, mastering basic techniques and having a good sense for how they work may be all you need. In general, there’s less of a need for complex statistics since its often easy to gather more data or even change your program to eliminate confounding factors. This differs from data science or machine learning, where you are often working with data from systems that are difficult, unethical, or impossible to control.
 
 ## Graph Theory
