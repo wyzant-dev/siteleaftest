@@ -5,11 +5,11 @@ published: false
 author: Alys Brooks
 ---
 
-Programming doesn’t require as much math as you might think. You probably already have the necessary skills. The types of math, and just how much you really need to master, usually depends on the area of programming you want to work in.
+Programming doesn’t require as much math as you might think. You probably already have the [necessary skills](https://www.wyzant.com/blog/before-you-learn-coding/). The types of math, and just how much you really need to master, usually depends on the area of programming you want to work in.
 
 You don’t have to be great at pen-and-paper math, let alone mental math (you are working with a computer, after all). It’s far more important to understand the concepts of math that give coding its foundations. Often, you may not even be writing code that **uses** math. More commonly, you'll use a library or built-in function that implements an equation or algorithm for you. The true value of learning math for coding lies in understanding what certain algorithms, formulas, and sometimes shapes are doing.
 
-Beyond reducing the requirements to get comfortable as a programmer, using built-in or existing code provides other benefits; often the developers have already put in the work to optimize a library, which effectively saves you hours of coding from scratch. In some cases, this means using a language more optimized for speed that you may not even be familiar with, like Python. Even though Python can be slow for calculation-heavy work, analyzing data using Pandas library - which provides code for working with tabular data - is fast. It accomplishes this speed by writing the parts of the library that need to be fast in C.
+Beyond reducing the requirements to [get comfortable as a programmer](https://www.wyzant.com/blog/learn-to-code/), using built-in or existing code provides other benefits; often the developers have already put in the work to optimize a library, which effectively saves you hours of coding from scratch. In some cases, this means using a language more optimized for speed that you may not even be familiar with, like Python. Even though Python can be slow for calculation-heavy work, analyzing data using Pandas library - which provides code for working with tabular data - is fast. It accomplishes this speed by writing the parts of the library that need to be fast in C.
 
 To help point you in the direction of the right math for your own coding goals, here's the math required for popular languages and purposes, roughly ordered by how widely applicable each branch of math is to programming in general.
 
@@ -17,7 +17,7 @@ To help point you in the direction of the right math for your own coding goals, 
 
 Several basic math skills from middle school are prerequisites for almost any kind of programming, because of how often they come up in programming (or in simply understanding how your computer works.)
 
-These math skills tend to be taught in the years (and courses) leading up to algebra. These pre-algebra skills include decimals, rounding, scientific notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or the GRE, you’re likely familiar with most of these.
+These math skills tend to be taught in the years (and courses) leading up to algebra. These [pre-algebra skills](https://www.wyzant.com/prealgebra_tutors.aspx) include decimals, rounding, scientific notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or the [GRE](https://www.wyzant.com/blog/gre-math-formulas/), you’re likely familiar with most of these.
 
 ### Function notation
 
@@ -27,7 +27,7 @@ Here's an example. Let’s use the well-known equation for force: **f = ma.**
 
 In function notation, it’s **F(m, a) = ma.**. Sometimes it's written **F: m, a -> F(m, a)**. This is a pretty direct translation of the statement, “Force is a function of mass and acceleration,” which, in non-mathematical language, means the amount of force depends on the amount of mass and the amount of acceleration. Increase either one, and you get more force.
 
-From here, you can write the Python equivalent:
+From here, you can write the [Python](https://www.wyzant.com/blog/learn-python/) equivalent:
 
 **def F(m, a):<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return m * a**
@@ -91,7 +91,7 @@ Calculus also has applications in both video games and machine learning. In vide
 
 For a lot of programmers in these specializations, it’s enough to understand the role that calculus plays without even learning its concepts. In both machine learning and video games, there’s been a surge in free tools that already implement necessary algorithms and are available in several different languages. It’s more common to make game engines free for small or non-commercial projects and, as interest in machine learning has grown, so has the ecosystem of libraries coders can access.
 
-Nonetheless, learning those concepts is helpful for rounding out your knowledge of how all of your coding tools work. If you want to implement them yourself, of course, mastering them is necessary.
+Nonetheless, learning those concepts is helpful for rounding out your knowledge of how all of your coding tools work. If you want to implement them yourself, of course, mastering them is necessary. To do that, connect with a [coding tutor](https://www.wyzant.com/computer_programming_lessons.aspx) that's mastered them already - learning what's really important to know, and taking less time to learn it, can contribute greatly to your confidence as a programmer.
 
 ## Coding confidence
-While computer programming may not be as math-y as you previously thought, math is always behind-the-scenes. Understanding what’s behind the curtain means you can write programs that are more reliable and efficient, allow you to contribute to the fundamental libraries that often implement the math, and honestly, be more confident in your work.
+While computer programming may not be as math-y as you previously thought, understanding what’s behind the curtain means you can write programs that are more reliable and efficient, allow you to contribute to the fundamental libraries that often implement the math, and honestly, be more confident in your work. 
