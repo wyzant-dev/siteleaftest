@@ -30,7 +30,7 @@ In function notation, it’s **F(m, a) = ma.**. Sometimes it's written **F: m, a
 From here, you can write the Python equivalent:
 
 def F(m, a):<br />
-&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;;&nbsp;return m * a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return m * a
 
 Unlike mathematical functions, programming functions don’t always result in a value.
 
