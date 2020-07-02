@@ -5,11 +5,13 @@ published: false
 author: Alys Brooks
 ---
 
-Programming doesn’t require as much math as you might think. You probably already have the necessary skills. It really depends on the area of programming you want to work in. And it’s important to clarify that the math you don’t have to be good at pen-and-paper math, let alone mental math - you are working with a computer, after all - it’s far more important to understand the concepts. Often you may not even be writing code that uses the math. More commonly, you use a library or built-in function that has implemented the equation or algorithm for you. The value of learning math is understanding what those algorithms and formulas are doing.
+Programming doesn’t require as much math as you might think. You probably already have the necessary skills. The types of math, and just how much you really need to master, usually depends on the area of programming you want to work in.
 
-Beyond lessening the requirements to get started, using built-in or existing code provides other benefits: often the developers have already put in the work to optimize the library. In some cases, this means using a language more optimized for speed that you may not even be that familiar with. For example, even thought Python can be slow for calculation-heavy work, analyzing data using Pandas library, which provides code for working with tabular data, is fast. It accomplishes this by writing the parts of the library that need to be fast in C.
+You don’t have to be great at pen-and-paper math, let alone mental math (you are working with a computer, after all). It’s far more important to understand the concepts of math that give coding its foundations. Often, you may not even be writing code that **uses** math. More commonly, you'll use a library or built-in function that implements an equation or algorithm for you. The true value of learning math for coding lies in understanding what certain algorithms, formulas, and sometimes shapes are doing.
 
-What follows is a list of the math required for, roughly in order of how widely applicable.
+Beyond reducing the requirements to get comfortable as a programmer, using built-in or existing code provides other benefits; often the developers have already put in the work to optimize a library, which effectively saves you hours of coding from scratch. In some cases, this means using a language more optimized for speed that you may not even be familiar with, like Python. Even though Python can be slow for calculation-heavy work, analyzing data using Pandas library - which provides code for working with tabular data - is fast. It accomplishes this speed by writing the parts of the library that need to be fast in C.
+
+To help point you in the direction of the right math for your own coding goals, here's the math required for popular languages and purposes, roughly ordered by how widely applicable each branch of math is to programming in general.
 
 ## Pre-algebra
 
