@@ -61,12 +61,14 @@ Computers deal in numbers, so it’s no surprise that their use of graphics reli
 Good news! Re-memorizing formulas you learned in high school is probably overkill, and you don’t need to revisit proofs. Formulas can easily be looked up (if they aren’t already a part of your programming environment) and programmers rarely deal in formal proof, although formally verifying programs is an area of research. (If you are interested in proofs purely out of curiosity, the mechanistic approach favored by high school geometry isn’t optimal. Consider reading [*How to Prove It*](https://www.indiebound.org/book/9780521861243) instead.)
 
 ## Statistics
-Statistics is a must for any kind of data science, analysis, or machine learning. However, once you become comfortable with the basics of both statistics and programming, you can learn both the programming and statistical elements in parallel. In fact, immediately putting into practice the statistical concepts you learn is a fantastic way to cement the topics in your mind.
+Statistics is a must for any kind of data science, analysis, or machine learning. However, once you become comfortable with the basics, you can learn both programming and statistical elements in parallel. In fact, immediately putting into practice the statistical concepts you learn is a fantastic way to cement the topics in your mind.
 
 If you intend to focus on practical uses of programming and don’t want to delve too deeply into the underlying math, doing statistics and coding at once can often help you validate that the statistics you’re learning **are**, in fact, practical.
 
 ### Performance analysis
-Statistics can also be useful for performance analysis when you have a lot of performance data to analyze, such as if you’re working with large-scale systems or running many tests. In this case, mastering basic techniques and having a good sense for how they work may be all you need. In general, there’s less of a need for complex statistics since its often easy to gather more data or even change your program to eliminate confounding factors. This differs from data science or machine learning, where you are often working with data from systems that are difficult, unethical, or impossible to control.
+Statistics can also be useful for performance analysis when you have a lot of performance data to analyze, like if you're working working with large-scale systems or running many tests. In this case, mastering basic statistics techniques and having a good sense for how they work may be all you need.
+
+In general, there’s less need for complex statistics, since its often easy to gather more data or even change your program to eliminate confounding factors. This is different in data science or machine learning, though, where you are often working with data from systems that are difficult, impossible to control, or in some cases, even unethical.
 
 ## Graph Theory
 In a mathematical sense, graphs are collections of nodes and the connections between them. You might’ve already spotted the application to computing: networks, including the Internet, are graphs. For example, Google’s original algorithm for ordering results, PageRank, is a graph algorithm that scores each node based on the rank of pages that link to it. Other information can be represented as a graph: social relationships, subway stops, and molecules.
