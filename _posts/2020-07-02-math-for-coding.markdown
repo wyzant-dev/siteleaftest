@@ -61,7 +61,7 @@ Computers deal in numbers, so it’s no surprise that their use of graphics reli
 Good news! Re-memorizing formulas you learned in high school is probably overkill, and you don’t need to revisit proofs. Formulas can easily be looked up (if they aren’t already a part of your programming environment) and programmers rarely deal in formal proof, although formally verifying programs is an area of research. (If you are interested in proofs purely out of curiosity, the mechanistic approach favored by high school geometry isn’t optimal. Consider reading [How to Prove It](https://www.indiebound.org/book/9780521861243) instead.)
 
 ## Statistics
-Statistics is a must for any kind of data science or analysis or machine learning. However, once you have the basics of statistics and programming down, you can learn both the programming and statistical elements in parallel. In fact, immediately putting in practice the statistical concepts you learn can be a good way to cement the topics.
+Statistics is a must for any kind of data science, analysis, or machine learning. However, once you become comfortable with the basics of both statistics and programming, you can learn both the programming and statistical elements in parallel. In fact, immediately putting into practice the statistical concepts you learn is a fantastic way to cement the topics in your mind.
 
 If you’re intending to focus on the practical uses and don’t want to delve too deeply into the underlying math, doing both in once can help you validate that the statistics you’re learning are, in fact, practical.
 
