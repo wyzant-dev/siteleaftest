@@ -1,6 +1,6 @@
 ---
 title: What Kinds of Math Do I Need to Know for Coding?
-date: 2020-07-02 08:13:00 -05:00
+date: 2020-06-28 08:13:00 -05:00
 categories:
 - Computer Programming
 tags:
