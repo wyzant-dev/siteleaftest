@@ -89,7 +89,9 @@ Similar to the way programming languages extend the concept of a function, they 
 ## Calculus
 Calculus also has applications in both video games and machine learning. In video games, calculus is useful for simulating motion and other physics. In machine learning, calculus is used for the progressive optimization many algorithms rely on.
 
-For a lot of programmers in these areas, it’s enough to understand the role that calculus plays without even learning its concepts. In both machine learning and video games, there’s been a surge in free tools that already implement the necessary algorithms and are available in several different languages. It’s more common to make game engines free for at least small or non-commercial projects, and as interest in machine learning has grown, so has the ecosystem of libraries you can use. Nonetheless, learning those concepts are helpful for completing your knowledge of how your tools work, and if you want to implement them yourself, necessary.
+For a lot of programmers in these specializations, it’s enough to understand the role that calculus plays without even learning its concepts. In both machine learning and video games, there’s been a surge in free tools that already implement necessary algorithms and are available in several different languages. It’s more common to make game engines free for small or non-commercial projects and, as interest in machine learning has grown, so has the ecosystem of libraries coders can access.
+
+Nonetheless, learning those concepts is helpful for rounding out your knowledge of how all of your coding tools work. If you want to implement them yourself, of course, mastering them is necessary.
 
 ## Coding confidence
 While computer programming may not be as math-y as you thought, math is always behind-the-scenes. Understanding what’s behind the curtain means you can write programs that are more reliable and efficient, allow you to contribute to the fundamental libraries that often implement the math, and honestly, be more confident in your work.
