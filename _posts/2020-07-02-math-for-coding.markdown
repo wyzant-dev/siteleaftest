@@ -3,6 +3,7 @@ title: What Kinds of Math Do I Need to Know for Coding?
 date: 2020-07-02 08:13:00 -05:00
 published: false
 author: Alys Brooks
+hero-image: "/blog/uploads/What%20Kind%20of%20Math%20Do%20I%20Need%20To%20Know%20for%20Coding.psd"
 ---
 
 Programming doesn’t require as much math as you might think. You probably already have the [necessary skills](https://www.wyzant.com/blog/before-you-learn-coding/). The types of math, and just how much you really need to master, usually depends on the area of programming you want to work in.
