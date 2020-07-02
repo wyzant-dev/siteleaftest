@@ -1,7 +1,10 @@
 ---
 title: What Kinds of Math Do I Need to Know for Coding?
 date: 2020-07-02 08:13:00 -05:00
-published: false
+categories:
+- Computer Programming
+tags:
+- Computer Programming
 author: Alys Brooks
 sub-headline: 'Good news: you don’t have to be great at pen-and-paper math, let alone
   mental math (you are working with a computer, after all).'
