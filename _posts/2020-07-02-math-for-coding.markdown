@@ -94,4 +94,4 @@ For a lot of programmers in these specializations, it’s enough to understand t
 Nonetheless, learning those concepts is helpful for rounding out your knowledge of how all of your coding tools work. If you want to implement them yourself, of course, mastering them is necessary.
 
 ## Coding confidence
-While computer programming may not be as math-y as you thought, math is always behind-the-scenes. Understanding what’s behind the curtain means you can write programs that are more reliable and efficient, allow you to contribute to the fundamental libraries that often implement the math, and honestly, be more confident in your work.
+While computer programming may not be as math-y as you previously thought, math is always behind-the-scenes. Understanding what’s behind the curtain means you can write programs that are more reliable and efficient, allow you to contribute to the fundamental libraries that often implement the math, and honestly, be more confident in your work.
