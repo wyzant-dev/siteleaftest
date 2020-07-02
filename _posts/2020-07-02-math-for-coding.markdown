@@ -38,7 +38,9 @@ Unlike mathematical functions, programming functions don’t always result in a 
 
 While not technically required, it’s strongly recommended that you eventually learn basic combinatorics and probability because they are areas where a small amount of math is highly useful.
 
-You probably remember that probability is about calculating the odds of something happening. But what is combinatorics?
+You probably remember that probability is about calculating the odds of something happening. But...
+
+###What is combinatorics?
 
 Combinatorics, simply put, is counting, although the techniques it uses are more sophisticated that ticking each thing off with your fingers. For example, word problems describing, say, a deli with five types of bread and two meats that asks you to come up with the total number of sandwich combinations (10).
 
