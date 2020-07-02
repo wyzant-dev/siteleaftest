@@ -51,7 +51,8 @@ Assessing the strength of a password against common attacks is also a combinator
 Part of why combinatorics and probability are useful in coding is because computers often operate at scales that are hard to intuitively reason about. If your web site is processing a million requests per month, it suddenly becomes important whether an unlikely bug is a 1 in a million chance or a 1 in a billion chance.
 
 While combinatorics is a surprisingly deep sub-field of mathematics because of its overlap with other sub-fields, a few techniques go a long way. Similarly, knowing the basic rules of calculating probabilities, the difference between independent and dependent events, and a few useful formulas like Bayes’ Rule and the formula for calculating binomial probabilities cover a lot of your needs.
-While not all of probability is discrete, it and combinatorics are often covered for Computer Science students in a discrete math course, along with graph theory (below), number theory, and proof. Discrete math is essentially the study of mathematical things that aren’t continuous, which excludes things like functions and shapes.
+
+While not all of probability is discrete, it's normally covered for Computer Science students in a discrete math course, along with graph theory (below), number theory, and proof. Discrete math is essentially the study of mathematical things that aren’t continuous, which excludes things like functions and shapes.
 
 ## Geometry
 
