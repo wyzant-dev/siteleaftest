@@ -84,7 +84,7 @@ Vectors are useful in computer graphics, including games, for representing point
 
 While much of the necessary math for, say, multiplying two matrices together is already part of standard graphics libraries or game engines, it’s still important to at least understand what is being operated on: the vectors and matrices. So while you might not need an entire linear algebra course, it's useful to be comfortable with have a strong grasp on what both a vector and a matrix are.
 
-Similar to the way programming languages extended the concept of a function, they’ve also extended the concept of vectors to refer to a data structure that stores a series of values, which may not be numbers. For example, you could use a C++ vector to store the user names of everyone currently logged in even though you can’t perform vector math on people’s user names.
+Similar to the way programming languages extend the concept of a function, they also extend the concept of vectors to refer to a data structure that stores a series of values (which may not be numbers). For example, you could use a C++ vector to store the user names of everyone currently logged in to a website, even though you can’t perform vector math on user names.
 
 ## Calculus
 Calculus also has applications in both video games and machine learning. In video games, calculus is useful for simulating motion and other physics. In machine learning, calculus is used for the progressive optimization many algorithms rely on.
