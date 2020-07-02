@@ -19,12 +19,18 @@ Several basic math skills from middle school are prerequisites for almost any ki
 
 These math skills tend to be taught in the years (and courses) leading up to algebra. These pre-algebra skills include decimals, rounding, scientific notation, working with units, and reading numbers in bases other than decimal. If you’ve prepared for a test like the GED, SAT or the GRE, you’re likely familiar with most of these.
 
-A special topic is function notation, since many programming languages take the both the notation and the concept of a mathematical function and extend it to general computing. As an example, let’s take the well-known equation for force, f = ma. In functional notation, it’s F(m, a) = ma. Sometimes this is written F: m, a -> F(m, a) This is a pretty direct translation of the statement “force is a function of mass and acceleration,” which in non-mathematical language means the amount of force depends on the amount of mass and the amount of acceleration. Increase either one, and you get more force.
+### Function notation
 
-From there, you can write the Python equivalent:
+Many programming languages take the both the notation and the concept of a mathematical function and extend it to general computing. This is known as function notation.
 
-def F(m, a):
-    return m * a
+Here's an example. Let’s use the well-known equation for force: **f = ma.**
+
+In function notation, it’s **F(m, a) = ma.**. Sometimes it's written **F: m, a -> F(m, a)**. This is a pretty direct translation of the statement, “Force is a function of mass and acceleration,” which, in non-mathematical language, means the amount of force depends on the amount of mass and the amount of acceleration. Increase either one, and you get more force.
+
+From here, you can write the Python equivalent:
+
+def F(m, a):<br />
+&nbsp;&nbsp;&nbsp;&nbsp;return m * a
 
 Unlike mathematical functions, programming functions don’t always result in a value.
 
