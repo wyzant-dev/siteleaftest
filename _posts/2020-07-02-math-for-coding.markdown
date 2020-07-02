@@ -78,11 +78,11 @@ For example: Google’s original algorithm for ordering results, PageRank, is a 
 While in-depth graph theory courses and textbooks exist, the basics are often covered by discrete math courses. Once you understand the foundations, you’re well-positioned to study graph algorithms, which are covered in introductory courses on algorithms and data structures.
 
 ## Linear Algebra
-Linear algebra studies vectors and matrices, which are widely used in both games and machine learning. Vectors are a quantity with a magnitude and a direction. Often, they’re in two dimensions, but they can have more. Matrices consists of rows and columns of numbers.
+Linear algebra studies vectors and matrices, which are widely used in both video games and machine learning. Vectors are a quantity with a magnitude and a direction. Often, they’re in two dimensions, but they can have more. Matrices consists of rows and columns of numbers.
 
 Vectors are useful in computer graphics, including games, for representing points and motions. Matrices are useful for representing transformations, such as flipping a shape over an axis.
 
-While much of the necessary math for, say, multiplying two matrices together is already part of standard graphics libraries or game engines, it’s still important to at least understand what is being operated on—the vectors and matrices. So while you might not need an entire linear algebra course, it would be useful to be comfortable with what a vector and a matrix is.
+While much of the necessary math for, say, multiplying two matrices together is already part of standard graphics libraries or game engines, it’s still important to at least understand what is being operated on: the vectors and matrices. So while you might not need an entire linear algebra course, it's useful to be comfortable with have a strong grasp on what both a vector and a matrix are.
 
 Similar to the way programming languages extended the concept of a function, they’ve also extended the concept of vectors to refer to a data structure that stores a series of values, which may not be numbers. For example, you could use a C++ vector to store the user names of everyone currently logged in even though you can’t perform vector math on people’s user names.
 
