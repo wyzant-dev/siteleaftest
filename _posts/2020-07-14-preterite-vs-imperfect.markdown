@@ -30,7 +30,7 @@ To conjugate regular AR verbs in Spanish Preterite, remove the infinitive ending
 
 It’s always essential to add the accent marks to the required conjugated verbs. As in *yo estudié* (I studied), *él estudió* (he studied), *ella estudió* (she studied), and *usted estudió* (You studied, formal singular).
 
-The accent marks on the vowels suggest stressing more on the last syllable. If not emphasized in that syllable, it might be confused with the present tense! For example, in *yo llamo* (I call), the stress is more in the syllable “-lla." On the other hand, in *el llamó* (he called), the stress is at the last syllable “-mó”.
+The accent marks on the vowels suggest stressing more on the last syllable. If not emphasized in that syllable, it might be confused with the [present tense](https://www.wyzant.com/blog/spanish-present-tense/)! For example, in *yo llamo* (I call), the stress is more in the syllable “-lla." On the other hand, in *el llamó* (he called), the stress is at the last syllable “-mó”.
 All the other regular verbs ending in AR follow the same pattern when conjugating in the *pasado simple*. For instance, the verb *caminar* (to walk): remove the infinitive ending (-ar) and add the ending that matches the subject.
 
 *Yo caminé* - I walked<br />
