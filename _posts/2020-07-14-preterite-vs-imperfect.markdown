@@ -144,7 +144,7 @@ Let's look at the following examples:
 *La música comenzó a sonar en la sala* (The music began to play in the living room)<br /><br />
 *La reunión acabó con el discurso del señor Martínez* (The meeting ended with Mr. Martinez's speech)<br /><br />
 
-###Specific Times and Dates
+### Specific Times and Dates
 The preterite is also used to talk about past events or actions on specific days or dates, at specific times, and during specific time periods. Here are some great examples:
 
 *Roxana regresó anoche a las nueve.* (Roxana came back last night at nine)<br /><br />
