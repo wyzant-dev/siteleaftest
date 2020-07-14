@@ -2,8 +2,24 @@
 title: 'Past Tense Spanish: Preterite vs. Imperfect and Everything In-Between'
 date: 2020-07-14 11:10:00 -05:00
 published: false
+categories:
+- Spanish
+- Language Learning
+tags:
+- Spanish
+- Language Learning
 author: Gissela Tomasello
+sub-headline: As your knowledge of the language keeps progressing, you’ll start learning
+  to talk about activities or events that occurred in the past.
 hero-image: "/blog/uploads/Spanish%20Past%20Tense%20Preterite%20vs%20Imperfect.png"
+meta-description: 'A critical aspect of the Spanish language is learning the conjugation
+  of verbs in different tenses, especially when learning to talk about things in the
+  past! This article will focus on the most useful Spanish past tenses: the preterite,
+  imperfect, past progressive, the present perfect, and past perfect.'
+post-description: 'A critical aspect of the Spanish language is learning the conjugation
+  of verbs in different tenses, especially when learning to talk about things in the
+  past! This article will focus on the most useful Spanish past tenses: the preterite,
+  imperfect, past progressive, the present perfect, and past perfect.'
 ---
 
 A critical aspect of the Spanish language is learning the conjugation of verbs in different tenses. As your knowledge of the language [keeps progressing](https://www.wyzant.com/blog/spanish-words-and-phrases/), you’ll start learning to talk about activities or events that occurred in the past. For that skill, the Spanish Past Tense is very useful.
