@@ -58,7 +58,7 @@ The way to know if one statement is expressed in the present or the preterite is
 *Algunas veces Raúl y yo escribimos un correo electrónico a Susana.* (Sometimes, Raul and I write an email to Susana) - Present Simple<br /><br />
 *La semana pasada, Raúl y yo escribimos un correo electrónico a Susana.* (Last week, Raúl and I wrote an email to Susana) - Past Simple
 
-### ER verbs and IR verbs
+### ER and IR Verbs
 The regular ER and IR verbs conjugate the same way, which makes them more practical to remember. To conjugate them, remove the infinitive ending (-er and -ir) and add the ending that matches the subject. 
 
 You can find these endings in the following charts using the verbs *comer* (to eat) and *vivir* (to live)<br /><br />
@@ -128,7 +128,7 @@ Now let’s explore some examples using those verbs.
 ## Usages of the Preterite
 Now that we know how to conjugate regular verbs and some irregular verbs in the simple past, we will learn the usages of *el pretérito.*
 
-### Completed events
+### Completed Events
 The *pasado simple* is used to talk about completed events, especially those with evident beginnings and ends that occurred once in the past. Let's see the following examples for more clarification.
 
 *Compré un televisor nuevo* (I bought a new television) - This sentence presents a completed event because I already bought the TV. I am not in the process of buying it. The action has an end.<br /><br />
@@ -154,7 +154,7 @@ The preterite is also used to talk about past events or actions on specific days
 *Tu leíste esta historia la semana pasada.* (You read this story last week)<br /><br />
 *Melissa nació el once de noviembre.* (Melissa was born on November eleventh)
 
-### Events in a sequence
+### Events in a Sequence
 Another usage of the Simple Past is for listing past events that were completed and took place in a sequence. Let’s use these following sentences:
 
 *Me levanté, tomé una taza de café, y salí a correr.* (I woke up, drank a cup of coffee, and went for a run)<br /><br />
@@ -167,7 +167,7 @@ The Spanish Imperfect Tense is another important past tense in the language. The
 
 For that, divide the verbs into two groups: you guessed it, the AR verbs, and the ER and IR verbs!
 
-### AR verbs
+### AR Verbs
 To conjugate regular AR verbs in *el imperfecto*, remove the infinitive ending (-ar) and add the endings that match the subject.
 
 Let’s practice with the verb *bailar* (to dance) in the following example.<br />
@@ -186,7 +186,7 @@ The same conjugation rule applies to other regular verbs ending in -ar like *hab
 
 Also, *yo bailaba* can mean either “I was dancing,” or, “I used to/would dance.” It depends on the usage context and what the speaker is trying to explain...an action or event in the past. You’ll see this in action by exploring the usage of the imperfect.
 
-### ER verbs and IR verbs
+### ER and IR Verbs
 To conjugate regular ER and IR verbs in the imperfect, remove the infinitive endings (-er or -ir) and add the endings that match the subject. The ending to replace are *Yo*: -ía, *tú*:- ías, *el*:- ía, *nosotros*: -íamos, *vosotros*:- íais, *ustedes*: -ían, *ellos* -ían.
 
 Let’s try those conjugations using the verb *correr* (to run) and the verb *salir* (to go out or get out)<br /><br />
@@ -239,14 +239,14 @@ Here are some examples in action:
 ## Usages of the Imperfect
 The Imperfect Indicative can be used for routine actions, times and dates, actions that were in progress in the past, age, descriptions of characteristics, conditions, and feelings.
 
-### Habitual or repeated actions
+### Habitual or Repeated Actions
 The Imperfect Past Tense is used to talk about activities that were done over and over in the past. These are often things a person used to do or would do. 
 
 *Mi familia y yo cenábamos todas las noches.* (My family and I used to eat lunch together every day)<br /><br />
  *Todos los sábados los niños iban al parque para jugar.* (Every Saturday the children used to go to the park to play)<br /><br />
 *Mis amigos y yo ibamos a la heladería cada viernes.*  (My friends and I used to go to the ice cream store every Friday) 
 
-### Actions That Were In-Progress in the Past
+### Actions In-Progress in the Past
 *El imperfecto* is commonly used to talk about something that was happening when something else occurred. When talking about a past action in progress that was interrupted, the action in progress is in the **imperfect** time, while the interrupting action is in the **Preterite**.
 
 Let’s look at the following example:
@@ -350,7 +350,7 @@ The trigger words in these sentences indicate the imperfect:
 
 When practicing, pay attention to the trigger words for both Past Tenses. These clues will help to understand and express better.
 
-## Combining both the Preterite and the Imperfect
+## Combining the Preterite and the Imperfect
 One of the usages of the imperfect is to express ongoing action in the past. The Preterite participates in this statement when it interrupts the ongoing action. This combination is very common when telling a story or an experience of the past. Spanish combines both tenses in one statement all the time. 
 
 Here are some excellent examples:
