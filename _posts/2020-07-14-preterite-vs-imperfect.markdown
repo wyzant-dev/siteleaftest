@@ -269,26 +269,30 @@ This sentence expresses an action that happened continuously in the past. It did
 This phrase expresses an action that used to happen in the past. But it does not specify when Roberto exactly used to walk through the park.
 
 ### Times and Dates
-The imperfect is also used to talk about times and dates in the past, as in:
+The imperfect is also used to talk about times and dates in the past, as in:<br />
 
-*Eran las diez de la mañana.* (It was ten o’clock in the morning)
-*Eran las siete de la noche.* (It was seven o’clock in the evening)
-*Era el 14 de abril.* (It was April 14th)
+*Eran las diez de la mañana.* (It was ten o’clock in the morning)<br /><br />
+*Eran las siete de la noche.* (It was seven o’clock in the evening)<br /><br />
+*Era el 14 de abril.* (It was April 14th)<br /><br />
 *Era el 09 de enero* (It was January 9th)
-**Age**
-It is very common to use *el imperfecto* to talk about age in the past. 
-*El niño tenía diez años.* (The boy was ten years old)
-*Juliana y yo teníamos quince años cuando viajamos a Brasil.* (Juliana and I were ten years old when we traveled to Brazil)
-*Los turistas tenían veinticinco años.* (The tourists were twenty-five years old)
+
+### Age
+It is very common to use *el imperfecto* to talk about age in the past.
+<br />
+*El niño tenía diez años.* (The boy was ten years old)<br /><br />
+*Juliana y yo teníamos quince años cuando viajamos a Brasil.* (Juliana and I were ten years old when we traveled to Brazil)<br /><br />
+*Los turistas tenían veinticinco años.* (The tourists were twenty-five years old)<br /><br />
 *Tú tenías cuatro años cuando aprendiste a montar bicicleta.* (You were four years old when you learned to ride a bike)
-**Descriptions of Characteristics, Conditions, and Feelings**
+
+### Descriptions of Characteristics, Conditions, and Feelings
 The Imperfect Past Tense describes the characteristics of people, places, objects, and situations in the past. It is also used to describe conditions and feelings that occurred in the past. For example:
-*Mi maestra de español era baja y tenía el pelo lacio.* (My Spanish teacher was short and she had straight hair)
-*Las montañas eran hermosas.* (The mountains were beautiful)
-*Hacía frío esa mañana.* (It was cold that morning.)
- *Me sentía feliz con mi nueva casa.* (I was happy with my new house.)
+
+*Mi maestra de español era baja y tenía el pelo lacio.* (My Spanish teacher was short and she had straight hair)<br /><br />
+*Las montañas eran hermosas.* (The mountains were beautiful)<br /><br />
+*Hacía frío esa mañana.* (It was cold that morning.)<br /><br />
+ *Me sentía feliz con mi nueva casa.* (I was happy with my new house.)<br /><br />
 *Quería mudarme a otra ciudad.* (I wanted to move to another city)
-*La señora Jiménez era amigable y trabajadora.* (Mrs. Jimenez was friendly and hardworking)
+*La señora Jiménez era amigable y trabajadora.* (Mrs. Jimenez was friendly and hardworking)<br /><br />
 After learning all the usages of the imperfect, it is time to practice! Write small sentences describing how people or places used to look like, talked about what you were doing in the past when another action interrupted it. You must practice conversation during Spanish tutoring, or with friends, about how you felt in different past situations. With constant practice, using the imperfect in Spanish will become clear. 
 
 ## Preterite vs. Imperfect
