@@ -49,27 +49,30 @@ Before you continue studying the conjugation of the verbs ending in ER and IR in
 
 The endings of the *nosotros* past tense and the endings of the *nosotros* present tense for regular -ar and -ir verbs are the same for both the preterite and present tenses. 
 
-The way to know if one statement is expressed in the present or the preterite is by using context clues, such as adverbs like *siempre* (always) and *ayer* (yesterday). For example:
-*Siempre cocinamos tacos de carne los martes.* (We always cook beef tacos on Tuesdays) - Present Simple
-*Ayer cocinamos tacos de carne para mi familia.* *(Yesterday we cooked beef tacos for my family) - Past Simple
-*Algunas veces Raúl y yo escribimos un correo electrónico a Susana.* (Sometimes, Raul and I write an email to Susana) - Present Simple
-*La semana pasada, Raúl y yo escribimos un correo electrónico a Susana.* (Last week, Raúl and I wrote an email to Susana) - Past Simple
+The way to know if one statement is expressed in the present or the preterite is by using context clues, such as adverbs like *siempre* (always) and *ayer* (yesterday). For example:<br />
+
+*Siempre cocinamos tacos de carne los martes.* (We always cook beef tacos on Tuesdays) - Present Simple<br />
+*Ayer cocinamos tacos de carne para mi familia.* *(Yesterday we cooked beef tacos for my family) - Past Simple<br />
+*Algunas veces Raúl y yo escribimos un correo electrónico a Susana.* (Sometimes, Raul and I write an email to Susana) - Present Simple<br />
+*La semana pasada, Raúl y yo escribimos un correo electrónico a Susana.* (Last week, Raúl and I wrote an email to Susana) - Past Simple<br />
+
 ### ER verbs and IR verbs
 The regular ER and IR verbs conjugate the same way, which makes them more practical to remember. To conjugate them, remove the infinitive ending (-er and -ir) and add the ending that matches the subject. 
-You can find these endings in the following charts using the verbs *comer* (to eat) and *vivir* (to live)
 
-**Comer (to eat)**<br />
-*Yo comí*			 I ate
-*Tú comiste*			 You ate (informal-singular)
-*Él comió*			 He ate
-*Ella comió*			 She ate
-*Usted comió*			 You ate (formal-singular)
-*Nosotros comimos*		 We ate
-*Vosotros comisteis*		 You ate (plural)
-*Ustedes comieron*		You ate (plural)
-*Ellos comieron*		 They ate
+You can find these endings in the following charts using the verbs *comer* (to eat) and *vivir* (to live)<br /><br />
 
-**Vivir (to live)**<br />
+**Comer (to eat)**<br /><br />
+*Yo comí* - I ate<br />
+*Tú comiste* - You ate (informal, singular)<br />
+*Él comió* - He ate<br />
+*Ella comió* - She ate<br />
+*Usted comió* - You ate (formal, singular)<br />
+*Nosotros comimos* - We ate<br />
+*Vosotros comisteis* - You ate (plural)<br />
+*Ustedes comieron* - You ate (plural)<br />
+*Ellos comieron* - They ate<br /><br />
+
+**Vivir (to live)**<br /><br />
 *Yo viví*		 I lived
 *Tú viviste*		 You lived (informal-singular)
 *Él vivió*		 He lived
