@@ -4,7 +4,7 @@ date: 2020-07-14 11:10:00 -05:00
 published: false
 ---
 
-A critical aspect of the Spanish language is learning the conjugation of verbs in different tenses. As your knowledge of the language keeps progressing, you’ll start learning to talk about activities or events that occurred in the past. For that skill, the Spanish Past Tense is very useful.
+A critical aspect of the Spanish language is learning the conjugation of verbs in different tenses. As your knowledge of the language [keeps progressing](https://www.wyzant.com/blog/spanish-words-and-phrases/), you’ll start learning to talk about activities or events that occurred in the past. For that skill, the Spanish Past Tense is very useful.
 
 The language has several variations of this tense. When learning, remember to focus on when to use each of the Spanish Past tenses, and how to properly conjugate them. This article will focus on the most useful past tenses, like the preterite and the imperfect. You’ll find examples of how to conjugate verbs in Spanish past tense, and when to use those verbs. We’ll also explain when to use the preterite and the imperfect at the same time in one sentence.
 
@@ -176,30 +176,33 @@ Let’s practice with the verb *bailar* (to dance) in the following example.<br 
 *Ella bailaba* (She was dancing, or she used to/would dance)<br />
 *Usted bailaba* (You were dancing, or You used to/would dance (formal, singular)<br />
 *Nosotros bailábamos* (We were dancing, or We used to/would dance)<br />
-*Vosotros bailabais* (You were dancing, or You used to/would dance(plural)
-*Ellos bailaban*		 They were dancing, or They used to/would dance
-*Ustedes bailaban*		 You were dancing, or You used to/would dance (plural)
+*Vosotros bailabais* (You were dancing, or You used to/would dance(plural)<br />
+*Ellos bailaban*		 They were dancing, or They used to/would dance<br />
+*Ustedes bailaban*		 You were dancing, or You used to/would dance (plural)<br />
 
 The same conjugation rule applies to other regular verbs ending in -ar like *hablar* (to speak), *jugar* (to play), *estudiar* (to study), *trabajar* (to work), *ayudar* (to help), and *comprar* (to buy).
+
 Also, *yo bailaba* can mean either “I was dancing,” or, “I used to/would dance.” It depends on the usage context and what the speaker is trying to explain...an action or event in the past. You’ll see this in action by exploring the usage of the imperfect.
+
 ### ER verbs and IR verbs
 To conjugate regular ER and IR verbs in the imperfect, remove the infinitive endings (-er or -ir) and add the endings that match the subject. The ending to replace are *Yo*: -ía, *tú*:- ías, *el*:- ía, *nosotros*: -íamos, *vosotros*:- íais, *ustedes*: -ían, *ellos* -ían.
-Let’s try those conjugations using the verb *correr* (to run) and the verb *salir* (to go out or get out)
 
-**Correr (to run)**<br />
-*Yo corría*			 I was running, or I used to/would run
-*Tú corrías*			 You were running, or You used to/would run (singular, informal)
-*Él corría*			 He was running or He used to/would run
-*Ella corría*			 She was running, or She used to/would run
-*Usted corría*			 You were running, or You used to/would run (singular, formal)
-*Nosotros corríamos*		 We were running or We used to/would run
-*Vosotros corríais*		 You were running, or You used to/would run (plural)
-*Ustedes corrían*	 You were running, or You used to/would run (plural)
-*Ellos corrían*			 They were running, or They used to/would run
+Let’s try those conjugations using the verb *correr* (to run) and the verb *salir* (to go out or get out)<br /><br />
+
+**Correr (to run)**<br /><br />
+*Yo corría* - I was running, or I used to/would run<br />
+*Tú corrías* - You were running, or You used to/would run (singular, informal)<br />
+*Él corría* - He was running or He used to/would run<br />
+*Ella corría* - She was running, or She used to/would run<br />
+*Usted corría* - You were running, or You used to/would run (singular, formal)<br />
+*Nosotros corríamos* - We were running or We used to/would run<br />
+*Vosotros corríais* - You were running, or You used to/would run (plural)<br />
+*Ustedes corrían* - You were running, or You used to/would run (plural)<br />
+*Ellos corrían* - They were running, or They used to/would run<br />
 
 It is crucial to stress more on a syllable where the accent mark or tilde is -í since it determines that the action is said in the imperfect.
-There are many other regular verbs ending in -er and -ir that follow the same rule. Practice conjugating them by dropping the endings -er and -ir and replacing by the ending that matches the subjects: *leer* ( to read), *recoger* (to pick up), *tener*, (to have), *saber*, (to know), *escribir* (to write), *subir* (to go up, to rise, to upload), *permitir* (to allow). https://www.wyzant.com/blog/spanish-words-and-phrases/
 
+There are many other regular verbs ending in -er and -ir that follow the same rule. Practice conjugating them by dropping the endings -er and -ir and replacing by the ending that matches the subjects: *leer* ( to read), *recoger* (to pick up), *tener*, (to have), *saber*, (to know), *escribir* (to write), *subir* (to go up, to rise, to upload), *permitir* (to allow). 
 
 ### Irregular IR and SER
 *El imperfecto* has irregular verbs, as well. Some of them change completely when conjugated in this tense. That is the case of the verbs *ser* (to be) and *ir* (to go). Let’s see how they conjugate in the following examples:
