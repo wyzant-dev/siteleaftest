@@ -293,7 +293,8 @@ The Imperfect Past Tense describes the characteristics of people, places, object
  *Me sentía feliz con mi nueva casa.* (I was happy with my new house.)<br /><br />
 *Quería mudarme a otra ciudad.* (I wanted to move to another city)
 *La señora Jiménez era amigable y trabajadora.* (Mrs. Jimenez was friendly and hardworking)<br /><br />
-After learning all the usages of the imperfect, it is time to practice! Write small sentences describing how people or places used to look like, talked about what you were doing in the past when another action interrupted it. You must practice conversation during Spanish tutoring, or with friends, about how you felt in different past situations. With constant practice, using the imperfect in Spanish will become clear. 
+
+After learning all the usages of the imperfect, it is time to practice! Write small sentences describing how people or places used to look like, talked about what you were doing in the past when another action interrupted it. You must practice conversation during Spanish [tutoring](https://www.wyzant.com/Spanish_tutors.aspx), or with friends, about how you felt in different past situations. With constant practice, using the imperfect in Spanish will become clear. 
 
 ## Preterite vs. Imperfect
 
