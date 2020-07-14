@@ -126,29 +126,38 @@ Now let’s explore some examples using those verbs.
 ### Usages of the Preterite
 Now that we know how to conjugate regular verbs and some irregular verbs in the simple past, we will learn the usages of *el pretérito.*
 
-**Completed events**<br /><br />
+**Completed events**<br />
 The *pasado simple* is used to talk about completed events, especially those with evident beginnings and ends that occurred once in the past. Let's see the following examples for more clarification.
-*Compré un televisor nuevo* (I bought a new television) - This sentence presents a completed event because I already bought the TV. I am not in the process of buying it. The action has an end.
-*Rosa y Pedro se casaron.* (Rosa and Pedro got married) - This sentence is also a completed event because the two already got married. They are not in the process of getting married, and they got married only once.
-*Miguel nació en El Salvador.* (Miguel was born in El Salvador) - The sentence is a completed event because Miguel was born one time in the past. The action is over.
-*Nosotros limpiamos toda la casa ayer por la mañana.* (We cleaned the whole house yesterday morning) - A completed action that happened once, yesterday morning.
+
+*Compré un televisor nuevo* (I bought a new television) - This sentence presents a completed event because I already bought the TV. I am not in the process of buying it. The action has an end.<br /><br />
+*Rosa y Pedro se casaron.* (Rosa and Pedro got married) - This sentence is also a completed event because the two already got married. They are not in the process of getting married, and they got married only once.<br /><br />
+*Miguel nació en El Salvador.* (Miguel was born in El Salvador) - The sentence is a completed event because Miguel was born one time in the past. The action is over.<br /><br />
+*Nosotros limpiamos toda la casa ayer por la mañana.* (We cleaned the whole house yesterday morning) - A completed action that happened once, yesterday morning.<br /><br />
+
 **Beginning and Ends**<br />
 The Spanish simple past is also used to talk about beginnings and ends. Some key verbs are used to talk about beginnings and ends in the past like *empezar* (to begin), *comenzar* (to begin), *terminar* (to finish), and *acabar* (to end).
+
 Let's look at the following examples:
-*La obra teatral terminó con una sorpresa* (The play ended with a surprise)
-*Empezó a nevar.* (It started to snow.)
-*La música comenzó a sonar en la sala* (The music began to play in the living room)
-*La reunión acabó con el discurso del señor Martínez* (The meeting ended with Mr. Martinez's speech)
+
+*La obra teatral terminó con una sorpresa* (The play ended with a surprise)<br /><br />
+*Empezó a nevar.* (It started to snow)<br /><br />
+*La música comenzó a sonar en la sala* (The music began to play in the living room)<br /><br />
+*La reunión acabó con el discurso del señor Martínez* (The meeting ended with Mr. Martinez's speech)<br /><br />
+
 **Specific Times and Dates**<br />
 The preterite is also used to talk about past events or actions on specific days or dates, at specific times, and during specific time periods. Here are some great examples:
-*Roxana regresó anoche a las nueve.*(Roxana came back last night at nine)
-*Roberto y Manuel vivieron en Costa Rica por cuatro meses.* (Roberto and Manuel lived in Costa Rica for three months)
-*Tu leíste esta historia la semana pasada.* (You read this story last week)
-*Melissa nació el once de noviembre.* (Melissa was born on November eleventh)
+
+*Roxana regresó anoche a las nueve.*(Roxana came back last night at nine)<br /><br />
+*Roberto y Manuel vivieron en Costa Rica por cuatro meses.* (Roberto and Manuel lived in Costa Rica for three months)<br /><br />
+*Tu leíste esta historia la semana pasada.* (You read this story last week)<br /><br />
+*Melissa nació el once de noviembre.* (Melissa was born on November eleventh)<br /><br />
+
 **Events in a sequence**<br />
 Another usage of the Simple Past is for listing past events that were completed and took place in a sequence. Let’s use these following sentences:
-*Me levanté, tomé una taza de café, y salí a correr.* (I woke up, drank a cup of coffee, and went for a run)
-*Tú entraste, bebiste un vaso de jugo de naranja y comiste un emparedado de jamón y queso.* (You came in, drank a glass of orange juice, and ate a ham and cheese sandwich)
+
+*Me levanté, tomé una taza de café, y salí a correr.* (I woke up, drank a cup of coffee, and went for a run)<br /><br />
+*Tú entraste, bebiste un vaso de jugo de naranja y comiste un emparedado de jamón y queso.* (You came in, drank a glass of orange juice, and ate a ham and cheese sandwich)<br /><br />
+
 Now practice writing about activities you did last week, last month or last summer. Practice conversation with a Spanish tutor or Spanish speaker friends, and preterite usages will soon become an easy part of your language learning journey. 
 
 ## The Imperfect
