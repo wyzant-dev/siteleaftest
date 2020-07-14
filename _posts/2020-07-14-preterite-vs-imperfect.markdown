@@ -44,7 +44,7 @@ All the other regular verbs ending in AR follow the same pattern when conjugatin
 
 Keep practicing with all the other regular verbs ending in -ar like *hablar* (to talk), *pensar* (to think), *abrazar* (to hug), *cantar* (to sing), *dibujar*, (to draw), and others.
 
-## Nosotros Past Tense
+### Nosotros Past Tense
 Before you continue studying the conjugation of the verbs ending in ER and IR in the past simple, it is important to mention the conjugation of the *nosotros* form in the preterite.
 
 The endings of the *nosotros* past tense and the endings of the *nosotros* present tense for regular -ar and -ir verbs are the same for both the preterite and present tenses. 
