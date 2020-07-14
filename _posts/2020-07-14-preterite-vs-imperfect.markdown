@@ -105,7 +105,7 @@ Let’s look at their conjugations:
 *Ustedes fueron* - You were (plural)<br />
 *Ellos fueron* - They were<br />
 
-**Ir ( to go)** <br /><br />
+**Ir (to go)** <br /><br />
 *Yo fui* - I went<br />
 *Tú fuiste* - You went (informal, singular)<br />
 *Él fue* - He went<br />
@@ -118,10 +118,10 @@ Let’s look at their conjugations:
 
 Now let’s explore some examples using those verbs.
 
-*Karina fue voluntaria en el hospital el verano pasado.* (Karina was a volunteer at the hospital last summer) - verb *ser* used<br />
-*María y yo fuimos buenas amigas el semestre pasado.* (María and I were good friends last semester) - verb *ser* used<br />
-*Rodrigo fue al supermercado el lunes pasado.* (Rodrigo went to the supermarket last Monday) - verb *ser* used<br />
-*¿A dónde fuiste ayer por la mañana?* (Where did you go yesterday morning?) - verb *ir* used<br />
+*Karina fue voluntaria en el hospital el verano pasado.* (Karina was a volunteer at the hospital last summer) - verb *ser* used<br /><br />
+*María y yo fuimos buenas amigas el semestre pasado.* (María and I were good friends last semester) - verb *ser* used<br /><br />
+*Rodrigo fue al supermercado el lunes pasado.* (Rodrigo went to the supermarket last Monday) - verb *ser* used<br /><br />
+*¿A dónde fuiste ayer por la mañana?* (Where did you go yesterday morning?) - verb *ir* used<br /><br />
 
 ### Usages of the Preterite
 Now that we know how to conjugate regular verbs and some irregular verbs in the simple past, we will learn the usages of *el pretérito.*
