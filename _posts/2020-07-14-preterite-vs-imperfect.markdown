@@ -387,8 +387,9 @@ Let’s looks at the following examples:
 
 The Past progressive or Pasado Progresivo can be used combined with the Preterite when talking about an ongoing action that got interrupted. For example:
 
-*Yo estaba comiendo cuando tu llegaste.* (I was eating when you arrived)
+*Yo estaba comiendo cuando tu llegaste.* (I was eating when you arrived)<br /><br />
 *Los estudiantes estaban escribiendo cuando la maestra llegó.* (The students were writing when the teacher arrived)
+
 The above sentence can also be rewritten using the imperfect: 
 *Los estudiantes escribían cuando la maestra llegó.* (The students were writing when the teacher arrived)
 In this context, *estaban escribiendo* and *escribían* have the same meaning of an ongoing action. One is written in the Past Progressive, and the other in the imperfect.
@@ -403,25 +404,33 @@ The verb *haber* is conjugated like this: *Yo he, tú has, él ha, nosotros hemo
 But it never goes alone. It needs the verb in the Participle to make sense:
 
 *Esta mañana, he tomado una taza de café* (This morning I have drunk a cup of coffee) - recent past
+
 *Él ha dormido diez horas.* (He has slept ten hours) - recent past
+
 *Nosotros hemos vivido en los estados Unidos por 12 años.* (We have lived in the United States for 12 years) - an action that started in the past and continues today	
+
 ## Past Perfect
 The Past Perfect, also known as the *Pluscuamperfecto del indicativo*, is used differently than the Preterite and the Imperfect because it is used to refer to a previous action that occurred before another past action.
+
 It is a compound tense, which means it uses the auxiliary *haber* conjugated, in this case, in the Preterite imperfect, plus the past participle of the verb we want to conjugate.
+
 The conjugation of *haber* in the imperfect goes like this: *yo había, tú habías, él había, nosotros habíamos, vosotros habíais, ellos habían, ustedes habían.*
+
 ### Past Perfect Formula
 
 **Subject + haber in the imperfect + past participle**
+
 For example:
+
 *Cuando llegué a tu casa, tú ya habías comido.* (When I arrived at your house, you had already eaten)
+
 This timeline means the person first ate, then the other person arrived at his house.
+
 *Nosotros ya habíamos dado el regalo a Carla cuando tú llamaste.* (We had already given Ana her present when you called) 
+
 They first gave Carla a gift, and then he called.
-Further Advice
+
+## Further Advice
 As you can see, Spanish uses different Past Tenses. One of the ways to learn Spanish fast is by practicing these tenses. Divide by category first, and then combine the Preterite and the imperfect. Practice with a Spanish tutor to jumpstart your progress. 
+
 The best way to learn Spanish quickly is by immersion in the language. Besides writing about events in your past, organize your ideas in Spanish, and describe people, places, and hobbies using new conjugations and vocabulary. Most of all, enjoy your Spanish journey!
-
-
-
-
-
