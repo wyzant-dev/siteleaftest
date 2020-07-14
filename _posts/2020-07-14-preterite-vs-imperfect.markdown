@@ -4,7 +4,7 @@ date: 2020-07-14 11:10:00 -05:00
 published: false
 ---
 
-A critical aspect of the Spanish language is learning the conjugation of the verbs in different tenses. As your knowledge of the language keeps progressing, you’ll start learning to talk about activities or events that occurred in the past. For that skill, the Spanish Past Tense is very useful.
+A critical aspect of the Spanish language is learning the conjugation of verbs in different tenses. As your knowledge of the language keeps progressing, you’ll start learning to talk about activities or events that occurred in the past. For that skill, the Spanish Past Tense is very useful.
 
 The language has several variations of this tense. When learning, remember to focus on when to use each of the Spanish Past tenses, and how to properly conjugate them. This article will focus on the most useful past tenses, like the preterite and the imperfect. You’ll find examples of how to conjugate verbs in Spanish past tense, and when to use those verbs. We’ll also explain when to use the preterite and the imperfect at the same time in one sentence.
 
