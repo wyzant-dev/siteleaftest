@@ -355,9 +355,10 @@ One of the usages of the imperfect is to express ongoing action in the past. The
 
 Here are some excellent examples:
 
-*Nosotros caminábamos para la casa cuando Roxana nos llamó.* (We were walking home when Roxana called us)<br />
+*Nosotros caminábamos para la casa cuando Roxana nos llamó.* (We were walking home when Roxana called us)<br /><br />
 The imperfect caminábamos* was used to express the ongoing action during an undefined period. The preterite *llamo* is used to interrupt the continuing action, and only happened once.
-*Raúl y Jimena se conocieron cuando estaban en la universidad.* (Raul and Jimena met when they are at the university)<br />
+
+*Raúl y Jimena se conocieron cuando estaban en la universidad.* (Raul and Jimena met when they are at the university)<br /><br />
 The imperfect *estaban* is used to show that they were at the university during an undefined period. It is also an ongoing activity because they were students at the university. The preterite *se conocieron* is used to show that they met only once. It also interrupts the ongoing action.
 
 Try practicing using both tenses in one sentence. What were you doing when something interrupted? Practice writing, and in small conversations. 
@@ -375,11 +376,17 @@ The present participle ending for regular -ar verbs is -ando. The present partic
 **Subject + *estar* in the imperfect + verb with ending in either “-iendo” or “-ando”**
 
 Let’s looks at the following examples:
+
 *Yo estaba comiendo una hamburguesa.* (I was eating a hamburger)
+
 *Estaba* is the imperfect of the verb *estar*, conjugated to the first person *yo*. The gerund for the verb *comer* is -iendo. So, drop -er and replace for its ending -iendo,  resulting in *comiendo*.
+
 *Karina estaba hablando con su hermana.* (Karina was talking to her sister)
+
 *Estaba* is the imperfect of the verb *estar*, conjugated to the third person (Karina). The gerund for the verb *hablar* is -ando. So, drop -ar and replace it for its ending -ando, resulting in *hablando*.
+
 The Past progressive or Pasado Progresivo can be used combined with the Preterite when talking about an ongoing action that got interrupted. For example:
+
 *Yo estaba comiendo cuando tu llegaste.* (I was eating when you arrived)
 *Los estudiantes estaban escribiendo cuando la maestra llegó.* (The students were writing when the teacher arrived)
 The above sentence can also be rewritten using the imperfect: 
