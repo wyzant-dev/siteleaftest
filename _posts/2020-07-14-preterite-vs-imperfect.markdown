@@ -147,7 +147,7 @@ Let's look at the following examples:
 ###Specific Times and Dates
 The preterite is also used to talk about past events or actions on specific days or dates, at specific times, and during specific time periods. Here are some great examples:
 
-*Roxana regresó anoche a las nueve.*(Roxana came back last night at nine)<br /><br />
+*Roxana regresó anoche a las nueve.* (Roxana came back last night at nine)<br /><br />
 *Roberto y Manuel vivieron en Costa Rica por cuatro meses.* (Roberto and Manuel lived in Costa Rica for three months)<br /><br />
 *Tu leíste esta historia la semana pasada.* (You read this story last week)<br /><br />
 *Melissa nació el once de noviembre.* (Melissa was born on November eleventh)<br /><br />
@@ -165,18 +165,18 @@ The Spanish Imperfect Tense is another important past tense in the language. The
 
 For that, divide the verbs into two groups: you guessed it, the AR verbs, and the ER and IR verbs!
 
-
 ### AR verbs
 To conjugate regular AR verbs in *el imperfecto*, remove the infinitive ending (-ar) and add the endings that match the subject.
 
-Let’s practice with the verb *bailar* (to dance) in the following example.
-*Yo bailaba*			 I was dancing, or I used to/would dance
-*Tú bailabas*			 You were dancing, or You used to/would dance (informal, singular)
-*Él bailaba*			 He was dancing, or He used to/would dance
-*Ella bailaba*			 She was dancing, or She used to/would dance
-*Usted bailaba*		 You were dancing, or You used to/would dance (formal, singular)
-*Nosotros bailábamos*	 We were dancing, or We used to/would dance
-*Vosotros bailabais*		 You were dancing, or You used to/would dance(plural)
+Let’s practice with the verb *bailar* (to dance) in the following example.<br />
+
+*Yo bailaba* (I was dancing, or I used to/would dance)<br /><br />
+*Tú bailabas* (You were dancing, or You used to/would dance) (informal, singular)<br /><br />
+*Él bailaba* (He was dancing, or he used to/would dance)<br />
+*Ella bailaba* (She was dancing, or she used to/would dance)<br />
+*Usted bailaba* (You were dancing, or You used to/would dance (formal, singular)<br />
+*Nosotros bailábamos* (We were dancing, or We used to/would dance)<br />
+*Vosotros bailabais* (You were dancing, or You used to/would dance(plural)
 *Ellos bailaban*		 They were dancing, or They used to/would dance
 *Ustedes bailaban*		 You were dancing, or You used to/would dance (plural)
 
