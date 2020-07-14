@@ -1,7 +1,6 @@
 ---
 title: 'Past Tense Spanish: Preterite vs. Imperfect and Everything In-Between'
 date: 2020-07-14 11:10:00 -05:00
-published: false
 categories:
 - Spanish
 - Language Learning
@@ -26,8 +25,7 @@ A critical aspect of the Spanish language is learning the conjugation of verbs i
 
 The language has several variations of this tense. When learning, remember to focus on when to use each of the Spanish Past tenses, and how to properly conjugate them. This article will focus on the most useful past tenses, like the preterite and the imperfect. You’ll find examples of how to conjugate verbs in Spanish past tense, and when to use those verbs. We’ll also explain when to use the preterite and the imperfect at the same time in one sentence.
 
-You’ll also learn more about the Spanish Past Progressive, the Present Perfect, and Past Perfect tenses.
-With this guidance, you will have a clearer understanding, and be able to apply the right tense at the right time when talking about various events that occurred in the past.
+You’ll also learn more about the Spanish Past Progressive, the Present Perfect, and Past Perfect tenses. With this guidance, you will have a clearer understanding, and be able to apply the right tense at the right time when talking about various events that occurred in the past.
 
 
 ## The Preterite
