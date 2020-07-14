@@ -56,7 +56,7 @@ The way to know if one statement is expressed in the present or the preterite is
 *Siempre cocinamos tacos de carne los martes.* (We always cook beef tacos on Tuesdays) - Present Simple<br /><br />
 *Ayer cocinamos tacos de carne para mi familia.* (Yesterday we cooked beef tacos for my family) - Past Simple<br /><br />
 *Algunas veces Raúl y yo escribimos un correo electrónico a Susana.* (Sometimes, Raul and I write an email to Susana) - Present Simple<br /><br />
-*La semana pasada, Raúl y yo escribimos un correo electrónico a Susana.* (Last week, Raúl and I wrote an email to Susana) - Past Simple<br /><br />
+*La semana pasada, Raúl y yo escribimos un correo electrónico a Susana.* (Last week, Raúl and I wrote an email to Susana) - Past Simple
 
 ### ER verbs and IR verbs
 The regular ER and IR verbs conjugate the same way, which makes them more practical to remember. To conjugate them, remove the infinitive ending (-er and -ir) and add the ending that matches the subject. 
@@ -123,7 +123,7 @@ Now let’s explore some examples using those verbs.
 *Karina fue voluntaria en el hospital el verano pasado.* (Karina was a volunteer at the hospital last summer) - verb *ser* used<br /><br />
 *María y yo fuimos buenas amigas el semestre pasado.* (María and I were good friends last semester) - verb *ser* used<br /><br />
 *Rodrigo fue al supermercado el lunes pasado.* (Rodrigo went to the supermarket last Monday) - verb *ser* used<br /><br />
-*¿A dónde fuiste ayer por la mañana?* (Where did you go yesterday morning?) - verb *ir* used<br /><br />
+*¿A dónde fuiste ayer por la mañana?* (Where did you go yesterday morning?) - verb *ir* used
 
 ## Usages of the Preterite
 Now that we know how to conjugate regular verbs and some irregular verbs in the simple past, we will learn the usages of *el pretérito.*
@@ -134,7 +134,7 @@ The *pasado simple* is used to talk about completed events, especially those wit
 *Compré un televisor nuevo* (I bought a new television) - This sentence presents a completed event because I already bought the TV. I am not in the process of buying it. The action has an end.<br /><br />
 *Rosa y Pedro se casaron.* (Rosa and Pedro got married) - This sentence is also a completed event because the two already got married. They are not in the process of getting married, and they got married only once.<br /><br />
 *Miguel nació en El Salvador.* (Miguel was born in El Salvador) - The sentence is a completed event because Miguel was born one time in the past. The action is over.<br /><br />
-*Nosotros limpiamos toda la casa ayer por la mañana.* (We cleaned the whole house yesterday morning) - A completed action that happened once, yesterday morning.<br /><br />
+*Nosotros limpiamos toda la casa ayer por la mañana.* (We cleaned the whole house yesterday morning) - A completed action that happened once, yesterday morning.
 
 ### Beginning and Ends
 The Spanish simple past is also used to talk about beginnings and ends. Some key verbs are used to talk about beginnings and ends in the past like *empezar* (to begin), *comenzar* (to begin), *terminar* (to finish), and *acabar* (to end).
@@ -144,7 +144,7 @@ Let's look at the following examples:
 *La obra teatral terminó con una sorpresa* (The play ended with a surprise)<br /><br />
 *Empezó a nevar.* (It started to snow)<br /><br />
 *La música comenzó a sonar en la sala* (The music began to play in the living room)<br /><br />
-*La reunión acabó con el discurso del señor Martínez* (The meeting ended with Mr. Martinez's speech)<br /><br />
+*La reunión acabó con el discurso del señor Martínez* (The meeting ended with Mr. Martinez's speech)
 
 ### Specific Times and Dates
 The preterite is also used to talk about past events or actions on specific days or dates, at specific times, and during specific time periods. Here are some great examples:
@@ -152,7 +152,7 @@ The preterite is also used to talk about past events or actions on specific days
 *Roxana regresó anoche a las nueve.* (Roxana came back last night at nine)<br /><br />
 *Roberto y Manuel vivieron en Costa Rica por cuatro meses.* (Roberto and Manuel lived in Costa Rica for three months)<br /><br />
 *Tu leíste esta historia la semana pasada.* (You read this story last week)<br /><br />
-*Melissa nació el once de noviembre.* (Melissa was born on November eleventh)<br /><br />
+*Melissa nació el once de noviembre.* (Melissa was born on November eleventh)
 
 ### Events in a sequence
 Another usage of the Simple Past is for listing past events that were completed and took place in a sequence. Let’s use these following sentences:
@@ -231,7 +231,6 @@ There are many other regular verbs ending in -er and -ir that follow the same ru
 *Ellos iban* - They were going, or they used to/would go<br />
 *Ustedes iban* - You were going, or you used to/would <br />
 
-
 Here are some examples in action:
 
 *Cuando yo era niña, yo iba todos los domingos a la iglesia.* (When I was a child, I used to go every Sunday to church)<br /><br />
@@ -245,7 +244,7 @@ The Imperfect Past Tense is used to talk about activities that were done over an
 
 *Mi familia y yo cenábamos todas las noches.* (My family and I used to eat lunch together every day)<br /><br />
  *Todos los sábados los niños iban al parque para jugar.* (Every Saturday the children used to go to the park to play)<br /><br />
-*Mis amigos y yo ibamos a la heladería cada viernes.*  (My friends and I used to go to the ice cream store every Friday)<br /><br />
+*Mis amigos y yo ibamos a la heladería cada viernes.*  (My friends and I used to go to the ice cream store every Friday) 
 
 ### Actions That Were In-Progress in the Past
 *El imperfecto* is commonly used to talk about something that was happening when something else occurred. When talking about a past action in progress that was interrupted, the action in progress is in the **imperfect** time, while the interrupting action is in the **Preterite**.
