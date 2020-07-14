@@ -170,8 +170,8 @@ To conjugate regular AR verbs in *el imperfecto*, remove the infinitive ending (
 
 Let’s practice with the verb *bailar* (to dance) in the following example.<br />
 
-*Yo bailaba* (I was dancing, or I used to/would dance)<br /><br />
-*Tú bailabas* (You were dancing, or You used to/would dance) (informal, singular)<br /><br />
+*Yo bailaba* (I was dancing, or I used to/would dance)<br />
+*Tú bailabas* (You were dancing, or You used to/would dance) (informal, singular)<br />
 *Él bailaba* (He was dancing, or he used to/would dance)<br />
 *Ella bailaba* (She was dancing, or she used to/would dance)<br />
 *Usted bailaba* (You were dancing, or You used to/would dance (formal, singular)<br />
