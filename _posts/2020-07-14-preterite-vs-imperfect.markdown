@@ -144,7 +144,7 @@ Let's look at the following examples:
 *La música comenzó a sonar en la sala* (The music began to play in the living room)<br /><br />
 *La reunión acabó con el discurso del señor Martínez* (The meeting ended with Mr. Martinez's speech)<br /><br />
 
-**Specific Times and Dates**<br />
+###Specific Times and Dates
 The preterite is also used to talk about past events or actions on specific days or dates, at specific times, and during specific time periods. Here are some great examples:
 
 *Roxana regresó anoche a las nueve.*(Roxana came back last night at nine)<br /><br />
@@ -152,7 +152,7 @@ The preterite is also used to talk about past events or actions on specific days
 *Tu leíste esta historia la semana pasada.* (You read this story last week)<br /><br />
 *Melissa nació el once de noviembre.* (Melissa was born on November eleventh)<br /><br />
 
-**Events in a sequence**<br />
+### Events in a sequence
 Another usage of the Simple Past is for listing past events that were completed and took place in a sequence. Let’s use these following sentences:
 
 *Me levanté, tomé una taza de café, y salí a correr.* (I woke up, drank a cup of coffee, and went for a run)<br /><br />
