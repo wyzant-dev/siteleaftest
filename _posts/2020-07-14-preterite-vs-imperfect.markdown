@@ -17,32 +17,33 @@ Before learning the Spanish Preterite or Simple Past usages, we will first learn
 To conjugate regular verbs in the preterite, divide the verbs into two groups: the AR verbs, and the ER and IR verbs.
 ### AR verbs
 To conjugate regular AR verbs in Spanish Preterite, remove the infinitive ending (-ar) and add the ending that matches the subject or personal pronoun. For example: the verb *estudiar* (to study).
-*Yo estudié*			 I studied
-*Tú estudiaste*		 You studied (informal-singular)
-*Él estudió*			 He studied
-*Ella estudió*			 She studied
-*Usted estudió*		 You studied (formal-singular)
-*Nosotros estudiamos*	 We studied
-*Vosotros estudiasteis*	You studied (plural) 
-*Ellos estudiaron*		 They studied
-*Ustedes estudiaron*		 You studied (plural)
+*Yo estudié* - I studied
+*Tú estudiaste* - You studied (informal, singular)
+*Él estudió* - He studied
+*Ella estudió* - She studied
+*Usted estudió* - You studied (formal, singular)
+*Nosotros estudiamos* - We studied
+*Vosotros estudiasteis*	- You studied (plural) 
+*Ellos estudiaron* - They studied
+*Ustedes estudiaron* - You studied (plural)
 
 It’s always essential to add the accent marks to the required conjugated verbs. As in *yo estudié* (I studied), *él estudió* (he studied), *ella estudió* (she studied), and *usted estudió* (You studied, formal singular).
 
 The accent marks on the vowels suggest stressing more on the last syllable. If not emphasized in that syllable, it might be confused with the present tense! For example, in *yo llamo* (I call), the stress is more in the syllable “-lla." On the other hand, in *el llamó* (he called), the stress is at the last syllable “-mó”.
 All the other regular verbs ending in AR follow the same pattern when conjugating in the *pasado simple*. For instance, the verb *caminar* (to walk): remove the infinitive ending (-ar) and add the ending that matches the subject.
 
-*Yo caminé*			 I walked
-*Tú caminaste*		 You walked (informal-singular)
-*Él caminó*			 He walked
-*Ella caminó*			 She walked
-*Usted caminó*		 You walked (formal-singular)
-*Nosotros caminamos*	 We walked 
-*Vosotros caminasteis*	 You walked (plural)
-*Ustedes caminaron*		 You walked (plural)
-*Ellos caminaron*		 They walked
+*Yo caminé* - I walked<br />
+*Tú caminaste* - You walked (informal, singular)<br />
+*Él caminó* - He walked<br />
+*Ella caminó* - She walked<br />
+*Usted caminó* - You walked (formal-singular)<br />
+*Nosotros caminamos* - We walked<br />
+*Vosotros caminasteis* - You walked (plural)<br />
+*Ustedes caminaron* - You walked (plural)<br />
+*Ellos caminaron* - They walked<br />
 
-Keep practicing with all the other regular verbs ending in -ar like *hablar* (to talk), *pensar* (to think), *abrazar* (to hug), *cantar* (to sing), *dibujar*, (to draw), and others.
+Keep practicing with all the other regular verbs ending in -ar like *hablar* (to talk), *pensar* (to think), *abrazar* (to hug), *cantar* (to sing), *dibujar*, (to draw), and others.<br /><br />
+
 **Nosotros Past Tense**
 Before you continue studying the conjugation of the verbs ending in ER and IR in the past simple, it is important to mention the conjugation of the *nosotros* form in the preterite.
 
