@@ -73,55 +73,60 @@ You can find these endings in the following charts using the verbs *comer* (to e
 *Ellos comieron* - They ate<br /><br />
 
 **Vivir (to live)**<br /><br />
-*Yo viví*		 I lived
-*Tú viviste*		 You lived (informal-singular)
-*Él vivió*		 He lived
-*Ella vivió*		 She lived
-*Usted vivió*		 You lived (formal-singular)
-*Nosotros vivimos*	 We lived
-*Vosotros vivisteis*	 You lived (plural)
-*Ustedes vivieron*	 You lived (plural)
-*Ellos vivieron*		 They lived
+*Yo viví* - I lived<br />
+*Tú viviste* - You lived (informal, singular)<br />
+*Él vivió* - He lived<br />
+*Ella vivió* - She lived<br />
+*Usted vivió* - You lived (formal, singular)<br />
+*Nosotros vivimos* - We lived<br />
+*Vosotros vivisteis* - You lived (plural)<br />
+*Ustedes vivieron* - You lived (plural)<br />
+*Ellos vivieron* - They lived<br />
+
 As mentioned earlier, it is important to include the accent marks at the end of the verbs.  They indicate that the action was done in the simple past.
+
 The other regular verbs ending in -er and -ir follow the same pattern. Practice conjugating different verbs such as *comprender* (to understand), *correr* (to run), *volver* (to come back), *salir* (to leave or to go out), *abrir* (to open), etc.
-### Irregulars Verbs IR and SER	
+
+### Irregulars Verbs Ir and Ser	
 The Spanish Preterite has a good number of irregular verbs. Unlike regular verbs, they do not follow the rule of dropping the ending and replace it with another. Some completely change when conjugated.
 
 For example, the verb *ser* (to be) and the verb *ir* (to go). These two verbs are irregular in the preterite and change completely. But one good aspect to keep in mind is that both these verbs conjugate the same in the *pasado simple*. The context will tell if we are talking about the verb *ser* or the verb *ir*.
+
 Let’s look at their conjugations:
-**Ser (to be)**<br /> 
-*Yo fui	*		 I was
-*Tú fuiste*		 You were (informal-singular)
-*Él fue*			 He was
-*Ella fue*		 She was
-*Usted fue*		You were (formal-singular)
-*Nosotros fuimos*	 We were
-*Vosotros fuisteis*	 You were (plural)
-*Ustedes fueron*	 You were (plural)
-*Ellos fueron*		 They were
 
-**Ir ( to go)** <br />
-*Yo fui*			 I went
-*Tú fuiste*		 You went (informal-singular)
-*Él fue*			 He went
-*Ella fue*		 She went
-*Usted fue*		You went (formal-singular)
-*Nosotros fuimos*	 We went
-*Vosotros fuisteis*	 You went (plural)
-*Ustedes fueron*	 You went (plural)
-*Ellos fueron*	 They went
+**Ser (to be)**<br /><br />
+*Yo fui* - I was<br />
+*Tú fuiste* - You were (informal, singular)<br />
+*Él fue* - He was<br />
+*Ella fue* - She was<br />
+*Usted fue* - You were (formal, singular)<br />
+*Nosotros fuimos* - We were<br />
+*Vosotros fuisteis* - You were (plural)<br />
+*Ustedes fueron* - You were (plural)<br />
+*Ellos fueron* - They were<br />
 
+**Ir ( to go)** <br /><br />
+*Yo fui* - I went<br />
+*Tú fuiste* - You went (informal, singular)<br />
+*Él fue* - He went<br />
+*Ella fue* - She went<br />
+*Usted fue* - You went (formal, singular)<br />
+*Nosotros fuimos* - We went<br />
+*Vosotros fuisteis* - You went (plural)<br />
+*Ustedes fueron* - You went (plural)<br />
+*Ellos fueron* - They went<br />
 
 Now let’s explore some examples using those verbs.
 
+*Karina fue voluntaria en el hospital el verano pasado.* (Karina was a volunteer at the hospital last summer) - verb *ser* used<br />
+*María y yo fuimos buenas amigas el semestre pasado.* (María and I were good friends last semester) - verb *ser* used<br />
+*Rodrigo fue al supermercado el lunes pasado.* (Rodrigo went to the supermarket last Monday) - verb *ser* used<br />
+*¿A dónde fuiste ayer por la mañana?* (Where did you go yesterday morning?) - verb *ir* used<br />
 
-*Karina fue voluntaria en el hospital el verano pasado.* (Karina was a volunteer at the hospital last summer) - verb *ser* used
-*María y yo fuimos buenas amigas el semestre pasado.* (María and I were good friends last semester) - verb *ser* used
-*Rodrigo fue al supermercado el lunes pasado.* (Rodrigo went to the supermarket last Monday) - verb *ser* used
-*¿A dónde fuiste ayer por la mañana?* (Where did you go yesterday morning?) - verb *ir* used
 ### Usages of the Preterite
 Now that we know how to conjugate regular verbs and some irregular verbs in the simple past, we will learn the usages of *el pretérito.*
-**Completed events**<br />
+
+**Completed events**<br /><br />
 The *pasado simple* is used to talk about completed events, especially those with evident beginnings and ends that occurred once in the past. Let's see the following examples for more clarification.
 *Compré un televisor nuevo* (I bought a new television) - This sentence presents a completed event because I already bought the TV. I am not in the process of buying it. The action has an end.
 *Rosa y Pedro se casaron.* (Rosa and Pedro got married) - This sentence is also a completed event because the two already got married. They are not in the process of getting married, and they got married only once.
