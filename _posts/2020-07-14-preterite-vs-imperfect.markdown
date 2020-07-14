@@ -298,65 +298,82 @@ After learning all the usages of the imperfect, it is time to practice! Write sm
 
 ## Preterite vs. Imperfect
 
+As we can see, both the *Pasado Simple* and the *imperfecto* are used to talk about the past. But each of them has different usages.
 
-As we can see, both the Pasado Simple and the imperfecto are used to talk about the past. But each of them has different usages.
 The Preterite focuses on **actions that occurred just once or during a specific completed time.**
 
 The imperfect focuses on **events or actions that happened several times in the past.** 
 
 Here’s an example to use as practice:
-*El verano pasado, yo visite a mi tía en Florida.* (Last summer, I visited my aunt in Florida)
-This sentence is written in the Preterite because it specifies that the action was completed one-time last summer. Now, let’s modify the sentence to use the imperfect.
-*Muchas veces yo visitaba a mi tía en Florida.* 
-The imperfect is used to express an action that was not completed once, but several times in the past. 
-There exist some words that will trigger the use of the Preterite. These are words that indicate very concrete times in the past, like:
-*Ayer* (yesterday)
-*Anteayer* (the day before yesterday)
-*Anoche* last night
-*Una manana/tarde* (one morning/afternoon)
-*El martes/fin de semana/mes/año pasado* (last Tuesday/weekend/month year)
-*Hace 7 años* (seven years ago)
-*En 1990* (in 1990)
-*De repente* (all of a sudden)
+
+*El verano pasado, yo visite a mi tía en Florida.* (Last summer, I visited my aunt in Florida)<br />
+This sentence is written in the Preterite because it specifies that the action was completed one-time last summer. Now, let’s modify the sentence to use the imperfect.<br />
+*Muchas veces yo visitaba a mi tía en Florida.*<br /> 
+The imperfect is used to express an action that was not completed once, but several times in the past. <br />
+There exist some words that will trigger the use of the Preterite. These are words that indicate very concrete times in the past, like:<br />
+* *Ayer* (yesterday)
+* *Anteayer* (the day before yesterday)
+* *Anoche* last night
+* *Una manana/tarde* (one morning/afternoon)
+* *El martes/fin de semana/mes/año pasado* (last Tuesday/weekend/month year)
+* *Hace 7 años* (seven years ago)
+* *En 1990* (in 1990)
+* *De repente* (all of a sudden)
+
 Let’s look at some sentences:
-*Mis amigas y yo fuimos a un restaurante mexicano la semana pasada.* (My friends and I went to a Mexican restaurant last week)
-*María y Miguel compraron esta casa hace doce años.* (Maria Y Miguel bought this house two years ago)
-*De repente, escuché el sonido de un ave en el garaje.* (Suddenly, I heard the sound of a bird inside the garage)
+
+*Mis amigas y yo fuimos a un restaurante mexicano la semana pasada.* (My friends and I went to a Mexican restaurant last week)<br />
+*María y Miguel compraron esta casa hace doce años.* (Maria Y Miguel bought this house two years ago)<br />
+*De repente, escuché el sonido de un ave en el garaje.* (Suddenly, I heard the sound of a bird inside the garage)<br />
+
 There are also key time words that trigger the use of the imperfect. Here some of them:
-*A menudo* (often)
-*A veces* (sometimes)
-*Cada dia* (each day)
-*Cada mañana* (each morning)
-*Cada semana* (each week)
-*Cada mes* (each month)
-*Cada año* (each year)
-*Generalmente/en general* (generally)
-*Todos los dias* (every morning)
-*Siempre* (always)
-*Nunca* (never)
-*De vez en cuando* (from time to time)
-*Por un rato* (for a while)
+
+* *A menudo* (often)
+* *A veces* (sometimes)
+* *Cada dia* (each day)
+* *Cada mañana* (each morning)
+* *Cada semana* (each week)
+* *Cada mes* (each month)
+* *Cada año* (each year)
+* *Generalmente/en general* (generally)
+* *Todos los dias* (every morning)
+* *Siempre* (always)
+* *Nunca* (never)
+* *De vez en cuando* (from time to time)
+* *Por un rato* (for a while)
+
 The trigger words in these sentences indicate the imperfect:
-*Mi familia y yo íbamos a la casa de playa cada año.* (My family and I used to go to the beach house every year)
-*A menudo, Karina cocinaba pizza con vegetales para nosotros.* (Often. Karina would cook pizza with vegetables for us)
-*De vez en cuando, mi padre visitaba la ciudad.* (From time to time, my father would visit the city)
+
+*Mi familia y yo íbamos a la casa de playa cada año.* (My family and I used to go to the beach house every year)<br /><br />
+*A menudo, Karina cocinaba pizza con vegetales para nosotros.* (Often. Karina would cook pizza with vegetables for us)<br /><br />
+*De vez en cuando, mi padre visitaba la ciudad.* (From time to time, my father would visit the city)<br /><br />
+
 When practicing, pay attention to the trigger words for both Past Tenses. These clues will help to understand and express better.
+
 ## Combining both the Preterite and the Imperfect
 One of the usages of the imperfect is to express ongoing action in the past. The Preterite participates in this statement when it interrupts the ongoing action. This combination is very common when telling a story or an experience of the past. Spanish combines both tenses in one statement all the time. 
+
 Here are some excellent examples:
-*Nosotros caminábamos para la casa cuando Roxana nos llamó.* (We were walking home when Roxana called us)
+
+*Nosotros caminábamos para la casa cuando Roxana nos llamó.* (We were walking home when Roxana called us)<br />
 The imperfect caminábamos* was used to express the ongoing action during an undefined period. The preterite *llamo* is used to interrupt the continuing action, and only happened once.
-*Raúl y Jimena se conocieron cuando estaban en la universidad.* (Raul and Jimena met when they are at the university)
+*Raúl y Jimena se conocieron cuando estaban en la universidad.* (Raul and Jimena met when they are at the university)<br />
 The imperfect *estaban* is used to show that they were at the university during an undefined period. It is also an ongoing activity because they were students at the university. The preterite *se conocieron* is used to show that they met only once. It also interrupts the ongoing action.
+
 Try practicing using both tenses in one sentence. What were you doing when something interrupted? Practice writing, and in small conversations. 
+
 Once you’re more familiar with the Preterite and the Imperfect, check the following tenses also used in the past. They conjugate differently and have different usages.
+
 ## Past Progressive
 The Past Progressive is used to express an action that was happening at the moment in the past.
+
 It is formed with the imperfect of the verb *estar* plus the gerund (the present participle).
+
 The present participle ending for regular -ar verbs is -ando. The present participle ending for regular -er and -r verbs is -iendo. There’s a simple formula you can follow.
 
 ### Past Progressive Formula
 **Subject + *estar* in the imperfect + verb with ending in either “-iendo” or “-ando”**
+
 Let’s looks at the following examples:
 *Yo estaba comiendo una hamburguesa.* (I was eating a hamburger)
 *Estaba* is the imperfect of the verb *estar*, conjugated to the first person *yo*. The gerund for the verb *comer* is -iendo. So, drop -er and replace for its ending -iendo,  resulting in *comiendo*.
