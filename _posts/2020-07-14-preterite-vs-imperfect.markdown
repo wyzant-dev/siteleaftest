@@ -51,10 +51,10 @@ The endings of the *nosotros* past tense and the endings of the *nosotros* prese
 
 The way to know if one statement is expressed in the present or the preterite is by using context clues, such as adverbs like *siempre* (always) and *ayer* (yesterday). For example:<br />
 
-*Siempre cocinamos tacos de carne los martes.* (We always cook beef tacos on Tuesdays) - Present Simple<br />
-*Ayer cocinamos tacos de carne para mi familia.* *(Yesterday we cooked beef tacos for my family) - Past Simple<br />
-*Algunas veces Raúl y yo escribimos un correo electrónico a Susana.* (Sometimes, Raul and I write an email to Susana) - Present Simple<br />
-*La semana pasada, Raúl y yo escribimos un correo electrónico a Susana.* (Last week, Raúl and I wrote an email to Susana) - Past Simple<br />
+*Siempre cocinamos tacos de carne los martes.* (We always cook beef tacos on Tuesdays) - Present Simple<br /><br />
+*Ayer cocinamos tacos de carne para mi familia.* *(Yesterday we cooked beef tacos for my family) - Past Simple<br /><br />
+*Algunas veces Raúl y yo escribimos un correo electrónico a Susana.* (Sometimes, Raul and I write an email to Susana) - Present Simple<br /><br />
+*La semana pasada, Raúl y yo escribimos un correo electrónico a Susana.* (Last week, Raúl and I wrote an email to Susana) - Past Simple<br /><br />
 
 ### ER verbs and IR verbs
 The regular ER and IR verbs conjugate the same way, which makes them more practical to remember. To conjugate them, remove the infinitive ending (-er and -ir) and add the ending that matches the subject. 
