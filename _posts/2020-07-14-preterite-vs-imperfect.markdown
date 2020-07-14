@@ -123,10 +123,10 @@ Now let’s explore some examples using those verbs.
 *Rodrigo fue al supermercado el lunes pasado.* (Rodrigo went to the supermarket last Monday) - verb *ser* used<br /><br />
 *¿A dónde fuiste ayer por la mañana?* (Where did you go yesterday morning?) - verb *ir* used<br /><br />
 
-### Usages of the Preterite
+## Usages of the Preterite
 Now that we know how to conjugate regular verbs and some irregular verbs in the simple past, we will learn the usages of *el pretérito.*
 
-**Completed events**<br />
+### Completed events
 The *pasado simple* is used to talk about completed events, especially those with evident beginnings and ends that occurred once in the past. Let's see the following examples for more clarification.
 
 *Compré un televisor nuevo* (I bought a new television) - This sentence presents a completed event because I already bought the TV. I am not in the process of buying it. The action has an end.<br /><br />
@@ -134,7 +134,7 @@ The *pasado simple* is used to talk about completed events, especially those wit
 *Miguel nació en El Salvador.* (Miguel was born in El Salvador) - The sentence is a completed event because Miguel was born one time in the past. The action is over.<br /><br />
 *Nosotros limpiamos toda la casa ayer por la mañana.* (We cleaned the whole house yesterday morning) - A completed action that happened once, yesterday morning.<br /><br />
 
-**Beginning and Ends**<br />
+### Beginning and Ends
 The Spanish simple past is also used to talk about beginnings and ends. Some key verbs are used to talk about beginnings and ends in the past like *empezar* (to begin), *comenzar* (to begin), *terminar* (to finish), and *acabar* (to end).
 
 Let's look at the following examples:
