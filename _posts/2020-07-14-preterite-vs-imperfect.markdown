@@ -207,56 +207,70 @@ There are many other regular verbs ending in -er and -ir that follow the same ru
 
 ### Irregular IR and SER
 *El imperfecto* has irregular verbs, as well. Some of them change completely when conjugated in this tense. That is the case of the verbs *ser* (to be) and *ir* (to go). Let’s see how they conjugate in the following examples:
-**Ser (to be)**<br />
-*Yo era*				 I was, or I used to be/would
-*Tú eras*			 You were, or You used to be/would (informal, singular)
-*Él era*				 He was or He used to be/would	
-*Ella era*			 She was, or She used to be/would
-*Usted era*			 You were, or You used to be/would(formal, singular)
-*Nosotros éramos*		 We were, or We used to be/would
-*Vosotros erais*		 You were, or We used to be/would (plural)
-*Ustedes eran*			 You were, or You used to be/would (plural)
-*Ellos eran*			 They were, or they used to be/would
 
-**Ir (to go)**<br />
+**Ser (to be)**<br /><br />
+*Yo era* - I was, or I used to be/would<br />
+*Tú eras* - You were, or You used to be/would (informal, singular)<br />
+*Él era* - He was or He used to be/would<br />	
+*Ella era* - She was, or She used to be/would<br />
+*Usted era* - You were, or You used to be/would(formal, singular)<br />
+*Nosotros éramos* - We were, or We used to be/would<br />
+*Vosotros erais* - You were, or We used to be/would (plural)<br />
+*Ustedes eran* - You were, or You used to be/would (plural)<br />
+*Ellos eran* - They were, or they used to be/would<br /><br />
 
-*Yo iba*			 I was going, or I used to/would go
-*Tú ibas*		 You were going, or You used to/would go
-*Él iba*			 He was going, or He used to/would go
-*Usted iba*		 You were going, or You used to/would go
-*Nosotros íbamos*	 We were going, or We used to/would go
-*Vosotros ibais*	 You were going, or you used to/would go
-*Ellos iban*		 They were going, or They used to/would go
-*Ustedes iban*		 You were going, or You used to/would go
+**Ir (to go)**<br /><br />
+
+*Yo iba* - I was going, or I used to/would go<br />
+*Tú ibas* - You were going, or you used to/would go<br />
+*Él iba* - He was going, or he used to/would go<br />
+*Usted iba* - You were going, or you used to/would go<br />
+*Nosotros íbamos* - We were going, or we used to/would go<br />
+*Vosotros ibais* - You were going, or you used to/would go<br />
+*Ellos iban* - They were going, or they used to/would go<br />
+*Ustedes iban* - You were going, or you used to/would <br />
 
 
 Here are some examples in action:
-*Cuando yo era niña, yo iba todos los domingos a la iglesia.* (When I was a child, I used to go every Sunday to church)
+
+*Cuando yo era niña, yo iba todos los domingos a la iglesia.* (When I was a child, I used to go every Sunday to church)<br /><br />
 *Cuando nosotros éramos más jóvenes, íbamos a la casa de los abuelos cada mes.* (When we were younger, we used to go to our grandparents’ house every month)
-### Usages of the Imperfect
+
+## Usages of the Imperfect
 The Imperfect Indicative can be used for routine actions, times and dates, actions that were in progress in the past, age, descriptions of characteristics, conditions, and feelings.
-**Habitual or repeated actions**
+
+### Habitual or repeated actions
 The Imperfect Past Tense is used to talk about activities that were done over and over in the past. These are often things a person used to do or would do. 
 
-*Mi familia y yo cenábamos todas las noches.* (My family and I used to eat lunch together every day)
- *Todos los sábados los niños iban al parque para jugar.* (Every Saturday the children used to go to the park to play)
-*Mis amigos y yo ibamos a la heladería cada viernes.*  (My friends and I used to go to the ice cream store every Friday)
+*Mi familia y yo cenábamos todas las noches.* (My family and I used to eat lunch together every day)<br /><br />
+ *Todos los sábados los niños iban al parque para jugar.* (Every Saturday the children used to go to the park to play)<br /><br />
+*Mis amigos y yo ibamos a la heladería cada viernes.*  (My friends and I used to go to the ice cream store every Friday)<br /><br />
 
-**Actions That Were In-Progress in the Past**
-*El imperfecto* is commonly used to talk about something that was happening when something else occurred. 
-When talking about a past action in progress that was interrupted, the action in progress is in the **imperfect** time, while the interrupting action is in the **Preterite**. Let’s look at the following example:
-*Yo dormía cuando el teléfono sonó* (I was sleeping when the telephone rang)
-As you can see, the action in progress in the past is expressed in the imperfect: *Yo dormía* (I was sleeping); while the action interrupting is expressed in the Preterite: *El teléfono sonó* (the phone rang).
+### Actions That Were In-Progress in the Past
+*El imperfecto* is commonly used to talk about something that was happening when something else occurred. When talking about a past action in progress that was interrupted, the action in progress is in the **imperfect** time, while the interrupting action is in the **Preterite**.
+
+Let’s look at the following example:
+
+*Yo dormía cuando el teléfono sonó* (I was sleeping when the telephone rang)<br />
+As you can see, the action in progress in the past is expressed in the imperfect: *Yo dormía* (I was sleeping); while the action interrupting is expressed in the Preterite: *El teléfono sonó* (the phone rang)
+
 Here is another example:
-*Roxana limpiaba la casa cuando nosotros llegamos.* (Roxana was cleaning the house when we arrived)
+
+*Roxana limpiaba la casa cuando nosotros llegamos.* (Roxana was cleaning the house when we arrived)<br />
+
 Notice that the action in progress in the past is in the imperfect, *Roxana limpiaba* (Roxana was cleaning). And the action interrupting *nosotros llegamos* (we arrived) is expressed in the Preterite.
+
 The imperfect is also used for actions that continued in the past for an unspecified period of time. For example:
 *María y yo jugábamos en la casa de árbol de la abuela.* (Maria and I used to play at grandma’s treehouse)
+
 This sentence expresses an action that happened continuously in the past. It did not specify when it happened, what year, what month, what time, etc. 
+
 *Roberto caminaba por el parque algunas veces.* (Roberto used to walk through the park sometimes.)
 This phrase expresses an action that used to happen in the past. But it does not specify when Roberto exactly used to walk through the park.
-**Times and Dates**
+
+### Times and Dates
 The imperfect is also used to talk about times and dates in the past, as in:
+
 *Eran las diez de la mañana.* (It was ten o’clock in the morning)
 *Eran las siete de la noche.* (It was seven o’clock in the evening)
 *Era el 14 de abril.* (It was April 14th)
