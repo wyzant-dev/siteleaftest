@@ -1,7 +1,12 @@
 ---
 title: 'La Première Leçon: What to Expect at Your First French Lesson'
 date: 2020-07-16 12:17:00 -05:00
-published: false
+categories:
+- French
+- Language Learning
+tags:
+- French
+- Language Learning
 author: Lauren Harsh
 sub-headline: 'Every tutor does things a little differently, but this guide will help
   you prepare for a successful tutoring experience. '
