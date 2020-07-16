@@ -1,5 +1,5 @@
 ---
-title: 'La Première Leçon: 15 Things to Expect at Your First French Lesson'
+title: 'La Première Leçon: What to Expect at Your First French Lesson'
 date: 2020-07-16 12:17:00 -05:00
 published: false
 author: Lauren Harsh
