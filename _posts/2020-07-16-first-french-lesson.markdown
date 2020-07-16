@@ -3,7 +3,15 @@ title: 'La Première Leçon: What to Expect at Your First French Lesson'
 date: 2020-07-16 12:17:00 -05:00
 published: false
 author: Lauren Harsh
+sub-headline: 'Every tutor does things a little differently, but this guide will help
+  you prepare for a successful tutoring experience. '
 hero-image: "/blog/uploads/What%20to%20Expect%20at%20Your%20First%20French%20Lesson.jpg"
+meta-description: Whether you’re learning French on your own, or taking in-person
+  or online French classes, tutoring can help you learn in a way that is tailored
+  to your needs. It may even be the best way to learn French for you.
+post-description: Whether you’re learning French on your own, or taking in-person
+  or online French classes, tutoring can help you learn in a way that is tailored
+  to your needs. It may even be the best way to learn French for you.
 ---
 
 Whether you’re learning French [on your own](https://www.wyzant.com/blog/how-to-learn-french/) or taking in-person or online French classes, French tutoring can help you learn in a way that is tailored to your needs. It may even be the best way to learn French for you.
