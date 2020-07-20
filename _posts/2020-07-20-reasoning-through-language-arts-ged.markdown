@@ -2,7 +2,6 @@
 title: A Complete Breakdown of the Reasoning Through Language Arts Section of the
   GED
 date: 2020-07-20 11:09:00 -05:00
-published: false
 categories:
 - GED
 - Test Prep
