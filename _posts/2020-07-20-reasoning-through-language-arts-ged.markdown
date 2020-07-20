@@ -3,6 +3,7 @@ title: A Complete Breakdown of the Reasoning Through Language Arts Section of th
   GED
 date: 2020-07-20 11:09:00 -05:00
 published: false
+author: Jonathan Reidenouer
 sub-headline: Whether you call it the GED English test or Language Arts test, the
   GED RLA section focuses on the skills associated with reading and writing.
 hero-image: "/blog/uploads/Reasoning%20Through%20Language%20Arts%20GED.png"
