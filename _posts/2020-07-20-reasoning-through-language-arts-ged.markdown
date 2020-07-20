@@ -9,14 +9,14 @@ sub-headline: Whether you call it the GED English test or Language Arts test, th
 
 So, you have finally made the big decision - you’re going to get your GED! After careful consideration, you’ve realized that in order to get the job you need, the promotion you want, or the education you desire, you going to need that high school equivalency certificate. 
 
-At this point, you have already done some research on how to get your GED. Perhaps  you have even signed up for your personalized MyGED online program so you can schedule tests, view score reports, order transcripts, and obtain your diploma. You recognize that preparing for all four GED tests is not something you can handle alone: you know the help and direction of an experienced tutor is critical to your success.
+At this point, you have already done some research on [how to get your GED](https://www.wyzant.com/blog/how-to-get-your-ged/). Perhaps  you have even signed up for your [personalized MyGED](https://ged.com/) online program so you can schedule tests, view score reports, order transcripts, and obtain your diploma. You recognize that preparing for all four GED tests is not something you can handle alone: you know the help and direction of an experienced tutor is critical to your success.
 
 Now you’re ready to begin drilling down on the GED sections one-by-one, but for whatever reason, the Reasoning Through Language Arts (RLA) test looks challenging. Well, this is the time to secure a tutor who can provide you with a complete breakdown of the RLA section and guide you through the entire preparation process for taking and passing the test.
 
 ## Content and Structure
 Whether you call it the GED English test or the GED language arts test, the GED RLA section focuses on the skills associated with reading and writing. Broadly speaking, the RLA test tests your abilities in grammar and language, reading for meaning, and identifying and creating arguments. 
 
-In your first session, your GED tutor will walk you through the structure of the RLA test:
+In your [first session](https://www.wyzant.com/blog/ged_tutoring/), your GED tutor will walk you through the structure of the RLA test:
 
 * FIRST section: 30 minutes to answer about 20 questions
 * SECOND section: 45 minutes to write a written essay (extended response comparison of two passages) 
@@ -53,7 +53,7 @@ Your submitted essay will be assigned a score from 0-2 in three “traits”: Cr
 
 Taking the Test and Interpreting Scores
 
-Invariably, you’re going to get to a point where you’ll need to know how to take the GED. At this point, there is no way to take the tests online, so you will need register to take the RLA at an official test center. Searching directly from your MyGED account, you can determine which GED testing location works best, and explore the available dates on the website for that particular facility. Registration costs vary from state to state, with the most common GED test costs being $30 per subject test ($120 total). Make sure you check for updates to GED test dates, as certain test centers may not be open due to the COVID-19 restrictions.
+Invariably, you’re going to get to a point where you’ll need to know how to take the GED. At this point, there is no way to take the tests online, so you will need register to take the RLA at an official test center. Searching directly from your MyGED account, you can determine which [GED testing location](https://ged.com/about_test/scheduling/#:~:text=Scheduling%20Your%20Test,-Once%20you're&text=Simply%20log%20into%20your%20GED,a%20credit%20or%20debit%20card.) works best, and explore the available dates on the website for that particular facility. [Registration costs vary](https://ged.com/about_test/price_and_state_rules/) from state to state, with the most common GED test costs being $30 per subject test ($120 total). Make sure you check for updates to GED test dates, as certain test centers may not be open due to the COVID-19 restrictions.
 
 Of course, that test will produce a score, so you’ll want to know what constitutes a good one. Rest assured—before you even register for the test, your tutor will familiarize you with the GED scoring system. Understanding the different tiers of passing GED scores will give you something to shoot for as you go through the test prep process.
 
@@ -63,10 +63,10 @@ Should you pass the GED, your score can even work toward a college education—a
 
 ## Tutoring Guidance and the Preparation Process
 
-In addition to the competent help of your own GED tutor, you may want to seek out additional materials to aid in the test preparation process. Look for prep books that have practice tests, as those will offer you the most effective training. Some companies also have personalized GED courses and additional RLA practice material online. As your local area opens up from COVID-19 restrictions, you may be able to find some local GED RLA classes as well. Until then, you and your tutor can meet one-on-one through the Wyzant online tutoring platform. 
+In addition to the competent help of your own GED tutor, you may want to seek out additional materials to aid in the test preparation process. Look for prep books that have practice tests, as those will offer you the most effective training. Some companies also have personalized GED courses and additional RLA practice material online. As your local area opens up from COVID-19 restrictions, you may be able to find some local GED RLA classes as well. Until then, you and your tutor can meet one-on-one through the Wyzant [online tutoring platform](https://www.wyzant.com/blog/online-learning-tool-video/). 
 
 Unlike the preparation for the other three sections of the GED, your RLA prep doesn’t lend itself to personal study all that much. While you can practice math problems and review science and social studies topics, it’s not so convenient to work on reading comprehension and writing skills. Building up one’s abilities for analysis, synthesis, and evaluation doesn’t come easily for an adult. To bolster those skills, you’ll want to lean heavily on your RLA tutor, who will be able to lay out a plan to improve both your reading and writing.
 
 The final step in your training for the RLA section should be to take the GED Ready Official Practice Tests, which are available through the MyGED portal. If you get 75% or more questions correct on a GED practice test, you are highly likely to pass the RLA test. Go over those results with your tutor to make the final determination on whether you are ready to take it.
 
-Few people are built for self-directed learning, so it’s natural to feel adrift as you begin the path toward passing the Reasoning Through Language Arts test. Fortunately, an experienced GED tutor can provide the stability and direction you need. Take some time to reflect on what you want in a tutor, then reach out to an experienced tutor today to get the GED help you need to complete your journey to greater educational and occupational opportunities.
+Few people are built for self-directed learning, so it’s natural to feel adrift as you begin the path toward passing the Reasoning Through Language Arts test. Fortunately, an experienced GED tutor can provide the stability and direction you need. Take some time to reflect on [what you want](https://www.wyzant.com/blog/3-things-to-keep-in-mind-when-choosing-a-tutor/) in a tutor, then reach out to an experienced tutor today to get the [GED help](https://www.wyzant.com/GED_tutors.aspx) you need to complete your journey to greater educational and occupational opportunities.
