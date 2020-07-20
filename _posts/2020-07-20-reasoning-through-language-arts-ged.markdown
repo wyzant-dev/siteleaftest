@@ -5,6 +5,7 @@ date: 2020-07-20 11:09:00 -05:00
 published: false
 sub-headline: Whether you call it the GED English test or Language Arts test, the
   GED RLA section focuses on the skills associated with reading and writing.
+hero-image: "/blog/uploads/Reasoning%20Through%20Language%20Arts%20GED.png"
 ---
 
 So, you have finally made the big decision - you’re going to get your GED! After careful consideration, you’ve realized that in order to get the job you need, the promotion you want, or the education you desire, you going to need that high school equivalency certificate. 
