@@ -52,7 +52,7 @@ If you feel apprehensive about the writing and analysis skills needed to master 
 
 Your submitted essay will be assigned a score from 0-2 in three “traits”: Creation of Arguments and use of Evidence; Development of Ideas and Organizational Structure; and Clarity and Command of Standard English Conventions. During each step along the path of preparation, your tutor will be providing guidance and encouragement to help you achieve the best essay score possible. 
 
-Taking the Test and Interpreting Scores
+## Taking the Test and Interpreting Scores
 
 Invariably, you’re going to get to a point where you’ll need to know how to take the GED. At this point, there is no way to take the tests online, so you will need register to take the RLA at an official test center. Searching directly from your MyGED account, you can determine which [GED testing location](https://ged.com/about_test/scheduling/#:~:text=Scheduling%20Your%20Test,-Once%20you're&text=Simply%20log%20into%20your%20GED,a%20credit%20or%20debit%20card.) works best, and explore the available dates on the website for that particular facility. [Registration costs vary](https://ged.com/about_test/price_and_state_rules/) from state to state, with the most common GED test costs being $30 per subject test ($120 total). Make sure you check for updates to GED test dates, as certain test centers may not be open due to the COVID-19 restrictions.
 
