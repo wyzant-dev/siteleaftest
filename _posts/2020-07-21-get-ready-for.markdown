@@ -42,8 +42,8 @@ In each of their kid-sized lessons, these incredible tutors highlight specific t
 
 Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube channel](https://www.youtube.com/user/Wyzant) on the dates below, and may feature a live chat with the instructor (subject to tutor availability). 
 
-### Get Ready For 4th Grade
-	
+![Get Ready For Fourth Grade videos, The Daily Reading Circuit, Multiplication Facts and Methods, and Lets Learn About Animal Behaviors](/blog/uploads/GRF%20Blog%204th%20gr%20lang%20arts%20header.png)
+
 * Lang Arts - July 28, 1pm
 * Math - Aug 4, 1 pm
 * Science - Aug 11, 1 pm
