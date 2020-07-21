@@ -58,10 +58,10 @@ You'll find more info about Get Ready for 4th Grade videos at [this link.](https
 
 Sign up for Get Ready for 5th Grade by [clicking here](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer)!
 
-[![Get Ready For Sixth Grade videos, What Do You Think, Ratios and Proportions, and Life Sciences How to Draw a Pedigree](/blog/uploads/GRF%20Blog%206th%20gr%20header.png)](https://startlearning.wyzant.com/getreadyforsummer_6thgrade/)
+[![Get Ready For Sixth Grade videos, What Do You Think, Ratios and Proportions, and Life Sciences How to Draw a Pedigree](/blog/uploads/GRF%20Blog%206th%20gr%20header.png)](https://startlearning.wyzant.com/getreadyforsummer_6thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer)
 
 * Language Arts - Thursday, July 30, 1 pm
 * Math - Thursday, Aug 6, 1 pm
 * Science - Thursday, Aug 13, 1 pm
 
-Read more info about videos in the Get Ready for 6th Grade series [here](https://startlearning.wyzant.com/getreadyforsummer_6thgrade/).
+Read more info about videos in the Get Ready for 6th Grade series [here](https://startlearning.wyzant.com/getreadyforsummer_6thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer).
