@@ -80,4 +80,4 @@ Read more info about videos in the Get Ready for 6th Grade series [here](https:/
 
 ## Are You Ready to Get Ready?
 
-We're excited to share this easy, kid-centered learning resource, and hope you'll share this free opportunity with your friends and family who need a back-to-school boost! For all the info you need, head to the ["Get Ready For" signup page](https://startlearning.wyzant.com/getreadyforsummer_4thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer). 
+We're excited to share this easy, kid-centered learning resource, and hope you'll share the opportunity with your friends and family who need a back-to-school boost! For all the info you need, head to the ["Get Ready For" signup page](https://startlearning.wyzant.com/getreadyforsummer_4thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer). 
