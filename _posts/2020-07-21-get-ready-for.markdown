@@ -13,7 +13,7 @@ tags:
 hero-image: "/blog/uploads/Get%20Ready%20For%20Hero%20Image.png"
 ---
 
-“Get Ready For” is a brand-new, **free** educational video series from Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
+“Get Ready For” is a brand-new, **free** video lesson series from Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVMzMcLND8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
