@@ -26,13 +26,15 @@ post-description: "“Get Ready For” is a brand-new, **free** video lesson ser
 
 “Get Ready For” is a brand-new, **free** video lesson series from Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
 
+Designed specifically to engage and educate young learners, each video in the series is self-contained, with tons of visual aids, guided practice, and, of course, expert instruction.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVMzMcLND8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Meet the Instructors
 
 We’ve enlisted the help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow video sessions using our online learning tool.
 
-In each of their kid-sized lessons, these incredible tutors highlight specific topics that students may have missed when schools closed in the Spring, with focus on important material they need to know. Each lesson is self-contained, with tons of visual aids, guided practice, and, of course, expert instruction.
+In each of their kid-sized lessons, these incredible tutors highlight specific topics that students may have missed when schools closed in the Spring, with focus on important material they need to know. 
 
 ![Tutor Nancy V's profile title which reads MS in Education and Published Writer Helping Children and Adults](/blog/uploads/Nancy%20V%20no%20logo.png)
 
