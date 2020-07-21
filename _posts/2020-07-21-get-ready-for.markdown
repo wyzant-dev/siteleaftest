@@ -35,16 +35,16 @@ Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube
 
 ### Get Ready For 4th Grade
 	
-Lang Arts - July 28, 1pm
-Math - Aug 4, 1 pm
-Science - Aug 11, 1 pm
+* Lang Arts - July 28, 1pm
+* Math - Aug 4, 1 pm
+* Science - Aug 11, 1 pm
 
 ### Get Ready For 5th Grade
-Lang Arts - July 29, 1 pm
-Math - Aug 5, 1 pm
-Science - Aug 12, 1 pm
+* Lang Arts - July 29, 1 pm
+* Math - Aug 5, 1 pm
+* Science - Aug 12, 1 pm
 
 ### Get Ready For 6th Grade
-Lang Arts - July 30, 1 pm
-Math - Aug 6, 1 pm
-Science - Aug 13, 1 pm
+* Lang Arts - July 30, 1 pm
+* Math - Aug 6, 1 pm
+* Science - Aug 13, 1 pm
