@@ -57,7 +57,7 @@ Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube
 [![Get Ready For Fourth Grade videos, The Daily Reading Circuit, Multiplication Facts and Methods, and Lets Learn About Animal Behaviors](/blog/uploads/GRF%20Blog%204th%20gr%20lang%20arts%20header-8591d7.png)](https://startlearning.wyzant.com/getreadyforsummer_4thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer)
 
 * **Language Arts** - The Daily Reading Cycle: Tuesday, July 28, 1pm
-* **Math** Multiplication Facts & Methods: Tuesday, Aug 4, 1 pm
+* **Math -** Multiplication Facts & Methods: Tuesday, Aug 4, 1 pm
 * **Science** - Let's Learn About Animal Behaviors: Tuesday, Aug 11, 1 pm
 
 You'll find more info about Get Ready for 4th Grade videos at [this link.](https://startlearning.wyzant.com/getreadyforsummer_4thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer)
