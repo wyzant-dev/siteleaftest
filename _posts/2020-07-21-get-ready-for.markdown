@@ -32,7 +32,7 @@ Designed specifically to engage and educate young learners, each video in the se
 
 ## Meet the Instructors
 
-We’ve enlisted the help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow video sessions using our online learning tool.
+We’ve enlisted the help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow video sessions using our [online learning tool](https://www.wyzant.com/blog/online-learning-tool-video/).
 
 In each of their kid-sized lessons, these incredible tutors highlight specific topics that students may have missed when schools closed in the Spring, with focus on important material they need to know. 
 
