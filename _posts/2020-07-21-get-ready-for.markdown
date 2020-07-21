@@ -1,7 +1,6 @@
 ---
 title: Get Ready For 4th, 5th, and 6th Grades!
 date: 2020-07-21 08:39:00 -05:00
-published: false
 categories:
 - Get Ready For
 - Elementary School
