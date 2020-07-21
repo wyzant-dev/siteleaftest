@@ -13,15 +13,17 @@ tags:
 hero-image: "/blog/uploads/Get%20Ready%20For%20Hero%20Image.png"
 ---
 
-“Get Ready For” is a brand-new, free educational video series from Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
+“Get Ready For” is a brand-new, **free** educational video series from Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVMzMcLND8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Meet the Instructors
 
-We’ve enlisted the help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow video lessons using our online learning tool.
+We’ve enlisted the help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow video sessions using our online learning tool.
 
 In each of their kid-sized lessons, these incredible tutors highlight specific topics that students may have missed when schools closed in the Spring, with focus on important material they need to know. Each lesson is self-contained, with tons of visual aids, guided practice, and, of course, expert instruction.
+
+![Tutor Nancy V's profile title which reads MS in Education and Published Writer Helping Children and Adults](/blog/uploads/Nancy%20V%20no%20logo.png)
 
 **LANGUAGE ARTS:** [Nancy V.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/85499847) holds her Masters in Education from California State University. As a published author and long-time teacher, she inspires students to learn Language Arts in a fun, hands-on way that encourages daily practice. Nancy has tutored more than 1,500 hours on Wyzant, guiding students along the journey to strong vocabulary, reading, and writing skills.
 
