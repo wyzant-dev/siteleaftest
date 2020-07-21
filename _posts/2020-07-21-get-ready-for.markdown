@@ -44,7 +44,7 @@ Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube
 
 [![Get Ready For Fourth Grade videos, The Daily Reading Circuit, Multiplication Facts and Methods, and Lets Learn About Animal Behaviors](/blog/uploads/GRF%20Blog%204th%20gr%20lang%20arts%20header-8591d7.png)](https://startlearning.wyzant.com/getreadyforsummer_4thgrade/)
 
-* Lang Arts - Tuesday, July 28, 1pm
+* Language Arts - Tuesday, July 28, 1pm
 * Math - Tuesday, Aug 4, 1 pm
 * Science - Tuesday, Aug 11, 1 pm
 
@@ -52,7 +52,7 @@ You'll find more info about Get Ready for 4th Grade videos at [this link.](https
 
 [![Get Ready for Fifth Grade videos, Going Places, Simplifying and Equivalent Fractions, and Systems of the Human Body](/blog/uploads/GRF%20Blog%205th%20gr%20header.png)](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/)
 
-* Lang Arts - Wednesday, July 29, 1 pm
+* Language Arts - Wednesday, July 29, 1 pm
 * Math - Wednesday, Aug 5, 1 pm
 * Science - Wednesday, Aug 12, 1 pm
 
@@ -60,7 +60,7 @@ Sign up for Get Ready for 5th Grade by [clicking here](https://startlearning.wyz
 
 [![Get Ready For Sixth Grade videos, What Do You Think, Ratios and Proportions, and Life Sciences How to Draw a Pedigree](/blog/uploads/GRF%20Blog%206th%20gr%20header.png)](https://startlearning.wyzant.com/getreadyforsummer_6thgrade/)
 
-* Lang Arts - Thursday, July 30, 1 pm
+* Language Arts - Thursday, July 30, 1 pm
 * Math - Thursday, Aug 6, 1 pm
 * Science - Thursday, Aug 13, 1 pm
 
