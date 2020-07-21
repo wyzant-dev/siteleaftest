@@ -36,7 +36,7 @@ In each of their kid-sized lessons, these incredible tutors highlight specific t
 ![Brianna C's profile title which reads Math, Science, and Spanish Tutoring from Med Student](/blog/uploads/Brianna%20C%20no%20logo.png)
 
 ### **SCIENCE:**
-[Brianna C.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/87527835) completed undergrad at Fairfield University with a double major in Biology and Psychology. She graduated with Honors and went on to complete her Masters Degree at the National University of Ireland at Galway. Now Brianna is in med school at Nova Southeastern College of Allopathic Medicine. She’s tutored students in the sciences from kindergarten to college, and is described by students as detail-oriented, patient, and to quote numerous reviews, “Awesome!” 
+[Brianna C.](https://www.wyzant.com/match/tutor/87527835) completed undergrad at Fairfield University with a double major in Biology and Psychology. She graduated with Honors and went on to complete her Masters Degree at the National University of Ireland at Galway. Now Brianna is in med school at Nova Southeastern College of Allopathic Medicine. She’s tutored students in the sciences from kindergarten to college, and is described by students as detail-oriented, patient, and to quote numerous reviews, “Awesome!” 
 
 ## Catch all the videos!
 
