@@ -17,7 +17,7 @@ hero-image: "/blog/uploads/Get%20Ready%20For%20Hero%20Image.png"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVMzMcLND8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## “Get Ready For” Instructors
+## Meet the Instructors
 
 We’ve enlisted the help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow video lessons using our online learning tool.
 
