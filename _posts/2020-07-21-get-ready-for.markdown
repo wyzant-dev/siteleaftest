@@ -64,9 +64,9 @@ You'll find more info about Get Ready for 4th Grade videos at [this link.](https
 
 [![Get Ready for Fifth Grade videos, Going Places, Simplifying and Equivalent Fractions, and Systems of the Human Body](/blog/uploads/GRF%20Blog%205th%20gr%20header.png)](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer)
 
-* **Language Arts** - Wednesday, July 29, 1 pm
-* **Math** - Wednesday, Aug 5, 1 pm
-* **Science** - Wednesday, Aug 12, 1 pm
+* **Language Arts** - Going Places!: Wednesday, July 29, 1 pm
+* **Math** - simplifying & Equivalent Fractions: Wednesday, Aug 5, 1 pm
+* **Science** - Weird & Wonderful Systems of the Human Body: Wednesday, Aug 12, 1 pm
 
 Sign up for Get Ready for 5th Grade by [clicking here](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/?utm_source=Wyzant%20Blog&utm_medium=GRF%20Article&utm_campaign=GRFsummer)!
 
