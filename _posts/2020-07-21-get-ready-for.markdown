@@ -10,7 +10,18 @@ tags:
 - Get Ready For
 - Elementary School
 - Video
+sub-headline: Join us for a free video lesson series designed just for kids!
 hero-image: "/blog/uploads/Get%20Ready%20For%20Hero%20Image.png"
+meta-description: "“Get Ready For” is a brand-new, **free** video lesson series from
+  Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and
+  connect with classroom material before heading back to school. We’ve enlisted the
+  help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow
+  video sessions using our online learning tool."
+post-description: "“Get Ready For” is a brand-new, **free** video lesson series from
+  Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and
+  connect with classroom material before heading back to school. We’ve enlisted the
+  help of top-rated elementary educators on Wyzant to create powerful, easy-to-follow
+  video sessions using our online learning tool."
 ---
 
 “Get Ready For” is a brand-new, **free** video lesson series from Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
