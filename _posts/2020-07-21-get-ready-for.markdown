@@ -50,7 +50,7 @@ Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube
 
 You'll find more info about Get Ready for 4th Grade videos at [this link.](https://startlearning.wyzant.com/getreadyforsummer_4thgrade/)
 
-![Get Ready for Fifth Grade videos, Going Places, Simplsying and Equivalent Fractions, and Systems of the Human Body](/blog/uploads/GRF%20Blog%205th%20gr%20header.png)
+![Get Ready for Fifth Grade videos, Going Places, Simplifying and Equivalent Fractions, and Systems of the Human Body](/blog/uploads/GRF%20Blog%205th%20gr%20header.png)
 
 ### Get Ready For 5th Grade
 * Lang Arts - July 29, 1 pm
@@ -58,6 +58,8 @@ You'll find more info about Get Ready for 4th Grade videos at [this link.](https
 * Science - Aug 12, 1 pm
 
 Sign up for Get Ready for 5th Grade by [clicking here](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/)!
+
+![Get Ready For Sixth Grade videos, What Do You Think, Ratios and Proportions, and Life Sciences How to Draw a Pedigree](/blog/uploads/GRF%20Blog%206th%20gr%20header.png)
 
 ### Get Ready For 6th Grade
 * Lang Arts - July 30, 1 pm
