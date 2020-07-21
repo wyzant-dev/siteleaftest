@@ -26,7 +26,7 @@ In each of their kid-sized lessons, these incredible tutors highlight specific t
 ![Tutor Nancy V's profile title which reads MS in Education and Published Writer Helping Children and Adults](/blog/uploads/Nancy%20V%20no%20logo.png)
 
 ### **LANGUAGE ARTS:**
-[Nancy V.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/85499847) holds her Masters in Education from California State University. As a published author and long-time teacher, she inspires students to learn Language Arts in a fun, hands-on way that encourages daily practice. Nancy has tutored more than 1,500 hours on Wyzant, guiding students along the journey to strong vocabulary, reading, and writing skills.
+[Nancy V.](https://www.wyzant.com/match/tutor/85499847) holds her Masters in Education from California State University. As a published author and long-time teacher, she inspires students to learn Language Arts in a fun, hands-on way that encourages daily practice. Nancy has tutored more than 1,500 hours on Wyzant, guiding students along the journey to strong vocabulary, reading, and writing skills.
 
 ![Alicia F's profile title which reads Need a Tutor for the Summer? Dont let your child fall behind](/blog/uploads/Alicia%20F%20no%20logo.png)
 
