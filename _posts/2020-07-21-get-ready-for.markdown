@@ -29,3 +29,21 @@ In each of their kid-sized lessons, these incredible tutors highlight specific t
 
 **SCIENCE:** [Brianna C.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/87527835) completed undergrad at Fairfield University with a double major in Biology and Psychology. She graduated with Honors and went on to complete her Masters Degree at the National University of Ireland at Galway. Now Brianna is in med school at Nova Southeastern College of Allopathic Medicine. She’s tutored students in the sciences from kindergarten to college, and is described by students as detail-oriented, patient, and to quote numerous reviews, “Awesome!” 
 
+## Catch all the videos!
+
+Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube channel](https://www.youtube.com/user/Wyzant) on the dates below, and may feature a live chat with the instructor (subject to tutor availability, and tutoring comes first!). 
+
+### Get Ready For 4th Grade
+	Lang Arts - July 28, 1pm
+	Math - Aug 4, 1 pm
+	Science - Aug 11, 1 pm
+
+### Get Ready For 5th Grade
+	Lang Arts - July 29, 1 pm
+	Math - Aug 5, 1 pm
+	Science - Aug 12, 1 pm
+
+### Get Ready For 6th Grade
+	Lang Arts - July 30, 1 pm
+	Math - Aug 6, 1 pm
+	Science - Aug 13, 1 pm
