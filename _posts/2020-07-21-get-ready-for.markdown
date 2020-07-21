@@ -31,7 +31,7 @@ In each of their kid-sized lessons, these incredible tutors highlight specific t
 ![Alicia F's profile title which reads Need a Tutor for the Summer? Dont let your child fall behind](/blog/uploads/Alicia%20F%20no%20logo.png)
 
 ### **MATH:**
-[Alicia F.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/77542480) graduated from Washington University in St. Louis with a Masters in Social Work, with a focus on Children, Youth and Families. She's spent 15 years working in youth development and education, and to date has clocked an incredible 1,550 hours tutoring on Wyzant.
+[Alicia F.](https://www.wyzant.com/match/tutor/77542480) graduated from Washington University in St. Louis with a Masters in Social Work, with a focus on Children, Youth and Families. She's spent 15 years working in youth development and education, and to date has clocked an incredible 1,550 hours tutoring on Wyzant.
 
 ![Brianna C's profile title which reads Math, Science, and Spanish Tutoring from Med Student](/blog/uploads/Brianna%20C%20no%20logo.png)
 
