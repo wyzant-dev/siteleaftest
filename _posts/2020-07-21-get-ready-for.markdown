@@ -40,7 +40,7 @@ In each of their kid-sized lessons, these incredible tutors highlight specific t
 
 ## Catch all the videos!
 
-Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube channel](https://www.youtube.com/user/Wyzant) on the dates below, and may feature a live chat with the instructor (subject to tutor availability, and tutoring comes first!). 
+Each video lesson in the Get Ready For series will premiere on [Wyzant's YouTube channel](https://www.youtube.com/user/Wyzant) on the dates below, and may feature a live chat with the instructor (subject to tutor availability). 
 
 ### Get Ready For 4th Grade
 	
