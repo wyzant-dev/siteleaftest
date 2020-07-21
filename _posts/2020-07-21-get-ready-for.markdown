@@ -27,7 +27,11 @@ In each of their kid-sized lessons, these incredible tutors highlight specific t
 
 **LANGUAGE ARTS:** [Nancy V.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/85499847) holds her Masters in Education from California State University. As a published author and long-time teacher, she inspires students to learn Language Arts in a fun, hands-on way that encourages daily practice. Nancy has tutored more than 1,500 hours on Wyzant, guiding students along the journey to strong vocabulary, reading, and writing skills.
 
+![Alicia F's profile title which reads Need a Tutor for the Summer? Dont let your child fall behind](/blog/uploads/Alicia%20F%20no%20logo.png)
+
 **MATH:** [Alicia F.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/77542480) graduated from Washington University in St. Louis with a Masters in Social Work, with a focus on Children, Youth and Families. She's spent 15 years working in youth development and education, and to date has clocked an incredible 1,550 hours tutoring on Wyzant.
+
+![Brianna C's profile title which reads Math, Science, and Spanish Tutoring from Med Student](/blog/uploads/Brianna%20C%20no%20logo.png)
 
 **SCIENCE:** [Brianna C.](https://startlearning.wyzant.com/getreadyforsummer_5thgrade/clkn/https/www.wyzant.com/match/tutor/87527835) completed undergrad at Fairfield University with a double major in Biology and Psychology. She graduated with Honors and went on to complete her Masters Degree at the National University of Ireland at Galway. Now Brianna is in med school at Nova Southeastern College of Allopathic Medicine. She’s tutored students in the sciences from kindergarten to college, and is described by students as detail-oriented, patient, and to quote numerous reviews, “Awesome!” 
 
