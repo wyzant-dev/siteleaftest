@@ -1,7 +1,6 @@
 ---
 title: 3 Online Resources to Get Students and Families Ready for “Back to School”
 date: 2020-07-23 15:48:00 -05:00
-published: false
 categories:
 - Homeschool
 tags:
