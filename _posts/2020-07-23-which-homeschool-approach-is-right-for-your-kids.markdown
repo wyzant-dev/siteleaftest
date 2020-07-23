@@ -42,7 +42,7 @@ Different homeschooling methods work for different families. Deciding what’s r
 
 ## Classic or “Traditional” Homeschooling
 
-What it is: the process of educating children at home rather than sending them to a traditional school.
+**What it is:** the process of educating children at home rather than sending them to a traditional school.
 
 In most homeschooling situations, parents are the ones doing the teaching. Traditionally, curriculum looks a little different than the school’s and involves teaching based on the [three stages of learning](https://www.thehomeschoolmom.com/homeschooling-styles/classical-homeschooling/): the Grammar stage, the Logic stage, and the Rhetoric stage. Given the current circumstances, we can include the parent’s delivery of a school district's curriculum into this category. 
 
@@ -50,15 +50,16 @@ The biggest difference between homeschooling and other methods of online learnin
 
 While this can be the most affordable option for parents who have the ability to stay at home, it can be the most time-consuming limiting in terms of social contact with students’ peers.
 
-Main educator: Parent(s)
-Approximate Number of Students: 1
-Flexibility: < Grade: B- >Cost: $200-$500 per year in curricula and supplies
+* **Main educator:** Parent(s)
+* **Approximate Number of Students:** 1
+* **Flexibility:** < Grade: B- >
+* **Cost:** $200-$500 per year in curricula and supplies
 
 ### What do you need to do to get started with traditional homeschooling? 
 Understanding [your state’s specific laws on homeschooling](https://hslda.org/legal) is priority one. After you understand the guidelines you’re working with, you can source different lesson plans online that will help you design a curriculum appropriate to your child’s grade. Wyzant has additional resources like [Ask An Expert](https://www.wyzant.com/resources/answers) and [subject-specific videos](https://www.youtube.com/user/WyzAnt/videos) to help dive deeper into more complex subjects. 
 
 ## Distance Learning, E-learning, & Hired Homeschooling
-What they are: Education variations that utilize a school’s existing program from home
+**What they are:** Education variations that utilize a school’s existing program from home
 
 In a pre-pandemic world, each of these three variations on homeschooling looked a little different, and more voluntary. Today, the lines between distance learning and e-learning are blurred. Since students are unable to interact directly with their teachers in-person, more digital resources have been introduced. 
 
@@ -70,25 +71,25 @@ Hired homeschooling refers to the hiring of teachers, tutors, or other educators
 
 Hired homeschooling for online lessons provides a similar interaction to distance and E-learning, involving technologies such as digital video services, whiteboards, and video content. The main difference is in parents’ ability to choose their educators.
 
-Main Educator: Teachers, tutors
-Approximate Number of Students: 1
-Flexibility: < Grade: A > 
-Cost: There should be no cost to participate in a school’s remote learning program. Online tutors average $45-$55 per hour. 
+* **Main Educator:** Teachers, tutors
+* **Approximate Number of Students:** 1
+* **Flexibility:** < Grade: A > 
+* **Cost:** There should be no cost to participate in a school’s remote learning program. Online tutors average $45-$55 per hour. 
 
 ### What do you need to do to get started with hired homeschooling and distance/e-learning?
 Begin by working directly with your school district to understand their remote learning capabilities. If your school district has limited digital resources, [homeschool tutoring](https://startlearning.wyzant.com/homeschool_learning/) is a strong option for supplementing 1:1 direct instruction that is not limited by access to resources through your district. 
 
 ## Remote Learning Pods
-What they are: Small groups participating in remote learning together
+**What they are:** Small groups participating in remote learning together
 
 Learning Pods (aka micro-pods, pandemic pods, and group homeschooling) are a new concept developed by enterprising families looking to provide a structured and more social classroom-like experience for their children, while learning via virtual instruction from traditional educators.
 
 Supervision, technical support, and peer socialization are features intended to complement the “homeschool pod” approach, and it has the potential to synergize with schools when they have a structured virtual schedule. Instruction can be augmented with the help of a tutor, who can work with small groups. Conversely, though, these small groups require heavy coordination between the host families and their school to balance the planned (somewhat changeable) agenda with additional tutoring and enrichment activities. 
 
-Main Educator: Tutors, teachers
-Approximate Number of Students: ~10
-Flexibility: < Grade: B- >
-Cost: Online tutors average $45-$55 per hour
+* **Main Educator:** Tutors, teachers
+* **Approximate Number of Students:** ~10
+* **Flexibility:** < Grade: B- >
+* **Cost:** Online tutors average $45-$55 per hour
 
 ### What do you need to do to get started with learning pods?
 Families in school districts across the country have begun creating their own remote learning pods. These groups can be found self-organizing on Facebook and directly in coordination with some school’s parent group clubs.
@@ -96,30 +97,29 @@ Families in school districts across the country have begun creating their own re
 If you’re looking for a pod in your community, check with your school district to confirm remote learning is provided, and work with them to coordinate schedules and begin parent recruitment. 
 
 ## Microschool 
-What it is: Just like “old” school, but smaller
+**What it is:** Just like “old” school, but smaller
 
 For families who want to  replicate an in-class experience, but leave the teaching to the trained educators, microschools are an option. These mini-classrooms are intended to be more formal, and accommodate slightly larger groups than pod learning, with curriculum being delivered by an in-person educator.
 
 The concept has existed for years similar to traditional schools, microschools may see some changes in operational requirements to abide by their respective state’s rules. 
 
-Main Educator: Teachers
-Approximate Number of Students: ~10
-Flexibility: < B: > 
-Cost: $2,000 - $5,000 per year
+* **Main Educator:** Teachers
+* **Approximate Number of Students:** ~10
+* **Flexibility:** < B: > 
+* **Cost:** $2,000 - $5,000 per year
 
 ### What do you need to do to get started with microschooling?
 Microschool programs can be [more complicated to organize](https://www.microschoolrevolution.com/founder-article/establishing-your-microschool/) than other methods, as you would need to build it from the ground up, with states sometimes requiring a license. Families can, however, find already established microschools through searches and parent groups on Facebook. 
 
-
 ## Hybrid, or Blended Learning Approach
-What it is: A mix of in-school and any of the above methods
+**What it is:** A mix of in-school and any of the above methods
 
 Blended learning approaches might be the reality for many families as schools plan for partial reopenings. If parents are working or otherwise unable to facilitate at-home days with their kids, they can consider any pairing of the homeschooling options presented above to plan the majority of their child’s week. In the case of blended learning, it’s all about using what works specifically for your family’s unique needs and goals.
 
-Main Educator: Varied
-Approximate Number of Students: 1- 10
-Flexibility: < Grade: A > 
-Cost: Varied
+**Main Educator:** Varied
+**Approximate Number of Students:** 1- 10
+**Flexibility:** < Grade: A > 
+**Cost:** Varied
 
 ### What do I need to do to get started?
 
