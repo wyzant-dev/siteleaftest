@@ -32,9 +32,9 @@ So while the benefits of homeschooling are clear, it’s important to recognize 
 
 ## 7 Homeschool Approaches and Their Differences
 
-Parents’ work (and for many, work-from-home) schedules, lack of ability to teach complex subjects, and the struggle to keep kids motivated are just a few of the major challenges parents say they are facing this school year. Homeschooling will provide parents with some options to satisfy their unique needs.
+Parents’ work (and for many, work-from-home) schedules, lack of ability to teach complex subjects, and the struggle to keep kids motivated are just a few of the [major challenges parents say they are facing](https://www.cnbc.com/2020/07/16/parents-say-school-reopening-plans-leave-them-without-any-good-options.html) this school year. Homeschooling will provide parents with some options to satisfy their unique needs.
 
-Homeschooling in general is not specific to any one style of education. That’s what makes deciding the right approach for your family challenging. Formerly known mostly by its dictionary definition - “to teach (one's children) at home instead of sending them to school” - the evolution of technology and sheer necessity have produced new, more powerful tools for families to educate their students. 
+Homeschooling in general is not specific to any one style of education. That’s what makes deciding the right approach for your family challenging. Formerly known mostly by its dictionary [definition](https://www.dictionary.com/browse/homeschool) - “to teach (one's children) at home instead of sending them to school” - the evolution of technology and sheer necessity have produced new, more powerful tools for families to educate their students. 
 
 That means homeschooling in 2020 is a deeply flexible option for most families, and now more than ever, it’s possible to tailor the at-home learning experience to meet any education challenge.
 
@@ -44,7 +44,7 @@ Different homeschooling methods work for different families. Deciding what’s r
 
 What it is: the process of educating children at home rather than sending them to a traditional school.
 
-In most homeschooling situations, parents are the ones doing the teaching. Traditionally, curriculum looks a little different than the school’s and involves teaching based on the three stages of learning: the Grammar stage, the Logic stage, and the Rhetoric stage. Given the current circumstances, we can include the parent’s delivery of a school district's curriculum into this category. 
+In most homeschooling situations, parents are the ones doing the teaching. Traditionally, curriculum looks a little different than the school’s and involves teaching based on the [three stages of learning](https://www.thehomeschoolmom.com/homeschooling-styles/classical-homeschooling/): the Grammar stage, the Logic stage, and the Rhetoric stage. Given the current circumstances, we can include the parent’s delivery of a school district's curriculum into this category. 
 
 The biggest difference between homeschooling and other methods of online learning is that homeschooling typically relies on the use of traditional tools like textbooks and offline learning and testing methods, while online learning utilizes different digital tools like live video chats, prerecorded video content, digital whiteboards and exercises. 
 
@@ -55,7 +55,7 @@ Approximate Number of Students: 1
 Flexibility: < Grade: B- >Cost: $200-$500 per year in curricula and supplies
 
 ### What do you need to do to get started with traditional homeschooling? 
-Understanding your state’s specific laws on homeschooling is priority one. After you understand the guidelines you’re working with, you can source different lesson plans online that will help you design a curriculum appropriate to your child’s grade. Wyzant has additional resources like Ask An Expert and topic specific videos to help dive deeper into more complex subjects. 
+Understanding [your state’s specific laws on homeschooling](https://hslda.org/legal) is priority one. After you understand the guidelines you’re working with, you can source different lesson plans online that will help you design a curriculum appropriate to your child’s grade. Wyzant has additional resources like [Ask An Expert](https://www.wyzant.com/resources/answers) and [subject-specific videos](https://www.youtube.com/user/WyzAnt/videos) to help dive deeper into more complex subjects. 
 
 ## Distance Learning, E-learning, & Hired Homeschooling
 What they are: Education variations that utilize a school’s existing program from home
