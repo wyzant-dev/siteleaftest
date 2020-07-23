@@ -17,7 +17,7 @@ It’s no secret: families and students now have to imagine a new way of learnin
 
 Without knowing exactly what to expect from the upcoming school year, families across the country are proving their creativity by stepping up and seeking out alternative and hybrid schooling options for their at-home students. 
 
-The lesson so far? There are no shortage of options, and parents are creating their own education teams and playbooks. As parents, how do you know which style of homeschooling is right for your child? How do you determine which options are the most effective, affordable, and flexible for your family? 
+The lesson so far? There is no shortage of options, and parents are creating their own education teams and playbooks. As parents, how do you know which style of homeschooling is right for your child? How do you determine which options are the most effective, affordable, and flexible for your family? 
 
 ![Homeschool 1.jpg](/blog/uploads/Homeschool%201.jpg)
 
@@ -82,7 +82,7 @@ Hired homeschooling for online lessons provides a similar interaction to distanc
 ### What do you need to do to get started with hired homeschooling and distance/e-learning?
 Begin by working directly with your school district to understand their remote learning capabilities. If your school district has limited digital resources, [homeschool tutoring](https://startlearning.wyzant.com/homeschool_learning/) is a strong option for supplementing 1:1 direct instruction that is not limited by access to resources through your district. 
 
-#### The lesson so far? There are no shortage of options, and parents are creating their own education teams and playbooks."
+#### The lesson so far? There is no shortage of options, and parents are creating their own education teams and playbooks."
 
 ## Remote Learning Pods
 **What they are:** Small groups participating in remote learning together
