@@ -55,7 +55,7 @@ While this can be the most affordable option for parents who have the ability to
 
 * **Main educator:** Parent(s)
 * **Approximate Number of Students:** 1
-* **Flexibility:** < Grade: B- >
+* **Flexibility:** B-
 * **Cost:** $200-$500 per year in curricula and supplies
 
 ### What do you need to do to get started with traditional homeschooling? 
@@ -76,7 +76,7 @@ Hired homeschooling for online lessons provides a similar interaction to distanc
 
 * **Main Educator:** Teachers, tutors
 * **Approximate Number of Students:** 1
-* **Flexibility:** < Grade: A > 
+* **Flexibility:** A+ 
 * **Cost:** There should be no cost to participate in a school’s remote learning program. Online tutors average $45-$55 per hour. 
 
 ### What do you need to do to get started with hired homeschooling and distance/e-learning?
@@ -91,7 +91,7 @@ Supervision, technical support, and peer socialization are features intended to 
 
 * **Main Educator:** Tutors, teachers
 * **Approximate Number of Students:** ~10
-* **Flexibility:** < Grade: B- >
+* **Flexibility:** B+
 * **Cost:** Online tutors average $45-$55 per hour
 
 ### What do you need to do to get started with learning pods?
@@ -108,7 +108,7 @@ The concept has existed for years similar to traditional schools, microschools m
 
 * **Main Educator:** Teachers
 * **Approximate Number of Students:** ~10
-* **Flexibility:** < B: > 
+* **Flexibility:** B- 
 * **Cost:** $2,000 - $5,000 per year
 
 ### What do you need to do to get started with microschooling?
@@ -121,7 +121,7 @@ Blended learning approaches might be the reality for many families as schools pl
 
 **Main Educator:** Varied
 **Approximate Number of Students:** 1- 10
-**Flexibility:** < Grade: A > 
+**Flexibility:** A- 
 **Cost:** Varied
 
 ### What do I need to do to get started?
