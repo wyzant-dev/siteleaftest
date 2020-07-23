@@ -82,6 +82,8 @@ Hired homeschooling for online lessons provides a similar interaction to distanc
 ### What do you need to do to get started with hired homeschooling and distance/e-learning?
 Begin by working directly with your school district to understand their remote learning capabilities. If your school district has limited digital resources, [homeschool tutoring](https://startlearning.wyzant.com/homeschool_learning/) is a strong option for supplementing 1:1 direct instruction that is not limited by access to resources through your district. 
 
+#### The lesson so far? There are no shortage of options, and parents are creating their own education teams and playbooks."
+
 ## Remote Learning Pods
 **What they are:** Small groups participating in remote learning together
 
