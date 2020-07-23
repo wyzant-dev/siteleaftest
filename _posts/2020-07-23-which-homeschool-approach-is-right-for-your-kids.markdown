@@ -76,7 +76,7 @@ Flexibility: < Grade: A >
 Cost: There should be no cost to participate in a school’s remote learning program. Online tutors average $45-$55 per hour. 
 
 ### What do you need to do to get started with hired homeschooling and distance/e-learning?
-Begin by working directly with your school district to understand their remote learning capabilities. If your school district has limited digital resources, homeschool tutoring is a strong option for supplementing 1:1 direct instruction that is not limited by access to resources through your district. 
+Begin by working directly with your school district to understand their remote learning capabilities. If your school district has limited digital resources, [homeschool tutoring](https://startlearning.wyzant.com/homeschool_learning/) is a strong option for supplementing 1:1 direct instruction that is not limited by access to resources through your district. 
 
 ## Remote Learning Pods
 What they are: Small groups participating in remote learning together
