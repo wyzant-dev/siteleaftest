@@ -43,8 +43,7 @@ So while the benefits of homeschooling are clear, it’s important to recognize 
 
 Parents’ work (and for many, work-from-home) schedules, lack of ability to teach complex subjects, and the struggle to keep kids motivated are just a few of the [major challenges parents say they are facing](https://www.cnbc.com/2020/07/16/parents-say-school-reopening-plans-leave-them-without-any-good-options.html) this school year. Homeschooling will provide parents with some options to satisfy their unique needs.
 
-![An infographic that reads 7 Homeschool Approaches, Classic Homeschooling, Distance learning, Microschool, Remote Learning Pods, Hybrid-Blended learning, Hired homeschooling,and eLearning](/blog/uploads/7%20Homeschool%20Approaches.png)
-
+![An infographic listing seven types of homeschool methods](/blog/uploads/7%20Homeschool%20Approaches-3b7005.png)
 Homeschooling in general is not specific to any one style of education. That’s what makes deciding the right approach for your family challenging. Formerly known mostly by its dictionary [definition](https://www.dictionary.com/browse/homeschool) - “to teach (one's children) at home instead of sending them to school” - the evolution of technology and sheer necessity have produced new, more powerful tools for families to educate their students. 
 
 That means homeschooling in 2020 is a deeply flexible option for most families, and now more than ever, it’s possible to tailor the at-home learning experience to meet any education challenge.
