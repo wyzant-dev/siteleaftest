@@ -52,7 +52,7 @@ Different homeschooling methods work for different families. Deciding what’s r
 
 ## Classic or “Traditional” Homeschooling
 
-**What it is:** the process of educating children at home rather than sending them to a traditional school.
+**What it is:** the process of educating children at home rather than sending them to a traditional school
 
 In most homeschooling situations, parents are the ones doing the teaching. Traditionally, curriculum looks a little different than the school’s and involves teaching based on the [three stages of learning](https://www.thehomeschoolmom.com/homeschooling-styles/classical-homeschooling/): the Grammar stage, the Logic stage, and the Rhetoric stage. Given the current circumstances, we can include the parent’s delivery of a school district's curriculum into this category. 
 
@@ -73,11 +73,11 @@ Understanding [your state’s specific laws on homeschooling](https://hslda.org/
 
 In a pre-pandemic world, each of these three variations on homeschooling looked a little different, and more voluntary. Today, the lines between distance learning and e-learning are blurred. Since students are unable to interact directly with their teachers in-person, more digital resources have been introduced. 
 
-Distance learning involves remote learning through digital tools as part of an institution's regularly scheduled programming. 
+**Distance learning** involves remote learning through digital tools as part of an institution's regularly scheduled programming. 
 
-E-learning refers to the interaction that occurs between a teacher and a student using digital technologies. Using this method, students learn their class material through an online medium, even if the teacher is in the same building. This structure helps to simulate work-based learning situations, and provides flexibility for busy students.
+**E-learning** refers to the interaction that occurs between a teacher and a student using digital technologies. Using this method, students learn their class material through an online medium, even if the teacher is in the same building. This structure helps to simulate work-based learning situations, and provides flexibility for busy students.
 
-Hired homeschooling refers to the hiring of teachers, tutors, or other educators in addition to institutional learning (usually following traditional classroom curricula) for supplemental support. 
+**Hired homeschooling** refers to the hiring of teachers, tutors, or other educators in addition to institutional learning (usually following traditional classroom curricula) for supplemental support. 
 
 Hired homeschooling for online lessons provides a similar interaction to distance and E-learning, involving technologies such as digital video services, whiteboards, and video content. The main difference is in parents’ ability to choose their educators.
 
@@ -128,10 +128,10 @@ Microschool programs can be [more complicated to organize](https://www.microscho
 
 Blended learning approaches might be the reality for many families as schools plan for partial reopenings. If parents are working or otherwise unable to facilitate at-home days with their kids, they can consider any pairing of the homeschooling options presented above to plan the majority of their child’s week. In the case of blended learning, it’s all about using what works specifically for your family’s unique needs and goals.
 
-**Main Educator:** Varied
-**Approximate Number of Students:** 1- 10
-**Flexibility:** A- 
-**Cost:** Varied
+* **Main Educator:** Varied
+* **Approximate Number of Students:** 1- 10
+* **Flexibility:** A- 
+* **Cost:** Varied
 
 ### What do I need to do to get started?
 
