@@ -30,7 +30,7 @@ On July 28, 2020, we'll launch a free subject-matter video series called ["Get R
 The videos are led by Wyzant’s best-rated elementary school tutors and feature a live chat element as well where tutors will answer chats and additional questions in real time. The videos are available on demand for your convenience. You can sign up here. While this first series focuses on elementary students, we’ll have more coming for our high schoolers in early August. 
 
 ## Homeschooling
-Many parents are looking for education options that keep their children home this school year. [While only 3% to 4%](https://www.nheri.org/research-facts-on-homeschooling/#:~:text=There%20are%20about%202.5%20million,over%20the%20past%20few%20years).) of K-12 school-aged children are homeschooled in the United States, we expect this number to skyrocket.
+Many parents are looking for education options that keep their children home this school year. [While only 3% to 4%](https://www.nheri.org/research-facts-on-homeschooling/#:~:text=There%20are%20about%202.5%20million,over%20the%20past%20few%20years) of K-12 school-aged children are homeschooled in the United States, we expect this number to skyrocket.
 
 On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the last month compared to last year. When deciding how to homeschool, there are many different [options and approaches](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) which we have outlined that work for different families.
 
