@@ -138,7 +138,7 @@ There is truly no correct or perfect way to approach homeschooling this year. Wi
 
 Have an idea we haven’t explored? We’d love to hear from you. Feel free to share this with your networks to learn more about how your neighbors are thinking about homeschooling this year. 
 
-![Homeschool 2.jpg](/blog/uploads/Homeschool%202.jpg)
+![An illustration of a mom with four children reading a storybook](/blog/uploads/Homeschool%202.jpg)
 
 ### About Wyzant
 Wyzant takes the guesswork out of finding a qualified homeschool tutor you can trust. Since 2005, students and professionals all over the globe have looked to Wyzant for help in more than 275 subjects like math, science, test prep, foreign languages, music, technology, and many more. It’s easy to browse profiles and reviews, message tutors, and book private lessons in-person, or using Wyzant’s powerful online learning platform. At Wyzant, there are no commitments or expensive pre-paid packages
