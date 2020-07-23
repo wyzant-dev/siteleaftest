@@ -19,6 +19,8 @@ Without knowing exactly what to expect from the upcoming school year, families a
 
 The lesson so far? There are no shortage of options, and parents are creating their own education teams and playbooks. As parents, how do you know which style of homeschooling is right for your child? How do you determine which options are the most effective, affordable, and flexible for your family? 
 
+![Homeschool 1.jpg](/blog/uploads/Homeschool%201.jpg)
+
 ## Why Do People Homeschool?
 
 Reasons to homeschool this year in particular seem pretty obvious -- protecting our children, teachers, and community from the spread of COVID-19 is pretty good rationale on its own. But the benefits of homeschooling expand beyond just this moment in time.
@@ -30,8 +32,6 @@ Homeschooling (in its various forms) grants parents a higher degree of control o
 * more attention and creativity toward supporting students (especially those with special learning needs). 
 
 So while the benefits of homeschooling are clear, it’s important to recognize the key challenge: every family has its own unique needs. There is no “one-size-fits-all” solution. 
-
-![Homeschool 1.jpg](/blog/uploads/Homeschool%201.jpg)
 
 ## 7 Homeschool Approaches and Their Differences
 
