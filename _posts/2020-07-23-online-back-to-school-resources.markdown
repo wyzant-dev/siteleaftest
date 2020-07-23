@@ -6,6 +6,8 @@ categories:
 - Homeschool
 tags:
 - Homeschool
+sub-headline: 'As they look ahead to the fall, parents are striving to ensure their
+  children receive an education - no matter what the learning looks like. '
 hero-image: "/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School.png"
 meta-description: 'Here are three resources Wyzant offers to students and families
   to prepare for back to school and to combat learning loss and help you set your
@@ -17,7 +19,7 @@ post-description: 'Here are three resources Wyzant offers to students and famili
 
 The abrupt move to remote classrooms in the spring left a lot of parents and students with a feeling of incompleteness. Although teachers strove to make the best of a very difficult situation, according to a recent survey we conducted, more than **60%** of parents said they believed their children will not receive a full education from in-person school this year, and **40%** said they believe their children will suffer from learning loss this fall as a result of their disrupted school year. 
 
-Because the later portions of the last school year were less rigid, many students are using this summer to continue learning and explore new interests. However, as we look ahead to the fall, parents are scrambling to make sure their children still receive an education - no matter what the learning looks like. 
+Because the later portions of the last school year were less rigid, many students are using this summer to continue learning and explore new interests. However, as they look ahead to the fall, parents are scrambling to make sure their children still receive an education - no matter what the learning looks like. 
 
 Here are three resources Wyzant offers to students and families to prepare for back to school and to combat learning loss and help you set your students up for success throughout this academic year and beyond. 
 
@@ -41,4 +43,4 @@ For example: computer programming tutoring is up **more than 400%** from this ti
 
 ## We're here to help 
 
-While we don’t know what the fall or academic year will look like for students and families, we know it will need to be fluid. At Wyzant, we believe in the power of learning that is accessible and affordable for everyone, and we hope these resources help your family and young learners gear up for success this fall. 
+While we don’t know what the fall or academic year will look like for students and families, we know it will need to be flexible. At Wyzant, we believe in the power of learning that is accessible and affordable for everyone, and we hope these resources help your family and young learners gear up for success this fall. 
