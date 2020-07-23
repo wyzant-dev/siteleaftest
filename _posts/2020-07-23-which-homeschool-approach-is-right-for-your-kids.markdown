@@ -6,7 +6,6 @@ categories:
 - Homeschool
 tags:
 - Homeschool
-- nursing
 sub-headline: 'Without knowing exactly what to expect from the upcoming school year,
   families are seeking out alternative and hybrid schooling options for their at-home
   students. '
