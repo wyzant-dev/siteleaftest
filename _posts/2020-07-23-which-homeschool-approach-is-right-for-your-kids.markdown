@@ -108,7 +108,7 @@ Flexibility: < B: >
 Cost: $2,000 - $5,000 per year
 
 ### What do you need to do to get started with microschooling?
-Microschool programs can be more complicated to organize than other methods, as you would need to build it from the ground up, with states sometimes requiring a license. Families can, however, find already established microschools through searches and parent groups on Facebook. 
+Microschool programs can be [more complicated to organize](https://www.microschoolrevolution.com/founder-article/establishing-your-microschool/) than other methods, as you would need to build it from the ground up, with states sometimes requiring a license. Families can, however, find already established microschools through searches and parent groups on Facebook. 
 
 
 ## Hybrid, or Blended Learning Approach
@@ -125,7 +125,7 @@ Cost: Varied
 
 Work with your school district to get your child’s schedule, and coordinate with your respective education team. These could be pod-parents, tutors, teachers, or other members of your community - anyone you trust to help establish a schedule and goals for at-home days that aligns with your student’s long term needs.
 
-You can search for contact information for US public schools using The National Center for Education Statistics Public School search.  
+You can search for contact information for US public schools using The National Center for Education Statistics [Public School Search](https://nces.ed.gov/ccd/schoolsearch/).  
 
 ## What kind of homeschooling works for your family?
 There is truly no correct or perfect way to approach homeschooling this year. With the challenges that remain ahead, the best approach is to do what makes sense for your family and your child’s education (and well-being). 
