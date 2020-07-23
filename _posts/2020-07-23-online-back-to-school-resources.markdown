@@ -7,6 +7,12 @@ categories:
 tags:
 - Homeschool
 hero-image: "/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School.png"
+meta-description: 'Here are three resources Wyzant offers to students and families
+  to prepare for back to school and to combat learning loss and help you set your
+  students up for success throughout this academic year and beyond. '
+post-description: 'Here are three resources Wyzant offers to students and families
+  to prepare for back to school and to combat learning loss and help you set your
+  students up for success throughout this academic year and beyond. '
 ---
 
 The abrupt move to remote classrooms in the spring left a lot of parents and students with a feeling of incompleteness. Although teachers strove to make the best of a very difficult situation, according to a recent survey we conducted, more than **60%** of parents said they believed their children will not receive a full education from in-person school this year, and **40%** said they believe their children will suffer from learning loss this fall as a result of their disrupted school year. 
@@ -26,11 +32,13 @@ Many parents are looking for education options that keep their children home thi
 
 On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the last month compared to last year. When deciding how to homeschool, there are many different [options and approaches](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) which we have outlined that work for different families.
 
-From traditional homeschooling to remote learning pods - which are a rising trend this year - to distance and e-learning, homeschooling gives back an element of control for families in choosing the right curriculum and style that works best for their children. 
+From traditional homeschooling to remote learning pods (a rising trend this year) to distance and eLearning, homeschooling gives back an element of control for families in choosing the right curriculum and style that works best for their children. 
 
 ## Online tutoring
 Our bread and butter is offering personalized, one-on-one private tutoring that matches students with the tutors of their choice across hundreds of subject areas. With a disruption to summer camps and activities, we've seen a large spike in utilizing online tutors to learn something new, upskill, or take on hobbies.
 
-For example: computer programming tutoring is up **more than 400%** from this time last year. Art and music are up 375%. As we enter the school year, we expect more students will need supplemental learning help across subject areas, and [expert tutors](https://www.wyzant.com/match/lessonType?flow=search&startOver=true) are ready to assist. 
+For example: computer programming tutoring is up **more than 400%** from this time last year. Art and music are up 375%. As we enter the school year, we expect more students will need supplemental learning help across subject areas, and [expert tutors](https://www.wyzant.com/match/lessonType?flow=search&startOver=true) are ready to assist.
+
+## We're here to help 
 
 While we don’t know what the fall or academic year will look like for students and families, we know it will need to be fluid. At Wyzant, we believe in the power of learning that is accessible and affordable for everyone, and we hope these resources help your family and young learners gear up for success this fall. 
