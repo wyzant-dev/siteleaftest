@@ -5,6 +5,7 @@ categories:
 - Homeschool
 tags:
 - Homeschool
+author: Cora Majewski
 sub-headline: 'Without knowing exactly what to expect from the upcoming school year,
   families are seeking out alternative and hybrid schooling options for their at-home
   students. '
