@@ -9,11 +9,11 @@ sub-headline: 'As they look ahead to the fall, parents are striving to ensure th
   children receive an education - no matter what the learning looks like. '
 hero-image: "/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School.png"
 meta-description: 'Here are three resources Wyzant offers to students and families
-  to prepare for back to school and to combat learning loss and help you set your
-  students up for success throughout this academic year and beyond. '
+  to prepare for back to school, combat learning loss, and help you set your students
+  up for success throughout this academic year and beyond. '
 post-description: 'Here are three resources Wyzant offers to students and families
-  to prepare for back to school and to combat learning loss and help you set your
-  students up for success throughout this academic year and beyond. '
+  to prepare for back to school, combat learning loss, and help you set your students
+  up for success throughout this academic year and beyond. '
 ---
 
 The abrupt move to remote classrooms in the spring left a lot of parents and students with a feeling of incompleteness. Although teachers strove to make the best of a very difficult situation, according to a recent survey we conducted, more than **60%** of parents said they believed their children will not receive a full education from in-person school this year, and **40%** said they believe their children will suffer from learning loss this fall as a result of their disrupted school year. 
