@@ -6,6 +6,7 @@ categories:
 - Homeschool
 tags:
 - Homeschool
+hero-image: "/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School.png"
 ---
 
 The abrupt move to remote classrooms in the spring left a lot of parents and students with an incomplete feeling. Although teachers scrambled to make the best of a difficult situation, according to a recent survey we conducted, more than 60% of parents said they believed their children will not receive a full education from in-person school this year and 40% said they believe their children will suffer from learning loss this fall as a result of a disrupted end of school year. 
