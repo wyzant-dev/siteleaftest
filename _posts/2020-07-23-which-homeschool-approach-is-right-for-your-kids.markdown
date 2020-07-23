@@ -18,7 +18,7 @@ Without knowing exactly what to expect from the upcoming school year, families a
 
 The lesson so far? There is no shortage of options, and parents are creating their own education teams and playbooks. As parents, how do you know which style of homeschooling is right for your child? How do you determine which options are the most effective, affordable, and flexible for your family? 
 
-![Homeschool 1.jpg](/blog/uploads/Homeschool%201.jpg)
+![An illustration of a family in their living room learning from a laptop computer](/blog/uploads/Homeschool%201.jpg)
 
 ## Why Do People Homeschool?
 
@@ -36,7 +36,7 @@ So while the benefits of homeschooling are clear, it’s important to recognize 
 
 Parents’ work (and for many, work-from-home) schedules, lack of ability to teach complex subjects, and the struggle to keep kids motivated are just a few of the [major challenges parents say they are facing](https://www.cnbc.com/2020/07/16/parents-say-school-reopening-plans-leave-them-without-any-good-options.html) this school year. Homeschooling will provide parents with some options to satisfy their unique needs.
 
-![7 Homeschool Approaches.png](/blog/uploads/7%20Homeschool%20Approaches.png)
+![An infographic that reads 7 Homeschool Approaches, Classic Homeschooling, Distance learning, Microschool, Remote Learning Pods, Hybrid-Blended learning, Hired homeschooling,and eLearning](/blog/uploads/7%20Homeschool%20Approaches.png)
 
 Homeschooling in general is not specific to any one style of education. That’s what makes deciding the right approach for your family challenging. Formerly known mostly by its dictionary [definition](https://www.dictionary.com/browse/homeschool) - “to teach (one's children) at home instead of sending them to school” - the evolution of technology and sheer necessity have produced new, more powerful tools for families to educate their students. 
 
