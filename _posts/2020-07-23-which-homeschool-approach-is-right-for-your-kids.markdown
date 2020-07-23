@@ -10,6 +10,7 @@ tags:
 sub-headline: 'Without knowing exactly what to expect from the upcoming school year,
   families are seeking out alternative and hybrid schooling options for their at-home
   students. '
+hero-image: "/blog/uploads/Lets%20Debunk%20Homeschooling%20Myths.png"
 ---
 
 It’s no secret: families and students now have to imagine a new way of learning. In 2016, only around 3.3 percent of kids in the US [were homeschooled](https://nces.ed.gov/programs/digest/d18/tables/dt18_206.10.asp). That number is [quickly changing](https://www.washingtonpost.com/lifestyle/2020/06/15/pandemic-may-drive-some-parents-opt-home-schooling-this-fall-if-they-can-afford-it/). For many parents, a short-term measure in Spring taken to ensure their kids’ safety may become more long-term than they expected...or prepared for.
