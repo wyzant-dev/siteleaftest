@@ -9,12 +9,11 @@ tags:
 hero-image: "/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School.png"
 ---
 
-The abrupt move to remote classrooms in the spring left a lot of parents and students with an incomplete feeling. Although teachers scrambled to make the best of a difficult situation, according to a recent survey we conducted, more than 60% of parents said they believed their children will not receive a full education from in-person school this year and 40% said they believe their children will suffer from learning loss this fall as a result of a disrupted end of school year. 
+The abrupt move to remote classrooms in the spring left a lot of parents and students with a feeling of incompleteness. Although teachers strove to make the best of a very difficult situation, according to a recent survey we conducted, more than **60%** of parents said they believed their children will not receive a full education from in-person school this year, and **40%** said they believe their children will suffer from learning loss this fall as a result of their disrupted school year. 
 
-Because last school year was so fluid, many students are using this summer to continue their learning and explore new interests. However, as we look ahead to the fall, parents are scrambling to make sure their children still receive an education - no matter what the learning looks like. 
+Because the later portions of the last school year were less rigid, many students are using this summer to continue learning and explore new interests. However, as we look ahead to the fall, parents are scrambling to make sure their children still receive an education - no matter what the learning looks like. 
 
-Here are three resources Wyzant is offering to students and families to prepare for back to school and to combat learning loss to help set students up for success throughout the academic year and beyond. 
-
+Here are three resources Wyzant offers to students and families to prepare for back to school and to combat learning loss and help you set your students up for success throughout this academic year and beyond. 
 
 ## “Get Ready For 4th, 5th, and 6th Grades!” Video Series
 
