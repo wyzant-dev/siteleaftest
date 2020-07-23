@@ -25,9 +25,9 @@ The videos are led by Wyzant’s best-rated elementary school tutors and feature
 ## Homeschooling
 Many parents are looking for education options that keep their children home this school year. [While only 3% to 4%](https://www.nheri.org/research-facts-on-homeschooling/#:~:text=There%20are%20about%202.5%20million,over%20the%20past%20few%20years).) of K-12 school-aged children are homeschooled in the United States, we expect this number to skyrocket.
 
-On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the last month compared to last year. When deciding how to homeschool, there are many different options and approaches which we have outlined that work for different families.
+On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the last month compared to last year. When deciding how to homeschool, there are many different [options and approaches](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) which we have outlined that work for different families.
 
-From traditional homeschooling to remote learning pods - which we are seeing a big rise in this year - to distance and e-learning, homeschooling gives back an element of control for families in choosing the right curriculum and style that works best for their children. 
+From traditional homeschooling to remote learning pods - which are a rising trend this year - to distance and e-learning, homeschooling gives back an element of control for families in choosing the right curriculum and style that works best for their children. 
 
 ## Online tutoring
 Our bread and butter is offering personalized, one-on-one private tutoring that matches students with the tutors of their choice across hundreds of subject areas. With a disruption to summer camps and activities, we've seen a large spike in utilizing online tutors to learn something new, upskill, or take on hobbies.
