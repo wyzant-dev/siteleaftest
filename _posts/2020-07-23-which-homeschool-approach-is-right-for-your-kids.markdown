@@ -1,7 +1,6 @@
 ---
 title: Which Homeschool Approach is Right for Your Kids?
 date: 2020-07-23 11:32:00 -05:00
-published: false
 categories:
 - Homeschool
 tags:
@@ -10,6 +9,14 @@ sub-headline: 'Without knowing exactly what to expect from the upcoming school y
   families are seeking out alternative and hybrid schooling options for their at-home
   students. '
 hero-image: "/blog/uploads/Lets%20Debunk%20Homeschooling%20Myths.png"
+meta-description: 'There is no shortage of homeschool options, and families are creating
+  their own education teams and playbooks. As parents, how do you know which style
+  of homeschooling is right for your kids? How do you determine which options are
+  the most effective, affordable, and flexible for your family? '
+post-description: 'There is no shortage of homeschool options, and families are creating
+  their own education teams and playbooks. As parents, how do you know which style
+  of homeschooling is right for your kids? How do you determine which options are
+  the most effective, affordable, and flexible for your family? '
 ---
 
 It’s no secret: families and students now have to imagine a new way of learning. In 2016, only around 3.3 percent of kids in the US [were homeschooled](https://nces.ed.gov/programs/digest/d18/tables/dt18_206.10.asp). That number is [quickly changing](https://www.washingtonpost.com/lifestyle/2020/06/15/pandemic-may-drive-some-parents-opt-home-schooling-this-fall-if-they-can-afford-it/). For many parents, a short-term measure in Spring taken to ensure their kids’ safety may become more long-term than they expected...or prepared for.
