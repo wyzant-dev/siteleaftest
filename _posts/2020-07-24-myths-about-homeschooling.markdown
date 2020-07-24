@@ -56,9 +56,9 @@ While it’s certainly true that many parents are not trained, licensed educator
 
 And in most cases, a license or formal training isn't even necessary. 
 
-Most states require that homeschooling parents have high school diplomas or GEDs. If you’re thinking about homeschooling, but aren’t convinced you’ve got the qualifications, here are 6 things most homeschooling parents need to do:
-
 ### 6 Things To Do If You're Planning to Homeschool
+
+Most states require that homeschooling parents have high school diplomas or GEDs. If you’re thinking about homeschooling, but aren’t convinced you’ve got the qualifications, here are 6 things most homeschooling parents will need to do:
 
 1. Check homeschooling requirements and current laws for your state
 2. Review the parental qualifications to homeschool for your area or district
