@@ -89,7 +89,7 @@ In a number of homeschool households, tutors supplement parental teaching in a n
 * Schedule planning, and structure for education
 
 
-## 
+## The Truth About Homeschooling
 Over the last few decades, homeschooling in the US has changed dramatically. From a small movement composed of mostly “unschoolers” to a present population of close to 1.69 million students. Even despite this evolution, Americans still subscribe to some common misconceptions about homeschool and the families who choose it. 
 
 If there's one thing to take away from a discussion of homeschool myths, it's that homeschooling is flexible, adaptable, and much less mysterious than some might have previously assumed.
