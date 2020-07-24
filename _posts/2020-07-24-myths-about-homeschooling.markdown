@@ -2,6 +2,7 @@
 title: Let's Debunk 7 Common Myths about Homeschooling
 date: 2020-07-24 10:57:00 -05:00
 published: false
+hero-image: "/blog/uploads/Lets%20Debunk%20Homeschooling%20Myths-04f4b8.png"
 ---
 
 According to a [Real Clear Opinion Poll](https://www.federationforchildren.org/national-poll-40-of-families-more-likely-to-homeschool-after-lockdowns-end/), 15% of the 2,122 families surveyed said they plan to homeschool their children in the fall of 2020. The trend continues to grow. 
