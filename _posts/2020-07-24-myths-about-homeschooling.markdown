@@ -4,7 +4,9 @@ date: 2020-07-24 10:57:00 -05:00
 published: false
 ---
 
-Homeschool. The word on everyone’s mind these days. When it comes to kids learning at home in the fall, it’s reasonable to feel confused about what things are true about homeschooling, and what things are little more than rumor.
+According to a [Real Clear Opinion Poll](https://www.federationforchildren.org/national-poll-40-of-families-more-likely-to-homeschool-after-lockdowns-end/), 15% of the 2,122 families surveyed said they plan to homeschool their children in the fall of 2020. The trend continues to grow. 
+
+When it comes to kids learning at home in the fall, it’s reasonable to feel confused about what things are true about homeschooling, and what things are little more than rumor.
 
 As the number of homeschooled students in the US continues to climb, we’re collectively learning things that challenge the most common misunderstandings about at-home education. Homeschool, for many, is a flexible and responsive approach to educating their kids. The assumptions we may have heard - like “homeschoolers don’t learn the same things,” and “only parents can teach in a homeschool environment,” - just aren't true.
 
@@ -81,7 +83,15 @@ So how do the parents who work full-time and homeschool do it? Self-discipline, 
 
 In a number of homeschool households, tutors supplement parental teaching in a number of ways:
 
-Subject expertise
-Social interaction
-Objective instruction
-Schedule and structure
+* Subject expertise
+* Social interaction outside the family
+* Objective instruction kids are used to
+* Schedule planning, and structure for education
+
+
+## 
+Over the last few decades, homeschooling in the US has changed dramatically. From a small movement composed of mostly “unschoolers” to a present population of close to 1.69 million students. Even despite this evolution, Americans still subscribe to some common misconceptions about homeschool and the families who choose it. 
+
+If there's one thing to take away from a discussion of homeschool myths, it's that homeschooling is flexible, adaptable, and much less mysterious than some might have previously assumed.
+
+Every approach to teaching at home offers its own opportunities for kids to continue learning, as well as nurture their own strengths and interests. Homeschooling, in the end, isn't much different than public school. As parents, the well-being and development of your students is paramount. Homeschooling has the chance to create a whole new world of learning opportunities, but like most big endeavors, comes with added responsibility and the need for cooperation. That's why it's important to take into account the truth about homeschooling.
