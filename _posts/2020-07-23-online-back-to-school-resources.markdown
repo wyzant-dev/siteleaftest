@@ -18,7 +18,7 @@ post-description: 'Here are three resources Wyzant offers to students and famili
 
 The abrupt move to remote classrooms in the spring left a lot of parents and students with a feeling that education had taken a backset. Although teachers strove to make the best of a very difficult situation, according to a recent survey we conducted, more than **60%** of parents said they believed their children will not receive a full education from in-person school this year, and **40%** said they believe their children will suffer from learning loss this fall as a result of their disrupted school year. 
 
-Because the later portions of the last school year were less rigid, many students are using this summer to continue learning and explore new interests. However, as they look ahead to the fall, parents are scrambling to make sure their children still receive an education - no matter what the learning looks like. 
+Because the later portions of the last school year were less rigid, many students are using this summer to continue learning and explore new interests. However, as parents look ahead to the fall, they're scrambling to make sure their children still receive an education - no matter what the learning looks like. 
 
 We've known for years that the best way to learn is through one-on-one, personalized lessons. When it comes to homeschool this fall - either supplementing an existing curriculum or designing a unique education plan for your family's own needs - it's clear that many families are still searching for the right support. Here are three resources Wyzant offers to students and families to prepare for back to school and to combat learning loss and help you set your students up for success throughout this academic year and beyond. 
 
