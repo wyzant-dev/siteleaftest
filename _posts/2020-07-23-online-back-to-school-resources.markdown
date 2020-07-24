@@ -26,6 +26,8 @@ We've known for years that the best way to learn is through one-on-one, personal
 
 Starting July 28, 2020, we'll launch a **free** subject-matter video series called ["Get Ready For"](https://www.wyzant.com/blog/get-ready-for/) designed for 4th, 5th and 6th graders to ramp up fundamentals in Language Arts, Math and Science topics that they might have missed in the spring (when schools were closing and families were adjusting to remote learning).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DVMzMcLND8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The videos were created by some of the top-rated elementary tutors on Wyzant, and will premiere on YouTube with a live chat, so students and parents can interact with the tutor from the video lesson in real-time. 
 
 After their premiere, each video will be available on-demand at [Wyzant's YouTube channel](https://www.youtube.com/user/Wyzant) for sharing with other families and viewing anytime. You can [sign up for 4th, 5th, and 6th grade videos in the series here](https://bit.ly/2CJteka). While this first series focuses on elementary students, we’ll have more coming for our high schoolers in early August. 
