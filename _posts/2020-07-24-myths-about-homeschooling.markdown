@@ -24,7 +24,7 @@ When it comes to kids learning at home in the fall, it’s reasonable to feel co
 
 As the number of homeschooled students in the US continues to climb, we’re collectively learning things that challenge the most common misunderstandings about at-home education. Homeschool, for many, is a flexible and responsive approach to educating their kids. The assumptions we may have heard - like “homeschoolers don’t learn the same things,” and “only parents can teach in a homeschool environment,” - don't hold much water upon close inspection.
 
-As it would seem, the root of most of the misconceptions we outline below is something many of us, previous to school closures, probably share: a lack of information about homeschooling.
+As it would seem, the root of most of the misconceptions we outline below is something many of us, previous to school closures, probably shared: a lack of information about homeschooling.
 
 In order to help you [make an informed decision](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/) about what’s best for your own kids, let’s set the record straight by discussing the most common myths about homeschooling.
 
