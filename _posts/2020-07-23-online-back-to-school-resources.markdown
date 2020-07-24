@@ -40,7 +40,7 @@ From traditional homeschooling to remote learning pods (a rising trend this year
 ## Online tutoring
 Wyzant's specialty is helping students connect with tutors who offer personalized, one-on-one private tutoring across hundreds of subject areas. With a disruption to summer camps and activities, we've seen more and more families search for tutoring help on Wyzant to learn something new, upskill, try new hobbies.
 
-For example: computer programming tutoring is up **more than 400%** from this time last year. Art and music are up 375%. As we enter the school year, we expect more students will need supplemental learning help across subject areas, and [expert tutors](https://www.wyzant.com/match/lessonType?flow=search&startOver=true) are ready to assist.
+For example: students are taking more than **four times** the number of computer programming lessons than at this time last year. More than **three times** the number of art and music lessons are taking place on wyzant this summer. As we enter the school year, we expect more students will need supplemental learning help across subject areas, and [expert tutors](https://www.wyzant.com/match/lessonType?flow=search&startOver=true) are ready to assist.
 
 ## We're here to help 
 
