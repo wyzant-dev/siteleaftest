@@ -49,7 +49,7 @@ Each family's reasons for choosing to educate their kids at home, of course, are
 ## MYTH 3 Homeschooling is Homeschooling is Homeschooling...
 **DEBUNKED:** There are hundreds of ways to teach kids at home. Some are structured, with curricula, syllabi, and all the associated material of a public school classroom; many provide concrete approaches with built-in flexibility; others could be described more as guideposts along the path of their kids’ education, wherever it turns.
 
-It’s easy to get lost in the sea of terms - school at home, textbook-oriented, unit studies, classical homeschooling, blended learning, homeschool pods, relaxed homeschooling, virtual school, unit studies, Waldorf, Montessori, Moore Formula, Charlotte Mason, unschooling...the list goes on.
+It’s easy to get lost in the sea of terms - school at home, textbook-oriented, classical homeschooling, blended learning, homeschool pods, relaxed homeschooling, virtual school, unit studies, Waldorf, Montessori, Moore Formula, Charlotte Mason, unschooling...the list goes on.
 
 Just like the families that utilize them, each homeschool method is a little different. Homeschooling families most often classify themselves according to the method or approach they use, and it’s a good idea to check out all the options available to your family if school at-home is a reality this fall.
 
