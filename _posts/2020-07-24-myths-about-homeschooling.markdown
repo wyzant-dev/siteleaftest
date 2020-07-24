@@ -88,7 +88,7 @@ The truth is, of course, that not every homeschool parent stays at home. While e
 
 “Sometimes I feel like my head is going to explode...and then I realize how fortunate I am,” writes long-time homeschooler Joan Concilio of [Unschool Rules](https://unschoolrules.com/homeschooling-for-working-moms/).
 
-The key is managing a flexible schedule, and remaining adaptive. “Their school day and your work day do not have to mirror each other exactly,” says author of How to Work and Homeschool, Pamela Price. 
+The key is managing a flexible schedule, and remaining adaptive. “Their school day and your work day do not have to mirror each other exactly,” says author of **How to Work and Homeschool**, Pamela Price. 
 
 So how do the parents who work full-time and homeschool do it? Self-discipline, patience, gratitude, and a carefully chosen method of homeschooling that fits their family’s needs.
 
