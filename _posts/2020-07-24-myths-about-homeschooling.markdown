@@ -90,7 +90,7 @@ The truth is, of course, that not every homeschool parent stays at home. While e
 
 The key is managing a flexible schedule, and remaining adaptive. “Their school day and your work day do not have to mirror each other exactly,” says author of **How to Work and Homeschool**, Pamela Price. 
 
-So how do the parents who work full-time and homeschool do it? Self-discipline, patience, gratitude, and a carefully chosen method of homeschooling that fits their family’s needs.
+So how do the parents who work full-time and homeschool do it? Self-discipline, patience, cooperation, and a carefully chosen method of homeschooling that fits their family’s needs.
 
 ## MYTH 8: Only Parents Can Teach Homeschooled Students
 **DEBUNKED:** [Approaches to homeschool](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) like distance Learning, eLearning, and hired homeschooling all depend primarily on the instruction and guidance of teachers, tutors, and other qualified educators. 
