@@ -44,4 +44,6 @@ For example: students are taking more than **four times** the number of computer
 
 ## We're here to help 
 
-While we don’t know what the fall or academic year will look like for students and families, we know it will need to be flexible. At Wyzant, we believe in the power of learning that is accessible and affordable for everyone, and we hope these resources help your family and young learners gear up for success this fall. 
+While we don’t know what the fall or academic year will look like for students and families, we know it will need to be flexible. At Wyzant, we believe in the power of learning that is accessible and easy for everyone to find. 
+
+For help finding a qualified educator to help you manage your own version of homeschool, we'll help you [search, message, and meet](https://www.wyzant.com/match/search) the tutor that fits your exact needs. 
