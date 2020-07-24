@@ -23,7 +23,7 @@ post-description: "“Get Ready For” is a brand-new, free video lesson series 
   sessions using our online learning tool."
 ---
 
-“Get Ready For” is a brand-new, **free** video lesson series from Wyzant that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
+“Get Ready For” is a brand-new, **free** video lesson series that empowers soon-to-be 4th, 5th, and 6th grade students to catch up and connect with classroom material before heading back to school.
 
 Designed specifically to engage and educate young learners, each video in the series is self-contained, with tons of visual aids, guided practice, and, of course, expert instruction.
 
