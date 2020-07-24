@@ -35,7 +35,7 @@ After their premiere, each video will be available on-demand at [Wyzant's YouTub
 ## Help Connecting a Homeschool Educator
 Many parents are looking for education options that keep their children home this school year. [While only 3% to 4%](https://www.nheri.org/research-facts-on-homeschooling/#:~:text=There%20are%20about%202.5%20million,over%20the%20past%20few%20years) of K-12 school-aged children are homeschooled in the United States, we expect this number to skyrocket.
 
-![A screenshot of Wyzants search page, with three results for homeschool tutors whose rates are 80 dollars per hour, 30 dollars per hour, and 50 dollars per hour](/blog/uploads/Homeschool%20Tutors%20on%20Wyzant.png)
+[![A screenshot of Wyzants search page, with three results for homeschool tutors whose rates are 80 dollars per hour, 30 dollars per hour, and 50 dollars per hour](/blog/uploads/Homeschool%20Tutors%20on%20Wyzant.png)](https://www.wyzant.com/Homeschool_tutors.aspx)
 
 On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the last month compared to last year. When deciding how to homeschool, there are many different [options and approaches](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) which we have outlined that work for different families.
 
