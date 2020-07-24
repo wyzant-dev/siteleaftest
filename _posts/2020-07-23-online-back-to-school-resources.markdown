@@ -20,7 +20,7 @@ The abrupt move to remote classrooms in the spring left a lot of parents and stu
 
 Because the later portions of the last school year were less rigid, many students are using this summer to continue learning and explore new interests. However, as they look ahead to the fall, parents are scrambling to make sure their children still receive an education - no matter what the learning looks like. 
 
-Here are three resources Wyzant offers to students and families to prepare for back to school and to combat learning loss and help you set your students up for success throughout this academic year and beyond. 
+We've known for years that the best way to learn is through one-on-one, personalized lessons. When it comes to homeschool this fall - either supplementing an existing curriculum or designing a unique education plan for your family's own needs - it's clear that many families are still searching for the right support. Here are three resources Wyzant offers to students and families to prepare for back to school and to combat learning loss and help you set your students up for success throughout this academic year and beyond. 
 
 ## “Get Ready For 4th, 5th, and 6th Grades!” Video Series
 
