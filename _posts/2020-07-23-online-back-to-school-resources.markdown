@@ -42,7 +42,9 @@ On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the la
 From traditional homeschooling to remote learning pods (a rising trend this year) to distance and eLearning, homeschooling gives back an element of control for families in choosing the right curriculum and style that works best for their children. 
 
 ## Effective Online Tutoring
-Wyzant's specialty is helping students connect with tutors who offer personalized, one-on-one private tutoring across hundreds of subject areas. With a disruption to summer camps and activities, we've seen more and more families search for tutoring help on Wyzant to learn something new, upskill, try new hobbies.
+Wyzant's specialty is helping students connect with online tutors who offer personalized, one-on-one private tutoring across hundreds of subject areas. With a disruption to summer camps and activities, we've seen more and more families search for tutoring help on Wyzant to learn something new, upskill, try new hobbies. Here's a brief tour of the features of [Wyzant's online learning](https://www.wyzant.com/blog/online-learning-tool-video/) tool:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jrjGcDZPSMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For example: students are taking more than **four times** the number of computer programming lessons than at this time last year. More than **three times** the number of art and music lessons are taking place on wyzant this summer. As we enter the school year, we expect more students will need supplemental learning help across subject areas, and [expert tutors](https://www.wyzant.com/match/lessonType?flow=search&startOver=true) are ready to assist.
 
