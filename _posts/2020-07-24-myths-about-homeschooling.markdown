@@ -1,15 +1,29 @@
 ---
-title: Let's Debunk 7 Common Myths about Homeschooling
+title: Let's Debunk 8 Common Myths about Homeschooling
 date: 2020-07-24 10:57:00 -05:00
 published: false
+categories:
+- Homeschool
+tags:
+- Homeschool
+author: Jay Pike
+sub-headline: If there's one thing to take away from a discussion of homeschool myths,
+  it's that homeschooling is flexible, adaptable, and much less mysterious than some
+  may have previously assumed.
 hero-image: "/blog/uploads/Lets%20Debunk%20Homeschooling%20Myths-04f4b8.png"
+meta-description: 'The root of most of the misconceptions about education at home
+  is simple: a lack of information. In order to help you make an informed decision
+  about what’s best for your own kids, let’s discuss the most common myths about homeschooling.'
+post-description: 'The root of most of the misconceptions about education at home
+  is simple: a lack of information. In order to help you make an informed decision
+  about what’s best for your own kids, let’s discuss the most common myths about homeschooling.'
 ---
 
 According to a [Real Clear Opinion Poll](https://www.federationforchildren.org/national-poll-40-of-families-more-likely-to-homeschool-after-lockdowns-end/), 15% of the 2,122 families surveyed said they plan to homeschool their children in the fall of 2020. The trend continues to grow. 
 
 When it comes to kids learning at home in the fall, it’s reasonable to feel confused about what things are true about homeschooling, and what things are little more than rumor.
 
-As the number of homeschooled students in the US continues to climb, we’re collectively learning things that challenge the most common misunderstandings about at-home education. Homeschool, for many, is a flexible and responsive approach to educating their kids. The assumptions we may have heard - like “homeschoolers don’t learn the same things,” and “only parents can teach in a homeschool environment,” - just aren't true.
+As the number of homeschooled students in the US continues to climb, we’re collectively learning things that challenge the most common misunderstandings about at-home education. Homeschool, for many, is a flexible and responsive approach to educating their kids. The assumptions we may have heard - like “homeschoolers don’t learn the same things,” and “only parents can teach in a homeschool environment,” - don't hold much water upon close inspection.
 
 As it would seem, the root of most of the misconceptions we outline below is something many of us, previous to school closures, probably share: a lack of information about homeschooling.
 
