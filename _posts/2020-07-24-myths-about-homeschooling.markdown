@@ -10,7 +10,7 @@ author: Jay Pike
 sub-headline: If there's one thing to take away from a discussion of homeschool myths,
   it's that homeschooling is flexible, adaptable, and much less mysterious than some
   may have previously assumed.
-hero-image: "/blog/uploads/Lets%20Debunk%20Homeschooling%20Myths-04f4b8.png"
+hero-image: "/blog/uploads/Homeschool%20Myths%20Debunked.png"
 meta-description: 'The root of most of the misconceptions about education at home
   is simple: a lack of information. In order to help you make an informed decision
   about what’s best for your own kids, let’s discuss the most common myths about homeschooling.'
