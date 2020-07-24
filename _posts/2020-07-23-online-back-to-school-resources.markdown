@@ -30,7 +30,7 @@ The videos were created by some of the top-rated elementary tutors on Wyzant, an
 
 After their premiere, each video will be available on-demand at [Wyzant's YouTube channel](https://www.youtube.com/user/Wyzant) for sharing with other families and viewing anytime. You can [sign up for 4th, 5th, and 6th grade videos in the series here](https://bit.ly/2CJteka). While this first series focuses on elementary students, we’ll have more coming for our high schoolers in early August. 
 
-## Homeschooling
+## Help Finding a Homeschool Educator
 Many parents are looking for education options that keep their children home this school year. [While only 3% to 4%](https://www.nheri.org/research-facts-on-homeschooling/#:~:text=There%20are%20about%202.5%20million,over%20the%20past%20few%20years) of K-12 school-aged children are homeschooled in the United States, we expect this number to skyrocket.
 
 On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the last month compared to last year. When deciding how to homeschool, there are many different [options and approaches](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) which we have outlined that work for different families.
