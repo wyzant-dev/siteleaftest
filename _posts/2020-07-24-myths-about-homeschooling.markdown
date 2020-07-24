@@ -27,7 +27,7 @@ As the number of homeschooled students in the US continues to climb, we’re col
 
 As it would seem, the root of most of the misconceptions we outline below is something many of us, previous to school closures, probably share: a lack of information about homeschooling.
 
-In order to help you make an informed decision about what’s best for your own kids, let’s set the record straight by discussing the most common myths about homeschooling.
+In order to help you [make an informed decision](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/) about what’s best for your own kids, let’s set the record straight by discussing the most common myths about homeschooling.
 
 ## MYTH 1: Homeschooled Kids Don’t Learn the Same Stuff
 **DEBUNKED:** Most homeschool programs are specific when it comes to curricula, learning milestones, and other important details. In lots of cases, these are nearly identical to those in place in public schools. In many traditional homeschool programs, families mirror the structure of a classroom setting (read: they buy curricula, textbooks, exams, and sometimes schedules). 
