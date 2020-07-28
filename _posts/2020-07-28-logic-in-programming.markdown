@@ -96,7 +96,4 @@ De Morgan’s laws, despite the name, are not rules for pirates but more equival
 The first law says that “not (P and Q)” is equivalent to “not P or not Q.” The second law says that “not (P or Q)” is equivalent to “not P and not Q.” In terms of actual premises, this wold mean “it is not (rainy and cool)” is equivalent to “it is not rainy or it is not cool.”
 
 ## Makes Sense, Right?
-That’s all you need to get started programming. While hopefully this is clear enough already, don’t worry if some of these concepts feel a little abstract to you. Actual practice using it will solidify the concepts.
-
-
-
+Logic is a cornerstone of any programming endeavor. From truth tables to understanding conditionals and formatting, work with a [programming or coding tutor](https://www.wyzant.com/computer_programming_lessons.aspx) to help solidify these logic concepts. The concepts used in logic are the structural and conceptual model for many of the most popular programming languages today, including Java, Python, Ruby, Swift, C++, C#, Kotlin, PHP, Go, Javascript, and many more. That means that regardless of the language you choose, you'll be able to learn coding concepts and mechanics faster. As with most aspects of learning to code, practice is key to mastery. 
