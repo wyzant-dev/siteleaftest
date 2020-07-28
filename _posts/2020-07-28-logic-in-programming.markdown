@@ -2,6 +2,10 @@
 title: 'Think Like a Coder: An Intro to Logic in Programming'
 date: 2020-07-28 08:26:00 -05:00
 published: false
+categories:
+- Computer Programming
+tags:
+- Computer Programming
 author: Alys Brooks
 sub-headline: Mastering logic means mastering coding concepts and mechanics faster
 hero-image: "/blog/uploads/Think%20Like%20a%20Coder%20an%20Intro%20to%20Logic%20in%20Programming.png"
