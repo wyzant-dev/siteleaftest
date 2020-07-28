@@ -26,16 +26,16 @@ Let’s take “it is sunny and (it is hot or it is humid)” as an example. Thi
 
 Sometimes logic expressions are analyzed with a truth table, which considers all possible values. On the left side, the individual premise, which, for the purpose of the logical statement are simply true or false and not broken down any more. On the right-most is the proposition being evaluated. In between are often sub propositions.
 
-| sunny | hot   | humid | (hot or humid) | sunny and (hot or humid) |
-|-------|-------|-------|----------------|--------------------------|
-| False | False | False | False          | False                    |
-| False | False | True  | True           | False                    |
-| False | True  | False | True           | False                    |
-| False | True  | True  | True           | False                    |
-| True  | False | False | False          | False                    |
-| True  | False | True  | True           | True                     |
-| True  | True  | False | True           | True                     |
-| True  | True  | True  | True           | True                     |
+| sunny 	| hot   	| humid 	| (hot or humid) 	| sunny and (hot or humid) 	|
+|-------	|-------	|-------	|----------------	|--------------------------	|
+| False 	| False 	| False 	| False          	| False                    	|
+| False 	| False 	| True  	| True           	| False                    	|
+| False 	| True  	| False 	| True           	| False                    	|
+| False 	| True  	| True  	| True           	| False                    	|
+| True  	| False 	| False 	| False          	| False                    	|
+| True  	| False 	| True  	| True           	| True                     	|
+| True  	| True  	| False 	| True           	| True                     	|
+| True  	| True  	| True  	| True           	| True                     	|
 
 Truth tables are overkill maybe 99.99 percent of the time and easy to pick up if you do need them, so there’s no need to practice making these now. What makes them useful in teaching logic or that remaining .01 percent is that they reveal patterns or logic errors.
 
