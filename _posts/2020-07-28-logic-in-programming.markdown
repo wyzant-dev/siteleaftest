@@ -1,7 +1,6 @@
 ---
 title: 'Think Like a Coder: An Intro to Logic in Programming'
 date: 2020-07-28 08:26:00 -05:00
-published: false
 categories:
 - Computer Programming
 tags:
