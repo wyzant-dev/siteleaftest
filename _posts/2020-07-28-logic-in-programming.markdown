@@ -69,18 +69,23 @@ By the way, print shows a message on the screen in a terminal window. (It’s ca
 
 We can use the concept of else described above to also print a message when the condition doesn’t hold true:
 
-if is_cold or is_rainy or (is_cool and is_windy): print("Remember your coat!")
-else: print("No need for a coat.")
+<pre><code>if is_cold or is_rainy or (is_cool and is_windy): print("Remember your coat!")
+else: print("No need for a coat.")</code></pre>
+
 These lines are a bit long, and would become even longer if we had a second thing to do after printing the message. For this reason, we almost always write if and else blocks with indentation, like this:
-if is_cold or is_rainy or (is_cool and is_windy):
+
+<pre><code>if is_cold or is_rainy or (is_cool and is_windy):
     print("Remember your coat!")
 else:
-    print("No need for a coat.")
+    print("No need for a coat.")</code></pre>
+
 To make this actually work, we’d first have to define the variables we use above:
-is_cold = temperature < 50
+
+<pre><code>is_cold = temperature < 50
 is_rainy = precipitation > 0
 is_cool = temperature < 70
-is_windy = windspeed > 10
+is_windy = windspeed > 10</code></pre>
+
 Based on the temperature, precipitation, and wind speed, these comparisons will be either true or false and stored in these variables.
 
 As convenient as it would be if Python were magically aware of the weather, you would actually have to write the code to determine what temperature, precipitation, and windspeed are. Fortunately, asking the user for this information or fetching weather from the internet isn’t too difficult in Python — probably five more lines of straightforward code. Unfortunately, it would require introducing concepts outside of logic, so it’s way outside this article’s scope.
