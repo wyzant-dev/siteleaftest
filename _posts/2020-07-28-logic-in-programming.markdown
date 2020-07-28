@@ -2,6 +2,16 @@
 title: 'Think Like a Coder: An Intro to Logic in Programming'
 date: 2020-07-28 08:26:00 -05:00
 published: false
+author: Alys Brooks
+sub-headline: Mastering logic means mastering coding concepts and mechanics faster
+meta-description: Logic is a cornerstone of any programming endeavor. From truth tables
+  to understanding conditionals and formatting, the concepts used in logic are the
+  structural and conceptual model for many of the most popular programming languages
+  today.
+post-description: Logic is a cornerstone of any programming endeavor. From truth tables
+  to understanding conditionals and formatting, the concepts used in logic are the
+  structural and conceptual model for many of the most popular programming languages
+  today.
 ---
 
 Any program more complicated than a handful of instructions will need to make some sort of decision. Encoding this decision usually requires logic.
