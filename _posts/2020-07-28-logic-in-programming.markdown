@@ -62,7 +62,8 @@ Another difference: they don’t need to be a single letter. In the above statem
 
 ### Putting It Into practice
 What do these things look like put together? Here’s an example, written in [Python](https://www.wyzant.com/blog/learn-python/) due to its similarity to everyday English:
-if is_cold or is_rainy or (is_cool and is_windy): print("Remember your coat!")
+
+<pre><code>if is_cold or is_rainy or (is_cool and is_windy): print("Remember your coat!")</code></pre>
 
 By the way, print shows a message on the screen in a terminal window. (It’s called “print” because the earliest computers had no display and instead literally printed out all output.)
 
