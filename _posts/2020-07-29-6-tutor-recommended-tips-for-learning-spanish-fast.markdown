@@ -89,7 +89,6 @@ Utilizing the vocabulary, grammar, and phrases you’re picking up is a cornerst
 ### Cook a Spanish Recipe
 Lastly, and most deliciously, try following a recipe of a favorite Spanish dish. It will help you understand the composition of the language, the names for ingredients (and sometimes their colloquial names), and how instructions appear and work in Spanish. And, of course, you get to eat amazing Spanish food at the end!
 
-
 ## 4. Spanish Tutoring
 Regular lessons with a Spanish tutor are very beneficial when learning the language. Spanish tutors are knowledgeable, affordable, and accommodate lessons according to the needs of each student. 
 
