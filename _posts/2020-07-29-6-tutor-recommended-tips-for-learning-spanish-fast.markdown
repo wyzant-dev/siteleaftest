@@ -43,10 +43,13 @@ In addition to making lists, write down what you are going to wear tomorrow. Thi
 Take it up a level by adding specific colors to your descriptions. For example, *camiseta blanca* (a white shirt), *pantalones negros* (black pants), and *zapatos marrones* (brown shoes).
 
 ### Change the Language On Your Phone to Spanish
-Last but not least, change the settings on your phone to Spanish. If you think about it, this tip makes a lot of sense for anyone who’s learning a new language; our phones are with us all day long, and without thinking about it, we read, take in information, and give commands. Switching the language to Spanish on a device you’re already familiar with will help you become familiarized with new vocabulary that may not appear in “normal” Spanish textbooks or exercises, as well as words and phrases related to phones and technology.
+Last but not least, change the settings on your phone to Spanish. If you think about it, this tip makes a lot of sense for anyone who’s learning a new language; our phones are with us all day long, and without thinking about it, we read, take in information, and give commands.
+
+Switching the language to Spanish on a device you’re already familiar with will help you become familiarized with new vocabulary that may not appear in “normal” Spanish textbooks or exercises, as well as words and phrases related to phones and technology.
 
 ## 2. Spanish Grammar Activities
 There are a number of different grammar activities you can use when learning the Spanish language. 
+
 ### Learn Specific Phrases for Different Settings 
 If you are interested in learning Spanish grammar basics to communicate when traveling or working (or even just to continue your Spanish self-study), write a list of the [most useful Spanish phrases and words](https://www.wyzant.com/blog/spanish-words-and-phrases/) you’re likely to encounter in different settings and environments.
 
@@ -72,6 +75,7 @@ Repeat this activity when practicing the past tense [Spanish preterite](https://
 
 ## 3. Spanish Immersion
 One tried-and-true method to learn Spanish fast is by immersion in the language. There are different activities to participate when learning the language, and no, you certainly don’t have to move to Spain to be immersed!
+
 For example, listen to your favorite songs in Spanish and try to catch the main words in the songs. Write them down! As you keep progressing, focus on understanding one or more complete lyrics. It’s normal not to grasp the full lyrics of a song even if it’s in your native language, so take it slow and congratulate yourself when you get it right. 
 
 A tip: many songs in Spanish use slang and Spanish idioms, which can make it tricky for non-Spanish speakers to understand them fully. Treat this like an opportunity to learn and memorize more common, less “textbook”, Spanish. If you’re struggling with lyrics, look them up in English, check the new words, sing along, and write as you go. Your Spanish listening skills and pronunciation will improve. Also, as a bonus, you will feel more familiarized with Spanish music.
@@ -86,6 +90,7 @@ Following DIY tutorials in Spanish is another considerably useful way to be imme
 
 ### Practice Spanish Conversation
 Utilizing the vocabulary, grammar, and phrases you’re picking up is a cornerstone of Spanish language learning. Have Spanish conversation as often as possible! Join a group of Spanish speakers, friends, or family members who speak the language. Talk about anything - your day, what you did yesterday, questions, and don’t forget to practice giving affirmative and negative answers. Don't be afraid of making mistakes. The people around you will be happy to help you improve your conversational skills, and you’re helping them, too.
+
 ### Cook a Spanish Recipe
 Lastly, and most deliciously, try following a recipe of a favorite Spanish dish. It will help you understand the composition of the language, the names for ingredients (and sometimes their colloquial names), and how instructions appear and work in Spanish. And, of course, you get to eat amazing Spanish food at the end!
 
@@ -96,8 +101,11 @@ Nowadays, Spanish lessons with a tutor can also be [taken online](https://www.wy
 
 ## 5. Sticking to a Schedule
 When learning Spanish, it is essential to set a time every day to study, and to stick with the schedule. Most Spanish tutors and teachers advise to study the language for a minimum of sixty minutes each day.
+
 Alternate each day between writing in your journal, preparing your grocery lists, reading Spanish magazines, watching Spanish TV shows, talking to friends in Spanish, or having a Spanish tutoring lesson.
+
 You can even practice two different exercises during the hour. For example, read a short story for thirty minutes, and watch a show for the rest of the other thirty minutes. Or listen to music in Spanish on the way to work, and watch a tutorial in Spanish in the evening. Choose the best time that works for you each day, and stick to activities that interest and inspire you. Be consistent, and soon, Spanish will become part of your daily routine.
+
 ## 6. Learn about the Culture
 In addition to just learning all the ins and outs of Spanish grammar and vocabulary, one tip on how to learn Spanish is by being involved in the cultural aspect. 
 
