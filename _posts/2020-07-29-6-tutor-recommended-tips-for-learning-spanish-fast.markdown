@@ -48,7 +48,7 @@ Last but not least, change the settings on your phone to Spanish. If you think a
 ## 2. Spanish Grammar Activities
 There are a number of different grammar activities you can use when learning the Spanish language. 
 ### Learn Specific Phrases for Different Settings 
-If you are interested in learning Spanish grammar basics to communicate when traveling or working (or even just to continue your Spanish self-study), write a list of the most useful Spanish phrases and words you’re likely to encounter in different settings and environments.
+If you are interested in learning Spanish grammar basics to communicate when traveling or working (or even just to continue your Spanish self-study), write a list of the [most useful Spanish phrases and words](https://www.wyzant.com/blog/spanish-words-and-phrases/) you’re likely to encounter in different settings and environments.
 
 Having a specific list (in Spanish) that focuses on ordering in a restaurant or communicating at the airport will go a long way to make you more familiar with the grammar involved in speaking/reading in these environments. You’ll also find commonalities in grammar as you commit these phrases to memory. 
 
@@ -66,9 +66,9 @@ Practice writing comparisons in Spanish between objects, places, or people. You 
 ...anything that speaks to you and encourages you to practice. To expand this Spanish grammar exercise, include questions, like which one is more interesting, healthy, or attractive? Which one is more quiet, entertaining, or tasty? Give your own opinions while applying the grammar on comparatives.
 
 ### Create a Verb Journal
-When practicing Spanish grammar basics, writing is an indispensable tool to practice present tense. Create a journal and record stuff you do every day, either only in Spanish, or using English and working through each sentence to translate. It’s an excellent opportunity to practice conjugation of regular and irregular verbs. When you’re ready to scale your practice up, add more information about your day, ask questions, and practice negation by stating what you don't generally do daily. 
+When practicing Spanish grammar basics, writing is an indispensable tool to practice [present tense](https://www.wyzant.com/blog/spanish-present-tense/). Create a journal and record stuff you do every day, either only in Spanish, or using English and working through each sentence to translate. It’s an excellent opportunity to practice conjugation of regular and irregular verbs. When you’re ready to scale your practice up, add more information about your day, ask questions, and practice negation by stating what you don't generally do daily. 
 
-Repeat this activity when practicing the past tense Spanish preterite. Jot down what you did last summer, or how you celebrated your last birthday. It is an excellent opportunity to practice regular and irregular verbs that relay information about things that have already happened - a very common part of communication in any language. Include statements like what did you do? Where did you go? What did you eat? 
+Repeat this activity when practicing the past tense [Spanish preterite](https://www.wyzant.com/blog/preterite-vs-imperfect/). Jot down what you did last summer, or how you celebrated your last birthday. It is an excellent opportunity to practice regular and irregular verbs that relay information about things that have already happened - a very common part of communication in any language. Include statements like what did you do? Where did you go? What did you eat? 
 
 ## 3. Spanish Immersion
 One tried-and-true method to learn Spanish fast is by immersion in the language. There are different activities to participate when learning the language, and no, you certainly don’t have to move to Spain to be immersed!
@@ -92,7 +92,8 @@ Lastly, and most deliciously, try following a recipe of a favorite Spanish dish.
 
 ## 4. Spanish Tutoring
 Regular lessons with a Spanish tutor are very beneficial when learning the language. Spanish tutors are knowledgeable, affordable, and accommodate lessons according to the needs of each student. 
-Nowadays, Spanish lessons with a tutor can also be taken online, making them more accessible and convenient. Discuss with your tutor the areas you’re more interested in improving, such as conversation, listening, writing, or reading. They’ll work with you on your goal through interactive lessons. Spanish tutoring is a significant opportunity to practice the language in real-time. 
+
+Nowadays, Spanish lessons with a tutor can also be [taken online](https://www.wyzant.com/blog/online-spanish-lessons/), making them more accessible and convenient. Discuss with your tutor the areas you’re more interested in improving, such as conversation, listening, writing, or reading. They’ll work with you on your goal through interactive lessons. Spanish tutoring is a significant opportunity to practice the language in real-time. 
 
 ## 5. Sticking to a Schedule
 When learning Spanish, it is essential to set a time every day to study, and to stick with the schedule. Most Spanish tutors and teachers advise to study the language for a minimum of sixty minutes each day.
