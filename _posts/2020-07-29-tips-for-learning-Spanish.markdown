@@ -121,5 +121,5 @@ Also, when learning about, and becoming involved in, the Spanish culture, you ca
 By getting to know how people use Spanish in different Spanish-speaking countries like Mexico or countries in South America like Colombia, Ecuador, Peru, Bolivia, and others, you’ll begin to see differences and similarities that enhance and nurture your language learning. Those differences will help us understand such a profound language as Spanish in a more profound way.
 
 ## *¿Estas Lista?*
-There you have it - six powerful methods anyone can easily incorporate into their Spanish language study. From immersion to just picking up new vocabulary, including Spanish TV shows and films as some of your practice material to keeping a Spanish journal where you can privately work on grammar and phrases, remember: learning Spanish is a journey. Like any trip, come well-prepared, but most of all, enjoy yourself. 
+There you have it - six powerful methods anyone can easily incorporate into their Spanish language study. From immersion to just picking up new vocabulary, including Spanish TV shows and films as some of your practice material, to keeping a Spanish journal where you can privately work on grammar and phrases, remember: learning Spanish is a journey. Like any trip, come well-prepared, but most of all, enjoy yourself. 
 
