@@ -5,7 +5,6 @@ published: false
 author: Gissela Tomasello
 ---
 
-
 Is learning Spanish easy? It is definitely an adjustment at the beginning, with different grammar and sentence structures to confuse English native speakers. But once students learn how to study Spanish properly, and get accustomed to its differences, learning the language gets much easier.
 
 Studying a new language takes organization, planning, and different approaches. In this article, we’ll examine six essential tips for learning Spanish. They include memorizing vocabulary, grammar exercises, Spanish immersion, Spanish tutoring, sticking to a schedule, and learning about Spanish culture.
@@ -13,7 +12,9 @@ Studying a new language takes organization, planning, and different approaches. 
 
 ## 1. Memorizing Spanish Vocabulary
 
-BLAH BLAH
+To be understood in a language, you only actually need to know around few hundred words. It’s not as many as it sounds! Consider this: in your native language, you already knew around 5000 words by the time you were four. What Spanish words do you already know? Those count toward your total! 
+
+Here are a few simple-to-incorporate ideas for committing to memory Spanish vocabulary.
 
 ### Use Sticky Notes Around the House
 One easy way to learn Spanish vocabulary is by using sticky notes using specific vocabulary around the house. For example, when learning about appliances, place notes on different appliances like the refrigerator, the microwave oven, the toaster, the stove, etc. It will help you remember the meaning and the spelling and pronunciation of the specific appliance in Spanish.
