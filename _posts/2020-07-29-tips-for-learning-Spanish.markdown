@@ -111,9 +111,8 @@ Alternate each day between writing in your journal, preparing your grocery lists
 
 You can even practice two different exercises during the hour. For example, read a short story for thirty minutes, and watch a show for the rest of the other thirty minutes. Or listen to music in Spanish on the way to work, and watch a tutorial in Spanish in the evening. Choose the best time that works for you each day, and stick to activities that interest and inspire you. Be consistent, and soon, Spanish will become part of your daily routine.
 
-## 6. Learn about the Culture
+## 6. Learn about Spanish Culture
 In addition to just learning all the ins and outs of Spanish grammar and vocabulary, one tip on how to learn Spanish is by being involved in the cultural aspect. 
-
 
 When acquiring the language, you’ll also learn about the culture of a specific Spanish-speaking country. Shows, movies, books, publications, and food will show the way people live, the way of thinking, their traditions, customs, history, and background. Understanding all these things brings you closer to really understanding how Spanish is used in the real world, and it will help ease struggles with the differences in Spanish vs English translations.
 
