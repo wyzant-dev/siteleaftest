@@ -95,7 +95,7 @@ Utilizing the vocabulary, grammar, and phrases you’re picking up is a cornerst
 Lastly, and most deliciously, try following a recipe of a favorite Spanish dish. It will help you understand the composition of the language, the names for ingredients (and sometimes their colloquial names), and how instructions appear and work in Spanish. And, of course, you get to eat amazing Spanish food at the end!
 
 ## 4. Spanish Tutoring
-Regular lessons with a Spanish tutor are very beneficial when learning the language. Spanish tutors are knowledgeable, affordable, and accommodate lessons according to the needs of each student. 
+Regular [lessons with a Spanish tutor](https://www.wyzant.com/Spanish_tutors.aspx) are very beneficial when learning the language. Spanish tutors are knowledgeable, affordable, and accommodate lessons according to the needs of each student. 
 
 Nowadays, Spanish lessons with a tutor can also be [taken online](https://www.wyzant.com/blog/online-spanish-lessons/), making them more accessible and convenient. Discuss with your tutor the areas you’re more interested in improving, such as conversation, listening, writing, or reading. They’ll work with you on your goal through interactive lessons. Spanish tutoring is a significant opportunity to practice the language in real-time. 
 
