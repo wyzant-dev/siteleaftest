@@ -3,6 +3,7 @@ title: 6 Tutor-Recommended Tips for Learning Spanish Fast
 date: 2020-07-29 09:25:00 -05:00
 published: false
 author: Gissela Tomasello
+hero-image: "/blog/uploads/6%20Tutor%20Recommended%20Tips%20for%20Learning%20Spanish%20Fast.png"
 ---
 
 Is learning Spanish easy? It is definitely an adjustment at the beginning, with different grammar and sentence structures to confuse English native speakers. But once students learn how to study Spanish properly, and get accustomed to its differences, learning the language gets much easier.
