@@ -1,7 +1,12 @@
 ---
 title: 6 Tutor-Recommended Tips for Learning Spanish Fast
 date: 2020-07-29 09:25:00 -05:00
-published: false
+categories:
+- Spanish
+- Language Learning
+tags:
+- Spanish
+- Language Learning
 author: Gissela Tomasello
 sub-headline: Once students learn how to approach Spanish study properly, in diverse
   ways they enjoy, learning the language becomes much easier.
