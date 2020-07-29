@@ -2,6 +2,7 @@
 title: 6 Tutor-Recommended Tips for Learning Spanish Fast
 date: 2020-07-29 09:25:00 -05:00
 published: false
+author: Gissela Tomasello
 ---
 
 
