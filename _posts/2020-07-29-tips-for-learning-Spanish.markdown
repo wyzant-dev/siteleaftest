@@ -12,11 +12,11 @@ sub-headline: Once students learn how to approach Spanish study properly, in div
   ways they enjoy, learning the language becomes much easier.
 hero-image: "/blog/uploads/6%20Tutor%20Recommended%20Tips%20for%20Learning%20Spanish%20Fast.png"
 meta-description: 'From immersion to just picking up new vocabulary, including Spanish
-  TV shows and films as some of your practice material to keeping a Spanish journal
+  TV shows and films as some of your practice material, to keeping a Spanish journal
   where you can privately work on grammar and phrases, remember: learning Spanish
   is a journey. Like any trip, come well-prepared, but most of all, enjoy yourself. '
 post-description: 'From immersion to just picking up new vocabulary, including Spanish
-  TV shows and films as some of your practice material to keeping a Spanish journal
+  TV shows and films as some of your practice material, to keeping a Spanish journal
   where you can privately work on grammar and phrases, remember: learning Spanish
   is a journey. Like any trip, come well-prepared, but most of all, enjoy yourself. '
 ---
