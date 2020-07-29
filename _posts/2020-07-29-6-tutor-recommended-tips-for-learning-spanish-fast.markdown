@@ -18,6 +18,7 @@ Here are a few simple-to-incorporate ideas for committing to memory Spanish voca
 
 ### Use Sticky Notes Around the House
 One easy way to learn Spanish vocabulary is by using sticky notes using specific vocabulary around the house. For example, when learning about appliances, place notes on different appliances like the refrigerator, the microwave oven, the toaster, the stove, etc. It will help you remember the meaning and the spelling and pronunciation of the specific appliance in Spanish.
+
 Once you have learned this vocabulary group, switch it up, and place notes on other objects, like furniture. Follow the same steps with the specific vocabulary you’re interested in learning. This process can be expanded to include anything in your home.
 
 ### Write Grocery Lists in Spanish
