@@ -79,7 +79,7 @@ For some help right now, read Wyzant’s in-depth articles on [past](https://www
 
 Learning new words and how to put them together does not mean you are done learning how to speak French. It is also important not to put off working on [pronunciation](https://www.wyzant.com/blog/french-pronunciation/).
 
-Pronouncing French words properly can be intimidating for English speakers, but the rules are more consistent when you take time to learn them effectively. You’ll have to practice until you get it right, so do not give up if it’s difficult at first. 
+Pronouncing French words properly can be intimidating for English speakers, but the rules are more consistent when you take time to learn them effectively. You’ll have to practice until you get it right, so do not give up if it’s [difficult at first](https://www.wyzant.com/blog/is-french-hard-to-learn/). 
 
 ## What to Work on Between Sessions
 
