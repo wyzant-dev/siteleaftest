@@ -2,15 +2,22 @@
 title: Is French Hard to Learn? 9 Things Beginners Struggle With Most
 date: 2020-08-03 08:46:00 -05:00
 published: false
+categories:
+- French
+- Language Learning
+tags:
+- French
+- Language Learning
+author: Lauren Harsh
 ---
 
-If you’re considering learning French as a second language, you may be asking yourself, “Why is French hard?” How easy is it to learn French, anyway? There are certainly aspects of the language that are complex, but it is easier than you may think if you work to understand why it is like that. 
+If you’re considering [learning French](https://www.wyzant.com/blog/start-learning-french/) as a second language, you may be asking yourself, “Why is French hard?” How easy is it to learn French, anyway? There are certainly aspects of the language that are complex, but it is easier than you may think if you work to understand why it is like that. 
 
-Things like pronunciation, grammar, and French expressions are certainly different, but French has more in common with English than you may realize. No matter what aspects you struggle with, the personalized attention from a French tutor can help you master them. 
+Things like pronunciation, grammar, and French expressions are certainly different, but French has more in common with English than you may realize. No matter what aspects you struggle with, the personalized attention from a [French tutor](https://www.wyzant.com/French_tutors.aspx) can help you master them. 
 
 ## Accent Marks 
 
-English speakers can find reading, writing, and typing French accent marks confusing at first. You know how sometimes the same letter can make different sounds? On a basic level, accent marks mark the difference between those sounds. 
+English speakers can find reading, writing, and [typing French accent marks](https://www.wyzant.com/blog/how-to-type-french-accents/) confusing at first. You know how sometimes the same letter can make different sounds? On a basic level, accent marks mark the difference between those sounds. 
 
 ### É - Accent Aigu
 
@@ -38,13 +45,13 @@ Examples of words that include it : *coïncidence, Zoë*
 
 ### Ô - Circonflexe
 
-The circonflexe can appear over any vowel. It does not significantly alter the pronunciation. There is a movement to remove it from the language, but it is still important to recognize it and know which words include it. 
+The circonflexe can appear over any vowel. It does not significantly alter the pronunciation. There is a movement to [remove it from the language](https://www.bbc.com/news/world-europe-35496893), but it is still important to recognize it and know which words include it. 
 
 Examples of words that include it: *être, hôtel*
 
 ## Pronunciation
 
-One of the most common mistakes that French learners make is putting off working on pronunciation. Sure, it can be intimidating, but if anything French pronunciation is more logical than English pronunciation because the rules are more consistent. Pronunciation is an area where a tutor is particularly helpful because the tutor is someone to regularly talk to who will correct you and stop you from forming bad habits.
+One of the most [common mistakes that French learners make](https://www.wyzant.com/blog/mistakes-to-avoid-when-learning-a-new-language/) is putting off working on pronunciation. Sure, it can be intimidating, but if anything [French pronunciation](https://www.wyzant.com/blog/french-pronunciation/) is more logical than English pronunciation because the rules are more consistent. Pronunciation is an area where a tutor is particularly helpful because the tutor is someone to regularly talk to who will correct you and stop you from forming bad habits.
 
 ### Silent Letters
 
@@ -72,7 +79,7 @@ The “ent” ending is silent
 
 ## Grammar
 
-French is very grammatically different from English. French grammar rules are decided by forty experts in language, literature, and politics who form an institution called *L'académie Française*. That means as hard as you may find it to believe, every rule exists on purpose.
+French is very grammatically different from English. [French grammar rules](https://www.wyzant.com/blog/french-grammar-basics/) are decided by forty experts in language, literature, and politics who form an institution called [*L'académie Française*](https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise). That means as hard as you may find it to believe, every rule exists on purpose.
 
 ### Word Order
 
@@ -88,7 +95,11 @@ For example, color is not on the BANGS list so “the blue car” would translat
 
 ### Grammatical Gender
 
-Everything in French is gendered. Nouns are either masculine or feminine and the rest of the sentence has to be consistent with it. If the subject of a sentence is masculine, you have to use masculine articles for it like un (a, one) or le (the). If a noun is feminine, the equivalents are une and la, respectively. 
+Everything in French is gendered. Nouns are either masculine or feminine and the rest of the sentence has to be consistent with it.
+
+If the subject of a sentence is masculine, you have to use masculine articles for it like un (a, one) or le (the).
+
+If a noun is feminine, the equivalents are une and la, respectively. 
 
 In sentences that include “my [object]”, “your [object]”, “his [object]”, or “her [object]” use the article that matches the gender of the object, not the sentence. For example, “She talks with her professor” would be *“Elle parle avec son professeur”* because the word professor is masculine, even though the subject is a woman. 
 
@@ -106,11 +117,11 @@ On a similar note, if the noun is plural, the adjective has to be plural too. Ma
 
 If you want to get anywhere in French, you need to know how to conjugate French verbs. The first step of conjugating French verbs (except for *futur simple* and *conditionnel*) is to chop off the ending of the infinitive, the unmodified form of the verb, to make it a stem.
 
-The next step is to attach a new ending to the stem depending on the subject that precedes it. The most logical place to start is with the present tense and then move on to the past and future tenses. There are three categories of regular verb infinitives: ones the end in “-er” ones the end in “-re” and ones that end in “-ir.”
+The next step is to attach a new ending to the stem depending on the subject that precedes it. The most logical place to start is with the [present tense](https://www.wyzant.com/blog/french-verbs-present-tense/) and then move on to the [past](https://www.wyzant.com/blog/french-past-tense/) and [future tenses](https://www.wyzant.com/blog/french-future-tense/). There are three categories of regular verb infinitives: ones the end in “-er” ones the end in “-re” and ones that end in “-ir.”
 
 ## Phrases and Expressions
 
-Memorizing only basic phrases can make you sound more like a robot than a person. Sprinkle these common French phrases into your conversations will help you close the gap between speaking technically well and speaking authentically. 
+Memorizing only [basic phrases](https://www.wyzant.com/blog/basic-french-words-phrases/) can make you sound more like a robot than a person. Sprinkle these [common French phrases](https://www.wyzant.com/blog/french-expressions/) into your conversations will help you close the gap between speaking technically well and speaking authentically. 
 
 ### Ah la vache
 
@@ -129,4 +140,4 @@ Memorizing only basic phrases can make you sound more like a robot than a person
 *“Bref”* is a filler word that literally translates to “brief”. French speakers use it the way English speakers use fillers like “anyway,” “basically,” “in short,” “in a nutshell.” You may also see *“en bref”* in writing to introduce a conclusion 
 
 ## So, Is French Hard to Learn?
-The answer to this question is: it doesn’t have to be! Whether the best way to learn French is on your own or in a class, French tutoring can help you struggle less with the hard parts. Once you find the right tutor for your goals and prepare for a successful lesson, you’ll be on your way. 
+The answer to this question is: it doesn’t have to be! Whether the best way to learn French is [on your own](https://www.wyzant.com/blog/how-to-learn-french/) or in a class, French tutoring can help you struggle less with the hard parts. Once you find the right tutor for your goals and prepare for a [successful lesson](https://www.wyzant.com/blog/first-french-lesson/), you’ll be on your way. 
