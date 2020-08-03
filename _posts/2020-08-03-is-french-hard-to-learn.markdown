@@ -4,7 +4,7 @@ date: 2020-08-03 08:46:00 -05:00
 published: false
 ---
 
-If you’re considering learning French as a second language, you may be asking yourself “why is French hard?” or “how easy is it to learn French?” There are certainly aspects of French that are complex, but it is easier than you may think if you work to understand why it is like that. 
+If you’re considering learning French as a second language, you may be asking yourself, “Why is French hard?” How easy is it to learn French, anyway? There are certainly aspects of the language that are complex, but it is easier than you may think if you work to understand why it is like that. 
 
 Things like pronunciation, grammar, and French expressions are certainly different, but French has more in common with English than you may realize. No matter what aspects you struggle with, the personalized attention from a French tutor can help you master them. 
 
