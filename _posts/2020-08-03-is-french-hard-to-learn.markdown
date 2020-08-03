@@ -1,5 +1,5 @@
 ---
-title: Is French Hard to Learn? 9 Things Beginners Struggle With Most
+title: Is French Hard to Learn? 4 Things Beginners Struggle With Most
 date: 2020-08-03 08:46:00 -05:00
 published: false
 categories:
@@ -9,14 +9,22 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+sub-headline: There are certainly aspects of the French language that are complex,
+  but learning them is easier than you think.
 hero-image: "/blog/uploads/Is%20French%20Hard%20to%20Learn.png"
+meta-description: Silent letters, conjugations, accent marks...what makes French seem
+  like a hard language to learn? Here are 9 aspects of French most beginners need
+  some extra help with, and ways to get ahead on your language study.
+post-description: Silent letters, conjugations, accent marks...what makes French seem
+  like a hard language to learn? Here are 9 aspects of French most beginners need
+  some extra help with, and ways to get ahead on your language study.
 ---
 
 If you’re considering [learning French](https://www.wyzant.com/blog/start-learning-french/) as a second language, you may be asking yourself, “Why is French hard?” How easy is it to learn French, anyway? There are certainly aspects of the language that are complex, but it is easier than you may think if you work to understand why it is like that. 
 
 Things like pronunciation, grammar, and French expressions are certainly different, but French has more in common with English than you may realize. No matter what aspects you struggle with, the personalized attention from a [French tutor](https://www.wyzant.com/French_tutors.aspx) can help you master them. 
 
-## Accent Marks 
+## 1. Accent Marks 
 
 English speakers can find reading, writing, and [typing French accent marks](https://www.wyzant.com/blog/how-to-type-french-accents/) confusing at first. You know how sometimes the same letter can make different sounds? On a basic level, accent marks mark the difference between those sounds. 
 
@@ -50,7 +58,7 @@ The circonflexe can appear over any vowel. It does not significantly alter the p
 
 Examples of words that include it: *être, hôtel*
 
-## Pronunciation
+## 2. Pronunciation
 
 One of the most [common mistakes that French learners make](https://www.wyzant.com/blog/mistakes-to-avoid-when-learning-a-new-language/) is putting off working on pronunciation. Sure, it can be intimidating, but if anything [French pronunciation](https://www.wyzant.com/blog/french-pronunciation/) is more logical than English pronunciation because the rules are more consistent. Pronunciation is an area where a tutor is particularly helpful because the tutor is someone to regularly talk to who will correct you and stop you from forming bad habits.
 
@@ -78,7 +86,7 @@ If a word ends in “er” or “ez”, it is pronounced like “ay”
 
 The “ent” ending is silent
 
-## Grammar
+## 3. Grammar
 
 French is very grammatically different from English. [French grammar rules](https://www.wyzant.com/blog/french-grammar-basics/) are decided by forty experts in language, literature, and politics who form an institution called [*L'académie Française*](https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise). That means as hard as you may find it to believe, every rule exists on purpose.
 
@@ -120,7 +128,7 @@ If you want to get anywhere in French, you need to know how to conjugate French 
 
 The next step is to attach a new ending to the stem depending on the subject that precedes it. The most logical place to start is with the [present tense](https://www.wyzant.com/blog/french-verbs-present-tense/) and then move on to the [past](https://www.wyzant.com/blog/french-past-tense/) and [future tenses](https://www.wyzant.com/blog/french-future-tense/). There are three categories of regular verb infinitives: ones the end in “-er” ones the end in “-re” and ones that end in “-ir.”
 
-## Phrases and Expressions
+## 4. Phrases and Expressions
 
 Memorizing only [basic phrases](https://www.wyzant.com/blog/basic-french-words-phrases/) can make you sound more like a robot than a person. Sprinkle these [common French phrases](https://www.wyzant.com/blog/french-expressions/) into your conversations will help you close the gap between speaking technically well and speaking authentically. 
 
