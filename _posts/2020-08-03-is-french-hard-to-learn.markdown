@@ -9,6 +9,7 @@ tags:
 - French
 - Language Learning
 author: Lauren Harsh
+hero-image: "/blog/uploads/Is%20French%20Hard%20to%20Learn.png"
 ---
 
 If you’re considering [learning French](https://www.wyzant.com/blog/start-learning-french/) as a second language, you may be asking yourself, “Why is French hard?” How easy is it to learn French, anyway? There are certainly aspects of the language that are complex, but it is easier than you may think if you work to understand why it is like that. 
