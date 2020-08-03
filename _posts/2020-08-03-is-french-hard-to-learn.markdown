@@ -1,7 +1,6 @@
 ---
 title: Is French Hard to Learn? 4 Things Beginners Struggle With Most
 date: 2020-08-03 08:46:00 -05:00
-published: false
 categories:
 - French
 - Language Learning
