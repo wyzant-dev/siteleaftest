@@ -19,7 +19,7 @@ post-description: |-
    That’s where grammar comes in. Once you can recognize the patterns, it will be easier to learn French fast.
 ---
 
-Vocabulary is only one part of [how to learn French](https://www.wyzant.com/blog/start-learning-french/). You could memorize a whole English-to-French dictionary, but it would be useless if you didn’t learn how to put the words together in a way that makes sense.
+Vocabulary is only one part of [how to learn French](https://www.wyzant.com/blog/start-learning-french/), and is a [common struggle](https://www.wyzant.com/blog/is-french-hard-to-learn/) for most beginners. You could memorize a whole English-to-French dictionary, but it would be useless if you didn’t learn how to put the words together in a way that makes sense.
 
 That’s where grammar comes in. Once you can recognize the patterns, it will be easier to learn French fast.
 
