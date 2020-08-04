@@ -23,6 +23,9 @@ With so many misconceptions and rumors around homeschooling, it can be difficult
 Read Let's Debunk 8 Common Myths about Homeschooling
 
 ## 3 Online Resources to Get Students and Families Ready for “Back to School”
+
+![3 Online Resources for Back to School IG.png](/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School%20IG.png)
+
 No matter what learning looks like in the fall, parents are doing their best to ensure their kids receive the best education possible. This article provides three resources that Wyzant offers to students and families to get them prepared for back to school time. Use them to counteract learning loss over the summer, get caught up, or just to help you set your at-home pupils up for success.
 
 Read: 3 Online Resources to Get Students and Families Ready for “Back to School”
