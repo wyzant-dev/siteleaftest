@@ -2,6 +2,10 @@
 title: The Wyzant Blog Homeschool Resource Hub
 date: 2020-08-04 14:04:00 -05:00
 published: false
+categories:
+- Homeschool
+tags:
+- Homeschool
 ---
 
 When it comes to homeschooling, there are no lack of options, opinions, and misconceptions. Homeschooling has changed over the past few years, that much is true. Long considered a radical alternative to traditional public schooling, homeschooling is fast becoming introduced to many families in the US. 
@@ -82,6 +86,9 @@ Read: “How Does This All Work, Exactly?”: Remote Learning and Homeschooling 
 
 
 ## How to Homeschool: 8 Important Tips from a Professional Tutor
+
+![How to Homeschool IG.png](/blog/uploads/How%20to%20Homeschool%20IG.png)
+
 School at home can mean a lot of stress: kids having to learn in an unfamiliar manner; their parents feeling the pressure of trying to oversee something as important as their education. Now that homeschool is becoming a reality for many families, parents and children are bearing a level of responsibility they’re not used to. We asked a professional tutor to help us understand the things families can do, and the resources they can use, to feel comfortable with learning at home. 
 
 Read: How to Homeschool: 8 Important Tips from a Professional Tutor
