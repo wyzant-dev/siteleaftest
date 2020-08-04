@@ -47,6 +47,9 @@ When schools began to close in Spring 2020, Wyzant went straight to the experts.
 Watch: Wyzant Homeschool Roundtable
 
 ## 5 Ways COVID-19 Has Changed the Meaning of Tutoring
+
+![How Covid 19 Has Changed the Meaning of Tutoring IG.png](/blog/uploads/How%20Covid%2019%20Has%20Changed%20the%20Meaning%20of%20Tutoring%20IG.png)
+
 When families needed to keep their kids on the path toward a valuable education, tutors became front and center in a national discussion about how families could keep their students learning, developing, and progressing as their routines and traditional systems of support - the classroom, trusted teachers, and social groups - were turned upside down. COVID-19 has altered education, and tutoring is certainly no exception. In this article, learn what tutors on Wyzant have to say about what they and their students are experiencing. 
 
 Read: 5 Ways COVID-19 Has Changed the Meaning of Tutoring
