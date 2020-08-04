@@ -7,7 +7,7 @@ categories:
 tags:
 - Homeschool
 author: Jacqueline Zote
-hero-image: "/blog/uploads/iStock-1176827124.jpg"
+hero-image: "/blog/uploads/Montessori%20Education%20Homeschooling.png"
 ---
 
 For families that want to homeschool their kids, one of the biggest challenges lies in deciding on the [right homeschool approach](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/). Maybe you’re considering eLearning and remote learning to maintain safety during the pandemic or perhaps you want to pool in resources with other parents to form homeschool pods.
