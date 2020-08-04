@@ -71,5 +71,3 @@ Read: [“How Does This All Work, Exactly?”: Remote Learning and Homeschooling
 School at home can mean a lot of stress: kids having to learn in an unfamiliar manner; their parents feeling the pressure of trying to oversee something as important as their education. Now that homeschool is becoming a reality for many families, parents and children are bearing a level of responsibility they’re not used to. We asked a professional tutor to help us understand the things families can do, and the resources they can use, to feel comfortable with learning at home. 
 
 Read: [How to Homeschool: 8 Important Tips from a Professional Tutor](https://www.wyzant.com/blog/how-to-homeschool/)
-
-
