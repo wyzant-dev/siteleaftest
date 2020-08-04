@@ -8,7 +8,7 @@ published: false
 
 ![Montessori Education Homeschooling IG.png](/blog/uploads/Montessori%20Education%20Homeschooling%20IG.png)
 
-The Montessori Method, pioneered by Maria Montessori in the 19th century, offers plenty of benefits for families that homeschool: flexibility, encouraging creativity, developing independence and social skills. 
+The Montessori Method, pioneered by Maria Montessori in the early 20th century, offers plenty of benefits for families that homeschool: flexibility, encouraging creativity, developing independence and social skills. 
 
 It might be on a list of your top choices of homeschool methods, since it’s a structured program that strives to provide children with well-rounded development. Before you decide on this approach, though, it’s a good idea to educate yourself on the methods and details.
 
