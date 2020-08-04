@@ -48,12 +48,12 @@ The process will require a bit of time and attention, but you should eventually 
 
 Consider investing in learning materials such as building tools, craft supplies, etc. The idea is to adopt any learning resource or material that could encourage your child to engage in active learning. 
 
-Where to Buy Home-School Curriculum for Montessori Education
+### Where to Buy Home-School Curriculum for Montessori Education
 One of the best parts about Montessori homeschooling is that there isn’t a defined or rigid program to follow. So although you have some recommendations to guide you through the process, you have the freedom to create your own curriculum. 
 
-You can find a wide range of l[earning tools and resources](https://www.wyzant.com/blog/online-back-to-school-resources/) for Montessori education available online and offline. However, that doesn’t necessarily mean you have to invest in each and every recommended material or buy plenty of educational toys. The flexibility and adaptability is one of the best parts about this approach as it gives you the freedom to use the materials you have at hand to facilitate learning.
+You can find a wide range of [learning tools and resources](https://www.wyzant.com/blog/online-back-to-school-resources/) for Montessori education available online and offline. However, that doesn’t necessarily mean you have to invest in each and every recommended material or buy plenty of educational toys. The flexibility and adaptability is one of the best parts about this approach as it gives you the freedom to use the materials you have at hand to facilitate learning.
 
-For example, you might be able to use the Scrabble set you already have to teach spelling. You could also use scrap paper for arts and crafts, and so on. 
+For example, you might be able to use the Scrabble set you already have to teach spelling! You could also use scrap paper for arts and crafts, and so on. 
 
 ## Is Homeschooling Better than Public School for Montessori Education?
 
