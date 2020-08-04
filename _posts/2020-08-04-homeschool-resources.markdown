@@ -4,6 +4,14 @@ date: 2020-08-04 14:04:00 -05:00
 published: false
 ---
 
+When it comes to homeschooling, there are no lack of options, opinions, and misconceptions. Homeschooling has changed over the past few years, that much is true. Long considered a radical alternative to traditional public schooling, homeschooling is fast becoming introduced to many families in the US. 
+
+There are already many students — around 2 million — being home educated, and each one for a variety of different reasons. More are joining the ranks, as homeschooling has become attractive because it's considered a safe alternative. What most homeschooling families (and those just considering the option) share is the desire to offer their kids the best possible education.
+
+If you’re wondering if you've got the stuff to homeschool, you’re in good company. Most homeschooling families have asked this same question. Assuming the responsibility of is a big choice, but it can also be the most rewarding one you'll ever make.
+
+We've gathered all the expert homeschool resources published on The Wyzant Blog here to help you get your head around homeschooling.
+
 ## Montessori Education – What is It? Why Is It? Will It Work for My Family?
 
 ![Montessori Education Homeschooling IG.png](/blog/uploads/Montessori%20Education%20Homeschooling%20IG.png)
