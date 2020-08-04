@@ -44,6 +44,9 @@ Read: Making Sense of the Different Types of Remote Learning
 
 
 ## “How Does This All Work, Exactly?”: Remote Learning and Homeschooling FAQ’s
+
+![Remote Learning FAQS IG.png](/blog/uploads/Remote%20Learning%20FAQS%20IG.png)
+
 If you’re a parent with your school-age children who has struggled with learning at home, we wrote this guide for you. Homeschooling, e-learning, distance learning...whatever you call it, education at home is a tall order. In this article, we present a useful list of the most commonly asked homeschooling questions, with answers that you can put to use today.
 
 Read: “How Does This All Work, Exactly?”: Remote Learning and Homeschooling FAQ’s
