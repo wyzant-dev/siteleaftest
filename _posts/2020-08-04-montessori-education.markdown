@@ -6,7 +6,17 @@ categories:
 tags:
 - Homeschool
 author: Jacqueline Zote
+sub-headline: 'Montessori homeschooling offers plenty of benefits in terms of flexibility
+  while encouraging creativity and independence. '
 hero-image: "/blog/uploads/Montessori%20Education%20Homeschooling.png"
+meta-description: Montessori homeschooling may be among the top choices on your list
+  of homeschool options, because it’s one of the most flexible ways to provide your
+  child with all-round development. Before deciding to use this approach, however,
+  you should understand more about Montessori education and how to apply it to homeschooling.
+post-description: Montessori homeschooling may be among the top choices on your list
+  of homeschool options, because it’s one of the most flexible ways to provide your
+  child with all-round development. Before deciding to use this approach, however,
+  you should understand more about Montessori education and how to apply it to homeschooling.
 ---
 
 For families that want to homeschool their kids, one of the biggest challenges lies in deciding on the [right homeschool approach](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/). Maybe you’re considering eLearning and remote learning to maintain safety during the pandemic or perhaps you want to pool in resources with other parents to form homeschool pods.
