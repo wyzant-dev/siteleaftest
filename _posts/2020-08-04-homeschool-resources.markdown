@@ -63,6 +63,12 @@ With so many misconceptions and rumors around homeschooling, it can be difficult
 
 Read: [Let's Debunk 8 Common Myths about Homeschooling](https://www.wyzant.com/blog/myths-about-homeschooling/)
 
+[![Remote Learning FAQS IG.png](/blog/uploads/Remote%20Learning%20FAQS%20IG.png)](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/)
+
+If you’re a parent with your school-age children who has struggled with learning at home, we wrote this guide for you. Homeschooling, e-learning, distance learning...whatever you call it, education at home is a tall order. In this article, we present a useful list of the most commonly asked homeschooling questions, with answers that you can put to use today.
+
+Read: [“How Does This All Work, Exactly?”: Remote Learning and Homeschooling FAQ’s](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/)
+
 ## Resources for Homeschooling Families
 
 Many states require homeschool parents to have certain qualifications. The best way to learn more about them is to contact your school district. Use this link to search for public school info at the National Center for Educational: [https://nces.ed.gov/ccd/schoolsearch/](https://nces.ed.gov/ccd/schoolsearch/)
@@ -78,9 +84,3 @@ Read: [3 Online Resources to Get Students and Families Ready for “Back to Scho
 When schools began to close in Spring 2020, Wyzant went straight to the experts. We gathered top Homeschool educators on Wyzant to discuss school at home. In our conversation, these professional tutors chat about remote learning and how parents and families can keep their at-home students on a path to success in their education - indispensable advice for any parent considering homeschool.
 
 Watch: [Wyzant Homeschool Roundtable](https://www.wyzant.com/blog/homeschool-roundtable/)
-
-[![Remote Learning FAQS IG.png](/blog/uploads/Remote%20Learning%20FAQS%20IG.png)](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/)
-
-If you’re a parent with your school-age children who has struggled with learning at home, we wrote this guide for you. Homeschooling, e-learning, distance learning...whatever you call it, education at home is a tall order. In this article, we present a useful list of the most commonly asked homeschooling questions, with answers that you can put to use today.
-
-Read: [“How Does This All Work, Exactly?”: Remote Learning and Homeschooling FAQ’s](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/)
