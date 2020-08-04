@@ -55,7 +55,7 @@ It might be on a list of your top choices of homeschool methods, since it’s a 
 
 Read: [Montessori Education – What is It? Why Is It? Will It Work for My Family?](https://www.wyzant.com/blog/montessori-education/)
 
-## Homeschool Myths
+## About Homeschooling
 
 [![Lets Debunk Homeschooling Myths IG.png](/blog/uploads/Lets%20Debunk%20Homeschooling%20Myths%20IG.png)](https://www.wyzant.com/blog/myths-about-homeschooling/)
 
@@ -64,6 +64,8 @@ With so many misconceptions and rumors around homeschooling, it can be difficult
 Read: [Let's Debunk 8 Common Myths about Homeschooling](https://www.wyzant.com/blog/myths-about-homeschooling/)
 
 ## Resources for Homeschooling Families
+
+Many states require homeschool parents to have certain qualifications. The best way to learn more about them is to contact your school district. Use this link to search for public school info at the National Center for Educational: [https://nces.ed.gov/ccd/schoolsearch/](https://nces.ed.gov/ccd/schoolsearch/)
 
 [![3 Online Resources for Back to School IG.png](/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School%20IG.png)](https://www.wyzant.com/blog/online-back-to-school-resources/)
 
