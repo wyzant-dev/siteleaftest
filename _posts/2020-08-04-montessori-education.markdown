@@ -1,7 +1,6 @@
 ---
 title: Montessori Education – What is It? Why Is It? Will It Work for My Family?
 date: 2020-08-04 12:21:00 -05:00
-published: false
 categories:
 - Homeschool
 tags:
