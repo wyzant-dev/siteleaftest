@@ -39,7 +39,7 @@ Many parents are looking for education options that keep their children home thi
 
 On Wyzant alone, we have seen a 2,540% increase in homeschool searches in the last month compared to last year. When deciding how to homeschool, there are many different [options and approaches](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) which we have outlined that work for different families.
 
-From traditional homeschooling to remote learning pods (a rising trend this year) to distance and eLearning, homeschooling gives back an element of control for families in choosing the right curriculum and style that works best for their children. 
+From traditional homeschooling to remote learning pods (a rising trend this year), [Montessori education](https://www.wyzant.com/blog/montessori-education/) to distance and eLearning, homeschooling gives back an element of control for families in choosing the right curriculum and style that works best for their children. 
 
 ## Effective Online Tutoring
 Wyzant's specialty is helping students connect with online tutors who offer personalized, one-on-one private tutoring across hundreds of subject areas. With a disruption to summer camps and activities, we've seen more and more families search for tutoring help on Wyzant to learn something new, upskill, try new hobbies. Here's a brief tour of the features of [Wyzant's online learning](https://www.wyzant.com/blog/online-learning-tool-video/) tool:
