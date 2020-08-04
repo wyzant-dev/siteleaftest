@@ -6,6 +6,7 @@ categories:
 - Homeschool
 tags:
 - Homeschool
+hero-image: "/blog/uploads/Homeschool%20Resource%20Hub.png"
 ---
 
 When it comes to homeschooling, there are no lack of options, opinions, and misconceptions. Homeschooling has changed over the past few years, that much is true. Long considered a radical alternative to traditional public schooling, homeschooling is fast becoming introduced to many families in the US. 
