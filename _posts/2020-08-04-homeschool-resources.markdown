@@ -31,6 +31,9 @@ No matter what learning looks like in the fall, parents are doing their best to 
 Read: 3 Online Resources to Get Students and Families Ready for “Back to School”
 
 ## Which Homeschool Approach is Right for Your Kids?
+
+![Homeschooling Method Right Kids IG.png](/blog/uploads/Homeschooling%20Method%20Right%20Kids%20IG.png)
+
 What can kids and parents expect from the upcoming school year? Hard to say. Many families are seeking out alternative and hybrid education methods for their students. There’s no shortage of homeschool options, though, and some families are making their own, forming teams, learning groups, and playbooks. As parents, how can you really know which style of homeschooling is right for your own kids? Which options are the most effective? Affordable? Most flexible for your family?
 
 Read: Which Homeschool Approach is Right for Your Kids?
