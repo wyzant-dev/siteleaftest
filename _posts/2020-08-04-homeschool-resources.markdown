@@ -39,6 +39,9 @@ What can kids and parents expect from the upcoming school year? Hard to say. Man
 Read: Which Homeschool Approach is Right for Your Kids?
 
 ## WATCH: Wyzant Homeschool Roundtable
+
+![Homeschool Roundtable-3fb46c.png](/blog/uploads/Homeschool%20Roundtable-3fb46c.png)
+
 When schools began to close in Spring 2020, Wyzant went straight to the experts. We gathered top Homeschool educators on Wyzant to discuss school at home. In our conversation, these professional tutors chat about remote learning and how parents and families can keep their at-home students on a path to success in their education - indispensable advice for any parent considering homeschool.
 
 Watch: Wyzant Homeschool Roundtable
