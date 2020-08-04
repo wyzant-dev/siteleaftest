@@ -12,6 +12,9 @@ It might be on a list of your top choices of homeschool methods, since it’s a 
 Read: Montessori Education – What is It? Why Is It? Will It Work for My Family?
 
 ## Let's Debunk 8 Common Myths about Homeschooling
+
+![Lets Debunk Homeschooling Myths IG.png](/blog/uploads/Lets%20Debunk%20Homeschooling%20Myths%20IG.png)
+
 With so many misconceptions and rumors around homeschooling, it can be difficult to see that education at-home is flexible, adaptable, and a lot less mysterious than most people think. To help you make an informed decision about homeschooling - or just learn more about it - it’s worth looking closer at those myths, and get answers for questions like, “Do homeschooled kids learn the same stuff?”, and, “Are all homeschool moms and dads stay-at-home?”
 
 Read Let's Debunk 8 Common Myths about Homeschooling
