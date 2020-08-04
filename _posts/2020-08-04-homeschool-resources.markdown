@@ -38,6 +38,9 @@ Read: 5 Ways COVID-19 Has Changed the Meaning of Tutoring
 
 
 ## Making Sense of the Different Types of Remote Learning
+
+![Different Types of Remote Learning IG.png](/blog/uploads/Different%20Types%20of%20Remote%20Learning%20IG.png)
+
 Remote learning is kind of an umbrella term; a moniker used to describe all kinds of different approaches to non-traditional learning outside the classroom. In most types, students access educational resources online, but there are big differences between each one, and not every style is right for every student. Here's how to spot the differences, what they mean, and ways to make the right call for your kids
 
 Read: Making Sense of the Different Types of Remote Learning
