@@ -25,6 +25,14 @@ School at home can mean a lot of stress: kids having to learn in an unfamiliar m
 
 Read: [How to Homeschool: 8 Important Tips from a Professional Tutor](https://www.wyzant.com/blog/how-to-homeschool/)
 
+[![Different Types of Remote Learning IG.png](/blog/uploads/Different%20Types%20of%20Remote%20Learning%20IG.png)](https://www.wyzant.com/blog/types-of-remote-learning/)
+
+Remote learning is kind of an umbrella term; a moniker used to describe all kinds of different approaches to non-traditional learning outside the classroom. In most types, students access educational resources online, but there are big differences between each one, and not every style is right for every student. Here's how to spot the differences, what they mean, and ways to make the right call for your kids
+
+Read: [Making Sense of the Different Types of Remote Learning](https://www.wyzant.com/blog/types-of-remote-learning/)
+
+## How Tutors Help with Homeschool
+
 [![How Covid 19 Has Changed the Meaning of Tutoring IG.png](/blog/uploads/How%20Covid%2019%20Has%20Changed%20the%20Meaning%20of%20Tutoring%20IG.png)](https://www.wyzant.com/blog/covid-19-tutoring/)
 
 When families needed to keep their kids on the path toward a valuable education, tutors became front and center in a national discussion about how families could keep their students learning, developing, and progressing as their routines and traditional systems of support - the classroom, trusted teachers, and social groups - were turned upside down. COVID-19 has altered education, and tutoring is certainly no exception. In this article, learn what tutors on Wyzant have to say about what they and their students are experiencing. 
@@ -68,12 +76,6 @@ Read: [3 Online Resources to Get Students and Families Ready for “Back to Scho
 When schools began to close in Spring 2020, Wyzant went straight to the experts. We gathered top Homeschool educators on Wyzant to discuss school at home. In our conversation, these professional tutors chat about remote learning and how parents and families can keep their at-home students on a path to success in their education - indispensable advice for any parent considering homeschool.
 
 Watch: [Wyzant Homeschool Roundtable](https://www.wyzant.com/blog/homeschool-roundtable/)
-
-[![Different Types of Remote Learning IG.png](/blog/uploads/Different%20Types%20of%20Remote%20Learning%20IG.png)](https://www.wyzant.com/blog/types-of-remote-learning/)
-
-Remote learning is kind of an umbrella term; a moniker used to describe all kinds of different approaches to non-traditional learning outside the classroom. In most types, students access educational resources online, but there are big differences between each one, and not every style is right for every student. Here's how to spot the differences, what they mean, and ways to make the right call for your kids
-
-Read: [Making Sense of the Different Types of Remote Learning](https://www.wyzant.com/blog/types-of-remote-learning/)
 
 [![Remote Learning FAQS IG.png](/blog/uploads/Remote%20Learning%20FAQS%20IG.png)](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/)
 
