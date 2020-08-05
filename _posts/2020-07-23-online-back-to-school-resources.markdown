@@ -52,4 +52,6 @@ For example: students are taking more than **four times** the number of computer
 
 While we don’t know what the fall or academic year will look like for students and families, we know it will need to be flexible. At Wyzant, we believe in the power of learning that is accessible and easy for everyone to find. 
 
+For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/). 
+
 For help finding a qualified educator to help you manage your own version of homeschool, we'll help you [search, message, and meet](https://www.wyzant.com/match/search) the tutor that fits your exact needs. 
