@@ -1,12 +1,21 @@
 ---
 title: The Wyzant Blog Homeschool Resource Hub
 date: 2020-08-04 14:04:00 -05:00
-published: false
 categories:
 - Homeschool
 tags:
 - Homeschool
+sub-headline: When it comes to homeschooling, there are no lack of options, opinions,
+  and misconceptions. Here's the info that will help it all make sense for your family.
 hero-image: "/blog/uploads/Homeschool%20Resource%20Hub.png"
+meta-description: If you’re wondering if you've got the stuff to homeschool, you’re
+  in good company. Most homeschooling families have asked this same question. We've
+  gathered all the expert homeschool resources published on The Wyzant Blog here to
+  help you get your head around homeschooling.
+post-description: If you’re wondering if you've got the stuff to homeschool, you’re
+  in good company. Most homeschooling families have asked this same question. We've
+  gathered all the expert homeschool resources published on The Wyzant Blog here to
+  help you get your head around homeschooling.
 ---
 
 When it comes to homeschooling, there are no lack of options, opinions, and misconceptions. Homeschooling has changed over the past few years, that much is true. Long considered a radical alternative to traditional public schooling, homeschooling is fast becoming introduced to many families in the US. 
