@@ -81,7 +81,7 @@ Read: [“How Does This All Work, Exactly?”: Remote Learning and Homeschooling
 
 **SPECIAL NEEDS HOMESCHOOLING:** Parents who have a child with learning differences sometimes need different kinds of help with homeschooling in order meet their student's unique needs. There are lots of resources, articles, and other helpful material, at [specialneedshomeschooling.com](specialneedshomeschooling.com)
 
-THE HOMESCHOOL CLASSROOM: This expansive and collaborative blog features numerous contributors on a wide range of homeschool topics, and highlights parenting ideas, child development tips and suggestions, scheduling, organization, planning, and tons of other areas that benefit homeschool families: [hsclassroom.net](hsclassroom.net)
+**THE HOMESCHOOL CLASSROOM:** This expansive and collaborative blog features numerous contributors on a wide range of homeschool topics, and highlights parenting ideas, child development tips and suggestions, scheduling, organization, planning, and tons of other areas that benefit homeschool families: [hsclassroom.net](hsclassroom.net)
 
 [![3 Online Resources for Back to School IG.png](/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School%20IG.png)](https://www.wyzant.com/blog/online-back-to-school-resources/)
 
