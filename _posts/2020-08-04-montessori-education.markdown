@@ -97,3 +97,5 @@ So consider all these factors and decide whether you should switch to a Montesso
 Remember that even if you don’t have the time or training to personally facilitate learning through Montessori homeschooling, you can always look for a Montessori homeschool tutor to help out. This tutor makes it easier for you to facilitate a Montessori education for your kids from the comfort of your home in spite of your hectic schedule.
 
 For those who want to homeschool their kids but still don’t know which approach to take, you can also check out [Wyzant's Homeschool Roundtable](https://www.wyzant.com/blog/homeschool-roundtable/). This in-depth discussion is comprised of a panel of experts who help you navigate through the homeschooling landscape and answer pressing questions on the topic. Make the most of these insights to decide on the best option for your family.
+
+For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/).
