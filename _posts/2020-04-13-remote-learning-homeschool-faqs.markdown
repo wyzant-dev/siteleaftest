@@ -88,7 +88,4 @@ There is no way that face-to-face teaching can be “switched” to remote instr
 
 Students, parents, teachers, and administrators alike are all in this together, and each person can agree on one thing: learning will not look the same as it once did. Everybody’s goal right now is survival—learning is secondary. Some days, learning will focus on washing hands, sanitizing surfaces, and staying inside in order to keep your home and community safer. Learning could be not stressing out about assignments and just letting your kids explore the things that are of interest to them. At times, learning could be simply paying attention to the highs and lows of emotion that will inevitably come from losing the familiarity of routine and human interaction that we all cherish. During these extraordinary times, learning will come to you and your students through the patience, compassion, and support you show each other as you persevere each day. 
 
-
-
-
-
+For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/).
