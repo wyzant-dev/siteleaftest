@@ -73,7 +73,13 @@ Read: [“How Does This All Work, Exactly?”: Remote Learning and Homeschooling
 
 ## Resources for Homeschooling Families
 
-Many states require homeschool parents to have certain qualifications. The best way to learn more about them is to contact your school district. Use this link to search for public school info at the National Center for Educational: [https://nces.ed.gov/ccd/schoolsearch/](https://nces.ed.gov/ccd/schoolsearch/)
+**PUBLIC SCHOOL SEARCH:** Many states require homeschool parents to have certain qualifications. The best way to learn more about them is to contact your school district. Use this link to search for public school info at the National Center for Educational: [https://nces.ed.gov/ccd/schoolsearch/](https://nces.ed.gov/ccd/schoolsearch/)
+
+**HOMESCHOOLING BY STATE:** You can search for homeschool information by state with this easy-to-use map from The Coalition for Responsible Home Education: [responsiblehomeschooling.org/](responsiblehomeschooling.org/)
+
+**PROJECT GUTENBERG:** Families who need reading material can find 60,000 free eBooks on Project Gutenberg, including classics and favorites. This is a time-saving, and money-saving, resource that's useful to anyone educating at home. Find it here: [gutenberg.org](gutenberg.org)
+
+**SPECIAL NEEDS HOMESCHOOLING:** Parents who have a child with learning differences sometimes need different kinds of help with homeschooling in order meet their student's unique needs. There are lots of resources, articles, and other helpful material, at [specialneedshomeschooling.com](specialneedshomeschooling.com)
 
 [![3 Online Resources for Back to School IG.png](/blog/uploads/3%20Online%20Resources%20for%20Back%20to%20School%20IG.png)](https://www.wyzant.com/blog/online-back-to-school-resources/)
 
