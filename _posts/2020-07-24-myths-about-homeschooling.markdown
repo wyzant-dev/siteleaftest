@@ -109,3 +109,5 @@ Over the last few decades, homeschooling in the US has changed dramatically. Fro
 If there's one thing to take away from a discussion of homeschool myths, it's that homeschooling is flexible, adaptable, and much less mysterious than some might have previously assumed.
 
 Every approach to teaching at home offers its own opportunities for kids to continue learning, as well as nurture their own strengths and interests. Homeschooling, in the end, isn't much different than public school. As parents, the well-being and development of your students is paramount. Homeschooling has the chance to create a whole new world of learning opportunities, but like most big endeavors, comes with added responsibility and the need for cooperation. That's why it's important to take into account the truth about homeschooling.
+
+For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/).
