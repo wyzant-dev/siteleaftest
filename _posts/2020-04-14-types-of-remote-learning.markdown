@@ -23,7 +23,7 @@ With the global COVID-19 pandemic requiring educational institutions to remain c
 
 What kind of [at-home learning](https://www.wyzant.com/blog/learning-at-home/) options do students have? Do different phrases mean the same thing? What’s the difference between distance learning and digital education? Isn’t online learning just the same as e-learning? Most importantly, which is the best option for your kid?
 
-You may have a lot of [questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), so check out the different types of remote learning to understand the landscape better.
+You may have a lot of [questions](https://www.wyzant.com/blog/questions-to-ask-tutors/), so check out the different types of remote learning to understand the landscape better. For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/).
 
 ## What is remote learning?
 Remote learning is an umbrella term for all the learning that takes place remotely outside of a traditional classroom setting. It involves a form of learning where the instructor or the source of information and the learner are separated by time and/or distance. There’s minimal to no physical presence involved, as lessons are conducted online, and the information typically gets transmitted through online tools and platforms.
