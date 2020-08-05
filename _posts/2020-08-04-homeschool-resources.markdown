@@ -41,6 +41,8 @@ Read: [5 Ways COVID-19 Has Changed the Meaning of Tutoring](https://www.wyzant.c
 
 ## Homeschooling Methods and Approaches
 
+Many new homeschooling families are surprised to discover a diverse set of educational methods and philosophies from which to draw. Homeschooling's flexibility gives parents and kids the freedom to blend styles to find what works best for their unique needs.
+
 [![Homeschooling Method Right Kids IG.png](/blog/uploads/Homeschooling%20Method%20Right%20Kids%20IG.png)](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/)
 
 What can kids and parents expect from the upcoming school year? Hard to say. Many families are seeking out alternative and hybrid education methods for their students. There’s no shortage of homeschool options, though, and some families are making their own, forming teams, learning groups, and playbooks. As parents, how can you really know which style of homeschooling is right for your own kids? Which options are the most effective? Affordable? Most flexible for your family?
