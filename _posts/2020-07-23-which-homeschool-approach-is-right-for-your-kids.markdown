@@ -40,6 +40,8 @@ Homeschooling (in its various forms) grants parents a higher degree of control o
 
 So while the benefits of homeschooling are clear, it’s important to recognize the key challenge: every family has its own unique needs. There is no “one-size-fits-all” solution. 
 
+For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/).
+
 ## 7 Homeschool Approaches and Their Differences
 
 Parents’ work (and for many, work-from-home) schedules, lack of ability to teach complex subjects, and the struggle to keep kids motivated are just a few of the [major challenges parents say they are facing](https://www.cnbc.com/2020/07/16/parents-say-school-reopening-plans-leave-them-without-any-good-options.html) this school year. Homeschooling will provide parents with some options to satisfy their unique needs.
