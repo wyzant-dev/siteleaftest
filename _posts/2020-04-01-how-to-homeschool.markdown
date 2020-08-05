@@ -95,5 +95,4 @@ Everyone involved is on a steep learning curve right now. In a period of just ov
 
 Not every day will go smoothly, and there will be moments of elevated anxiety for everyone involved. It’s all right if you’re not amazing every day! You and your children are resilient, and all of you will learn important lessons from this unprecedented time in our history.
 
-
-
+For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/).
