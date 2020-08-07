@@ -6,14 +6,6 @@ hero-image: "/blog/uploads/academicheader-028bd7.jpg"
 
 Wyzant connects tutors and students who are seeking tutoring services. We don't facilitate cheating - requests for which can appear in lots of different forms.
 
-## What happens when the Academic Honesty Policy is violated
-
-When a student violates the Academic Honesty Policy (AHP), it puts the student, tutor and Wyzant at risk. We have the Academic Honesty Policy in place to minimize that risk. It’s a tutor’s responsibility to ensure that the services they are providing are in accordance with Wyzant policies.
-
-Because of the seriousness of these kinds of violations, included in the policy is Wyzant’s right to deny, revoke or limit access to the platform to students or tutors who do not abide by the AHP. To avoid being in a position of violating the AHP, when a student asks for assistance that may run against the AHP, we suggest to decline the request. 
-
-When Wyzant is made aware of a request through the platform that conflicts with our posted Academic Honesty Policy, the student’s account is closed. Tutors in contact with the student are notified at that time of the student's "illegitimate inquiry".
-
 We take integrity in education seriously, so we want to address one of the most common reasons a student’s request may not be legitimate: violation of Wyzant’s Academic Honesty Policy.
 
 ## What is the Academic Honesty Policy?
@@ -23,6 +15,14 @@ Wyzant’s [Academic Honesty Policy](https://support.wyzant.com/hc/en-us/article
 As a tutor, it’s important you understand the types of assistance that are not permitted in accordance with the AHP. We'll outline common types of these requests below so you're better able to spot them. In any case, with any type of request or communication from a student using the Wyzant platform that may violate the AHP, the important question to ask is, “Does this student want me to do work **for** them?" 
 
 If the answer winds up being "yes", tutors listed on Wyzant should not continue to provide assistance to the student in question, and have the option to report the communication to Wyzant Customer Support (though this is not a required step).
+
+## What happens when the Academic Honesty Policy is violated
+
+When a student violates the Academic Honesty Policy (AHP), it puts the student, tutor and Wyzant at risk. We have the Academic Honesty Policy in place to minimize that risk. It’s a tutor’s responsibility to ensure that the services they are providing are in accordance with Wyzant policies.
+
+Because of the seriousness of these kinds of violations, included in the policy is Wyzant’s right to deny, revoke or limit access to the platform to students or tutors who do not abide by the AHP. To avoid being in a position of violating the AHP, when a student asks for assistance that may run against the AHP, we suggest to decline the request. 
+
+When Wyzant is made aware of a request through the platform that conflicts with our posted Academic Honesty Policy, the student’s account is closed. Tutors in contact with the student are notified at that time of the student's "illegitimate inquiry".
 
 ## Identifying AHP issues
 
