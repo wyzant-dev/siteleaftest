@@ -10,7 +10,7 @@ We take integrity in education seriously, so we want to address one of the most 
 
 ## What is the Academic Honesty Policy?
 
-Wyzant’s [Academic Honesty Policy](https://support.wyzant.com/hc/en-us/articles/115002086886-Wyzant-Academic-Honesty-Policy) is included in the platform’s [Terms of Use](https://www.wyzant.com/termsofuse). If a tutor assists a student in a way that violates the AHP, it puts all parties - student, tutor, and Wyzant - at risk for a liability claim. This is why academic honesty is clearly outlined in our Terms of Use, and is prohibited on our platform.
+Wyzant’s [Academic Honesty Policy](https://support.wyzant.com/hc/en-us/articles/115002086886-Wyzant-Academic-Honesty-Policy) (AHP) is included in the platform’s [Terms of Use](https://www.wyzant.com/termsofuse). If a tutor assists a student in a way that violates the AHP, it puts all parties - student, tutor, and Wyzant - at risk for a liability claim. This is why academic honesty is clearly outlined in our Terms of Use, and is prohibited on our platform.
 
 As a tutor, it’s important you understand the types of assistance that are not permitted in accordance with the AHP. We'll outline common types of these requests below so you're better able to spot them. In any case, with any type of request or communication from a student using the Wyzant platform that may violate the AHP, the important question to ask is, “Does this student want me to do work **for** them?" 
 
@@ -18,7 +18,7 @@ If the answer winds up being "yes", tutors listed on Wyzant should not continue 
 
 ## What happens when the Academic Honesty Policy is violated
 
-When a student violates the Academic Honesty Policy (AHP), it puts the student, tutor and Wyzant at risk. We have the Academic Honesty Policy in place to minimize that risk. It’s a tutor’s responsibility to ensure that the services they are providing are in accordance with Wyzant policies.
+When a student violates the Academic Honesty Policy, it puts the student, tutor and Wyzant at risk. We have the Academic Honesty Policy in place to minimize that risk. It’s a tutor’s responsibility to ensure that the services they are providing are in accordance with Wyzant policies.
 
 Because of the seriousness of these kinds of violations, included in the policy is Wyzant’s right to deny, revoke or limit access to the platform to students or tutors who do not abide by the AHP. To avoid being in a position of violating the AHP, when a student asks for assistance that may run against the AHP, we suggest to decline the request. 
 
