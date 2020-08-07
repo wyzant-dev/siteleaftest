@@ -62,7 +62,7 @@ Sometimes a student may have a study guide provided by their teacher to help the
 
 Tutors may provide students with proofreading and editing assistance, but here’s a good rule of thumb: if a tutor is expected to *write* or *rewrite* any part of a student’s existing assignment, it is considered academic dishonesty.
 
-## Performing analysis on a student's behalf
+## Performing data analysis on a student's behalf
 
 ![academic6-220de0.PNG](/blog/uploads/academic6-220de0.PNG)
 
