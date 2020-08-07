@@ -6,7 +6,7 @@ hero-image: "/blog/uploads/academicheader-028bd7.jpg"
 
 Wyzant connects tutors and students who are seeking tutoring services. We don't facilitate cheating - requests for which can appear in lots of different forms, among them:
 
-* Asking for help taking a test
+* Asking for help taking a quiz or test
 * Seeking a tutor to write a paper
 * Requesting that a tutor perform project-related tasks
 * Work completion
