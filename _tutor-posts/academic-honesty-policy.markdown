@@ -54,7 +54,7 @@ This is similar to the previous example. Wyzant considers assisting students in 
 
 ![academic4.JPG](/blog/uploads/academic4.JPG)
 
-Sometimes a student may have a study guide provided by their teacher to help them study for an upcoming test. Students can schedule a session where the concepts on the study guide are discussed and reinforced. However, if they request that a tutor simply provide them with answers to questions, it is considered to be work completion, which is a violation of the AHP. 
+Sometimes a student may have a study guide provided by their teacher to help them study for an upcoming test or assignment. Students can schedule a session where the concepts and material on the study guide are discussed and reinforced with their tutor. However, if they request that their tutor simply provide them with answers to questions, either asynchronously or as part of a session, it is considered to be work completion, which is a violation of the AHP. 
 
 ## Writing a student's paper, or a portion of it
 
