@@ -1,6 +1,6 @@
 ---
 title: Understanding Wyzant's Academic Honesty Policy
-date: 2018-08-15 17:46:00 -05:00
+date: 2020-08-07 13:26:00 -05:00
 hero-image: "/blog/uploads/academicheader-028bd7.jpg"
 ---
 
