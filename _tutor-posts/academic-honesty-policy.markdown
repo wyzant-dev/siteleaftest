@@ -66,7 +66,7 @@ Tutors may provide students with proofreading and editing assistance, but hereâ€
 
 ![academic6-220de0.PNG](/blog/uploads/academic6-220de0.PNG)
 
-In this example, a student requesting a tutor perform data analysis or data interpretation for a project on their behalf falls under a request to complete an assignment or research. This is considered as a violation of the AHP and should not be facilitated. 
+In this example, a student requesting a tutor perform data analysis, interpretation, or other kind of task for a project on their behalf falls under a request to complete an assignment or research. This is considered as a violation of the AHP and should not be facilitated. 
 
 ## Reporting Academic Dishonesty 
 We encourage you to [contact Wyzant Customer Support](https://support.wyzant.com/hc/en-us/articles/115005841543-Contact-Us) if you have any concerns about a studentâ€™s tutoring request, or just need further clarification or guidance. We are always happy to help.
