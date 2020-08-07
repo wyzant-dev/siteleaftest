@@ -47,7 +47,7 @@ The short answer is, “Yes”. Assisting a student with taking a test or quiz i
 
 ![academic2.PNG](/blog/uploads/academic2.PNG)
 
-Would helping a student with an open-book test be considered a violation of the AHP? Yes. Since it’s difficult to determine if the “open-book test” is *actually* open-book test, this example would fall under a violation of the AHP policy.
+Would helping a student with an open-book test be considered a violation of the AHP? Yes. Since it’s difficult to determine if the “open-book test” is *actually* an open-book test, this example would fall under a violation of the AHP policy.
 
 ## Helping complete practice exams 
 
