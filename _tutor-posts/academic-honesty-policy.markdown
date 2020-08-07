@@ -41,7 +41,7 @@ Our team errs on the side of caution when there is the appearance of cheating on
 
 Completing a test or quiz on behalf of a student is, clearly, a violation of academic honesty. But let’s say a student indicates that they do not want a tutor to *complete* a test, exam, or quiz for them, but instead wants a tutor to assist them *while they are taking it*. Would this be a violation of our Academic Honesty Policy?
 
-The short answer is, “*Yes*.” Assisting a student with taking a test or quiz in any form is cheating and a violation of the AHP.
+The short answer is, “Yes.” Assisting a student with taking a test or quiz in any form is cheating and a violation of the AHP.
 
 ## Assisting with "open-book" tests or quizzes
 
