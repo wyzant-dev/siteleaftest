@@ -38,11 +38,11 @@ Completing a test or quiz on behalf of a student is, clearly, a violation of aca
 
 The short answer is, “*Yes*.” Assisting a student with taking a test or quiz in any form is cheating and a violation of the AHP.
 
-## Assisting with "open book" tests or quizzes
+## Assisting with "open-book" tests or quizzes
 
 ![academic2.PNG](/blog/uploads/academic2.PNG)
 
-Would helping a student with an open book test be considered a violation of the AHP? Yes. Since it’s difficult to determine if the “open book test” is an *actual* test, this example would fall under a violation of the AHP policy.
+Would helping a student with an open-book test be considered a violation of the AHP? Yes. Since it’s difficult to determine if the “open-book test” is *actually* open-book test, this example would fall under a violation of the AHP policy.
 
 ## Helping complete practice exams 
 
