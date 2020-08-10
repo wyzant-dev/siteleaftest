@@ -6,6 +6,7 @@ categories:
 - Homeschool
 tags:
 - Homeschool
+hero-image: "/blog/uploads/Personalized%20Tutoring%20Homeschool%20Help.png"
 ---
 
 You’re considering hiring a tutor because your child need some help with education at home. The purpose of a tutor is to give private, personalized instruction to accelerate learning, increase retention, and improve academic performance. But there’s more to consider about the power of tutoring for homeschooling families than that.
