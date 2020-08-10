@@ -22,7 +22,7 @@ When it comes to homeschooling, there are no lack of options, opinions, and misc
 
 There are already many students — around 2 million — being home educated, and each one for a variety of different reasons. More are joining the ranks, as homeschooling has become attractive because it's considered a safe alternative. What most homeschooling families (and those just considering the option) share is the desire to offer their kids the best possible education.
 
-If you’re wondering if you've got the stuff to homeschool, you’re in good company. Most homeschooling families have asked this same question. Assuming the responsibility of is a big choice, but it can also be the most rewarding one you'll ever make.
+If you’re wondering if you've got the stuff to homeschool, you’re in good company. Most homeschooling families have asked this same question. Assuming the responsibility is a big choice, but it can also be the most rewarding one you'll ever make.
 
 We've gathered all the expert homeschool resources published on The Wyzant Blog here to help you get your head around homeschooling.
 
