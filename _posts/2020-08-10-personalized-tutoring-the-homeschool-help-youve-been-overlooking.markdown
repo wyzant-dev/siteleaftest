@@ -28,8 +28,9 @@ Regular classwork led by a teacher sets goals, but often these goals conform to 
 
 If a student is performing below the curve while learning at home, a tutor can give additional instruction and support to help them keep up with the class’s pace. If a student is ahead of the curve, the tutor can find bonus material and new goals. This kind of find-tuned, personalized approach is the cornerstone of one-on-one instruction, and can fit into any homeschool plan.
 
-Tutoring helps students unlock their potential during the school year, both in general and specific terms:  It can also help identify interests and talents, so you can plan the rest of their education to best set them up for success.For an adult, a tutor can help you plan your continuing education with your life details. They will 
-look at your work, family, and recreational commitments and set reasonable timelines and goals.
+Tutoring helps at-home students engage and unlock their potential during the school year, both in general and specific terms. It can help identify interests and talents, so you can plan the rest of their education to best set them up for success. 
+
+In strictly homeschool terms, a tutor will help you look objectively at your kid's education, family's goals and capabilities, and educational milestones important to every student. They can help your family set reasonable timelines and manage time effectively, which takes a lot of skill and hard work, for even seasoned homeschoolers.
 
 ## 3. Bridging the Support Gap
 
