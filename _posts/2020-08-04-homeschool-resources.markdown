@@ -48,6 +48,12 @@ When families needed to keep their kids on the path toward a valuable education,
 
 Read: [5 Ways COVID-19 Has Changed the Meaning of Tutoring](https://www.wyzant.com/blog/covid-19-tutoring/)
 
+[![Personalized Tutoring Homeschool Help IG.png](/blog/uploads/Personalized%20Tutoring%20Homeschool%20Help%20IG.png)](https://www.wyzant.com/blog/tutoring-homeschool-help/)
+
+There are certain things most parents expect from any tutor: accountability, subject expertise, and that special something that ignites a love for learning in their children. But did you know that tutoring can be an essential part of a homeschooling plan? In this article, we dive into seven concrete benefits of tutoring for any family who is tackling education outside the classroom. 
+
+Read: Personalized Tutoring: [The Homeschool Help You've Been Looking For](https://www.wyzant.com/blog/tutoring-homeschool-help/) 
+
 ## Homeschooling Methods and Approaches
 
 Many new homeschooling families are surprised to discover a diverse set of educational methods and philosophies from which to draw. Homeschooling's flexibility gives parents and kids the freedom to blend styles to find what works best for their unique needs.
