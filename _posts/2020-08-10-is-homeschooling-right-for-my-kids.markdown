@@ -19,13 +19,21 @@ We hope this chance to watch our in-depth talk with experienced educators on Wyz
 
 ## Our Panel of Educators
 
-Pam S. is a certified teacher in Pennsylvania and Texas. She holds two Masters degrees from Wilkes University - one in Technology and the other in Leadership. Pam has taught middle school math and science, and tutored homeschooled students, for more than 20 years. 
+![Pam S Tutor Photo and Bio](/blog/uploads/HS%20Carousel%202.png)
 
-Arthur E. graduated from Westminster with a major in Chemistry, and now works with National Geographic to produce educational videos that inspire children to learn more about the world around us. In addition, he's traveled to Mexico, Costa Rica, Colombia, Spain, Italy, France, Germany, and Argentina to practice language. Arthur has tutored more than 830 hours on Wyzant.
+[Pam S.](https://www.wyzant.com/match/tutor/87489653) is a certified teacher in Pennsylvania and Texas. She holds two Masters degrees from Wilkes University - one in Technology and the other in Leadership. Pam has taught middle school math and science, and tutored homeschooled students, for more than 20 years. 
 
-Abigail C. pursued her education in Mathematics and Statistics at MIT and UAlbany, and has logged an astonishing 8,000 hours tutoring on Wyzant. She's spent 12 years as an educator specializing in SAT/ACT and other standardized test prep.
+![Arthur E tutor photo and bio](/blog/uploads/HS%20Carousel%203.png)
 
-Patrick M. earned a B.A. from Rice University and holds his MBA from CU-Boulder. He's a published author and full-time tutor with more than 7,600 hours of lessons under his belt. Patrick's philosophy is to help students find approaches to learning, studying and academic success that are attuned to their individuality. 
+[Arthur E.](https://www.wyzant.com/match/tutor/76727080) graduated from Westminster with a major in Chemistry, and now works with National Geographic to produce educational videos that inspire children to learn more about the world around us. In addition, he's traveled to Mexico, Costa Rica, Colombia, Spain, Italy, France, Germany, and Argentina to practice language. Arthur has tutored more than 830 hours on Wyzant.
+
+![Abigail C tutor photo and bio](/blog/uploads/HS%20Carousel%204.png)
+
+[Abigail C.](https://www.wyzant.com/match/tutor/76077800) pursued her education in Mathematics and Statistics at MIT and UAlbany, and has logged an astonishing 8,000 hours tutoring on Wyzant. She's spent 12 years as an educator specializing in SAT/ACT and other standardized test prep.
+
+![Patrick M tutor photo and bio](/blog/uploads/HS%20Carousel%205.png)
+
+[Patrick M.](https://www.wyzant.com/match/tutor/78154630) earned a B.A. from Rice University and holds his MBA from CU-Boulder. He's a published author and full-time tutor with more than 7,600 hours of lessons under his belt. Patrick's philosophy is to help students find approaches to learning, studying and academic success that are attuned to their individuality. 
 
 ## Homeschool Q&A Topics
 
