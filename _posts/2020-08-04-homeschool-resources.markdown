@@ -28,6 +28,14 @@ We've gathered all the expert homeschool resources published on The Wyzant Blog 
 
 ## How to Homeschool
 
+[![Two young students being taught by a tutor with the words Homeschooling Tutor Concierge](/blog/uploads/Homeschool%20Concierge%20IG.png)](https://startlearning.wyzant.com/groupconcierge/)
+
+We've launched a **free** Homeschooling Tutor Concierge Service for families that allows Wyzant to help you connect with the perfect educator for your family’s homeschool plans this fall. 
+
+Whether you’re partnering with other parents in the community, a  “homeschool pod”, or want long-term support for your kids regardless of how school shapes up this year, our Concierge takes the guesswork out of finding the perfect support for your unique goals. 
+
+Find out more: [Group & Individual Homeschooling Tutor Concierge](https://startlearning.wyzant.com/groupconcierge/)
+
 [![How to Homeschool IG.png](/blog/uploads/How%20to%20Homeschool%20IG.png)](https://www.wyzant.com/blog/how-to-homeschool/)
 
 School at home can mean a lot of stress: kids having to learn in an unfamiliar manner; their parents feeling the pressure of trying to oversee something as important as their education. Now that homeschool is becoming a reality for many families, parents and children are bearing a level of responsibility they’re not used to. We asked a professional tutor to help us understand the things families can do, and the resources they can use, to feel comfortable with learning at home. 
