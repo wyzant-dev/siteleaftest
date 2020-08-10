@@ -5,9 +5,9 @@ categories:
 - Homeschool
 tags:
 - Homeschool
-meta-title: For kids who are schooled at home, a tutor provides a coach, a personalized
-  learning plan, and most importantly, structure and accountability.
 author: Jessie Lipeon
+sub-headline: For kids who are schooled at home, a tutor provides a coach, a personalized
+  learning plan, and most importantly, structure and accountability.
 hero-image: "/blog/uploads/Personalized%20Tutoring%20Homeschool%20Help.png"
 meta-description: The purpose of a tutor is to give private, personalized instruction
   to accelerate learning, increase retention, and improve academic performance. But
