@@ -6,8 +6,8 @@ categories:
 - Homeschool
 tags:
 - Homeschool
-sub-headline: Look no further than a panel of professional educators to find answers
-  to your biggest homeschool questions.
+sub-headline: We spent some time with professional educators to find answers to your
+  biggest homeschool questions.
 hero-image: "/blog/uploads/Homeschool%20QA%20Hero.png"
 meta-description: 'Look no further than a homeschooling tutor to ensure you manage
   school at home effectively. We hope this chance to watch our in-depth talk with
