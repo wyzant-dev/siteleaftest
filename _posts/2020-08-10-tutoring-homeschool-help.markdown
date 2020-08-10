@@ -57,7 +57,7 @@ The relationship with a tutor can broaden students' horizons. and help them dive
 
 In his landmark book *Outliers*, Malcolm Gladwell discussed how children identified early as talented and gifted receive special treatment. That special treatment enhances performance, which supports the identification that the child is unique, creating a self-reinforcing upward spiral of achievement.
 
-*Outliers* demonstrated that this occurs in academics, sports, and professional fields. A tutor for your child can help position them similarly, and by doing so, inspire their growth. Whether it's reviewing concepts, preparing for tests, or diving into a subject that just interests a student, tutoring can propel your homeschooled kids toward new ideas, and through them, new horizons.
+*Outliers* demonstrated that this occurs in academics, sports, and professional fields. A tutor for your child can help position them similarly, and by doing so, inspire their growth. Whether it's reviewing concepts, preparing for tests, or diving into a subject that just interests a student, tutoring can propel your homeschooled kids toward new ideas, and through them, new horizons in the same way that professional coaching can [propel your career.](https://www.moneycrashers.com/improve-career-prospects-reach-work-goals/)
 
 ## 5. Providing Education Role Models
 
