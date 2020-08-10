@@ -21,11 +21,13 @@ post-description: The purpose of a tutor is to give private, personalized instru
 
 You’re considering hiring a tutor because your child need some help with education at home. The purpose of a tutor is to give private, personalized instruction to accelerate learning, increase retention, and improve academic performance. But there’s more to consider about the power of tutoring for homeschooling families than that.
 
-Anyone who participated in sports had that one coach who taught them valuable life lessons. The right tutor can have the same kind of impact. Here are seven key benefits of hiring a tutor to help with remote learning, homeschooling, or any school at home approach that works for your kids.
+For all the resources and information about homeschooling on The Wyzant Blog, check out our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/).
+
+Anyone who participated in sports had that one coach who taught them valuable life lessons. The right tutor can have the same kind of impact. Here are seven key benefits of hiring a tutor to help with remote learning, [homeschooling](https://www.wyzant.com/blog/how-to-homeschool/), or any [school at home approach](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) that works for your kids.
 
 ## 1. Personalized Accountability
 
-Some people are self-starters. They get things done on time with no motivation but their sense of accomplishment. Those people are rare. For the rest of us, somebody to hold us accountable can be valuable.
+Some people are self-starters. They get things done on time with no motivation but their sense of accomplishment. Those people are rare. For the rest of us, somebody to [hold us accountable](https://www.inc.com/marissa-levin/5-ways-to-make-your-accountability-partnership-work-2-ways-to-ruin-it.html) can be valuable.
 
 For kids who are schooled at home, a tutor provides a personalized deadline for completing assignments and other material for regulars "check-ins". Teachers set the same type of deadlines, but don’t have the time to make them personally relevant - especially given that their students, for the most part, are attending class virtually.
 
@@ -75,7 +77,7 @@ You’re more likely to go to the gym if you have an appointment with a personal
 
 Similarly, when a student has a general syllabus on a term-long schedule, it becomes easy to put off work in favor of other things. This is especially true in the case of homeschooling - accountability and adherence to a structured schedule is the key factor in homeschool success. A tutor provides a weekly (or more frequent) check-in - the kind of consistency that students need in order to stay engaged with their schoolwork.
 
-Subdividing long-term projects into short-term goals is a tried and true tactic for managing time and resources. The natural structure of frequent, personal meetings with a tutor helps you do precisely that. For kids schooled at home, this is a matter of checking in on progress, setting new goals, and celebrating successes. As a parent, you have a lot to worry about without focusing on the minutiae of a study schedule. A tutor can make sense of your child's class syllabus, determine an appropriate approach that aligns with your kid's learning style, and plan sessions accordingly.
+Subdividing long-term projects into short-term goals is a tried and true tactic for managing time and [resources](https://www.wyzant.com/blog/online-back-to-school-resources/). The natural structure of frequent, personal meetings with a tutor helps you do precisely that. For kids schooled at home, this is a matter of checking in on progress, setting new goals, and celebrating successes. As a parent, you have a lot to worry about without focusing on the minutiae of a study schedule. A tutor can make sense of your child's class syllabus, determine an appropriate approach that aligns with your kid's learning style, and plan sessions accordingly.
 
 This results in a kind of flexibility only found with private tutoring. Each session, your homeschooled students "touch base" with accountability to your family's schedule, their learning goals, and working together, you, your child, and your tutor can make adjustments based on how things shift and change.
 
