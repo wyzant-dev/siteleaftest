@@ -1,5 +1,5 @@
 ---
-title: 'Personalized Tutoring: The Homeschool Help You''ve Been Overlooking'
+title: 'Personalized Tutoring: The Homeschool Help You''ve Been Looking For'
 date: 2020-08-10 07:04:00 -05:00
 published: false
 categories:
