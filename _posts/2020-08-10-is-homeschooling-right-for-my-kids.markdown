@@ -55,18 +55,17 @@ We hope this chance to watch our in-depth talk with experienced educators on Wyz
 
 Over the course of an hour, panelists took questions live from the audience on a number of topics, and engaged in an advice-filled and down-to-earth discussion packed with information families considering homeschooling can immediately use. Here are a few conversation highlights:
 
-
-How does homeschooling benefit kids? Families?
-What makes “homeschool” in Fall 2020 different from “traditional” homeschool?
-What are some homeschooling pros and cons?
-How can I find my child’s learning style while homeschooling?
-How, specifically, do tutors fit into “new” homeschooling this fall?
-What are your own methods that parents can use to keep their kids on-task and learning?
-What are your biggest time management tips for homeschool families? 
-What ways can parents try in order to manage their time effectively?
-How do you make sure you’re covering “everything”?
-How can I keep learning interesting and enjoyable for my kids?
-As educators, what’s your most important advice to parents who are considering homeschool in the fall?
+* How does homeschooling benefit kids? Families?
+* What makes “homeschool” in Fall 2020 different from “traditional” homeschool?
+* What are some homeschooling pros and cons?
+* How can I find my child’s learning style while homeschooling?
+* How, specifically, do tutors fit into “new” homeschooling this fall?
+* What are your own methods that parents can use to keep their kids on-task and learning?
+* What are your biggest time management tips for homeschool families? 
+* What ways can parents try in order to manage their time effectively?
+* How do you make sure you’re covering “everything”?
+* How can I keep learning interesting and enjoyable for my kids?
+* As educators, what’s your most important advice to parents who are considering homeschool in the fall?
 
 ## Homeschooling Tutor Concierge
 
