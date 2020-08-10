@@ -26,7 +26,19 @@ If you’re wondering if you've got the stuff to homeschool, you’re in good co
 
 We've gathered all the expert homeschool resources published on The Wyzant Blog here to help you get your head around homeschooling.
 
-## How to Homeschool
+## How Tutors Help with Homeschool
+
+[![How Covid 19 Has Changed the Meaning of Tutoring IG.png](/blog/uploads/How%20Covid%2019%20Has%20Changed%20the%20Meaning%20of%20Tutoring%20IG.png)](https://www.wyzant.com/blog/covid-19-tutoring/)
+
+When families needed to keep their kids on the path toward a valuable education, tutors became front and center in a national discussion about how families could keep their students learning, developing, and progressing as their routines and traditional systems of support - the classroom, trusted teachers, and social groups - were turned upside down. COVID-19 has altered education, and tutoring is certainly no exception. In this article, learn what tutors on Wyzant have to say about what they and their students are experiencing. 
+
+Read: [5 Ways COVID-19 Has Changed the Meaning of Tutoring](https://www.wyzant.com/blog/covid-19-tutoring/)
+
+[![Personalized Tutoring Homeschool Help IG.png](/blog/uploads/Personalized%20Tutoring%20Homeschool%20Help%20IG.png)](https://www.wyzant.com/blog/tutoring-homeschool-help/)
+
+There are certain things most parents expect from any tutor: accountability, subject expertise, and that special something that ignites a love for learning in their children. But did you know that tutoring can be an essential part of a homeschooling plan? In this article, we dive into seven concrete benefits of tutoring for any family who is tackling education outside the classroom. 
+
+Read: [Personalized Tutoring: The Homeschool Help You've Been Looking For](https://www.wyzant.com/blog/tutoring-homeschool-help/) 
 
 [![Two young students being taught by a tutor with the words Homeschooling Tutor Concierge](/blog/uploads/Homeschool%20Concierge%20IG.png)](https://startlearning.wyzant.com/groupconcierge/)
 
@@ -35,6 +47,8 @@ We've launched a **free** Homeschooling Tutor Concierge Service for families tha
 Whether you’re partnering with other parents in the community, a  “homeschool pod”, or want long-term support for your kids regardless of how school shapes up this year, our Concierge takes the guesswork out of finding the perfect support for your unique goals. 
 
 Find out more: [Group & Individual Homeschooling Tutor Concierge](https://startlearning.wyzant.com/groupconcierge/)
+
+## How to Homeschool
 
 [![How to Homeschool IG.png](/blog/uploads/How%20to%20Homeschool%20IG.png)](https://www.wyzant.com/blog/how-to-homeschool/)
 
@@ -53,20 +67,6 @@ Read: [Making Sense of the Different Types of Remote Learning](https://www.wyzan
 On July 30th, 2020, we held a free live Q&A with professional homeschooling educators. Hosted by Wyzant President Elaine Richards, our panel of homeschool educators answered questions from the Wyzant community about a topic many families are thinking about as back-to-school plans for Fall 2020 continue in flux: How can you be sure homeschooling is right for your kids?
 
 Watch: [WyzChat Live Q&A - "How Can I Be Sure Homeschooling Is Right for My Kids?"](https://www.wyzant.com/blog/is-homeschooling-right-for-my-kids/)
-
-## How Tutors Help with Homeschool
-
-[![How Covid 19 Has Changed the Meaning of Tutoring IG.png](/blog/uploads/How%20Covid%2019%20Has%20Changed%20the%20Meaning%20of%20Tutoring%20IG.png)](https://www.wyzant.com/blog/covid-19-tutoring/)
-
-When families needed to keep their kids on the path toward a valuable education, tutors became front and center in a national discussion about how families could keep their students learning, developing, and progressing as their routines and traditional systems of support - the classroom, trusted teachers, and social groups - were turned upside down. COVID-19 has altered education, and tutoring is certainly no exception. In this article, learn what tutors on Wyzant have to say about what they and their students are experiencing. 
-
-Read: [5 Ways COVID-19 Has Changed the Meaning of Tutoring](https://www.wyzant.com/blog/covid-19-tutoring/)
-
-[![Personalized Tutoring Homeschool Help IG.png](/blog/uploads/Personalized%20Tutoring%20Homeschool%20Help%20IG.png)](https://www.wyzant.com/blog/tutoring-homeschool-help/)
-
-There are certain things most parents expect from any tutor: accountability, subject expertise, and that special something that ignites a love for learning in their children. But did you know that tutoring can be an essential part of a homeschooling plan? In this article, we dive into seven concrete benefits of tutoring for any family who is tackling education outside the classroom. 
-
-Read: [Personalized Tutoring: The Homeschool Help You've Been Looking For](https://www.wyzant.com/blog/tutoring-homeschool-help/) 
 
 ## Homeschooling Methods and Approaches
 
