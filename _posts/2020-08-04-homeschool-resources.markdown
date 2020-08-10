@@ -40,6 +40,12 @@ Remote learning is kind of an umbrella term; a moniker used to describe all kind
 
 Read: [Making Sense of the Different Types of Remote Learning](https://www.wyzant.com/blog/types-of-remote-learning/)
 
+![An image of four tutors with the words Is Homeschooling Right for My Kids](/blog/uploads/Homeschool%20QA%20Hero-758ab4.png)
+
+On July 30th, 2020, we held a free live Q&A with professional homeschooling educators. Hosted by Wyzant President Elaine Richards, our panel of homeschool educators answered questions from the Wyzant community about a topic many families are thinking about as back-to-school plans for Fall 2020 continue in flux: How can you be sure homeschooling is right for your kids?
+
+Watch: [WyzChat Live Q&A - "How Can I Be Sure Homeschooling Is Right for My Kids?"](https://www.wyzant.com/blog/is-homeschooling-right-for-my-kids/)
+
 ## How Tutors Help with Homeschool
 
 [![How Covid 19 Has Changed the Meaning of Tutoring IG.png](/blog/uploads/How%20Covid%2019%20Has%20Changed%20the%20Meaning%20of%20Tutoring%20IG.png)](https://www.wyzant.com/blog/covid-19-tutoring/)
