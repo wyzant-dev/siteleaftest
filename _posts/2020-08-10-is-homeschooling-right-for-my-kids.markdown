@@ -3,6 +3,7 @@ title: 'WATCH: WyzChat Live Q&A - "How Can I Be Sure Homeschooling Is Right for 
   Kids?"'
 date: 2020-08-10 10:01:00 -05:00
 published: false
+hero-image: "/blog/uploads/Homeschool%20QA%20Hero.png"
 ---
 
 On July 30th, 2020, Wyzant hosted a free live Q&A with professional homeschooling educators. Hosted by President Elaine Richards, our panel answered questions from the Wyzant community about a topic on the minds of many families in the US as the pandemic puts back-to-school plans in flux: how can you be sure [homeschooling](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) is right for your kids? 
