@@ -8,19 +8,27 @@ tags:
 - Homeschool
 ---
 
-You’re considering hiring a tutor because you or your child need some help with one or more academic subjects. The purpose of a tutor is to give private, personalized instruction to accelerate learning, increase retention, and improve academic performance. But there’s more to it than that. Anyone who participated in sports had that one coach who taught them valuable life lessons. The right tutor can have the same kind of impact. Here are seven benefits of hiring a tutor.
+You’re considering hiring a tutor because your child need some help with education at home. The purpose of a tutor is to give private, personalized instruction to accelerate learning, increase retention, and improve academic performance. But there’s more to consider about the power of tutoring for homeschooling families than that.
+
+Anyone who participated in sports had that one coach who taught them valuable life lessons. The right tutor can have the same kind of impact. Here are seven key benefits of hiring a tutor to help with remote learning, homeschooling, or any school at home approach that works for your kids.
 
 ## 1. Personalized Accountability
 
-Some people are self-starters. They get things done on time with no motivation but their sense of accomplishment. Those people are rare. For the rest of us, somebody to hold us accountablecan be valuable. With children, a tutor provides a personalized deadline for completing homework and research for in-person check-in. Teachers set deadlines but don’t have the time to make them personally relevant. As a parent, you’re often navigating deep waters in your relationship with your child. A tutor has one job besides instructing: providing accountability support.For an adult, it comes down to the money. If your tutor gives you an assignment, you get less from your investment if you skip the task.
+Some people are self-starters. They get things done on time with no motivation but their sense of accomplishment. Those people are rare. For the rest of us, somebody to hold us accountable can be valuable.
+
+For kids who are schooled at home, a tutor provides a personalized deadline for completing assignments and other material for regulars "check-ins". Teachers set the same type of deadlines, but don’t have the time to make them personally relevant - especially given that their students, for the most part, are attending class virtually.
+
+As a parent, you’re often navigating deep waters in your relationship with your child. A tutor has one job besides instructing: providing accountability. Tutors are educators, and fill a different role than teachers or parents - that puts them in a unique position to support students in ways they're used to. 
+
+The relationship between tutor and student is foundational to success. It's the bond that creates trust and respect...both essential for students to learn effectively.
 
 ## 2. Identifying Appropriate Goals
 
-Regular classwork led by a teacher sets goals to conform to the mean. The tasks are items the average student can accomplish, given the tools and timeline. It’s necessary, given the realities of a teacher’s classroom, but it’s only appropriate for a handful of students in the center of the curve.
+Regular classwork led by a teacher sets goals, but often these goals conform to the mean, or average acceptable performance. The tasks are items most student can accomplish, given the tools and timeline. This kind of goal-setting is necessary, given the realities of a teacher’s classroom, but for a handful of students in the center of the curve, there may be room to more clearly identify what's important for individual success.
 
-If a student is below the curve, a tutor can give additional instruction and support to help them keep up with the class’s pace. If a student is ahead of the curve, the tutor can find bonus material and new goals. This kind of find-tuned approach is best with one-on-one instruction.
+If a student is performing below the curve while learning at home, a tutor can give additional instruction and support to help them keep up with the class’s pace. If a student is ahead of the curve, the tutor can find bonus material and new goals. This kind of find-tuned, personalized approach is the cornerstone of one-on-one instruction, and can fit into any homeschool plan.
 
-This will help children unlock their potential during the school year, both in general and specific terms. It will generally help keep their GPA up. It can also help identify interests and talents, so you can plan the rest of their education to best set them up for success.For an adult, a tutor can help you plan your continuing education with your life details. They will 
+Tutoring helps students unlock their potential during the school year, both in general and specific terms:  It can also help identify interests and talents, so you can plan the rest of their education to best set them up for success.For an adult, a tutor can help you plan your continuing education with your life details. They will 
 look at your work, family, and recreational commitments and set reasonable timelines and goals.
 
 ## 3. Bridging the Support Gap
