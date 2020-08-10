@@ -1,12 +1,22 @@
 ---
 title: 'Personalized Tutoring: The Homeschool Help You''ve Been Looking For'
 date: 2020-08-10 07:04:00 -05:00
-published: false
 categories:
 - Homeschool
 tags:
 - Homeschool
+meta-title: For kids who are schooled at home, a tutor provides a coach, a personalized
+  learning plan, and most importantly, structure and accountability.
+author: Jessie Lipeon
 hero-image: "/blog/uploads/Personalized%20Tutoring%20Homeschool%20Help.png"
+meta-description: The purpose of a tutor is to give private, personalized instruction
+  to accelerate learning, increase retention, and improve academic performance. But
+  there’s more to consider about the power (and structure) of tutoring for homeschooling
+  families than that.
+post-description: The purpose of a tutor is to give private, personalized instruction
+  to accelerate learning, increase retention, and improve academic performance. But
+  there’s more to consider about the power (and structure) of tutoring for homeschooling
+  families than that.
 ---
 
 You’re considering hiring a tutor because your child need some help with education at home. The purpose of a tutor is to give private, personalized instruction to accelerate learning, increase retention, and improve academic performance. But there’s more to consider about the power of tutoring for homeschooling families than that.
