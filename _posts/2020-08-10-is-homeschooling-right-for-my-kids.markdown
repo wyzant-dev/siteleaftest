@@ -5,11 +5,13 @@ date: 2020-08-10 10:01:00 -05:00
 published: false
 ---
 
-On July 30th, 2020, Wyzant hosted a free live Q&A with professional homeschooling educators. Hosted by President Elaine Richards, our panel answered questions from the Wyzant community about a topic on the minds of many families in the US as the pandemic puts back-to-school plans in flux: how can you be sure homeschooling is right for your kids? 
+On July 30th, 2020, Wyzant hosted a free live Q&A with professional homeschooling educators. Hosted by President Elaine Richards, our panel answered questions from the Wyzant community about a topic on the minds of many families in the US as the pandemic puts back-to-school plans in flux: how can you be sure [homeschooling](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) is right for your kids? 
 
-According to a recent Real Clear Opinion Poll, 40% of the 2,122 families surveyed said they plan to homeschool their children in the fall of 2020. That trend continues to grow, and parents understandably are looking for support. 
+According to a recent Real Clear Opinion Poll, 40% of the 2,122 families surveyed said they plan to homeschool their children in the fall of 2020. That trend continues to grow, and since there are so many [misconceptions about homeschooling](https://www.wyzant.com/blog/myths-about-homeschooling/), parents understandably are looking for support. 
 
-For kids who are learning at home (and parents who’ve become educators), a tutor provides a coach, a personalized learning plan, and most importantly, structure and accountability. For those families who are going the homeschool route, a tutor can help objectively enhance your kid’s education, and provide structure for your family’s goals and capabilities. Look no further than a personal “homeschool coach” to ensure that you set reasonable timelines and manage time effectively - which takes a lot of skill and hard work, for even seasoned homeschoolers.
+For kids who are learning at home (and parents who’ve become educators), a [tutor provides a coach](https://www.wyzant.com/blog/tutoring-homeschool-help/), a personalized learning plan, and most importantly, structure and accountability. For those families who are going the homeschool route, a tutor can help objectively enhance your kid’s education, and provide structure for your family’s goals and capabilities. 
+
+Look no further than a personal “homeschool coach” to ensure that you set reasonable timelines and manage time effectively - which takes a lot of skill and hard work, for even seasoned homeschoolers.
 
 We hope this chance to watch our in-depth talk with experienced educators on Wyzant results in some useful and actionable advice for your family. 
 
@@ -50,4 +52,4 @@ Just tell us a little about what kind of help you’re looking for, and a member
 
 ## More Homeschool Help
 
-In order to help you make an informed decision about what’s best for your own kids, check out all the resources about remote learning, homeschooling, and other important topics at our Homeschool Resource Hub. 
+In order to help you make an informed decision about what’s best for your own kids, check out all the [resources](https://www.wyzant.com/blog/online-back-to-school-resources/) about remote learning, homeschooling, and other important topics at our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/). 
