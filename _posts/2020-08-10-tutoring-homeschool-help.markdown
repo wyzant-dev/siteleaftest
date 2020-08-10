@@ -34,31 +34,48 @@ In strictly homeschool terms, a tutor will help you look objectively at your kid
 
 ## 3. Bridging the Support Gap
 
-A tutor can help gifted students further explore their interests and develop their skills.For children, it provides an intelligent, interested study partner to guide them through advanced materials both from class and for self-study. It can provide instruction on topics that aren’t available to the child.Adults are no longer part of the school system, and highly intelligent adults can benefit from tutors. This relationship can broaden their horizons and help them dive even deeper into their area of specialization.
+A tutor can help any student. But for gifted students, working with a private tutor can help them further explore their interests and develop their skills. 
+
+For children, this brand of customized support provides an intelligent, interested study partner to guide them through advanced materials (both from class and for self-study). Tutoring can provide instruction on topics that excite your student, even if it strays a little beyond standard curriculum material. All of this helps children move toward subject mastery.
+
+The relationship with a tutor can broaden students' horizons. and help them dive even deeper into areas that ignite their love of learning.
 
 ## 4. Enhanced Performance
 
-In his landmark book “Outliers,” Malcolm Gladwell proved that children identified early as talented and gifted receive special treatment. That special treatment enhances performance, which supports the identification that the child is unique, creating a self-reinforcing upward spiral of achievement. “Outliers” proved this occurs in academics, sports, and professional fields. A tutor for your child can position them as talented and gifted, and they may receive special treatment accordingly, further spurring their growth.Adults can benefit from this at work using the same concept. Whether taking on a new job, a new responsibility, or a new topic, getting the tutoring necessary can propel your career.
+In his landmark book *Outliers*, Malcolm Gladwell discussed how children identified early as talented and gifted receive special treatment. That special treatment enhances performance, which supports the identification that the child is unique, creating a self-reinforcing upward spiral of achievement.
 
-## 5. It Shows Investment
+*Outliers* demonstrated that this occurs in academics, sports, and professional fields. A tutor for your child can help position them similarly, and by doing so, inspire their growth. Whether it's reviewing concepts, preparing for tests, or diving into a subject that just interests a student, tutoring can propel your homeschooled kids toward new ideas, and through them, new horizons.
 
-The opposite of the above is also exact. If a child at school, or an adult at work, is identified as slacking off or untalented, it makes success a challenge for them. Their achievements are ignored or written off as flukes, while every failure is evidence the original assessment was correct. For children, having a tutor fights this predicament in three ways. First, it makes up for the lack of committed instruction in the classroom through personal help. Second, it improves the quality of work. Finally, once a teacher realizes the student has a tutor, they will understand the student is invested in success and may treat them differently.Adults get all the same benefits, but your supervisor won’t know you have a tutor unless you 
-mention it in passing. It’s worth doing so; your willingness to spend your own time and money to improve performance will be noticed.
+## 5. Providing Education Role Models
 
-## 6. Structure and Schedule
+The opposite of the above can also be true. If a child at school is identified as "slacking off" or in need of improvement, it makes success a challenge for them. Their achievements are overlooked, while their failures are often cited as evidence for why an original assessment of "Needs Improvement" was correct.
 
-You’re more likely to go to the gym if you have an appointment with a personal trainer than if you only go by yourself. Similarly, when a student has a general syllabus on a term-long schedule, it becomes easy to put off work in favor of other things — which is even more true of adults with adult responsibilities. A tutor provides a weekly (or more frequent) check-in.
+For children, having a tutor counteracts this predicament in three ways.
 
-Subdividing long-term projects into short-term goals is a tried and true tactic for managing time and resources. The natural structure of frequent, personal meetings with a tutor helps you do precisely that. For kids, this is mostly a matter of checking in on progress. As a parent, you have a lot to worry about without focusing on the minutiae of a study schedule. The tutor can look at the class syllabus, set a program, and plan sessions accordingly.
+First, tutoring bolsters and enhances instruction in the classroom through personalized help.
 
-Adults will find this benefit especially useful because of the demands of adult life. The tutor can help you set a work, study, family, and play schedule based on your life’s specific and individual needs. Each week, they can hold you accountable to that schedule and help you make adjustments based on how things shift and change.
+Second, it improves the overall quality of a student's work. 
 
-## 7. An Interested Observer
+Finally, tutoring models commitment and focus for students - things kids need as their educational journey continues.
 
-A tutor provides an extra set of eyes, noticing changes in practice and other warning signs abouta child. A tutor might see something other adults haven’t noticed. It’s a good idea to schedule a monthly or quarterly session with your child’s tutor so you can check in on what the tutor has observed. As an adult, a tutor can help you see things about your study habits, goals, priorities, and careerthat you lack the outside perspective to notice. This can help you not just with the specific topic in which you’re being tutored, but in success with life in general.
+## 6. Enhanced Structure and Organization
 
-## Final ThoughtS
+You’re more likely to go to the gym if you have an appointment with a personal trainer than if you only go by yourself, right?
 
-These side benefits of hiring a tutor are powerful. They’re so powerful that some families don’t wait until a student falls behind before hiring one. Instead, they find an excellent tutor to work with the student on whatever topics they want the most help with, have the most trouble with, or even want to push from good performance to excellent progress. A quality tutor, as we said, is like a good coach. The things they teach about the subject you hire them for can be among the least essential lessons they impart.
+Similarly, when a student has a general syllabus on a term-long schedule, it becomes easy to put off work in favor of other things. This is especially true in the case of homeschooling - accountability and adherence to a structured schedule is the key factor in homeschool success. A tutor provides a weekly (or more frequent) check-in - the kind of consistency that students need in order to stay engaged with their schoolwork.
+
+Subdividing long-term projects into short-term goals is a tried and true tactic for managing time and resources. The natural structure of frequent, personal meetings with a tutor helps you do precisely that. For kids schooled at home, this is a matter of checking in on progress, setting new goals, and celebrating successes. As a parent, you have a lot to worry about without focusing on the minutiae of a study schedule. A tutor can make sense of your child's class syllabus, determine an appropriate approach that aligns with your kid's learning style, and plan sessions accordingly.
+
+This results in a kind of flexibility only found with private tutoring. Each session, your homeschooled students "touch base" with accountability to your family's schedule, their learning goals, and working together, you, your child, and your tutor can make adjustments based on how things shift and change.
+
+## 7. Objective Observation
+
+A tutor provides an extra set of eyes, noticing changes in practice and other warning signs about a child's progress in their education. It’s a good idea to schedule a monthly or quarterly session with your child’s tutor so you can check in on what the tutor has observed.
+
+What kind of progress has been made? How should you change course as your student grows and absorbs new material? Whats working? What's not? There are many items on a potential checklist for a homeschool tutor check-in. The right instructor will help you not just with the specific subjects your student is learning, but in success with their everyday life in general.
+
+## Hiring a Tutor for Homeschooling
+
+The benefits of hiring a tutor are powerful. Besides the obvious structure that regular sessions provide both your student and your family, the improvements to a homeschool kid's overall educational approach and level at which they can engage with schoolwork even though it's happening at home are numerous. Tutors are so effective that that many families don’t wait until a student falls behind before hiring one. Instead, they find an excellent tutor to work with their student on topics they want the most help with, have the most trouble with, or subjects in which they want to make excellent progress. A [quality homeschool tutor](https://www.wyzant.com/Homeschool_tutors.aspx) teaching your student the subject you hire them for can be among the least impressive lessons they impart! 
 
 *Jessie Lipeon is an engineer in Ohio and has personally hired several tutors for his four school-age children. He also hired a tutor when he took on a new project five years ago.*
