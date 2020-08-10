@@ -56,6 +56,8 @@ As educators, what’s your most important advice to parents who are considering
 
 We recently launched a new Homeschool Concierge Service for families that allows Wyzant to connect you with the perfect educator for your family's homeschool education plan this fall. Whether you're partnering with a “homeschool pod”, a team of other parents in your community, or need some long-term support for your kids, our Concierge takes the guesswork out of finding the perfect private tutor for your family's at-home education goals.
 
+[![An image of a woman helping a male child learn to write that reads Group and Individual Homeschooling Tutor Concierge](/blog/uploads/Group%20HS%20Concierge%20Paid%20Social%201080%20x%201080.png)](https://startlearning.wyzant.com/groupconcierge/)
+
 Just tell us a little about what kind of help you’re looking for, and a member of our Concierge team will reach out to help you connect with tutors with the right stuff. 
 
 ## More Homeschool Help
