@@ -40,7 +40,7 @@ For children, this brand of customized support provides an intelligent, interest
 
 The relationship with a tutor can broaden students' horizons. and help them dive even deeper into areas that ignite their love of learning.
 
-## 4. Enhanced Performance
+## 4. Enhancing Performance
 
 In his landmark book *Outliers*, Malcolm Gladwell discussed how children identified early as talented and gifted receive special treatment. That special treatment enhances performance, which supports the identification that the child is unique, creating a self-reinforcing upward spiral of achievement.
 
