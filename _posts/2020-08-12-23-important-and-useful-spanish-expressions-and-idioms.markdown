@@ -33,6 +33,7 @@ There are hundreds of Spanish slang words that vary according to different count
 * *Ayer me desperté y fui a correr al toque.* - Yesterday I woke up and went for a run immediately.
 * *Miguel, ven a mi casa al toque por favor.* - Miguel, come to my house right away, please!
 * *Juntémonos al tiro!* - Let’s get together immediately!
+
 ### 2. Tío/tía 
 *Tío* and *tía* mean uncle and aunt, respectively. Yes, they are commonly used with their literal translations when referring to family members. However, they become slang when referring to friends.
 
