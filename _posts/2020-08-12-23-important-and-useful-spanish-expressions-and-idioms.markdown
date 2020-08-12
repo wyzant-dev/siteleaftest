@@ -11,9 +11,9 @@ tags:
 author: Gissela Tomasello
 ---
 
-Have you ever watched a show in Spanish and heard words that you were not familiar with? Or been surrounded by native Spanish speakers and picked up phrases that you never caught before?
+Have you ever watched a show in Spanish and heard words that you were not familiar with? Or been surrounded by native Spanish speakers and picked up [phrases](https://www.wyzant.com/blog/spanish-words-and-phrases/) that you never caught before?
 
-Spanish is a diverse language. It uses a wide variety of expressions, idioms, and slangs to communicate ideas, feelings, and opinions. Some have similar use in English, and some have rough equivalents in English but use different vocabulary and grammar, and therefore don’t many don’t make any sense when translated into English!
+Spanish is a [diverse language](https://www.wyzant.com/blog/tips-for-learning-Spanish/). It uses a wide variety of expressions, idioms, and slangs to communicate ideas, feelings, and opinions. Some have similar use in English, and some have rough equivalents in English but use different vocabulary and grammar, and therefore don’t many don’t make any sense when translated into English!
 
 These kinds of idioms and colloquialisms form a big part of the Hispanic culture and are continuously used. There are a large number of Spanish expressions. They also vary according to different Spanish-speaking countries. A slang word from one Spanish speaking country can mean something completely different in another country. However, many can be used internationally.
 
@@ -47,7 +47,7 @@ Many Spanish slang phrases don’t make much sense when translated into English.
 
 Let’s see its direct translation, “it falls me fat.” The reflexive verb “cause” means to fall; when an object or a person falls to the ground. However, the verb *caerse* is also used to express if we like someone or not. *Gordo* means fat. But when used as slang in this phrase, it is not related to physical weight.
 
-Consequently, when someone says *él me cae gordo* it means “I don’t like him.” It also slightly conjugates differently when referring to the third person singular of the present tense *ella me cae gorda* which means “I don’t like her.” We can also use the plural conjugation *ellos me caen gordos* which means “I don’t like them. 
+Consequently, when someone says *él me cae gordo* it means “I don’t like him.” It also slightly conjugates differently when referring to the third person singular of the [present tense](https://www.wyzant.com/blog/spanish-present-tense/) *ella me cae gorda* which means “I don’t like her.” We can also use the plural conjugation *ellos me caen gordos* which means “I don’t like them. 
 
 Here some examples:
 
@@ -86,7 +86,7 @@ The direct translation of this idiom is “to give a cat for a hare.” It impli
 
 This idiom came from a long time ago when butchers used to sell meats of cats saying it was hare, as they are similar. Consequently, this idiom means to trick someone giving something with less value than the thing paid for.
 
-The English equivalent for this expression would be “to take someone for a ride.” The verb *dar* (to give) will adjust when speaking in the present, preterite, or future. Let’s look at some examples:
+The English equivalent for this expression would be “to take someone for a ride.” The verb *dar* (to give) will adjust when speaking in the present, [preterite](https://www.wyzant.com/blog/preterite-vs-imperfect/), or future. Let’s look at some examples:
 
 * *¿Vas a comprar un carro usado? Asegúrate que no te den gato por liebre.* - Are you going to buy a used car? Make sure that they don’t take you for a ride.
 * *En la tienda a Karina le dieron gato por liebre.* - In the store, they took Karina for a ride.
@@ -270,7 +270,7 @@ Here’s an example:
 
 ## Practice Your Idioms and Expressions
 Now that you’ve reviewed some of the most useful Spanish expressions and idioms, it is time to practice. One way on to learn Spanish fast is by practicing Spanish vocabulary and phrases each and every day. Write in your journal and try to incorporate an idiom or proverb based on experiences of your daily life.
-Also, practice during Spanish tutoring and include these idiomatic expressions during conversations and exercises in the Spanish lesson.
+Also, [practice during Spanish tutoring](https://www.wyzant.com/Spanish_tutors.aspx) and include these idiomatic expressions during conversations and exercises in the Spanish lesson.
 
 Practicing and learning the language online is rewarding, especially if we have these tools to help us sound more like a native Spanish speaker.
 
