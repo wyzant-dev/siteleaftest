@@ -9,6 +9,16 @@ tags:
 - Spanish
 - Language Learning
 author: Gissela Tomasello
+sub-headline: Have fun using these idiomatic expressions on your journey of learning
+  Spanish. ¡Qué emoción!
+meta-description: Idioms and expressions form a big part of the Hispanic culture and
+  are continuously used, but vary according to different Spanish-speaking countries.
+  A slang word from one Spanish-speaking country can mean something completely different
+  in another country. Here's what to learn, and how to practice.
+post-description: Idioms and expressions form a big part of the Hispanic culture and
+  are continuously used, but vary according to different Spanish-speaking countries.
+  A slang word from one Spanish-speaking country can mean something completely different
+  in another country. Here's what to learn, and how to practice.
 ---
 
 Have you ever watched a show in Spanish and heard words that you were not familiar with? Or been surrounded by native Spanish speakers and picked up [phrases](https://www.wyzant.com/blog/spanish-words-and-phrases/) that you never caught before?
