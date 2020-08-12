@@ -19,7 +19,7 @@ These kinds of idioms and colloquialisms form a big part of the Hispanic culture
 
 This article will provide a super useful guide to learning useful Spanish expressions and idioms that will help understand and communicate in the language in a flawless way.
 
-## Spanish Slangs
+## Spanish Slang
 There are hundreds of Spanish slang words that vary according to different countries. However, the following will show the most common and useful Spanish slangs.
 
 ### 1. Al toque/al tiro
