@@ -108,6 +108,7 @@ Let’s check the following examples:
 
 * *El examen de historia fue pan comido.* - The history exam was a piece of cake.
 * *Susana dijo que el proyecto era difícil, pero yo pienso que era pan comido.* - Susana said that the project was difficult, but I think it was a piece of cake.
+
 ### 5. No tener pelos en la lengua
 
 Literally translates to “not having hair in the tongue.” There is no specific event that tells the origin of this idiom, but there is an explanation.
