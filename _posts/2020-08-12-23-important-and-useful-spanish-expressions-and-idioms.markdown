@@ -53,6 +53,7 @@ Here some examples:
 
 * *Rodrigo es fastidioso. Me cae gordo.* - Rodrigo is annoying. I don’t like him.
 * *Yo no quiero ir a la casa de Jimena porque me cae gorda.* - I don’t want to go to Jimena’s house because I don’t like her.
+
 ### 4. Me importa un pepino/pimiento
 *Me importa* derives from the verb *importarse*, which means “to care”. *Me importa* is conjugated in the first person singular of the present tense “I care.”
 
