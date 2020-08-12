@@ -11,6 +11,7 @@ tags:
 author: Gissela Tomasello
 sub-headline: Have fun using these idiomatic expressions on your journey of learning
   Spanish. ¡Qué emoción!
+hero-image: "/blog/uploads/Spanish%20Idioms%20and%20Expressions.png"
 meta-description: Idioms and expressions form a big part of the Hispanic culture and
   are continuously used, but vary according to different Spanish-speaking countries.
   A slang word from one Spanish-speaking country can mean something completely different
