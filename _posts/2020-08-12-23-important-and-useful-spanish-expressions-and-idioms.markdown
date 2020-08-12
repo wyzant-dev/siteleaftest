@@ -246,6 +246,7 @@ Here an example:
 
 * A: *Estos pendientes que me regaló Sabrina son muy anticuados.* - “These earrings that Sabrina gave me are out of style.”
 * B. *No lo creo. Además, recuerda que a caballo regalado no se le mira el diente.* - “I don’t think so. Also remember, don’t look a gift horse in the mouth.”
+
 ### 2. A palabras necias, oídos sordos 
 This proverb translates as “to foolish words, deaf ears.”
 
