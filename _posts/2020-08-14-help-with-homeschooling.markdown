@@ -6,6 +6,17 @@ categories:
 - Homeschool
 tags:
 - Homeschool
+author: Jonathan Reidenouer
+sub-headline: Because tutors provide personalized education, they develop a keen understanding
+  of what makes each student tick. That's the secret to successful homeschooling.
+meta-description: 'Leaders in education from around the world are already saying that
+  remote learning is the future, and that the pandemic has forced educators to rethink
+  assessment. Homeschool tutors offer more than just expertise and direction: they
+  provide peace of mind for the future.'
+post-description: 'Leaders in education from around the world are already saying that
+  remote learning is the future, and that the pandemic has forced educators to rethink
+  assessment. Homeschool tutors offer more than just expertise and direction: they
+  provide peace of mind for the future.'
 ---
 
 Heading into the 2020-21 school year, the term that keeps popping up is uncertainty. At a time when everyone usually settles back into a familiar routine, students, parents, teachers, and administrators alike are now unsure of themselves. Confused or conflicted about how to manage the COVID-19 pandemic, school districts can’t seem to figure out what to do. Parents want answers, but there is so little that can be stated with any certainty. 
