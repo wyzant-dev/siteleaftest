@@ -1,7 +1,6 @@
 ---
 title: Need Help With Homeschooling? You Need a Tutor.
 date: 2020-08-14 08:42:00 -05:00
-published: false
 categories:
 - Homeschool
 tags:
@@ -46,7 +45,7 @@ What’s the biggest value of a tutor? More than anything else, it’s expertise
 
 Expertise is developed through both training and experience. The more extensive the training and experience, the more effective the tutoring techniques that can be implemented during lessons. Those familiar with homeschool instruction will also be able to provide insight on which homeschool curriculum to use and what additional resources are available. You may feel as if you’re flying blind, but there are a host of skilled tutors out there eager to offer guidance.
 
-Before you consider any other factors when looking for a homeschool tutor, make sure the person you hire can explain concepts, methods, and strategies in a way that your children understand. While it’s definitely important for tutors to build relationships with students, nothing can be built if the foundation is faulty: the nicest person will be ineffective if he or she can’t actually teach the material.
+Before you consider any other factors when looking for a homeschool tutor, make sure the person you hire can explain concepts, [methods](https://www.wyzant.com/blog/montessori-education/), and strategies in a way that your children understand. While it’s definitely important for tutors to build relationships with students, nothing can be built if the foundation is faulty: the nicest person will be ineffective if he or she can’t actually teach the material.
 
 ## Homeschool tutors can also help with assessment, time management, motivation, and communication
 
