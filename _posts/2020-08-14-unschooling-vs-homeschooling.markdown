@@ -1,7 +1,6 @@
 ---
 title: Unschooling Vs. Homeschooling
 date: 2020-08-14 10:08:00 -05:00
-published: false
 categories:
 - Homeschool
 tags:
