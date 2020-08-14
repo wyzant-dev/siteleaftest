@@ -6,6 +6,7 @@ categories:
 - Homeschool
 tags:
 - Homeschool
+author: Jacqueline Zote
 sub-headline: If you feel your kids do well with more structure, you could opt for
   a traditional homeschooling approach. If you're looking for the freedom to let them
   explore their curiosity and creativity, unschooling might be right.
