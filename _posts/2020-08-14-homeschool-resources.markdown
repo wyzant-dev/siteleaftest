@@ -36,6 +36,14 @@ Whether you’re partnering with other parents in the community, a  “homeschoo
 
 Find out more: [Group & Individual Homeschooling Tutor Concierge](https://startlearning.wyzant.com/groupconcierge/)
 
+[![Need Homeschooling Help You Need a Tutor IG.png](/blog/uploads/Need%20Homeschooling%20Help%20You%20Need%20a%20Tutor%20IG.png)](https://www.wyzant.com/blog/help-with-homeschooling/)
+
+Because tutors provide personalized sessions, they develop a deep understanding of how an individual student learns best. That's the secret to successful homeschooling.
+
+Education leaders are already saying that remote learning is the future, and that the pandemic has forced educators to rethink assessment. Homeschool tutors offer more than just expertise and direction: they provide peace of mind for that future.
+
+Read: [Need Help With Homeschooling? You Need a Tutor.](https://www.wyzant.com/blog/help-with-homeschooling/)
+
 [![How Covid 19 Has Changed the Meaning of Tutoring IG.png](/blog/uploads/How%20Covid%2019%20Has%20Changed%20the%20Meaning%20of%20Tutoring%20IG.png)](https://www.wyzant.com/blog/covid-19-tutoring/)
 
 When families needed to keep their kids on the path toward a valuable education, tutors became front and center in a national discussion about how families could keep their students learning, developing, and progressing as their routines and traditional systems of support - the classroom, trusted teachers, and social groups - were turned upside down. COVID-19 has altered education, and tutoring is certainly no exception. In this article, learn what tutors on Wyzant have to say about what they and their students are experiencing. 
