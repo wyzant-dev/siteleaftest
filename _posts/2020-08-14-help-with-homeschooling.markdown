@@ -34,7 +34,11 @@ If parents have learned anything from the shutdown late last school year, it’s
 
 The word homeschool sometimes evokes a sense of confusion or even negative association, but it’s really just referring to [education that takes place in the home](https://www.wyzant.com/blog/myths-about-homeschooling/) rather than in a centralized school building. If you’re a parent who has never considered homeschool, then you most likely experienced a baptism by fire back in March when states had to close all the local schools. Now that you have a somewhat better grasp of [what online learning is](https://www.wyzant.com/blog/types-of-remote-learning/), you want to know how to get started homeschooling. 
 
-How do tutors help students? Not only do they have years of experience to draw on, but they also provide a level of teaching expertise that the average parent does not have. No matter what age range or subject within the K12 homeschool spectrum, there are tutors with that area of specialization who can assist parents. The task of overseeing the online education of multiple students in the home is a daunting task for those parents who never signed up for conventional homeschool. By bringing on an expert tutor, parents can ease their anxiety with the assurance that their kids’s educational needs are being met. 
+### How do tutors help homeschooled students?
+
+Not only do they have years of experience to draw on, but they also provide a level of teaching expertise that the average parent does not have. No matter what age range or subject within the K12 homeschool spectrum, there are tutors with that area of specialization who can assist parents.
+
+The task of overseeing the online education of multiple students in the home is a daunting task for those parents who never signed up for conventional homeschool. By bringing on an expert tutor, parents can ease their anxiety with the assurance that their kids’s educational needs are being met. 
 
 ## Expertise and experience are the primary benefits of a personal tutor 
 
