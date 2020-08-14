@@ -9,6 +9,7 @@ tags:
 author: Jonathan Reidenouer
 sub-headline: Because tutors provide personalized education, they develop a keen understanding
   of what makes each student tick. That's the secret to successful homeschooling.
+hero-image: "/blog/uploads/Need%20Homeschooling%20Help%20You%20Need%20a%20Tutor.png"
 meta-description: 'Leaders in education from around the world are already saying that
   remote learning is the future, and that the pandemic has forced educators to rethink
   assessment. Homeschool tutors offer more than just expertise and direction: they
