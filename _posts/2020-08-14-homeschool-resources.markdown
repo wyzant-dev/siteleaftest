@@ -80,7 +80,7 @@ Read: [Which Homeschool Approach is Right for Your Kids?](https://www.wyzant.com
 
 [![Unschooling vs homeschooling](/blog/uploads/Unschooling%20vs%20homrschooling%20IG.png)](https://www.wyzant.com/blog/unschooling-vs-homeschooling/)
 
-If you feel your kids need structure, a traditional homeschooling approach may work for your family. If you're looking to give yourat-home students freedom to let them explore their curiosity and creativity, unschooling might be more your speed. There are lots of differences between unschooling and homeschooling, so let’s take a closer look at each method separately, and examine how they're similar, and where they diverge into two separate education paths.
+If you feel your kids need structure, a traditional homeschooling approach may work for your family. If you're looking to give your at-home students freedom to let them explore their curiosity and creativity, unschooling might be more your speed. There are lots of differences between unschooling and homeschooling, so let’s take a closer look at each method separately, and examine how they're similar, and where they diverge into two separate education paths.
 
 Read: [Unschooling Vs. Homeschooling](https://www.wyzant.com/blog/unschooling-vs-homeschooling/)
 
