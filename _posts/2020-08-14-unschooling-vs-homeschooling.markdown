@@ -9,6 +9,7 @@ tags:
 sub-headline: If you feel your kids do well with more structure, you could opt for
   a traditional homeschooling approach. If you're looking for the freedom to let them
   explore their curiosity and creativity, unschooling might be right.
+hero-image: "/blog/uploads/Unschooling%20vs%20homeschooling.png"
 meta-description: 'To better understand the differences between unschooling vs. homeschooling,
   let’s take a closer look at each method separately, and examine how they''re similar,
   and where they diverge into two separate education paths. '
