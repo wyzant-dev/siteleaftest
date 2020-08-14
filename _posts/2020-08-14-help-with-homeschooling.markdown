@@ -24,7 +24,7 @@ Heading into the 2020-21 school year, the term that keeps popping up is uncertai
 
 Nothing seems definite now as school officials scramble to figure out just what education will look like in the upcoming school year. Due to this hesitation, some families are turning to homeschooling. After having gone through a crash course on [remote learning](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/) in the spring, some parents feel like they have a better handle on what to expect. What many of them have recognized, however, is that they need significant homeschool help in order to provide quality education for their kids. 
 
-Tutoring websites are blowing up with requests for homeschool tutors. Some parents are coordinating to create “homeschool pods” where several children from different families can meet together for learning. Others are seeking an experienced private tutor who can work one-on-one with their children on a regular basis. 
+Tutoring websites are blowing up with requests for homeschool tutors. Some parents are coordinating to create “homeschool pods” where several children from different families can meet together for learning. Many, many families turn to [webinars from educators](https://www.wyzant.com/blog/is-homeschooling-right-for-my-kids/) and school districts to help them organize their ideas around homeschool. Others are seeking an experienced private tutor who can work one-on-one with their children on a regular basis. 
 
 We compiled a huge guide to [all the homeschooling resources](https://www.wyzant.com/blog/homeschool-resources/) on The Wyzant Blog, so head there after you're finished with this article for more useful info you can start using today. 
 
