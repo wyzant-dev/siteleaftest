@@ -36,7 +36,7 @@ The word homeschool sometimes evokes a sense of confusion or even negative assoc
 
 ### How do tutors help homeschooled students?
 
-Not only do they have years of experience to draw on, but they also provide a level of teaching expertise that the average parent does not have. No matter what age range or subject within the K12 homeschool spectrum, there are tutors with that area of specialization who can assist parents.
+Not only do they have years of experience to draw on, but they also [provide a level of teaching expertise](https://www.wyzant.com/blog/tutoring-homeschool-help/) that the average parent does not have. No matter what age range or subject within the K12 homeschool spectrum, there are tutors with that area of specialization who can assist parents.
 
 The task of overseeing the online education of multiple students in the home is a daunting task for those parents who never signed up for conventional homeschool. By bringing on an expert tutor, parents can ease their anxiety with the assurance that their kids’s educational needs are being met. 
 
