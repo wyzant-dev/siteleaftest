@@ -30,7 +30,7 @@ As learning takes place at home, it is also a form of homeschooling. However, un
 Unschooling was pioneered by educator John Holt, who coined the term in the 1970s. Although the method may occasionally involve systematic teaching on certain courses, it sets aside conventional grading systems and standard curricula.
 
 ## What is Homeschooling?
-Simply put, homeschooling refers to a form of education in which learning takes place at home rather than at an institutionalized school.  Also known as home education, it involves parents or tutors teaching the students or acting as facilitators to their learning. 
+Simply put, homeschooling refers to a form of education in which learning takes place at home rather than at an institutionalized school.  Also known as home education, it involves parents or [tutors teaching the students](https://www.wyzant.com/Homeschool_tutors.aspx) or acting as facilitators to their learning. 
 
 There are several [homeschooling approaches](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) that parents can choose from depending on their needs, viewpoints, values, and convenience. Unschooling, for instance, is a form of homeschooling that takes a rather unconventional approach to education where students direct the learning instead of following a strict curriculum.
 
