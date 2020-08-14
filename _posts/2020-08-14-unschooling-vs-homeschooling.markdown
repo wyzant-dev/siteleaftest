@@ -19,7 +19,7 @@ post-description: 'To better understand the differences between unschooling vs. 
   and where they diverge into two separate education paths. '
 ---
 
-With the pandemic still at large, parents are feeling the need to find the right ways to educate their kids while ensuring their safety. Even if schools reopen, sending kids back might not be the best solution as it puts them at risk even with proper safety measures in place. A lot of families are considering options to educate their kids at home, which is where the unschooling vs. homeschooling question comes in.
+Now that the fall back-to-school season has officially arrived, parents are feeling the need to find the right ways to educate their kids while ensuring their safety. Even if schools reopen, sending kids back might not be the best solution as it puts them at risk even with proper safety measures in place. A lot of families are considering options to educate their kids at home, which is where the unschooling vs. homeschooling question comes in.
 
 Here's a detailed comparison between unschooling vs. homeschooling to help you make the right choice. 
 
