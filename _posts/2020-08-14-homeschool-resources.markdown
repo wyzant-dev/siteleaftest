@@ -1,6 +1,6 @@
 ---
 title: The Wyzant Blog Homeschool Resource Hub
-date: 2020-08-04 14:04:00 -05:00
+date: 2020-08-14 10:51:00 -05:00
 categories:
 - Homeschool
 tags:
@@ -77,6 +77,12 @@ Many new homeschooling families are surprised to discover a diverse set of educa
 What can kids and parents expect from the upcoming school year? Hard to say. Many families are seeking out alternative and hybrid education methods for their students. There’s no shortage of homeschool options, though, and some families are making their own, forming teams, learning groups, and playbooks. As parents, how can you really know which style of homeschooling is right for your own kids? Which options are the most effective? Affordable? Most flexible for your family?
 
 Read: [Which Homeschool Approach is Right for Your Kids?](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/)
+
+[![Unschooling vs homeschooling](/blog/uploads/Unschooling%20vs%20homrschooling%20IG.png)](https://www.wyzant.com/blog/unschooling-vs-homeschooling/)
+
+If you feel your kids need structure, a traditional homeschooling approach may work for your family. If you're looking to give yourat-home students freedom to let them explore their curiosity and creativity, unschooling might be more your speed. There are lots of differences between unschooling and homeschooling, so let’s take a closer look at each method separately, and examine how they're similar, and where they diverge into two separate education paths.
+
+Read: [Unschooling Vs. Homeschooling](https://www.wyzant.com/blog/unschooling-vs-homeschooling/)
 
 [![Montessori Education Homeschooling IG.png](/blog/uploads/Montessori%20Education%20Homeschooling%20IG.png)](https://www.wyzant.com/blog/montessori-education/)
 
