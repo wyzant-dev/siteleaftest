@@ -57,10 +57,10 @@ Every state has its own academic standards for each subject, and keeping track o
 ### Management of courses and schedules
 As a parent, you know that there are many other concerns in the home than simply your children’s education. Maybe you’re already working from home, or you have little kids that need special attention. Then there’s preparing food, doing the laundry, keeping the house clean and safe—you know the responsibilities of raising a family. Trying to keep track of your homeschool students while tending to all those other things can be mentally and physically draining. If any of that rings true, you’ll be glad to know that a homeschool tutor will take care of the “classroom management” so that your kids are working on the right subjects at the right times.
 
-###Academic authority and motivation
+### Academic authority and motivation
 If you’re like most parents, you probably noticed that your kids don’t really respect your “teaching.” When they were all home during the spring shutdown, they just couldn’t receive instruction from Mom and Dad. Tutors can provide a degree of authority that parents can’t because they oversee only one area of students’ lives. Moreover, they are able to tap into your kids’ inner motivation by appealing to clearly defined goals, rather than demanding, asking, or begging them to do their work just for the sake of getting it done.
 
-###Peace of mind
+### Peace of mind
 Do you recall that feeling of confusion and helplessness you had when schools were closed earlier in the year? Now is the time to get out ahead of things and avoid those feelings. Knowing that your children are being cared for by an experienced, skilled personal tutor will alleviate much of that anxiety.
 
 ## Strong relationships drive more effective learning
