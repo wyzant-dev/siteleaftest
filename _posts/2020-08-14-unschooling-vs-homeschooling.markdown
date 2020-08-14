@@ -21,10 +21,10 @@ post-description: 'To better understand the differences between unschooling vs. 
 
 Now that the fall back-to-school season has officially arrived, parents are feeling the need to find the right ways to educate their kids while ensuring their safety. Even if schools reopen, sending kids back might not be the best solution as it puts them at risk even with proper safety measures in place. A lot of families are considering options to educate their kids at home, which is where the unschooling vs. homeschooling question comes in.
 
-Here's a detailed comparison between unschooling vs. homeschooling to help you make the right choice. 
+To better understand the differences between unschooling vs. homeschooling, let’s take a closer look at each method separately. 
 
 ## What is Unschooling?
-To better understand the differences between unschooling vs. homeschooling, let’s take a closer look at each method separately. The simplest explanation for unschooling is as a free-form learning model centered on the student. That means the lesson plans and activities largely depend on what the student wants to learn rather than following a set curriculum.
+The simplest explanation for unschooling is as a free-form learning model centered on the student. That means lesson plans and activities largely depend on what the student wants to learn rather than following a set curriculum.
 
 As learning takes place at home, it is also a form of homeschooling. However, unschooling stands apart from other forms of home education in that there’s no teacher or curriculum to direct the student’s learning. Rather, parents who unschool their kids will act as facilitators and provide resources based on what the student wants to learn.
 
