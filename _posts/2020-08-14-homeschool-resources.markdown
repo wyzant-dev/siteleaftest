@@ -76,6 +76,12 @@ On July 30th, 2020, we held a free live Q&A with professional homeschooling educ
 
 Watch: [WyzChat Live Q&A - "How Can I Be Sure Homeschooling Is Right for My Kids?"](https://www.wyzant.com/blog/is-homeschooling-right-for-my-kids/)
 
+[![What Are Manipulatives.png](/blog/uploads/What%20Are%20Manipulatives.png)](https://www.wyzant.com/blog/what-are-manipulatives/)
+
+Manipulatives are a powerful tool to keep your child engaged in math. Use what you have and skills you use in everyday life to make math as much fun as possible. Manipulatives are objects that are intended to help students learn math concept hands-one. They can come in many forms, and are utilized in endless ways.
+
+Read: [What Are Manipulatives? How to Make Homeschool Math Hands-On, Creative, and Fun!](https://www.wyzant.com/blog/what-are-manipulatives/)
+
 ## Homeschooling Methods and Approaches
 
 Many new homeschooling families are surprised to discover a diverse set of educational methods and philosophies from which to draw. Homeschooling's flexibility gives parents and kids the freedom to blend styles to find what works best for their unique needs.
