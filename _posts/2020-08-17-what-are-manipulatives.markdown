@@ -84,7 +84,7 @@ They also can be used to learn the basic operations in math - addition, subtract
 For young students, give them eight cubes of different colors and ask them to create a pattern. To teach perimeter to a 4th grader, ask them to make a rectangle that has a length of 3 cubes and a width of 4 cubes, and then ask for both the perimeter and area. 
 
 ### 5. One hundred chart/grid
-This chart can be used in so many ways! Children can learn how to count up or down between numbers up to 100, how to skip count to teach multiplication and what multiples are, and number patterns. 
+[This chart](https://www.superteacherworksheets.com/hundreds-chart.html) can be used in so many ways! Children can learn how to count up or down between numbers up to 100, how to skip count to teach multiplication and what multiples are, and number patterns.
 
 You can also play Multiplication Bingo by stating a fact – let’s say 4 x 5. Your child should then place a small object on the product of 20. 
 
