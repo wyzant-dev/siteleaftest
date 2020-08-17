@@ -1,5 +1,5 @@
 ---
-title: What Are Manipulatives? How to make Homeschool Math Hands-On, Creative, and
+title: What Are Manipulatives? How to Make Homeschool Math Hands-On, Creative, and
   Fun!
 date: 2020-08-17 13:55:00 -05:00
 categories:
