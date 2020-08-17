@@ -92,20 +92,23 @@ You can also play Multiplication Bingo by stating a fact – let’s say 4 x 5. 
 [Number lines](https://apps.mathlearningcenter.org/number-line/) show positive and negative integers. Younger children can use number lines to learn how to count and add and subtract. Having a number line to write on can help do this.  
 
 Older children can number lines it to help with integer addition and subtraction. Seeing concepts visually and working out how to move forwards and backwards from an integer make it easier to grasp as a concept. 
+
 Here’s an example using -7 + 3 = -4. 
 
 These are not, of course, the only manipulatives that are useful in teaching math! Counting bears, scales, and dot grids are a few more manipulatives your child may have experience using in their math classroom. Whatever you use, find manipulatives that excite your at-home students, are interesting, and can be used for other math topics so that you can have the biggest bang for your buck. 
+
 ## Manipulatives in Homeschooling
 Parents may not be able to buy the manipulatives that teachers and tutors use. That’s okay! You can use everyday household items. They still give your child the same hands-on experience that is desired from the manipulatives above to keep the learning engaging.
 
 Some items include: 
-beans – various types of beans can be good for creating patterns; counting; basic operations; ratios
-clothing – have your child create a bar graph/table showing how many shirts, jeans, dresses, shoes, etc. 
-coins – counting; teaching money and value
-M&M’s or Skittles – useful for counting, basic operations, ratios. You can also be your child’s best friend. 
-cereal – before eating, your child can learn about volume and filling up the bowl with a cup, pint or gallon of milk. 
+* Beans – various types of beans can be good for creating patterns; counting; basic operations; ratios
+* Clothing – have your child create a bar graph/table showing how many shirts, jeans, dresses, shoes, etc. 
+* Coins – counting; teaching money and value
+* M&M’s or Skittles – useful for counting, basic operations, ratios. You can also be your child’s best friend. 
+* Cereal – before eating, your child can learn about volume and filling up the bowl with a cup, pint or gallon of milk. 
 fruit/vegetables – cut up an apple or celery into pieces into halves, thirds, etc. 
-toys – use your child’s cars or dolls to count but also can be used for grouping and ratios
+* Toys – use your child’s cars or dolls to count but also can be used for grouping and ratios
+
 ## How to be hands-on throughout the home 
 Parents may want to be creative and use regular household items as manipulatives but in an engaging, hands-on way. Here are some additional examples of things you can do at home that are secretly a chance to teach your kids math (shh, we won’t tell): 
 Baking and cooking - Children can learn perimeter and area by baking a pan of brownies. A child can also learn how to estimate the amount of chocolate chips go into a batch of cookies being baked. 
