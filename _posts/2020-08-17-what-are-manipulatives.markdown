@@ -6,17 +6,16 @@ published: false
 hero-image: "/blog/uploads/patrick-fore-eHjdmMZrToI-unsplash.jpg"
 ---
 
-If you’re anything like many parents struggling with education at home, your day may look like this: your 3rd grade daughter is having problems with multiplication; your 5th grade son is wondering how ½ is bigger than ¼ when 4 is bigger than 2; you’ve forgotten most of what you learned about those topics when you were their age. 
+If you’re anything like many parents struggling with [education at home](https://www.wyzant.com/blog/homeschool-resources/), your day may look like this: your 3rd grade daughter is having problems with multiplication; your 5th grade son is wondering how ½ is bigger than ¼ when 4 is bigger than 2; you’ve forgotten most of what you learned about those topics when you were their age. 
 
 As a parent who is striving to also be a teacher, you’ll start to see that sometimes the concepts being taught in elementary math are not necessarily meshing with what your child is actually understanding. It’s common. Lots of kids need extra boosts, and to see information presented in a different way, in order to grasp concepts in math. 
 
 This is where you can use manipulatives, visual posters, and math games to make learning math easier and, in most cases, more enjoyable for your at-home student. 
 
-
 ## What are manipulatives? 
 Since ancient times, people in civilizations across the globe have used physical objects to help them solve everyday math problems. In the late 1800s, the first true manipulatives - maneuverable objects that appeal to several different senses and are specifically designed for teaching mathematical concepts - were created.
 
-Friedrich Froebel, a German kindergarten teacher, developed different types of objects to help his young students recognize patterns, count, and appreciate geometry found in nature. Maria Montessori further advanced the idea that these tools are important in the learning process. She herself designed many manipulatives to help developing students learn basic math concepts that are still used today.
+Friedrich Froebel, a German kindergarten teacher, developed different types of objects to help his young students recognize patterns, count, and appreciate geometry found in nature. [Maria Montessori](https://www.wyzant.com/blog/montessori-education/) further advanced the idea that these tools are important in the learning process. She herself designed many manipulatives to help developing students learn basic math concepts that are still used today.
 
 Manipulatives are objects that are intended to give a student learning a math concept a hands-on experience. Manipulatives can come in many forms, and are utilized in endless ways. 
 
@@ -99,7 +98,7 @@ Here’s an example using -7 + 3 = -4.
 These are not, of course, the only manipulatives that are useful in teaching math! Counting bears, scales, and dot grids are a few more manipulatives your child may have experience using in their math classroom. Whatever you use, find manipulatives that excite your at-home students, are interesting, and can be used for other math topics so that you can have the biggest bang for your buck. 
 
 ## Manipulatives in Homeschooling
-Parents may not be able to buy the manipulatives that teachers and tutors use. That’s okay! You can use everyday household items. They still give your child the same hands-on experience that is desired from the manipulatives above to keep the learning engaging.
+Parents may not be able to buy the manipulatives that teachers and [tutors](https://www.wyzant.com/blog/tutoring-homeschool-help/) use. That’s okay! You can use everyday household items. They still give your child the same hands-on experience that is desired from the manipulatives above to keep [home learning engaging](https://www.wyzant.com/blog/online-back-to-school-resources/).
 
 Some items include: 
 * Beans – various types of beans can be good for creating patterns; counting; basic operations; ratios
