@@ -3,6 +3,7 @@ title: What Are Manipulatives? How to make Homeschool Math Hands-On, Creative, a
   Fun!
 date: 2020-08-17 13:55:00 -05:00
 published: false
+author: Alicia Frank
 sub-headline: 'Manipulatives are a great tool to keep your child’s attention. Use
   what you have and skills you use in everyday life to make math as much fun as possible. '
 hero-image: "/blog/uploads/patrick-fore-eHjdmMZrToI-unsplash.jpg"
