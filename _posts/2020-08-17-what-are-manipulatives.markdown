@@ -3,6 +3,7 @@ title: What Are Manipulatives? How to make Homeschool Math Hands-On, Creative, a
   Fun!
 date: 2020-08-17 13:55:00 -05:00
 published: false
+hero-image: "/blog/uploads/patrick-fore-eHjdmMZrToI-unsplash.jpg"
 ---
 
 If you’re anything like many parents struggling with education at home, your day may look like this: your 3rd grade daughter is having problems with multiplication; your 5th grade son is wondering how ½ is bigger than ¼ when 4 is bigger than 2; you’ve forgotten most of what you learned about those topics when you were their age. 
