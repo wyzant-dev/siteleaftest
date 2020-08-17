@@ -63,7 +63,7 @@ Manipulatives give kids the opportunity to explain a math concept in an engaging
 ### 1. Base 10 blocks 
 Base 10 blocks are mainly used to teach place value. Units represent ones, rods represent tens, flats are hundreds and cubes are thousands. 
 
-However, base 10 blocks can also be used to explain decimals.
+However, [base 10 blocks](https://www.coolmath4kids.com/manipulatives/base-ten-blocks) can also be used to explain decimals.
 
 For example, take how a rod is split into 10 units. One unit equates to one hundredth, or 0.01 and that one rod equals 10 hundredths which ends up being one tenth, 10 x 0.01 = 0.1. Ten rods equals one whole, 10 x 10 x 0.01 = 1. 
 ### 2. Dry erase boards 
@@ -72,19 +72,12 @@ Dry erase boards with colorful markers can also be used as a manipulative. Child
 For example, three cats and two dogs are outside. How many animals are outside? You cannot have your child literally go find cats and dogs to get the answer (unless you have that many pets), but they can have fun drawing the animals to see that the total will be five animals.
 
 ### 3. Fraction strips 
-Fraction strips are very useful in teaching equivalent fractions, adding and subtracting them, and comparing.
+[Fraction strips](https://toytheater.com/fraction-strips/) are very useful in teaching equivalent fractions, adding and subtracting them, and comparing.
 
 Sometimes fractions are a hard concept to tackle unless it is visually done. Children have been told that 4 is greater than 2 during their early years in school, so when they learn that ½ is greater than ¼, they question it! Showing how these fractions “look” as pieces of a whole, using strips, makes it easier to understand.
 
-
-
-
-
-
-
-
-
-### 4. Interlocking cubes – Interlocking cubes can be used to create patterns as they come in various colors to help young students.
+### 4. Interlocking cubes
+[Interlocking cubes](http://) can be used to create patterns as they come in various colors to help young students.
  
 They also can be used to learn the basic operations in math - addition, subtraction, multiplication, division - as well as perimeter, area, and even volume (for older students). 
 
