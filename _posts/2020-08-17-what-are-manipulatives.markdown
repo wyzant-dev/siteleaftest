@@ -3,6 +3,12 @@ title: What Are Manipulatives? How to make Homeschool Math Hands-On, Creative, a
   Fun!
 date: 2020-08-17 13:55:00 -05:00
 published: false
+categories:
+- Elementary Math
+- Homeschool
+tags:
+- Elementary Math
+- Homeschool
 author: Alicia Frank
 sub-headline: 'Manipulatives are a great tool to keep your child’s attention. Use
   what you have and skills you use in everyday life to make math as much fun as possible. '
@@ -19,7 +25,7 @@ post-description: 'As a parent who is striving to also be a teacher, you’ll st
   math. '
 ---
 
-If you’re anything like many parents struggling with [education at home](https://www.wyzant.com/blog/homeschool-resources/), your day may look like this: your 3rd grade daughter is having problems with multiplication; your 5th grade son is wondering how ½ is bigger than ¼ when 4 is bigger than 2; you’ve forgotten most of what you learned about those topics when you were their age. 
+If you’re anything like many parents struggling with [education at home](https://www.wyzant.com/blog/homeschool-resources/), your day may look like this: your 3rd grade daughter is having problems with multiplication; your 5th grade son is wondering how ½ is bigger than ¼ when 4 is bigger than 2; you’ve [forgotten most of what you learned](https://www.wyzant.com/blog/elementary-math-for-parents/) about those topics when you were their age. 
 
 As a parent who is striving to also be a teacher, you’ll start to see that sometimes the concepts being taught in elementary math are not necessarily meshing with what your child is actually understanding. It’s common. Lots of kids need extra boosts, and to see information presented in a different way, in order to grasp concepts in math. 
 
