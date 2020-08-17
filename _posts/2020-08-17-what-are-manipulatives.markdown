@@ -3,6 +3,8 @@ title: What Are Manipulatives? How to make Homeschool Math Hands-On, Creative, a
   Fun!
 date: 2020-08-17 13:55:00 -05:00
 published: false
+sub-headline: 'Manipulatives are a great tool to keep your child’s attention. Use
+  what you have and skills you use in everyday life to make math as much fun as possible. '
 hero-image: "/blog/uploads/patrick-fore-eHjdmMZrToI-unsplash.jpg"
 ---
 
@@ -111,12 +113,14 @@ fruit/vegetables – cut up an apple or celery into pieces into halves, thirds, 
 
 ## How to be hands-on throughout the home 
 Parents may want to be creative and use regular household items as manipulatives but in an engaging, hands-on way. Here are some additional examples of things you can do at home that are secretly a chance to teach your kids math (shh, we won’t tell): 
-Baking and cooking - Children can learn perimeter and area by baking a pan of brownies. A child can also learn how to estimate the amount of chocolate chips go into a batch of cookies being baked. 
+
+**Baking and cooking** - Children can learn perimeter and area by baking a pan of brownies. A child can also learn how to estimate the amount of chocolate chips go into a batch of cookies being baked. 
 
 Older children can figure out how many cups of strawberries and water are needed to serve 5 smoothies if you need ¼ cup of strawberries and ½ cup of water for 1 smoothie (Hint – Use multiplication). 
+
 Children can also learn about measurement and capacity. You can show how many cups it takes to fill a gallon. A child-friendly set of measuring cups and spoons can do the recipe on the side.
  
-Gardening – Children can plant a certain amount of seeds of a certain type of flower, fruit or vegetable. They can work on estimation on how many of what they planted grew over a pre-determined amount of time. Younger children can then see how much off they were from the estimation by subtracting while older children can work on percentages. 
+**Gardening** – Children can plant a certain amount of seeds of a certain type of flower, fruit or vegetable. They can work on estimation on how many of what they planted grew over a pre-determined amount of time. Younger children can then see how much off they were from the estimation by subtracting while older children can work on percentages. 
 
 You can also teach patterns if you have flowers arranged in such a way. This can also lead into ratios, proportions and fractions. 
 
