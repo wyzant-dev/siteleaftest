@@ -6,6 +6,16 @@ published: false
 sub-headline: 'Manipulatives are a great tool to keep your child’s attention. Use
   what you have and skills you use in everyday life to make math as much fun as possible. '
 hero-image: "/blog/uploads/patrick-fore-eHjdmMZrToI-unsplash.jpg"
+meta-description: 'As a parent who is striving to also be a teacher, you’ll start
+  to see that sometimes the concepts being taught in elementary math are not necessarily
+  meshing with what your kid is actually understanding. Lots of kids need manipulatives
+  in order to see information presented in a different way, and grasp concepts in
+  math. '
+post-description: 'As a parent who is striving to also be a teacher, you’ll start
+  to see that sometimes the concepts being taught in elementary math are not necessarily
+  meshing with what your kid is actually understanding. Lots of kids need manipulatives
+  in order to see information presented in a different way, and grasp concepts in
+  math. '
 ---
 
 If you’re anything like many parents struggling with [education at home](https://www.wyzant.com/blog/homeschool-resources/), your day may look like this: your 3rd grade daughter is having problems with multiplication; your 5th grade son is wondering how ½ is bigger than ¼ when 4 is bigger than 2; you’ve forgotten most of what you learned about those topics when you were their age. 
