@@ -88,7 +88,8 @@ For young students, give them eight cubes of different colors and ask them to cr
 
 You can also play Multiplication Bingo by stating a fact – let’s say 4 x 5. Your child should then place a small object on the product of 20. 
 
-### 6. Number lines – Number lines show positive and negative integers. Younger children can use number lines to learn how to count and add and subtract. Having a number line to write on can help do this.  
+### 6. Number lines
+[Number lines](https://apps.mathlearningcenter.org/number-line/) show positive and negative integers. Younger children can use number lines to learn how to count and add and subtract. Having a number line to write on can help do this.  
 
 Older children can number lines it to help with integer addition and subtraction. Seeing concepts visually and working out how to move forwards and backwards from an integer make it easier to grasp as a concept. 
 Here’s an example using -7 + 3 = -4. 
