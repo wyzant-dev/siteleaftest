@@ -138,4 +138,6 @@ You can also teach patterns if you have flowers arranged in such a way. This can
 ## Be your kid’s biggest math cheerleader
 Manipulatives can be utilized to a parent’s advantage to make math fun and as engaging as possible. Give your child tangible items to so that he/she can manipulate to get the right answer. As the parent and teacher, get comfortable and knowledgeable with the math topics and the manipulatives you want to use so that your child feels at ease in using it independently. 
 
+To keep your kids on a steady track through their education, consider a [private tutor](https://www.wyzant.com/Homeschool_tutors.aspx). There are tons of benefits of asking for [a little outside help with homeschooling](https://www.wyzant.com/blog/help-with-homeschooling/). 
+
 The more you can try to be a part of the experience of using manipulatives, the more your child will feel ready to use it independently when doing a math problem. Manipulatives are a great tool to keep your child’s attention. Use what you have and skills you use in everyday life to make math as much fun as possible. Children need to see adults enjoying math to enjoy it themselves! 
