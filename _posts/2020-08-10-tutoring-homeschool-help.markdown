@@ -57,7 +57,7 @@ The relationship with a tutor can broaden students' horizons. and help them dive
 
 In his landmark book *Outliers*, Malcolm Gladwell discussed how children identified early as talented and gifted receive special treatment. That special treatment enhances performance, which supports the identification that the child is unique, creating a self-reinforcing upward spiral of achievement.
 
-*Outliers* demonstrated that this occurs in academics, sports, and professional fields. A tutor for your child can help position them similarly, and by doing so, inspire their growth. Whether it's reviewing concepts, preparing for tests, or diving into a subject that just interests a student, tutoring can propel your homeschooled kids toward new ideas, and through them, new horizons in the same way that professional coaching can [propel your career.](https://www.moneycrashers.com/improve-career-prospects-reach-work-goals/)
+*Outliers* demonstrated that this occurs in academics, sports, and professional fields. A tutor for your child can help position them similarly, and by doing so, inspire their growth. Whether it's reviewing concepts, preparing for tests, or diving into a subject that just interests a student, tutoring can propel your homeschooled kids toward new ideas, and through them, new horizons in the same way that professional coaching can propel your career.
 
 ## 5. Providing Education Role Models
 
@@ -91,4 +91,4 @@ What kind of progress has been made? How should you change course as your studen
 
 The benefits of hiring a tutor are powerful. Besides the obvious structure that regular sessions provide both your student and your family, the improvements to a homeschool kid's overall educational approach and level at which they can engage with schoolwork even though it's happening at home are numerous. Tutors are so effective that that many families don’t wait until a student falls behind before hiring one. Instead, they find an excellent tutor to work with their student on topics they want the most help with, have the most trouble with, or subjects in which they want to make excellent progress. A [quality homeschool tutor](https://www.wyzant.com/Homeschool_tutors.aspx) teaching your student the subject you hire them for can be among the least impressive lessons they impart! 
 
-*Jessie Lipeon is an engineer in Ohio and has personally hired several tutors for his four school-age children. He also hired a tutor when he took on a new project five years ago.*
+*Thanks to Money Crashers for this article. Jessie Lipeon is an engineer in Ohio and has personally hired several tutors for his four school-age children. He also hired a tutor when he took on a new project five years ago.*
