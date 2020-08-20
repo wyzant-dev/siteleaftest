@@ -64,7 +64,7 @@ Work on your family schedule a few weeks at a time, and make changes where neede
 
 The first priority in managing your homeschooling schedule is to decide what is prioritized. Include everyone in your household to make those decisions. Focus on those tasks or responsibilities first. 
 
-Co-ops and homeschool pods are a popular way to form homeschooling teams in a community, while also making sure that students get the social and group-learning benefits of a classroom. A big homeschooling misconception involves the belief that kids who learn at home lack socialization, but pods and homeschool co-ops prove otherwise. 
+Co-ops and [homeschool pods](https://www.wyzant.com/blog/which-homeschool-approach-is-right-for-your-kids/) are a popular way to form homeschooling teams in a community, while also making sure that students get the social and group-learning benefits of a classroom. A big [homeschooling misconception](https://www.wyzant.com/blog/myths-about-homeschooling/) involves the belief that kids who learn at home lack socialization, but pods and homeschool co-ops prove otherwise. 
 
 ## Stay Flexible
 Most homeschool families will tell you that flexibility is as big a big part of educating kids at home as their family schedule. While teachers and classrooms need to stay on rigid calendars, and meet high expectations, a homeschool family should be a flexible one.
