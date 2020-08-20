@@ -18,7 +18,7 @@ post-description: Learning to schedule and prioritize learning with enough time 
 
 If you’re new to the world of homeschooling, you’ll have to adjust your daily routines to make room for learning. 
 
-Time management is the ability to use your time (in this case, your whole family’s) effectively. For homeschooling, managing everything that needs to be done in a day calls for good organization and prep, a family schedule, and the willingness to learn and adjust.
+Time management is the ability to use your time (in this case, your whole family’s) effectively. For homeschooling, managing everything that needs to be done in a day calls for good organization and prep, a family schedule, and the [willingness to learn](https://www.wyzant.com/blog/is-homeschooling-right-for-my-kids/) and adjust.
 
 ## Get Organized
 
@@ -84,7 +84,7 @@ Breaks can be active (exercise), quiet (watching TV or reading a book), or can e
 ## Learn What You Teach
 If you’re starting homeschooling with kids in elementary grades, you likely have enough know-how to help with what your kids are learning. Once they enter high school, that could change. For a lot of parents it’s been awhile since they sat and formally learned in a classroom, and a brush-up is a chance to refresh and feel confident. It pays to learn alongside your kids in order to better understand how to help them absorb and retain the things they’re studying. 
 
-This might sound intimidating for some parents, but there’s help! If you need to just review the correct steps for long division, or get some help remembering the parts of a research paper, work with a tutor in your own time (or spend some time with your child’s tutor every so often) before you expect your student to need the help. 
+This might sound intimidating for some parents, but [there’s help](https://www.wyzant.com/blog/tutoring-homeschool-help/)! If you need to just review the correct steps for long division, or get some help remembering the parts of a research paper, [work with a tutor](https://www.wyzant.com/blog/help-with-homeschooling/) in your own time (or spend some time with your child’s tutor every so often) before you expect your student to need the help. 
 
 ## Remember: It’s A Journey
 
