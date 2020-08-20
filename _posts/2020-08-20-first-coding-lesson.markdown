@@ -1,7 +1,6 @@
 ---
 title: What to Expect at Your First Coding Lesson
 date: 2020-08-20 11:37:00 -05:00
-published: false
 categories:
 - Computer Programming
 tags:
