@@ -2,6 +2,18 @@
 title: What to Expect at Your First Coding Lesson
 date: 2020-08-20 11:37:00 -05:00
 published: false
+categories:
+- Computer Programming
+tags:
+- Computer Programming
+author: Alys Brooks
+sub-headline: Never taken a coding lesson before? Here's what to get excited about.
+meta-description: For help with how to learn programming, you can't do better than
+  working with a coding tutor. Here's what to expect at your first lesson, and how
+  you can go in feeling prepared.
+post-description: For help with how to learn programming, you can't do better than
+  working with a coding tutor. Here's what to expect at your first lesson, and how
+  you can go in feeling prepared.
 ---
 
 If you haven’t had a programming tutor before, and especially if you haven’t studied programming before, you might wonder what a coding lesson with a tutor looks like.
@@ -68,22 +80,24 @@ For example, an experienced C# tutor used to using Visual Studio on Windows may 
 Sometimes getting your program up and running has its own technical challenges as well—for example, if you want to create a web app, there are extra steps to transfer your program and get it running on a server that can communicate over the web. Often the tutor can recommend a way of doing this that they know and is a good fit for what you’re trying to accomplish. But if you’ve already chosen a tool or are mandated to use one by your instructor, you might run into the same problem of them lacking the specific expertise, despite their overall experience.
 Regardless of the lesson type, be sure to let your tutor know if their approach isn’t working for you.
 
-It’s not rude to say that an explanation didn’t help you or to stop them to ask questions.
+Remember: It’s not rude to say that an explanation didn’t help you or to stop a tutor to ask questions.
 
 It’s also okay to ask for the lesson to take an entirely different direction. If you had hoped for help on problem 9, but you realize you don’t understand several key terms, you might need to spend the rest of the session getting those terms defined and clarified. This might require some improvisation on the tutor’s part, but it’s more important to get the help you need rather than struggle through your initial plan.
 
 ## Wrapping up
 Depending on how the lesson went, it might wrap up early, if you finished everything sooner than expected, or later, if both you and the tutor are available after the end of your scheduled time.
-Often there will be some time at the end for questions about what you covered. If you had some unrelated topics you are curious about but don’t need a full lesson on, you can also ask about them now.
+Often there will be some time at the end for questions about what you covered. If you have some topics unrelated to your lesson you are curious about, you can also ask about them now.
 
-If you need further help and want to work with the tutor again, this can be a good time to talk about what’s next and, if you like, actually schedule the next lesson. At minimum, you’ll want to make sure you have everything you need to continue learning, practicing, or experimenting after the session. For example, if this is your very first day learning Python, you might feel confident on the topic you discussed, variables, but have no idea what might be a good thing to try learning on your own.
+### Schedule your next lesson
+If you need further help and want to work with your tutor again, this can be a good time to talk about what’s next and, if you like, actually schedule the next lesson. At minimum, you’ll want to make sure you have everything you need to continue learning, practicing, or experimenting after the session.
 
-As with any meeting, the wrap-up is also a good time to restate anything the participants need to do as a reminder. This might be a resource the tutor promised to send you or the next homework assignment you want help on. Often the tutor does this—and if they don’t, you can certainly ask them to—but you can, too.
+For example, if this is your very first day learning Python, you might feel confident on the topic you discussed, variables, but have no idea what might be a good thing to try learning on your own.
+
+As with any meeting, the wrap-up is also a good time to restate anything the participants need to do as a reminder. This might be a resource the tutor promised to send you or the next homework assignment you want help on. Often the tutor does this (and if they don’t, you can certainly ask them to) but you can, too.
 
 ## Afterwards
 Once the lesson is over, the tutor will record it, and enter the time the lesson took, and you’ll receive the information by email. See How do I pay my tutor for a lesson? for details.
 
-If the tutor is a good fit and you want to meet again, future lessons will be more streamlined. However, if you’re asking for help in a different class or a different project, you may want to send that information to the tutor, possibly following the questions above, to keep your tutor up-to-date and to verify they have the expertise. Your tutor may be available to answer some questions over messaging later.
+If you've found a good fit and want to meet again, future lessons will be more streamlined. However, if you’re asking for help in a different class or a different project, you may want to send that information to the tutor, possibly following the questions above, to keep your tutor up-to-date and to verify they have the expertise. Your tutor may be available to answer some questions over messaging later.
 
-
-
+Above all, communicate well and often with your tutor, and keep progressing toward your coding goals.
