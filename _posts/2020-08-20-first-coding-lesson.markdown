@@ -8,6 +8,7 @@ tags:
 - Computer Programming
 author: Alys Brooks
 sub-headline: Never taken a coding lesson before? Here's what to get excited about.
+hero-image: "/blog/uploads/What%20To%20Expect%20at%20Your%20First%20Coding%20Lesson.png"
 meta-description: For help with how to learn programming, you can't do better than
   working with a coding tutor. Here's what to expect at your first lesson, and how
   you can go in feeling prepared.
