@@ -6,7 +6,8 @@ categories:
 tags:
 - Homeschool
 author: Jay Pike
-sub-headline: Effective time management is a must for homeschooling.
+sub-headline: If you’re new to the world of homeschooling, you’ll have to adjust your
+  daily routines to make room for learning.
 hero-image: "/blog/uploads/Homeschool%20Time%20Management.png"
 meta-description: Learning to schedule and prioritize learning with enough time to
   get everything else in your life done is an important part of homeschooling. With
