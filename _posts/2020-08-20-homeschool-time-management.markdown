@@ -8,6 +8,7 @@ tags:
 - Homeschool
 author: Jay Pike
 sub-headline: Effective time management is a must for homeschooling.
+hero-image: "/blog/uploads/Homeschool%20Time%20Management.png"
 meta-description: Learning to schedule and prioritize learning with enough time to
   get everything else in your life done is an important part of homeschooling. With
   these homeschool time management tips, it'll be an easy transition.
