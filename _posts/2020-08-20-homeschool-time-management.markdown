@@ -26,7 +26,7 @@ When you homeschool, the reality is that your home (or at least part of it) now 
 
 So how best to get organized for homeschooling? Success depends largely on tailoring things to your own family. 
 
-“An individualized approach is best for ensuring long term change and adaptation because you’re more flexible when you’re more aware of what your strengths and weaknesses are” says Sunny Schlenger, author of How To Be Organized In Spite Of Yourself.
+“An individualized approach is best for ensuring long term change and adaptation because you’re more flexible when you’re more aware of what your strengths and weaknesses are” says Sunny Schlenger, author of *How To Be Organized In Spite Of Yourself*.
 
 Maintaining control and flow in your homeschool plan is to stick to one that meets your household’s specific needs, and to purposefully organize around both homeschool and “not” school. 
 
