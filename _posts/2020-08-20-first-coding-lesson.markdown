@@ -18,16 +18,16 @@ post-description: For help with how to learn programming, you can't do better th
   you can go in feeling prepared.
 ---
 
-If you haven’t had a programming tutor before, and especially if you haven’t studied programming before, you might wonder what a coding lesson with a tutor looks like.
+If you haven’t had a programming tutor before, and especially if you [haven’t studied programming](https://www.wyzant.com/blog/learn-to-code/) before, you might wonder what a coding lesson with a tutor looks like.
 
 Learning programming language is actually not too dissimilar to learning a new human language: There are both concepts to learn and skills to practice. As a result lessons can be very hands-on, more focused on theory, or somewhere in between.
 
-It’s important that your tutor works in a way that fits your personal learning style. As you go through your lesson, even your first lesson, feel free to ask the tutor to work differently.
+It’s important that [your tutor](https://www.wyzant.com/blog/3-things-to-keep-in-mind-when-choosing-a-tutor/) works in a way that fits your personal learning style. As you go through your lesson, even your first lesson, feel free to ask the tutor to work differently.
 
 ## Before the Lesson
 Once you find a tutor, you’ll have to schedule your lesson and figure out how and where you’re meeting, as with any subject.
 
-If you’re meeting online, you’ll want to choose between Wyzant’s built-in tool or another online meeting tool.
+If you’re meeting online, you’ll want to choose between Wyzant’s built-in tool or another [online meeting tool](https://www.wyzant.com/blog/online-meeting-apps/).
 
 In times when social distancing isn’t necessary and you’re meeting in person, you could choose to meet at a public place. Libraries tend to work well as long as there’s a space that you can work without bothering others; coffee shops can be good as long as you can work without others bothering you.
 
@@ -48,7 +48,7 @@ While online meeting tools usually work seamlessly, it’s not uncommon to have 
 
 Because of this, consider entering your online session five minutes early as a precaution if your meeting software allows you to join without placing a call.
 
-If you’re having extended problems or can’t reach your tutor because of the issue, you can also contact Wyzant Support.
+If you’re having extended problems or can’t reach your tutor because of the issue, you can also [contact Wyzant Support](https://support.wyzant.com/hc/en-us/articles/115005841543-Contact-Us).
 
 Even if it goes smoothly, it might take a couple minutes to figure out the online meeting tool if you haven’t used it before or haven’t used it for tutoring. You’ll be more comfortable with the tool in subsequent lessons.
 
@@ -93,12 +93,12 @@ Often there will be some time at the end for questions about what you covered. I
 ### Schedule your next lesson
 If you need further help and want to work with your tutor again, this can be a good time to talk about what’s next and, if you like, actually schedule the next lesson. At minimum, you’ll want to make sure you have everything you need to continue learning, practicing, or experimenting after the session.
 
-For example, if this is your very first day learning Python, you might feel confident on the topic you discussed, variables, but have no idea what might be a good thing to try learning on your own.
+For example, if this is your very first day [learning Python](https://www.wyzant.com/blog/learn-python/), you might feel confident on the topic you discussed, variables, but have no idea what might be a good thing to try learning on your own.
 
 As with any meeting, the wrap-up is also a good time to restate anything the participants need to do as a reminder. This might be a resource the tutor promised to send you or the next homework assignment you want help on. Often the tutor does this (and if they don’t, you can certainly ask them to) but you can, too.
 
 ## Afterwards
-Once the lesson is over, the tutor will record it, and enter the time the lesson took, and you’ll receive the information by email. See How do I pay my tutor for a lesson? for details.
+Once the lesson is over, the tutor will record it, and enter the time the lesson took, and you’ll receive the information by email. See [How do I pay my tutor for a lesson](https://support.wyzant.com/hc/en-us/articles/213447763-How-do-I-pay-my-tutor-for-a-lesson-)? for details.
 
 If you've found a good fit and want to meet again, future lessons will be more streamlined. However, if you’re asking for help in a different class or a different project, you may want to send that information to the tutor, possibly following the questions above, to keep your tutor up-to-date and to verify they have the expertise. Your tutor may be available to answer some questions over messaging later.
 
