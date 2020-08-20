@@ -93,3 +93,10 @@ Since you only have 24 hours to eat, sleep, shower, homeschool, work, walk the d
 Brainstorm and discuss your family’s priorities, both with regard to schoolwork and education, as well as home life and the things they’re passionate about. Keep a schedule, but remember it’s not a curriculum - there’s always room to adjust and grow. 
 
 Learning to schedule and prioritize tasks with enough time to get everything done is an important lesson that your kids will take with you throughout their education and into adulthood.
+
+## For More Homeschool Help
+
+We've published all the free homeschooling resources on The Wyzant Blog in our Homeschool Resource Hub. Check it out for even more advice and ideas. 
+
+For help finding a homeschooling tutor for your family, use Wyzant's [Homeschooling Tutor Concierge](https://startlearning.wyzant.com/groupconcierge/). Whether you’re partnering with other parents in the community, a “homeschool pod”, or want long-term support for your kids regardless of how school shapes up this year, our Concierge takes the guesswork out of finding the perfect support for your unique goals.
+
