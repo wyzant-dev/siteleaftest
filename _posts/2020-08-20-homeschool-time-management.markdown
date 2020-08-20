@@ -98,7 +98,7 @@ Learning to schedule and prioritize tasks with enough time to get everything don
 
 ## For More Homeschool Help
 
-We've published all the free homeschooling resources on The Wyzant Blog in our Homeschool Resource Hub. Check it out for even more advice and ideas. 
+We've published all the free homeschooling resources on The Wyzant Blog in our [Homeschool Resource Hub](https://www.wyzant.com/blog/homeschool-resources/). Check it out for even more advice and ideas. 
 
 For help finding a homeschooling tutor for your family, use Wyzant's [Homeschooling Tutor Concierge](https://startlearning.wyzant.com/groupconcierge/). Whether you’re partnering with other parents in the community, a “homeschool pod”, or want long-term support for your kids regardless of how school shapes up this year, our Concierge takes the guesswork out of finding the perfect support for your unique goals.
 
