@@ -54,11 +54,13 @@ If you need clarification on an initial assignment that’s opaque or maybe just
 
 Often it’s good to come prepared with some ideas of how you want to approach it, but it’s okay if you are totally lost. This kind of explanation is especially important if your requirement dictates that you use a specific technique to structure your program, like RESTful API, or if you’re being specifically graded on the design of your program.
 
+### Debugging other technical help
 While your instructor, teacher, or teaching assistant is your best bet for actual clarifications, your tutor can still help with the technical aspects. If your instructor is hard to reach, the tutor can also help you refine your questions to get a quick answer and figure out how to work around the parts of the assignment you do not yet understand.
 
 If you’ve gotten stuck on an assignment and need help, your tutor will likely ask you to share your screen, so they can see both your code and the results of you running it. While they can’t solve the problem for you, they can help you interpret errors, walk you through debugging, and suggest alternative approaches.
-If you need help troubleshooting your programming environment, the session resembles techinical support, except with your tutor explaining what they’re doing so you can do it yourself in the future.
+If you need help troubleshooting your programming environment, the session resembles technical support, except with your tutor explaining what they’re doing so you can do it yourself in the future.
 
+### Getting a programming tool up and running
 Some tutors might be able to provide support just getting a programming tool up and running. Unfortunately, this is often more difficult than installing most programs, as the creators of programming tools often assume existing expertise. This expertise is partly specific to the tool and the operating system you’re using, which means the tutor might not be able to help you even if they’re experts in the kind of programming you want to do with the tool, at least not without a lot of trial and error.
 
 For example, an experienced C# tutor used to using Visual Studio on Windows may not be familiar enough with how programs are installed on macOS or how Atom is configured if your choice of tool, limiting their ability to hel you if you’re using Atom on macOS. However if you do find a promising tutor unfamiliar with your operating system and editor, you can still work with them if you find another source of help to you get you over that initial hurdle.
