@@ -6,6 +6,7 @@ categories:
 - Computer Programming
 tags:
 - Computer Programming
+meta-title: What to Expect at Your First Coding Lesson
 author: Alys Brooks
 sub-headline: Never taken a coding lesson before? Here's what to get excited about.
 hero-image: "/blog/uploads/What%20To%20Expect%20at%20Your%20First%20Coding%20Lesson.png"
