@@ -36,9 +36,11 @@ A good first organizing step for any homeschooling family is to create a shared 
 
 Your family schedule is a basic routine that records daily school and non-school related tasks to help ensure sufficient time for education at-home. It’s a vital element to a homeschooling plan. It pays to be specific and task-oriented when planning, but remember to give each item on your schedule ample time to be completed.  
 
-Here’s a basic example. 
 
-### DAILY HOMESCHOOL SCHEDULE
+### Daily Homeschool Schedule
+
+Here’s a basic example for a weekday. 
+
 * 7-8am: Wake up, brush teeth, get dressed
 * 8-9am: Prepare, eat and clean up breakfast
 * 9-9:30am: Tidy up - put away clothes, make beds, and organize school areas
