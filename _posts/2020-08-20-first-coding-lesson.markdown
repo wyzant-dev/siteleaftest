@@ -4,22 +4,22 @@ date: 2020-08-20 11:37:00 -05:00
 published: false
 ---
 
-If you haven’t had tutoring before and especially if you haven’t studied programming before, you might wonder what a programming session with a tutor looks like.
+If you haven’t had a programming tutor before, and especially if you haven’t studied programming before, you might wonder what a coding lesson with a tutor looks like.
 
-It’s actually not too dissimilar to learning a new human language: There are both concepts to learn and skills to practice. As a result lessons can be very hands-on, entirely more focused on theory, or somewhere in between.
+Learning programming language is actually not too dissimilar to learning a new human language: There are both concepts to learn and skills to practice. As a result lessons can be very hands-on, more focused on theory, or somewhere in between.
 
 It’s important that your tutor works in a way that fits your personal learning style. As you go through your lesson, even your first lesson, feel free to ask the tutor to work differently.
 
 ## Before the Lesson
-Once you find a tutor, you’ll have to schedule it and figure out how you’re meeting, as with any subject.
+Once you find a tutor, you’ll have to schedule your lesson and figure out how and where you’re meeting, as with any subject.
 
 If you’re meeting online, you’ll want to choose between Wyzant’s built-in tool or another online meeting tool.
 
-In times when social distancing isn’t necessary and you’re meeting in person, you’ll want to pick a location. Libraries tend to work well as long as there’s a space that you can work without bothering others; coffee shops can be good as long as you can work without others bothering you.
+In times when social distancing isn’t necessary and you’re meeting in person, you could choose to meet at a public place. Libraries tend to work well as long as there’s a space that you can work without bothering others; coffee shops can be good as long as you can work without others bothering you.
 
 It’s good to clarify your goals and the context in which you’re learning. Are you enrolled in a course? Taking a self-guided course? Teaching yourself from a textbook? Just trying to figure something out for a project?
 
-Besides these universal requirements, it’s good to communicate some coding-specific things:
+Besides these universal requirements, it’s good to communicate some coding-specific things to your tutor:
 
 * Do you need help learning or setting up the programming environment or editor?
 * What programming language are you using?
@@ -38,15 +38,18 @@ If you’re having extended problems or can’t reach your tutor because of the 
 
 Even if it goes smoothly, it might take a couple minutes to figure out the online meeting tool if you haven’t used it before or haven’t used it for tutoring. You’ll be more comfortable with the tool in subsequent lessons.
 
-## Lesson
-The actual meat of the lesson will vary based on what kind of help you need—is it having a concept explained, learning a coding technique, help getting started with an assignment, getting yourself unstuck?
+## What Happens in A Coding Lesson
+The actual meat of any programming lesson will vary based on what kind of help you need - is it having a concept explained, learning a coding technique, help getting started with an assignment, getting yourself unstuck? Something else?
 
-Before jumping in, the tutor might ask further questions to get a sense of what level you’re at, especially if you’re self-taught. They might ask if you’re familiar with specific language features or techniques, or inquire about prior programming experience.
+Before jumping in, your tutor might ask further questions to get a sense of what level you’re at, especially if you’re self-taught. They might ask if you’re familiar with specific language features or techniques, or inquire about prior programming experience.
 
+### Exploring concepts
 If you need something more conceptual explained, say how encryption works, the session likely will proceed like a one-on-one lesson, with the tutor doing a majority of the talking. There will be opportunities for you to ask questions and the tutor might ask you questions to check your understanding.
 
+### Getting help with a specific technique
 If you need help with a specific feature or technique, like classes or object-oriented programming, the session probably will still be in a lesson format, but with more demonstration. You and the tutor may switch off with screen sharing as they demonstrate, and you practice doing it yourself.
 
+### Finding clarity in your new language
 If you need clarification on an initial assignment that’s opaque or maybe just feels overwhelming, the lesson will resemble a conceptual lesson in some ways, but there’s more back and forth as the tutor helps you design your program and come up with possible algorithms to solve the problem.
 
 Often it’s good to come prepared with some ideas of how you want to approach it, but it’s okay if you are totally lost. This kind of explanation is especially important if your requirement dictates that you use a specific technique to structure your program, like RESTful API, or if you’re being specifically graded on the design of your program.
