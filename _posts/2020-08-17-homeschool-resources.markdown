@@ -64,6 +64,12 @@ School at home can mean a lot of stress: kids having to learn in an unfamiliar m
 
 Read: [How to Homeschool: 8 Important Tips from a Professional Tutor](https://www.wyzant.com/blog/how-to-homeschool/)
 
+[![Homeschool Time Management IG.png](/blog/uploads/Homeschool%20Time%20Management%20IG.png)](https://www.wyzant.com/blog/homeschool-time-management/)
+
+If you’re new to homeschooling, let's face it: you’ll have to adjust your daily routines to make room for learning. Learning to schedule and prioritize education with enough time to balance everything else in your life is an important part of homeschooling...and one many parents overlook. With these homeschool time management tips, it'll be an easy transition.
+
+Read: [The Secret to Homeschool Success: Time Management](https://www.wyzant.com/blog/homeschool-time-management/)
+
 [![Different Types of Remote Learning IG.png](/blog/uploads/Different%20Types%20of%20Remote%20Learning%20IG.png)](https://www.wyzant.com/blog/types-of-remote-learning/)
 
 Remote learning is kind of an umbrella term; a moniker used to describe all kinds of different approaches to non-traditional learning outside the classroom. In most types, students access educational resources online, but there are big differences between each one, and not every style is right for every student. Here's how to spot the differences, what they mean, and ways to make the right call for your kids
