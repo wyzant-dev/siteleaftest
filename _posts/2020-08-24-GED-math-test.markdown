@@ -24,7 +24,7 @@ post-description: More than with any of the other three sections, prepping for t
 
 If you have ever contemplated the notion of getting your GED, chances are you’re already apprehensive about the Mathematical Reasoning test.  That’s nothing to be ashamed of—in fact, it’s totally normal. Regardless of which standardized test people take, math is the subject area that stands above all others when it comes to the level of confusion, frustration, and anxiety.
 
-At this point, you have already done a little research, so you understand [how to get your GED](https://www.wyzant.com/blog/how-to-get-your-ged/). Maybe you have come to the conclusion that you that you can prepare on your own—that is, if it weren’t for that pesky math section! You know that doing practice problems is basically pointless if you don’t understand the concepts, and you’ve never been able to learn math by reading an instructional book. 
+At this point, you have already done a little research, so you understand [how to get your GED](https://www.wyzant.com/blog/how-to-get-your-ged/). 
 
 More than with any of the other three sections, prepping for the GED Math test essentially demands the guidance of a tutor. Not only do you have to recognize your own math anxiety, but you must also deal with the fact that time has passed by and your skills have been diminished. When you see all the types of math on the GED, the task of preparing for the test may seem overwhelming. Well, now is the time to secure a tutor who can provide you with a complete breakdown of the Math section and guide you through the entire preparation process for taking and passing the test.
 
