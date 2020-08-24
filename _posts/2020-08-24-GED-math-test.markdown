@@ -27,7 +27,7 @@ At this point, you have already done a little research, so you understand how to
 
 More than with any of the other three sections, prepping for the GED Math test essentially demands the guidance of a tutor. Not only do you have to recognize your own math anxiety, but you must also deal with the fact that time has passed by and your skills have been diminished. When you see all the types of math on the GED, the task of preparing for the test may seem overwhelming. Well, now is the time to secure a tutor who can provide you with a complete breakdown of the Math section and guide you through the entire preparation process for taking and passing the test.
 
-## Preliminary steps: Obtaining the proper materials and securing a tutor
+## Preliminary Steps: Obtaining the Proper Materials and Securing a Tutor
  
 If you haven’t done so already, you’ll want to sign up for your personalized MyGED online program so you can schedule tests, view score reports, order transcripts, and obtain your diploma. Once that’s taken care of, you will be ready to drill down on the GED sections one-by-one, starting with the Mathematical Reasoning test. 
 
@@ -35,7 +35,7 @@ You’ll need two more things to really get going on the test prep process: a ca
 
 Although the GED itself cannot be administered remotely, your tutoring can take place online. Thanks to the development of powerful online learning platforms, test prep tutors can guide your lessons just as effectively as they could if they were right next to you. The help and direction of an experienced online tutor is critical to your success, and there’s no shame in recognizing that preparing for the test is not something you can handle alone. Beginning with just your first tutoring session, you’ll begin to get a handle on what math is on the GED and how to study for the GED Math test.
 
-Format: Test structure and question types
+## Format: GED Test Structure and Question Types
 
 Before you dive into content, your tutor will go over the format of the GED Mathematical Reasoning test. You will have 115 minutes to complete 45-49 questions, with one short break built in. The first five questions must be completed without the use of a calculator, but don’t worry—you’ll have 20 minutes to work on them. After those first five questions, a calculator is permitted on the rest of the GED Math test. However, only one calculator model is permitted: the TI-30XS MultiView.  
 
@@ -60,7 +60,7 @@ If you’re wondering how all this matches up with what you may have been taught
 
 Of course, you’ll also be confronted with word problems—sorry, but it’s true. If you are like most students who have struggled with math, you have a justifiable fear of such problems. That’s not your fault, though: due to the burden of state educational objectives, math teachers often lack the time to teach the conceptual reasoning necessary for solving such problems. Well, this is where you really need to lean on your tutor for guidance. With attention to the various question types and the allotted time, an experience tutor will be able to show you how to read, assess, and solve those troublesome word problems.
 
-## Calculator use: Key features and test-taking strategies 
+## Calculator Use: Key Features and Test-Taking Strategies 
 
 A significant part of your GED math prep will be familiarizing yourself with the functions of the official GED calculator. While it’s not one of those super-powered graphing calculators you may have had access to in high school, it still has plenty of features that will make your test experience less stressful:
 
@@ -82,7 +82,7 @@ Remember, you are permitted to use the TI-30XS MultiView for close to 90% of the
 
 **Plugging in Numbers (PIN):** While PIN is not as well-known a strategy as PITA, it’s actually the more versatile method. The difference between the two strategies is that PIN is used with expressions rather than equations. When a problem asks for the simplified form of an expression, that’s when you pick a number to plug into the original expression. Using the calculator, you can store that number as a variable, then enter both the original expression and the four answer choices into the calculator just as they’re written. If only one answer choice produces the same value as the original expression, then you have solved it! If more than one answer matches the output of the given expression, that doesn’t mean you did anything wrong: it’s possible for more than one expression to produce the same output for only one input value. When that happens, just choose another number and repeat the process until you have isolated the correct answer choice. 
 
-Final steps: Taking the test and getting your scores
+## Final steps: Taking GED and Getting Your Scores
 
 Once you have studied for a while under the direction of an expert tutor, you may naturally ask, “Should I take a GED Math practice test?” Yes, you certainly should! The final step in your preparation should be to take the GED Ready Official Practice Tests, which are available through the MyGED portal. If you get 75% or more questions correct on a GED practice test, you are highly likely to pass the actual GED subject test. Go over those results with your tutor to make the final determination on whether you are ready to take the GED Mathematical Reasoning test.
 
