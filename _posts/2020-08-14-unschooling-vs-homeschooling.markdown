@@ -85,7 +85,7 @@ Homeschooling, in general, provides a safe alternative to conventional school, w
 
 * It usually **follows a curriculum** along with tools that align with state and federal learning standards. These formal standards could translate well into college applications and admission essays.
 
-* There’s **an abundance of [online education resources](https://www.wyzant.com/blog/online-back-to-school-resources/)** and guidelines that can teach you [how to homeschool](https://www.wyzant.com/blog/how-to-homeschool/) along with other important things like homeschool time management. So parents experimenting with the approach will have no trouble getting some help.
+* There’s **an abundance of [online education resources](https://www.wyzant.com/blog/online-back-to-school-resources/)** and guidelines that can teach you [how to homeschool](https://www.wyzant.com/blog/how-to-homeschool/) along with other important things like [homeschool time management](https://www.wyzant.com/blog/homeschool-time-management/). So parents experimenting with the approach will have no trouble getting some help.
 
 * You also have the **option to get homeschool tutoring** in case you want to leave the teaching at the hands of a trained tutor or you need someone who specializes in a specific subject.
 
