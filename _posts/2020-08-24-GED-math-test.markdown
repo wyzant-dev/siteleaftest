@@ -1,7 +1,6 @@
 ---
 title: What's On the GED Math Test?
 date: 2020-08-24 07:57:00 -05:00
-published: false
 categories:
 - GED
 - Test Prep
@@ -91,6 +90,8 @@ To find a test center nearby, you can search directly from your MyGED account. O
 
 The number of points you earn is translated into a scaled score ranging from 100-200 for each subject test. Understanding the different tiers of passing GED math scores will give you something to shoot for as you go through the test prep process.
 
-What are the requirements for a GED? That all depends on what your goal is. To earn your high school equivalency, you’ll need to get a score of 145 or higher on all four subjects. If you get a GED math score below 145, you’ll have to retake all four tests regardless of how you perform on the others. A score of 165-174 is considered GED College Ready: if you ever choose to enroll in college, you may qualify for waivers from placement testing or developmental education requirements. A score of 175-200 qualifies as GED College Ready + Credit, meaning you have demonstrated skills that could earn you up to 10 college credit hours.
+## What are the Requirements for a GED?
+
+That all depends on what your goal is. To earn your high school equivalency, you’ll need to get a score of 145 or higher on all four subjects. If you get a GED math score below 145, you’ll have to retake all four tests regardless of how you perform on the others. A score of 165-174 is considered GED College Ready: if you ever choose to enroll in college, you may qualify for waivers from placement testing or developmental education requirements. A score of 175-200 qualifies as GED College Ready + Credit, meaning you have demonstrated skills that could earn you up to 10 college credit hours.
 
 Once you have passed your GED Math test, you can turn your attention to the Social Studies, Science, and [Reasoning Through Language Arts](https://www.wyzant.com/blog/reasoning-through-language-arts-ged/) tests. You’ll be ahead of the game by that point, though: not only will you be familiar with both the preparation process and testing experience, but you’ll also have a reliable tutor already in place. Few people are built for self-guided learning, so it’s natural to feel directionless as you begin the path toward obtaining your GED. Reach out to an experienced tutor today to get the [GED help](https://www.wyzant.com/GED_tutors.aspx) you need to complete your journey to greater educational and occupational opportunities. 
