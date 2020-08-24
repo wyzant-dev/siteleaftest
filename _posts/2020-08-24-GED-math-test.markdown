@@ -44,11 +44,11 @@ The GED is a computer-based test, so you don’t need to bring any supplies to t
 
 As your preparation process continues, you’ll become acquainted with all the question types in the GED Math test, as well as how to choose the right strategy for each one.
 
-* Multiple-choice: Click to choose from one of four choices (A through D).
-* Fill-in-the-blank: Type a word, a phrase, or numbers in a box. No answer choices to pick from here—you have to come up with one yourself.
-* Drag-and-drop: Move numbers, symbols, or expressions across the computer screen. Examples of this type include choosing the correct elements for an equation and correctly ordering values on a number line. 
-* Drop-down: Select from menus embedded in text on the computer screen. This is often used when determining whether one value is greater than, less than, or equal to another value. 
-* Select-an-area: Click on graphics on the computer screen. For example, clicking on a graph to place ordered pairs at the proper coordinates.
+* **Multiple-choice:** Click to choose from one of four choices (A through D).
+* **Fill-in-the-blank:** Type a word, a phrase, or numbers in a box. No answer choices to pick from here—you have to come up with one yourself.
+* **Drag-and-drop:** Move numbers, symbols, or expressions across the computer screen. Examples of this type include choosing the correct elements for an equation and correctly ordering values on a number line. 
+* **Drop-down:** Select from menus embedded in text on the computer screen. This is often used when determining whether one value is greater than, less than, or equal to another value. 
+* **Select-an-area:** Click on graphics on the computer screen. For example, clicking on a graph to place ordered pairs at the proper coordinates.
 
 ## Content: Quantitative and Algebraic Reasoning
 
