@@ -13,13 +13,13 @@ sub-headline: Math is the subject area on the GED that stands above all others w
   it comes to the level of confusion, frustration, and anxiety.
 hero-image: "/blog/uploads/Whats%20On%20The%20GED%20Math%20Test.png"
 meta-description: More than with any of the other three sections, prepping for the
-  GED Math test essentially demands the guidance of a tutor. Not only do you have
-  to recognize your own math anxiety, but you must also deal with the fact that time
-  has passed by and your skills have been diminished.
+  GED Math test demands the guidance of a tutor. Not only do you have to recognize
+  your own math anxiety, but you must also deal with the fact that time has passed
+  by and your skills have probably diminished.
 post-description: More than with any of the other three sections, prepping for the
-  GED Math test essentially demands the guidance of a tutor. Not only do you have
-  to recognize your own math anxiety, but you must also deal with the fact that time
-  has passed by and your skills have been diminished.
+  GED Math test demands the guidance of a tutor. Not only do you have to recognize
+  your own math anxiety, but you must also deal with the fact that time has passed
+  by and your skills have probably diminished.
 ---
 
 If you have ever contemplated the notion of getting your GED, chances are you’re already apprehensive about the Mathematical Reasoning test.  That’s nothing to be ashamed of—in fact, it’s totally normal. Regardless of which standardized test people take, math is the subject area that stands above all others when it comes to the level of confusion, frustration, and anxiety.
