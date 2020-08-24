@@ -61,7 +61,7 @@ Over the course of an hour, panelists took questions live from the audience on a
 * How can I find my child’s learning style while homeschooling?
 * How, specifically, do tutors fit into “new” homeschooling this fall?
 * What are your own methods that parents can use to keep their kids on-task and learning?
-* What are your biggest time management tips for homeschool families? 
+* What are your biggest [time management tips for homeschool](https://www.wyzant.com/blog/homeschool-time-management/) families? 
 * What ways can parents try in order to manage their time effectively?
 * How do you make sure you’re covering “everything”?
 * How can I keep learning interesting and enjoyable for my kids?
