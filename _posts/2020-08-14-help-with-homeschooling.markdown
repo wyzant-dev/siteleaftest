@@ -19,7 +19,7 @@ post-description: 'Leaders in education from around the world are already saying
   provide peace of mind for the future.'
 ---
 
-Heading into the 2020-21 school year, the term that keeps popping up is uncertainty. At a time when everyone usually settles back into a familiar routine, students, parents, teachers, and administrators alike are now unsure of themselves. Confused or conflicted about how to manage the pandemic, school districts can’t seem to figure out what to do. Parents want answers, but there is so little that can be stated with any certainty. 
+Heading into the 2020-21 school year, the term that keeps popping up is uncertainty. At a time when everyone usually settles back into a familiar routine, students, parents, teachers, and administrators alike are now unsure of themselves. Confused or conflicted about how to manage the [time needed for homeschool](https://www.wyzant.com/blog/homeschool-time-management/), school districts can’t seem to figure out what to do. Parents want answers, but there is so little that can be stated with any certainty. 
 
 Nothing seems definite now as school officials scramble to figure out just what education will look like in the upcoming school year. Due to this hesitation, some families are turning to homeschooling. After having gone through a crash course on [remote learning](https://www.wyzant.com/blog/remote-learning-homeschool-faqs/) in the spring, some parents feel like they have a better handle on what to expect. What many of them have recognized, however, is that they need significant homeschool help in order to provide quality education for their kids. 
 
