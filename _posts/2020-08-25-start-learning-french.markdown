@@ -25,7 +25,7 @@ Do you want to start learning French as a second language, but not know where to
 
 What’s the best way to learn French online? That depends on you, but if you follow these steps to learning French, you’ll start off on the right foot. 
 
-## How to learn French on your own
+## How to Learn French On Your Own
 
 Success in self-directed French study is definitely possible if you put the right work into it. Is French hard? Some people have an easier time than others. Whether you’re naturally suited to language learning or not, there are ways you can set yourself up for success.
 
@@ -39,7 +39,7 @@ Having the right attitude is just as important as using the right study material
 
 Read More: [How to Learn French on Your Own](https://www.wyzant.com/blog/how-to-learn-french/)
 
-## Avoid common language-learning mistakes
+## Avoid Common Language-Learning Mistakes
 
 Self-directed study may be liberating, but it’s important not to pick up bad habits in the process. Mistakes are an important part of learning, but mistakes in your approach that become habits might take more time and effort to correct than they would if you nipped them in the bud.
 
@@ -71,13 +71,13 @@ The clearest example of this are plurals. You won’t find anything like mouse/m
 
 Read More: [Fundamentals of French Grammar](https://www.wyzant.com/blog/french-grammar-basics/)
 
-## Learn French tenses
+## Learn French Tenses
 
 Whether you consider yourself a French beginner or are already well on your way to fluency, French verb tenses probably give you a headache. There are more than 20 of them! French grammar also uses *les modes* (moods) to indicate how a speaker feels about an action, which changes just how many ways there truly are to express a complete (and grammatically correct) thought. 
 
 The three main tenses - past, present, and future - are the right place to begin. Understanding the nuances of each of these tenses will make learning all those moods even simpler.
 
-### French present tense conjugations
+### French Present Tense Conjugations
 
 The most logical place to start learning how to conjugate French verbs is with the present tense. It’s both the easiest and allows you to communicate the most concepts. There are three kinds of regular French verbs: -er verbs, -ir verbs, and -re verbs, each with different conjugation patterns.
 
@@ -85,7 +85,7 @@ The most logical place to start learning how to conjugate French verbs is with t
 
 Read more: [22 French Verbs with Present Tense Conjugations](https://www.wyzant.com/blog/french-verbs-present-tense/)
 
-### French past tense conjugations 
+### French Past Tense Conjugations 
 
 A logical next step in French verb conjugations is the past tense. There are three ways to talk about the past in French: *le passé composé, l’imparfait*, and *le passé simple*.
 
@@ -99,7 +99,7 @@ A logical next step in French verb conjugations is the past tense. There are thr
  
 Read more: [Le Passé Composé: Learning the French Past Tense](https://www.wyzant.com/blog/french-past-tense/) 
 
-### French future tense conjugations
+### French Future Tense Conjugations
 
 There are also three ways to talk about the future in French: *le futur proche, le futur simple*, and *le futur antérieur*.
 
@@ -113,7 +113,7 @@ There are also three ways to talk about the future in French: *le futur proche, 
 
 Read More: [A French Future Tense Study Guide](https://www.wyzant.com/blog/french-future-tense/)
 
-## Practice pronunciation
+## Practice Pronunciation
 
 French sounds may be hard for English speakers to make. The nasal sounds will especially take a lot of practice because English does not have a direct equivalent. There is good news though: French pronunciation rules are more consistent and logical than English pronunciation rules.
 
@@ -125,7 +125,7 @@ Don’t wait to start working on pronunciation. Start by learning the sounds tha
 
 Read More: [An Easy Guide to French Pronunciation](https://www.wyzant.com/blog/french-pronunciation/)
 	         
-## Learn French idioms and expressions
+## Learn French Idioms and Expressions
 
 Unless you only plan to use your French in stuffy, formal settings, you'll need to learn about colloquialisms at some point. And unless you are stuffy and formal as a person, you will probably want to anyway. They’re fun!
 
@@ -145,7 +145,7 @@ However, if you’re used to only typing in English, figuring out how to type ac
 
 Read More: [How to Type French Accents: 42 Keyboard Shortcuts](https://www.wyzant.com/blog/how-to-type-french-accents/)
 
-## Try learning French for travel
+## Try Learning French for Travel
 
 Learning a little French before you go to France (or any other Francophone territory) is always a good idea. If you’re going on your trip soon, you will need to focus on different topics than other new learners.
 
@@ -155,7 +155,7 @@ Starting with greetings like most beginner French instruction programs is still 
 
 Read More: [46 Basic French Words and Phrases for Travel](https://www.wyzant.com/blog/french-expressions/)
 
-## Partner with a French tutor
+## Partner with a French Tutor
 
 No matter what your French learning goals are, a tutor or conversation partner can help you meet them. Hands-down, personalized lessons in a new language are the most effective method of starting on a path to fluency. 
 
