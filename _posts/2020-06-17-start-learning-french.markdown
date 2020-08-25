@@ -164,3 +164,11 @@ No matter what your French learning goals are, a tutor or conversation partner c
 French tutoring is so much more than help with school assignments. One-on-one assistance can hold you accountable in your self-study, and that study will be more productive, since your focus will always remain on the elements of learning French that you need help understanding (no one-size-fits-all approaches here). There are even tutors that specialize in adult learning. With online sessions, you can easily fit sessions into your schedule. 
 
 Learn more by finding [your perfect French Tutor](https://www.wyzant.com/French_tutors.aspx)
+
+## Show Up Prepared
+
+Whether you’re learning French on your own or taking classes, French tutoring can help you learn in a way that is tailored to your needs. It may even be the best way to learn French for you. 
+
+Every tutor does things differently (that's what makes them great!) but this guide will help you prepare for a successful first-time tutoring experience. 
+
+[![The French flag in red white and blue and the words what to expect at your first french lesson](/blog/uploads/What%20to%20Expect%20at%20your%20first%20french%20lesson%20IG.png)](https://www.wyzant.com/blog/first-french-lesson/)
