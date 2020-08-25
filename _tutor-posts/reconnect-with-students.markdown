@@ -18,7 +18,7 @@ Wyzant continues to implement unique strategies to drive new students to the pla
 
 Over the last 15 years, together we’ve helped over 675,000 students! That’s enough to be the 19th most populous city in the US - ahead of Boston, El Paso, or Denver!  While we focus on demonstrating for new students the ease and effectiveness of Wyzant, we encourage you to reconnect with the students you’ve already helped succeed.
 
-As experienced tutors, you’ve already done the hard work of proving you can provide expert instruction to your students. We strive to provide you with tools to reconnect with these students in a way that doesn’t feel disingenuous, invasive, or too “sales-y”.
+As experienced tutors, both [online](https://www.wyzant.com/blog/tutor/online-tool-tutorial/) and in-person, you’ve already done the hard work of proving you can provide expert instruction to your students. We strive to provide you with tools to reconnect with these students in a way that doesn’t feel disingenuous, invasive, or too “sales-y”.
 
 You may assume that once a student experiences the benefits of tutoring, they’re a tutoring convert for life. But many students (and parents) familiar with tutoring hesitate to utilize a tutor again, waiting until the need is acute. This is understandable, there’s a lot of things competing for their attention, and reconnecting with a tutor may not be at the top of the list. But we believe we can help this reconnection process feel more natural and timely for everyone in advance of what will undoubtedly be a challenging Fall term. 
 
