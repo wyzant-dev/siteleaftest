@@ -55,7 +55,7 @@ You probably already do this! Maybe you only charge for an hour, but spend longe
 At Wyzant, we see tutors on the platform offering discounts in a variety of ways to encourage students to return to tutoring and specifically, to them:
 
 * Reduced first lesson back
-* Free lesson for referrals. Don’t forget, Wyzant also offers a referral program. 
+* Free lesson for referrals. Don’t forget, Wyzant also offers a [referral program](https://support.wyzant.com/hc/en-us/articles/208603946-What-is-the-Referral-Program-and-how-does-it-work-). 
 * Lower hourly rate for a commitment to multiple lessons.
 
 ![Upcoming Connection Tools.png](/blog/uploads/Upcoming%20Connection%20Tools.png)
