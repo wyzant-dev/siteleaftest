@@ -172,3 +172,5 @@ Whether you’re learning French on your own or taking classes, French tutoring 
 Every tutor does things differently (that's what makes them great!) but this guide will help you prepare for a successful first-time tutoring experience. 
 
 [![The French flag in red white and blue and the words what to expect at your first french lesson](/blog/uploads/What%20to%20Expect%20at%20your%20first%20french%20lesson%20IG.png)](https://www.wyzant.com/blog/first-french-lesson/)
+
+Read more: [La Première Leçon: What to Expect at Your First French Lesson](https://www.wyzant.com/blog/first-french-lesson/)
