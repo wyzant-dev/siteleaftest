@@ -44,7 +44,7 @@ Focus on sending a simple, personal message that shows you care. Your support, b
 
 A lot has happened in the past few months. Remind students you’ve worked with of your expertise and familiarity with their learning style and goals. Remember: you’ve already done most of the work, because you understand the student’s needs better than their incoming instructors. 
 
-Plan to send at least two messages to each student you’d like to re-engage. This is a little akin to the Law of Large Numbers, so you shouldn’t feel like you’re overdoing it. You’ll want the first line of your messages to stand out, and the rest of the message to feel friendly, familiar, and contain an invitation for a new session. 
+Plan to send at least two messages to each student you’d like to re-engage. This is a little akin to the [Law of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers), so you shouldn’t feel like you’re overdoing it. You’ll want the first line of your messages to stand out, and the rest of the message to feel friendly, familiar, and contain an invitation for a new session. 
 
 ![Incentivize Future Lessons.png](/blog/uploads/Incentivize%20Future%20Lessons.png)
 
@@ -72,7 +72,7 @@ We’re calling them Tutor eCards!
 
 ![TuoreCards.png](/blog/uploads/TuoreCards.png)
 
-Reaching out to past students you’ve helped succeed is a powerful way to remind them of their tutoring experience and bring them back for more learning. That means long-term growth for your tutoring business.
+Reaching out to past students [you’ve helped succeed](https://www.wyzant.com/blog/tutor/first-session/) is a powerful way to remind them of their tutoring experience and bring them back for more learning. That means long-term growth for your tutoring business.
 
 To send an eCard from your tutor dashboard, just:
 
