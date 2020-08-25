@@ -51,6 +51,14 @@ Learning how to establish good habits instead of these bad ones will get you on 
 
 Read More: [12 Biggest Mistakes to Avoid When Learning a New Language](https://www.wyzant.com/blog/mistakes-to-avoid-when-learning-a-new-language/)
 
+## Manage Your Expectations
+
+Learning a language is tough...but how hard is learning French, exactly? There are certainly aspects of the French language that are complex - mastering pronunciation and forms of expression are are but a few of the things new learners of French find most difficult. The good new is: learning them is easier than you think.
+
+[![An image of the Eiffel Tower, that reads Is French Hard to Learn?](/blog/uploads/Is%20French%20Hard%20to%20Learn%20IG.png)](https://www.wyzant.com/blog/is-french-hard-to-learn/)
+
+Read more: [Is French Hard to Learn?](https://www.wyzant.com/blog/is-french-hard-to-learn/)
+
 ## Learn the Grammar
 
 French grammar can be intimidating for beginners. There are a lot of different conjugation types, and some concepts simply do not exist in English - like grammatical gender, having two different words for “you,” and making adjectives plural like the noun. However, that doesn’t mean it isn’t hackable. Though a little rote memorization is unavoidable, the best thing you can do to learn French grammar is **look for patterns**. 
