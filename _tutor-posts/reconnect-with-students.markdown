@@ -2,6 +2,7 @@
 title: 3 Tried-and-True Methods to Reconnect with Past Students
 date: 2020-08-25 13:49:00 -05:00
 published: false
+hero-image: "/blog/uploads/ReEngagement%20Blog%20Header.png"
 ---
 
 “I define connection as the energy that exists between people when they feel seen, heard, and valued.” - Brene Brown
