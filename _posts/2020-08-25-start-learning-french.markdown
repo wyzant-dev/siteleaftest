@@ -27,11 +27,9 @@ What’s the best way to learn French online? That depends on you, but if you fo
 
 ## How to Learn French On Your Own
 
-Success in self-directed French study is definitely possible if you put the right work into it. Is French hard? Some people have an easier time than others. Whether you’re naturally suited to language learning or not, there are ways you can set yourself up for success.
-
 Start by setting achievable, specific goals. If you’re stuck on that, think about when you would consider yourself “fluent” and what you want to do when you reach that level. Your goals could be something like going on a trip, communicating with French-speakers at work, reading certain literature in French, or watching films without English subtitles. 
 
-Once you’ve set your goals, stick to a schedule. How long does it take to learn French? Educators recommend seven hours per week of work to become conversational in a year. You can distribute those hours in whatever way you prefer, but try to consistently work during a time of the day when you’re at your most alert. Choose how you spend those hours based on what you need to work on the most.
+Once you’ve set your goals, stick to a schedule. How long does it take to learn French? Educators recommend seven hours per week of work to become conversational in a year.
 
 Having the right attitude is just as important as using the right study materials. If you go into learning French with an attitude of curiosity instead of obligation to meet certain milestones, it will be easier to maintain your enthusiasm over time
 
