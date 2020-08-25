@@ -1,6 +1,6 @@
 ---
 title: 'How to Start Learning French: An Indispensable Guide'
-date: 2020-06-17 08:00:00 -05:00
+date: 2020-08-25 14:23:00 -05:00
 categories:
 - French
 - Language Learning
