@@ -66,19 +66,4 @@ Staying in contact with your students, even after their sessions in a specific s
 
 According to feedback we’ve received from tutors on the platform, one of the biggest hurdles in retaining students over time is coming up with the right way to “ask for the business” by suggesting another session. That’s understandable - who wants to feel like a salesperson? 
 
-We’ve developed a new feature to take the hard work out of deciding what to send, and what to say. 
-
-We’re calling them Tutor eCards! 
-
-![TuoreCards.png](/blog/uploads/TuoreCards.png)
-
-Reaching out to past students [you’ve helped succeed](https://www.wyzant.com/blog/tutor/first-session/) is a powerful way to remind them of their tutoring experience and bring them back for more learning. That means long-term growth for your tutoring business.
-
-To send an eCard from your tutor dashboard, just:
-
-1. Choose the student or students you want to send a card to.
-2. Choose a card from the collection.
-3. Write a short personal message, or use one of our pre-written examples.
-4. Send!
-
-Be on the lookout for the launch of our Tutor eCards in the next couple of weeks.  
+We’ve got something in the works to help facilitate student retention. Stay tuned for the feature launch next week! 
