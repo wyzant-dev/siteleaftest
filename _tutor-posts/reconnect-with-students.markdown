@@ -1,7 +1,6 @@
 ---
 title: 3 Tried-and-True Methods to Reconnect with Past Students
 date: 2020-08-25 13:49:00 -05:00
-published: false
 sub-headline: When it comes to working with students long-term, it's all about communication
 hero-image: "/blog/uploads/ReEngagement%20Blog%20Header.png"
 ---
