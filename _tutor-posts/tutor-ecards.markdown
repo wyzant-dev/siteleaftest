@@ -37,4 +37,4 @@ To send an eCard from your tutor dashboard, just:
 ![Tutor Ecards example-55eba8.png](/blog/uploads/Tutor%20Ecards%20example-55eba8.png)
 
 ## Share Your Suggestions
-We're always working on new ways to support the tutor community on Wyzant, and keep engaged students on the platform. If you've got tips or suggestions to share, send them to our team! 
+We're always working on new ways to support the tutor community on Wyzant, and keep engaged students on the platform. If you've got tips or suggestions to share, [send them to our team](https://support.wyzant.com/hc/en-us/articles/115005841543)! 
