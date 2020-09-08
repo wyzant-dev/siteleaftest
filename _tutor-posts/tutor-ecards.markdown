@@ -8,7 +8,7 @@ Staying in contact with your students, even after their sessions in a specific s
 
 ## A new way to stay connected
 
-When it comes to working with students long-term, it's all about communication. We’re privileged to see the impact of 1:1 tutoring every single day because we get to hear students tell us their success stories. 
+When it comes to working with students long-term, it's all about [communication](https://www.wyzant.com/blog/tutor/reconnect-with-students/). We’re privileged to see the impact of 1:1 tutoring every single day because we get to hear students tell us their success stories. 
 
 The common thread between them? Students who feel connected to (and understood by) an educator continue having lessons long after their initial goal has been reached.
 
