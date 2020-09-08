@@ -15,6 +15,8 @@ The common thread between them? Students who feel connected to (and understood b
 
 According to feedback we’ve received from tutors on the platform, one of the biggest hurdles in retaining students over time is coming up with the right way to “ask for the business” by suggesting another session. That’s understandable - who wants to feel like a salesperson?
 
+However, it's necessary to keep your tutoring business growing.
+
 We’ve developed a new feature for tutors on Wyzant that takes the hard work out of deciding what to send, and what to say.
 
 ## We’re Calling Them Tutor eCards
