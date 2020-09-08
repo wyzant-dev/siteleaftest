@@ -21,7 +21,7 @@ We’ve developed a new feature for tutors on Wyzant that takes the hard work ou
 
 Reaching out to past [students you’ve helped succeed](https://www.wyzant.com/blog/tutor/first-session/) is a powerful way to remind them of their tutoring experience and bring them back for more learning.
 
-![TuoreCards-72ca68.png](/blog/uploads/TuoreCards-72ca68.png)
+![Tutor ecards](/blog/uploads/TuoreCards-72ca68.png)
 
 That means long-term growth for your tutoring business.
 
@@ -34,7 +34,7 @@ To send an eCard from your tutor dashboard, just navigate to your tutor dashboar
 3. Write a short personal message, or use one of our pre-written examples.
 4. Send!
 
-![Tutor Ecards example-55eba8.png](/blog/uploads/Tutor%20Ecards%20example-55eba8.png)
+![The tutor dashboard with tutor ecard interface](/blog/uploads/Tutor%20Ecards%20example-55eba8.png)
 
 ## Share Your Suggestions
 We're always working on new ways to support the tutor community on Wyzant, and keep engaged students on the platform. If you've got tips or suggestions to share, [send them to our team](https://support.wyzant.com/hc/en-us/articles/115005841543)! 
