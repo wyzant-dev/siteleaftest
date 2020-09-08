@@ -14,11 +14,12 @@ When it comes to working with students long-term, it's all about communication. 
 The common thread between them? Students who feel connected to (and understood by) an educator continue having lessons long after their initial goal has been reached.
 
 According to feedback we’ve received from tutors on the platform, one of the biggest hurdles in retaining students over time is coming up with the right way to “ask for the business” by suggesting another session. That’s understandable - who wants to feel like a salesperson?
+
 We’ve developed a new feature for tutors on Wyzant that takes the hard work out of deciding what to send, and what to say.
 
 ## We’re Calling Them Tutor eCards
 
-Reaching out to past students you’ve helped succeed is a powerful way to remind them of their tutoring experience and bring them back for more learning.
+Reaching out to past [students you’ve helped succeed](https://www.wyzant.com/blog/tutor/first-session/) is a powerful way to remind them of their tutoring experience and bring them back for more learning.
 
 ![TuoreCards-72ca68.png](/blog/uploads/TuoreCards-72ca68.png)
 
@@ -35,3 +36,4 @@ To send an eCard from your tutor dashboard, just:
 
 ![Tutor Ecards example-55eba8.png](/blog/uploads/Tutor%20Ecards%20example-55eba8.png)
 
+We're always working on new ways to support the tutor community on Wyzant, and keep engaged students on the platform. If you've got tips or suggestions to share, contact our Success Team! 
