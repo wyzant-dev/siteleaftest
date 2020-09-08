@@ -33,5 +33,5 @@ To send an eCard from your tutor dashboard, just:
 3. Write a short personal message, or use one of our pre-written examples.
 4. Send!
 
-![Tutor Ecards example.png](/blog/uploads/Tutor%20Ecards%20example.png)
+![Tutor Ecards example-55eba8.png](/blog/uploads/Tutor%20Ecards%20example-55eba8.png)
 
