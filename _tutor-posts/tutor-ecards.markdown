@@ -2,6 +2,7 @@
 title: Use This New Tool to Stay Connected With Students
 date: 2020-09-08 09:38:00 -05:00
 published: false
+hero-image: "/blog/uploads/Tutor%20ecards%20blog%20header-3e1011.png"
 ---
 
 Staying in contact with your students, even after their sessions in a specific subject have concluded, has proven to increase the number of students that return to tutors on Wyzant for more lessons.
