@@ -1,7 +1,6 @@
 ---
 title: Use This New Tool to Stay Connected With Students
 date: 2020-09-08 09:38:00 -05:00
-published: false
 hero-image: "/blog/uploads/Tutor%20ecards%20blog%20header-3e1011.png"
 ---
 
