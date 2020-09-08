@@ -27,7 +27,7 @@ That means long-term growth for your tutoring business.
 
 ## How to Send a Tutor eCard
 
-To send an eCard from your tutor dashboard, just:
+To send an eCard from your tutor dashboard, just navigate to your tutor dashboard and click "Toolkit", then choose "Stay Connected with eCards"
 
 1. Choose the student or students you want to send a card to.
 2. Choose a card from the collection.
