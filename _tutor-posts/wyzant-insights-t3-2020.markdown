@@ -2,6 +2,8 @@
 title: Wyzant Insights - Term 3, 2020
 date: 2020-12-08 09:38:00 -06:00
 published: false
+categories:
+- Wyzant Insights
 hero-image: "/blog/uploads/My%20Post%20-%202020-12-08T103546.019.png"
 ---
 
