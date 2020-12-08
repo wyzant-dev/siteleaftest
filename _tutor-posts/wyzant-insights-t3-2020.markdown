@@ -40,7 +40,7 @@ Students seem to really love them! Those who received an ECard were **25% more l
 
 We have a variety of card themes available to you, such as:
 
-* Reminders to prepare for upcoming exams
+* Reminder to prepare for upcoming exams
 * Encouragement on achieving a goal
 * Holiday greetings
 * Thank you for a great lesson
