@@ -1,7 +1,6 @@
 ---
 title: Wyzant Insights - T3 2020
 date: 2020-12-08 09:38:00 -06:00
-published: false
 ---
 
 As we come to the close of 2020, there are a few words that come to mind to describe it: historic, incredible, unprecedented (as if we haven’t heard that word enough times).
