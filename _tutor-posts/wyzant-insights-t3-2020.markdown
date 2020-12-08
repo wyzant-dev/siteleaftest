@@ -86,5 +86,5 @@ As a kid, Elizabeth N. was introduced to the Spanish language by her mom, a teac
 
 In my current role, I focus on the internal and external efficacy of our customer-facing teams. A lot of my time is spent in a cross-functional capacity streamlining processes to achieve more seamless outcomes for our users. My attention is also consistently on elevating the customer voice by tying the human experience to our internal data within the broader organization. I enjoy the opportunity to learn new things every day and I value the opportunity to stay close to our users and continually better understand their needs. 
 
-When I’m not working, I’m usually running after my 2 and 5-year old, I try to squeeze in virtual barre classes, and I love epic novels (I just finished rereading the *Count of Monte Cristo*).”
+When I’m not working, I’m usually running after my 2 and 5-year old, I try to squeeze in virtual barre classes, and I love epic novels (I just finished rereading *The Count of Monte Cristo*).”
 
