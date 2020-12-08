@@ -25,8 +25,8 @@ In the past few months, we have released some important updates for tutors. We h
 
 ### Student ECards
 
-This fall, we introduced a new way for you to stay connected with your students: ECards. The learning relationship you develop with your student is important and ECards gives you another way to express that. They’re an effective way to keep your students engaged and invested, as well as a valuable expression that you care.
-![Wyzant eCards](/blog/uploads/Wyzant%20eCards.png)
+This fall, we introduced a new way for you to stay connected with your students: ECards. The learning relationship you develop with your student is important and [ECards](https://www.wyzant.com/tutor/ecards) give you another way to express that. They’re an effective way to keep your students engaged and invested, as well as a valuable expression that you care.
+[![Wyzant eCards](/blog/uploads/Wyzant%20eCards.png)](https://www.wyzant.com/tutor/ecards)
 
 Students seem to really love them! Those who received an ECard were **25% more likely** to continue having lessons with their tutor than those who did not, and significantly more likely to come back for tutoring after a prolonged break.
 
