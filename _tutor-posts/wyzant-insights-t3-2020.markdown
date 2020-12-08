@@ -9,7 +9,7 @@ As we come to the close of 2020, there are a few words that come to mind to desc
 
 Living in a moment that history won’t soon forget, we at Wyzant can’t help but be aware of the enormous challenge this presented for learners and educators alike. We have nothing but an immense amount of gratitude to tutors this year for stepping up to the challenge and helping so many students succeed in spite of tough odds and drastic changes.
 
-Andrew Geant, Wyzant’s CEO, put it into words on the Wyzant blog - [Reflecting on 2020: Gratitude & Joy](https://www.wyzant.com/blog/reflecting-on-2020/)
+Andrew Geant, Wyzant’s CEO, put it into words on the Wyzant blog: [Reflecting on 2020: Gratitude & Joy](https://www.wyzant.com/blog/reflecting-on-2020/)
 
 [![Reflecting on 2020 Gratitude & Joy by Andrew Geant CEO of Wyzant](/blog/uploads/My%20Post%20-%202020-11-23T113340.342.png)](https://www.wyzant.com/blog/reflecting-on-2020/)
 
