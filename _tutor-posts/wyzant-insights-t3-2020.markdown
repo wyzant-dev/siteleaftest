@@ -4,7 +4,13 @@ date: 2020-12-08 09:38:00 -06:00
 published: false
 categories:
 - Wyzant Insights
+sub-headline: Living in a year that history won’t soon forget, we at Wyzant have nothing
+  but an immense amount of gratitude to tutors this year for stepping up to the challenge.
 hero-image: "/blog/uploads/My%20Post%20-%202020-12-08T103546.019.png"
+meta-description: With an eye towards 2021 and ways we can further help tutors build
+  their business on Wyzant, here's a look at Term 3, 2020 here at Wyzant.
+post-description: With an eye towards 2021 and ways we can further help tutors build
+  their business on Wyzant, here's a look at Term 3, 2020 here at Wyzant.
 ---
 
 As we come to the close of 2020, there are a few words that come to mind to describe it: historic, incredible, unprecedented (as if we haven’t heard that word enough times).
