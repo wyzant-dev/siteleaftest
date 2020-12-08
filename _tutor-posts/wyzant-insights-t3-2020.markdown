@@ -13,7 +13,7 @@ Andrew Geant, Wyzant’s CEO, put it into words on the Wyzant blog: [Reflecting 
 
 [![Reflecting on 2020 Gratitude & Joy by Andrew Geant CEO of Wyzant](/blog/uploads/My%20Post%20-%202020-11-23T113340.342.png)](https://www.wyzant.com/blog/reflecting-on-2020/)
 
-So, one more time for good measure, we’d like to express our gratitude to every tutor on Wyzant who helped someone get past that virtual learning struggle, pass that test, pick up that new quarantine hobby, or just get the support they needed so much through this momentous year.
+So, one more time for good measure, we’d like to express our gratitude to every tutor on Wyzant who helped someone get past that virtual learning struggle, pass that test, pick up that new quarantine [hobby](https://www.wyzant.com/blog/why-you-need-a-hobby-and-how-to-find-the-right-one/), or just get the support they needed so much through this momentous year.
 
 ### We want to hear from you!
 
