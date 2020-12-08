@@ -69,11 +69,11 @@ In order to provide a more secure experience and continue to reduce spam contact
 
 Jonathan S. earned his certification in Advanced HTML5 and CSS3, and holds another in User Interface Design. He’s written and maintained webpages for years using HTML, CSS, and JavaScript. Jonathan specializes in tutoring college students and people enrolled in coding bootcamps for web development. To-date, Jonathan has tutored more than [1160 hours on Wyzant](https://www.wyzant.com/Tutors/SC/Loris/9677449) and maintains a 5-star rating.
 
-[![Elizabeth S Tutor Spotlight](/blog/uploads/Elizabeth%20S%20Tutor%20Spotlight.png)](https://www.wyzant.com/match/tutor/85383738)
+[![Elizabeth N Tutor Spotlight](/blog/uploads/Elizabeth%20S%20Tutor%20Spotlight.png)](https://www.wyzant.com/match/tutor/85383738)
 
-![Elizabeth S Review](/blog/uploads/Elizabeth%20S%20Review.png)
+![Elizabeth N Review](/blog/uploads/Elizabeth%20S%20Review.png)
 
-As a kid, Elizabeth was introduced to the Spanish language by her mom, a teacher. Elizabeth’s first undergraduate degree was a B.A. in Spanish, and during her junior year abroad in Spain, she acquired near-native fluency. She’s maintained that fluency through years of work as a teacher, tutor, interpreter, assistant counselor for Latino families, as well as through many friendships with Spanish-speaking people. Elizabeth has tutored an amazing [2,289 hours on Wyzant](https://www.wyzant.com/match/tutor/85383738).
+As a kid, Elizabeth N. was introduced to the Spanish language by her mom, a teacher. Elizabeth’s first undergraduate degree was a B.A. in Spanish, and during her junior year abroad in Spain, she acquired near-native fluency. She’s maintained that fluency through years of work as a teacher, tutor, interpreter, assistant counselor for Latino families, as well as through many friendships with Spanish-speaking people. Elizabeth has tutored an amazing [2,289 hours on Wyzant](https://www.wyzant.com/match/tutor/85383738).
 
 ## Meet the Wyzant Team
 
