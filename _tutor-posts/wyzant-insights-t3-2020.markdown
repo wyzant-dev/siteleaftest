@@ -1,7 +1,6 @@
 ---
 title: Wyzant Insights - Term 3, 2020
 date: 2020-12-08 09:38:00 -06:00
-published: false
 categories:
 - Wyzant Insights
 sub-headline: Living in a year that history won’t soon forget, we at Wyzant have nothing
