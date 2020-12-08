@@ -43,7 +43,7 @@ Earlier this fall we ran a test to see how students would interact with our exis
 
 We didn’t end up making this change permanent, but this test was part of a larger initiative to make scheduling more intuitive for students and tutors alike, and we did learn some interesting things:  
 
-1. **Overall, the test didn’t change the number of overall visitors that became new students. ** In the test, we saw slightly more visitors leave the site before contacting a tutor, but for those that did contact a tutor, they were more likely to convert and have a lesson with the tutor they contacted. These two changes balanced each other out. 
+1. **Overall, the test didn’t change the number of overall visitors that became new students.** In the test, we saw slightly more visitors leave the site before contacting a tutor, but for those that did contact a tutor, they were more likely to convert and have a lesson with the tutor they contacted. These two changes balanced each other out. 
 2. **40% of students who saw the “request a lesson” feature in its more prominent spot used it to request a lesson time!** These students added payment information to their account faster, exchanged fewer messages with a tutor before having their lesson, and reached out to fewer tutors via direct contact.
 
 These results show that scheduling a lesson can help a student get started with their first lesson faster.
