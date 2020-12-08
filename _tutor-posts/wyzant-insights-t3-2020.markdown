@@ -39,7 +39,7 @@ We have a variety of card themes available to you, such as:
 * Just reaching out 
 
 ### Scheduling Updates
-Earlier this fall we ran a test to see how students would interact with our existing "request a lesson" feature if we made it more prominent on the tutor profile and contact pages. We wanted to see if this would make it easier for students to clearly articulate their needs and get started with tutoring. 
+Earlier this fall we ran a test to see how students would interact with our existing "Request A Lesson" feature if we made it more prominent on the tutor profile and contact pages. We wanted to see if this would make it easier for students to clearly articulate their needs and get started with tutoring. 
 
 We didn’t end up making this change permanent, but this test was part of a larger initiative to make scheduling more intuitive for students and tutors alike, and we did learn some interesting things:  
 
